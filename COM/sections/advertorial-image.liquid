@@ -1,0 +1,120 @@
+<div class="advertorial-image">
+        <div class="advertorial-image-inner">
+            {{ section.settings.image | image_url: width: 600 | image_tag: loading: 'lazy' }}
+        </div>
+    </div>
+<div class="advertorial-image-pattern">
+    {{ section.settings.pattern | image_url: width: 1400 | image_tag: loading: 'lazy' }}
+</div>
+
+
+{% schema %}
+{
+  "name":"Advertorial Image",
+  "tag":"section",
+  "class":"advertorial-image-wrapper",
+  "settings":[
+    {
+      "type":"image_picker",
+      "id":"image",
+      "label":"Image"
+    },
+    {
+      "type":"image_picker",
+      "id":"pattern",
+      "label":"Pattern"
+    }
+  ],
+  "presets":[
+    {
+      "name":"Advertorial Image"
+    }
+  ],
+  "templates":[
+    "page"
+  ]
+}
+{% endschema %}
+
+{%- style -%}
+    .advertorial-image-wrapper{
+        position:relative;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        overflow:hidden;
+        padding:5rem 0;
+    }
+
+    .advertorial-image-wrapper:before{
+        content:"";
+        position:absolute;
+        top:0;
+        left:0;
+        width:100%;
+        height:20%;
+        background: rgb(255,255,255);
+        background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(253,29,29,0) 50%);
+        z-index:2;
+    }
+
+    .advertorial-image-wrapper:after{
+        content:"";
+        position:absolute;
+        bottom:0;
+        left:0;
+        width:100%;
+        height:20%;
+        background: rgb(255,255,255);
+        background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(253,29,29,0) 50%);
+        z-index:2;
+    }
+
+    .advertorial-image{
+            border-radius:100%;
+            overflow:hidden;
+            width:100%;
+            max-width:600px;
+                background-color:rgb(251 249 251 / 60%);
+            padding:60px;
+            z-index:3;
+    }
+
+    .advertorial-image-inner{
+            background-color:#EEE9EF;
+            padding:40px;
+    border-radius:100%;
+    overflow:hidden;
+    }
+
+    .advertorial-image img{
+        border-radius:100%;
+        overflow:hidden;
+        width:100%;
+        height:auto;
+    }
+    .advertorial-image-pattern{
+        position:absolute;
+        z-index:1;
+        inset:0;
+    }
+.advertorial-image-pattern img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    }
+
+    @media screen and (max-width: 768px){
+        .advertorial-image-wrapper{
+            padding:3rem 0;
+        }
+        .advertorial-image{
+            padding:40px;
+            max-width:80%;
+        }
+        .advertorial-image-inner{
+            padding:20px;
+        }
+    }
+{%- endstyle -%}
+

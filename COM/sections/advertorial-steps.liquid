@@ -1,0 +1,209 @@
+
+<div class="advertorial-steps-bg">
+    <div class="page-width">
+        <h2 class="text-center">{{ section.settings.title }}</h2>
+        <div class="advertorial-steps">
+            {% for block in section.blocks %}
+                <div class="advertorial-step">
+                    <div class="advertorial-step-image">
+                        <div class="advertorial-step-index">
+                            <span class="step-index">{{ forloop.index }}</span>
+                            <span class="step-title">{{ block.settings.title }}</span>
+                        </div>
+                        <img src="{{ block.settings.image | img_url:'550x550', crop: 'center'}}" width="550" height="550" class="first-image" loading="lazy" alt="">
+                        <img src="{{ block.settings.hover_image | img_url:'550x550', crop: 'center'}}" width="550" height="550" class="hover-image" loading="lazy" alt="">
+                    </div>
+                    <div class="advertorial-step-content">
+                        {{ block.settings.content }}
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+
+
+{% schema %}
+{
+  "name":"Advertorial Steps",
+  "tag":"section",
+  "class":"advertorial-steps-wrapper",
+  "settings":[
+    {
+      "type":"color",
+      "id":"color",
+      "label":"Background Color"
+    },
+    {
+      "type":"text",
+      "id":"title",
+      "label":"Title"
+    }
+  ],
+  "max_blocks": 3,
+  "blocks": [
+    {
+      "name": "Step",
+      "type": "step",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "image_picker",
+          "id": "hover_image",
+          "label": "Hover Image"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title"
+        },
+        {
+          "type": "richtext",
+          "id": "content",
+          "label": "Content"
+        }
+      ]
+    }
+  ],
+  "presets":[
+    {
+      "name":"Advertorial Steps"
+    }
+  ],
+  "templates":[
+    "page"
+  ]
+}
+{% endschema %}
+
+{%- style -%}
+
+    :root {
+    --advertorial-grid-bg: {{ section.settings.color }};
+    }
+    .advertorial-grid-bg{
+    background-color: var(--advertorial-grid-bg);
+    padding:4rem 0;
+    }
+
+    .advertorial-steps{
+    display:grid;
+    grid-template-columns:repeat(3, 1fr);
+    gap:5rem;
+    padding-bottom:2rem;
+    }
+
+    .text-center{
+        text-align:center;
+    }
+    .advertorial-step-image{
+        position:relative;
+        background-color:#f8f5ea;
+        padding:5rem;
+        border-radius:15px;
+        overflow:hidden;
+    }
+
+
+    .advertorial-step-image img{
+    width:100%;
+    height:auto;
+    border-radius:15px;
+    display:block;
+    }
+
+    .advertorial-step:hover .advertorial-step-image{
+        padding:0;
+    }
+
+
+    .advertorial-step:hover img.first-image{
+        display:none;
+    }
+    .advertorial-step:hover img.hover-image{
+        display:block;
+    }
+    .advertorial-step-image img.hover-image{
+        display:none;
+    }
+
+    .advertorial-step-index{
+        position:absolute;
+        display:flex;
+        align-items:center;
+        text-transform:uppercase;
+        left:20px;
+        top:20px;
+        font-weight:600;
+        gap:10px;
+    }
+
+    .advertorial-step-index .step-index{
+        border-radius:100%;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        width:30px;
+        height:30px;
+        background:white;
+        box-shadow: 0px 0px 7px #e3deca;
+        border: 1px solid #e6e5df;
+    }
+    .advertorial-step-index .step-title{
+        font-size:2rem;
+    }
+
+    .advertorial-step-content{
+
+    font-size: 1.6rem;
+    line-height: 1.5em;
+    }
+
+    .advertorial-step-content p:first-child{
+    font-size:1.8rem;
+    font-weight:600;
+    }
+
+    .advertorial-step-content a{
+        color:black;
+    }
+
+    .advertorial-step-content a:hover{
+        color:#828282;
+    }
+
+    @media(max-width:1024px){
+    .advertorial-steps-bg .page-width{
+        padding:0;
+    }
+    .advertorial-steps{
+        display:flex;
+        overflow-x: scroll;
+        scroll-snap-type: x mandatory;
+        overscroll-behavior-x: contain;
+          -webkit-overflow-scrolling: touch;
+    gap:1rem;
+    }
+
+    .advertorial-steps .advertorial-step{
+        scroll-snap-align: start;
+        flex-shrink: 0;
+
+        align-items: center;
+        justify-content: center;
+        width: 75vw;
+    }
+    .advertorial-steps .advertorial-step{
+    padding-left: 2rem;
+    }
+    .advertorial-steps .advertorial-step:last-child{
+        padding-right: 2rem;
+    }
+    }
+{%- endstyle -%}
+

@@ -1,0 +1,104 @@
+
+<div class="advertorial-grid-bg">
+    <div class="page-width">
+        <div class="advertorial-grid">
+            {% for block in section.blocks %}
+                <div class="advertorial-grid-item">
+                    <div>
+                        <img src="{{ block.settings.image | img_url:'550x430', crop: 'center'}}" width="550" height="430" loading="lazy" alt="">
+                    </div>
+                    <div class="advertorial-grid-item-content">
+                        {{ block.settings.content }}
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+{% schema %}
+{
+  "name":"Advertorial Grid",
+  "tag":"section",
+  "class":"advertorial-grid-wrapper",
+  "settings":[
+    {
+      "type":"color",
+      "id":"color",
+      "label":"Background Color"
+    }
+  ],
+  "max_blocks": 2,
+  "blocks": [
+    {
+      "name": "Item",
+      "type": "item",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "richtext",
+          "id": "content",
+          "label": "Content"
+        }
+      ]
+    }
+  ],
+  "presets":[
+    {
+      "name":"Advertorial Grid"
+    }
+  ],
+  "templates":[
+    "page"
+  ]
+}
+{% endschema %}
+
+{%- style -%}
+
+    :root {
+        --advertorial-grid-bg: {{ section.settings.color }};
+    }
+    .advertorial-grid-bg{
+        background-color: var(--advertorial-grid-bg);
+        padding:4rem 0;
+    }
+
+    .advertorial-grid{
+        display:grid;
+        grid-template-columns:repeat(2, 1fr);
+        gap:5rem;
+    }
+    .advertorial-grid-item img{
+        width:100%;
+        height:auto;
+        border-radius:15px;
+        display:block;
+    }
+
+    .advertorial-grid-item-content{
+        margin: auto;
+        padding: 1.5rem 0 00;
+        font-size: 1.8rem;
+        line-height: 1.5em;
+    }
+
+    .advertorial-grid-item-content p:last-child{
+        font-size:2rem;
+    }
+
+    @media(max-width:1024px){
+        .advertorial-grid{
+            grid-template-columns:repeat(1, 1fr);
+            gap:2rem;
+        }
+        .advertorial-grid-item-content{
+            padding-top:0;
+        }
+    }
+{%- endstyle -%}
+

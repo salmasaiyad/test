@@ -1,0 +1,65 @@
+
+<div class="advertorial-reviews-bg">
+        <h2 class="text-center">{{ section.settings.title | replace: '<p>', '' | replace: '</p>', '' }}</h2>
+        {%- for block in section.blocks -%}
+            {% render block %}
+        {%- endfor -%}
+</div>
+
+{% schema %}
+{
+  "name":"Advertorial Reviews",
+  "tag":"section",
+  "class":"advertorial-reviews-wrapper",
+  "settings":[
+    {
+      "type":"richtext",
+      "id":"title",
+      "label":"Title"
+    },
+    {
+      "type":"color",
+      "id":"color",
+      "label":"Background Color"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "@app"
+    }
+  ],
+  "presets":[
+    {
+      "name":"Advertorial Reviews"
+    }
+  ],
+  "templates":[
+    "page"
+  ]
+}
+{% endschema %}
+
+{%- style -%}
+
+    :root {
+    --advertorial-grid-bg: {{ section.settings.color }};
+    }
+
+
+    .review-item__img{
+        display:none !important;
+    }
+    .advertorial-reviews-bg{
+    background-color: var(--advertorial-grid-bg);
+    padding:2rem 0;
+    }
+
+    .advertorial-reviews-bg h2{
+        font-weight:500;
+    }
+
+
+
+
+{%- endstyle -%}
+

@@ -1,0 +1,88 @@
+
+<h2 class="text-center">{{ section.settings.title }}</h2>
+
+<div class="advertorial-content">
+    {{ section.settings.content }}
+</div>
+
+<div class="advertorial-content-image">
+    {{ section.settings.image | image_url: width: 1200 | image_tag: loading: 'lazy' }}
+</div>
+
+<div class="advertorial-content">
+    {{ section.settings.second_content }}
+</div>
+
+
+{% schema %}
+{
+  "name":"Advertorial Content",
+  "tag":"section",
+  "class":"advertorial-content-wrapper",
+  "settings":[
+    {
+      "type":"richtext",
+      "id":"title",
+      "label":"Title"
+    },
+    {
+      "type":"image_picker",
+      "id":"image",
+      "label":"Image"
+    },
+    {
+      "type":"richtext",
+      "id":"content",
+      "label":"First Content",
+      "default":"<p>DeoDoc is the only intimate care brand founded by women doctors. Its founders, sisters, Dr. Hedieh Asadi and Hasti Asadi struggled to find a gentle, suitable care routine for the delicate intimate area, so they decided to take the matter into their own hands and partnered with Dr. Gunvor Ekman Ordeberg who has over 50 years of experience in improving women's health.</p>"
+    },
+    {
+      "type":"richtext",
+      "id":"second_content",
+      "label":"Second Content",
+      "default":"<p>We all know how painful ingrown hairs can be, especially in the intimate area. Essentially, these pesky little things occur when hairs curl up and get trapped beneath the surface of the skin - leading to itchiness, soreness, red bumps, discoloration or acne.</p>"
+    }
+  ],
+  "presets":[
+    {
+      "name":"Advertorial Content"
+    }
+  ],
+  "templates":[
+    "page"
+  ]
+}
+{% endschema %}
+
+{%- style -%}
+    .advertorial-content-wrapper{
+        padding:2rem;
+    }
+
+    .advertorial-content{
+        max-width:768px;
+        margin:auto;
+    font-size:2rem;
+    line-height:1.5em;
+    }
+
+    .advertorial-content a{
+        color:black;
+    }
+
+    .advertorial-content a:hover{
+    color:#828282;
+    }
+    .advertorial-content-image img{
+        width:100%;
+        height:auto;
+        border-radius:15px;
+    }
+
+    .advertorial-content-image{
+        max-width:1000px;
+        margin:auto;
+        padding:2rem 0;
+    }
+{%- endstyle -%}
+

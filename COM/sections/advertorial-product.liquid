@@ -1,0 +1,171 @@
+<div class="page-width">
+    <div class="advertorial-product">
+        <div class="advertorial-product-content">
+            <h2>{{ section.settings.title }}</h2>
+            {{ section.settings.content | raw }}
+
+            <div class="advertorial-product-content-buttons">
+                <a href="{{ section.settings.button_link }}" class="primary">{{ section.settings.button_text }}</a>
+                <a href="{{ section.settings.second_button_link }}">{{ section.settings.second_button_text }}</a>
+            </div>
+
+        </div>
+        <div class="advertorial-product-image">
+            {{ section.settings.image | image_url: width: 1200 | image_tag: loading: 'lazy' }}
+        </div>
+    </div>
+</div>
+
+
+
+
+
+{% schema %}
+{
+  "name":"Advertorial Product",
+  "tag":"section",
+  "class":"advertorial-product-wrapper",
+  "settings":[
+    {
+      "type":"color",
+      "id":"color",
+      "label":"Background Color"
+    },
+    {
+      "type":"richtext",
+      "id":"title",
+      "label":"Title"
+    },
+    {
+      "type":"image_picker",
+      "id":"image",
+      "label":"Image"
+    },
+    {
+      "type":"richtext",
+      "id":"content",
+      "label":"Content",
+      "default":"<p>You can make a once off purchase or subscribe to automatic delivery every 30, 60 or 90 days (and save 10% that way). And of course, there’s no obligation and you can modify or cancel the subscription anytime. </p><p><strong>Shipping is free on all orders over $25.</strong></p>"
+    },
+    {
+      "type": "text",
+      "id": "button_text",
+      "label": "Button text",
+      "default": "GET YOUR SHAVING TRIO KIT HERE"
+    },
+    {
+      "type": "url",
+      "id": "button_link",
+      "label": "Button link"
+    },
+    {
+      "type": "text",
+      "id": "second_button_text",
+      "label": "Second Button text",
+      "default": "Explore all shaving products"
+    },
+    {
+      "type": "url",
+      "id": "second_button_link",
+      "label": "Second Button link"
+    }
+  ],
+  "presets":[
+    {
+      "name":"Advertorial Product"
+    }
+  ],
+  "templates":[
+    "page"
+  ]
+}
+{% endschema %}
+
+{%- style -%}
+    :root {
+    --advertorial-product-bg: {{ section.settings.color }};
+    }
+
+
+    .advertorial-product-wrapper{
+        background-color: var(--advertorial-product-bg);
+    }
+
+    .advertorial-product{
+       display:grid;
+        grid-template-columns: 1fr 1fr;
+        gap:5rem;
+        align-items: center;
+        padding:5rem 0;
+    }
+
+
+    .advertorial-product-content h2{
+    font-family: var(--font-body-family);
+    font-weight:600;
+    text-transform:none;
+    font-size:3rem;
+    }
+    .advertorial-product-content{
+        font-size:2rem;
+        line-height:1.5em;
+    }
+    .advertorial-product-image img{
+        width:100%;
+        height:auto;
+        border-radius:15px;
+    }
+
+    .advertorial-product-content-buttons{
+        margin-top: 4rem;
+        display:flex;
+        justify-content:center;
+        gap:1rem;
+        flex-direction:column;
+        width:fit-content;
+    }
+
+    .advertorial-product-content a{
+        display:block;
+        text-align:center;
+        color:black;
+        font-size:1.6rem;
+    }
+
+    .advertorial-product-content a.primary{
+        width: fit-content;
+        background-color: black;
+        color: white;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-weight: 600;
+        padding: 1rem 3rem;
+        font-size: 1.8rem;
+        border-radius: 5px;
+        border:1px solid black;
+    }
+
+    .advertorial-product-content a.primary:hover{
+        background:white;
+        color:black;
+    }
+
+    @media screen and (max-width: 768px) {
+        .advertorial-product{
+            padding:0;
+            grid-template-columns: 1fr;
+            gap:2rem;
+        }
+
+    .advertorial-product-image{
+        margin-bottom:2rem;
+    }
+    .advertorial-product-content a.primary{
+        width:100%;
+    }
+        .advertorial-product-content-buttons{
+            width:100%;
+        }
+    }
+{%- endstyle -%}
+

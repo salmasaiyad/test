@@ -1,0 +1,77 @@
+
+<div class="advertorial-logos-bg">
+    <div class="page-width">
+        <h2 class="text-center">{{ section.settings.title }}</h2>
+        <div class="advertorial-logos">
+            {% for block in section.blocks %}
+                <div class="advertorial-logo">
+                    {{ block.settings.image | image_url: width: 200 | image_tag: loading: 'lazy' }}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<div class="advertorial-hero-content">
+    {{ section.settings.content }}
+</div>
+
+{% schema %}
+{
+  "name":"Advertorial Logos",
+  "tag":"section",
+  "class":"advertorial-logos-wrapper",
+  "settings":[
+    {
+      "type":"text",
+      "id":"title",
+      "label":"Title"
+    },
+    {
+      "type":"color",
+      "id":"color",
+      "label":"Background Color"
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Logo",
+      "type": "logo",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        }
+      ]
+    }
+  ],
+  "presets":[
+    {
+      "name":"Advertorial Logos"
+    }
+  ],
+  "templates":[
+    "page"
+  ]
+}
+{% endschema %}
+
+{%- style -%}
+
+    .advertorial-logos{
+        display:flex;
+        justify-content:center;
+        gap:5rem;
+    }
+
+    .advertorial-logos img{
+        width:100%;
+        height:auto;
+        max-width:140px;
+        -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+        filter: grayscale(100%);
+    }
+
+{%- endstyle -%}
+

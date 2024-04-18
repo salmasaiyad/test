@@ -1,0 +1,127 @@
+
+<div class="press-images">
+    {% for block in section.blocks %}
+        <div class="press-image">
+        <img src="{{ block.settings.image | img_url: 'large' }}" alt="{{ block.settings.image.alt | escape }}"  width="{{ block.settings.image.width }}" height="{{ block.settings.image.height }}">
+        </div>
+    {% endfor %}
+</div>
+
+<style>
+  .press-images{
+    padding:2rem;
+    max-width:960px;
+    margin:auto;
+    display:flex;
+    gap:8rem;
+    align-items: center;
+  }
+
+  .press-images .press-image img{
+    width:100%;
+    height:auto;
+  }
+
+  @media screen and (max-width: 768px) {
+    .press-images{
+      overflow-x: scroll;
+      gap:2rem;
+      scroll-snap-type: x mandatory;
+      width:100%;
+    }
+
+    .press{
+      position: relative;
+    }
+    .press::before{
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 3rem;
+      height: 100%;
+      background: linear-gradient(to left, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%);
+      z-index: 1;
+    }
+
+    .press::after{
+      content: "";
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 3rem;
+      height: 100%;
+      background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%);
+      z-index: 1;
+    }
+
+    .press-images .press-image{
+      scroll-snap-align: start;
+      min-width: 25%;
+    }
+
+    .press-images .press-image:first-child{
+      padding-left: 2rem;
+    }
+
+    .press-images .press-image:last-child{
+      padding-right: 2rem;
+    }
+
+    .press-images::-webkit-scrollbar {
+      display: none;
+    }
+
+
+
+  }
+</style>
+
+{% schema %}
+{
+  "name":"Press",
+  "tag":"section",
+  "class":"press",
+  "settings":[
+    {
+      "type":"text",
+      "id":"headline",
+      "label":"Headline"
+    },
+    {
+      "type":"text",
+      "id":"subheadline",
+      "label":"Subheadline"
+    }
+  ],
+  "blocks":[
+    {
+      "name":"Item",
+      "type":"item",
+      "settings":[
+        {
+          "type":"image_picker",
+          "id":"image",
+          "label":"Image"
+        }
+      ]
+    }
+  ],
+  "presets":[
+    {
+      "name":"Press",
+      "blocks":[
+        {
+          "type":"item"
+        }
+      ]
+    }
+  ],
+  "templates":[
+    "article",
+    "index",
+    "page",
+    "product"
+  ]
+}
+{% endschema %}

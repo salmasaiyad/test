@@ -1,0 +1,98 @@
+
+<div class="advertorial-hero-bg">
+    <div class="page-width">
+        <div class="advertorial-hero">
+            <h1>{{ section.settings.title | replace: '<p>', '' | replace: '</p>', ''  }}</h1>
+            <img src="{{ section.settings.image | img_url:'600x' }}" alt="{{ section.settings.title }}">
+        </div>
+    </div>
+</div>
+
+<div class="advertorial-hero-content">
+    {{ section.settings.content }}
+</div>
+
+{% schema %}
+{
+  "name":"Advertorial Hero",
+  "tag":"section",
+  "class":"advertorial-hero-wrapper",
+  "settings":[
+    {
+      "type":"richtext",
+      "id":"title",
+      "label":"Title"
+    },
+    {
+      "type":"image_picker",
+      "id":"image",
+      "label":"Image"
+    },
+    {
+      "type":"richtext",
+      "id":"content",
+      "label":"Content",
+      "default":"<p>We all know how painful ingrown hairs can be, especially in the intimate area. Essentially, these pesky little things occur when hairs curl up and get trapped beneath the surface of the skin - leading to itchiness, soreness, red bumps, discoloration or acne.</p>"
+    }
+  ],
+  "presets":[
+    {
+      "name":"Advertorial Hero"
+    }
+  ],
+  "templates":[
+    "page"
+  ]
+}
+{% endschema %}
+
+{%- style -%}
+.advertorial-hero-bg{
+    background:#dfebdb;
+}
+
+    .advertorial-hero{
+        display:flex;
+        align-items:center;
+        justify-content:space-between;
+    }
+
+.advertorial-hero h1{
+        font-weight:600;
+        font-size:3.5rem;
+        font-family:var(--font-body-family);
+    }
+
+    .advertorial-hero img{
+        width:100%;
+        height:auto;
+        max-width:475px;
+    }
+
+    .advertorial-hero-content{
+        max-width:640px;
+        margin:auto;
+        padding:4rem;
+        font-size:2.5rem;
+        line-height:1.5em;
+    }
+
+    @media(max-width:1024px){
+        .advertorial-hero{
+            flex-direction:column;
+            align-items:center;
+        }
+        .advertorial-hero h1{
+            font-size:2rem;
+            text-align:center;
+        }
+        .advertorial-hero img{
+            border-top:1px solid #bfcabb;
+        }
+        .advertorial-hero-content{
+            padding:0 2rem;
+            font-size:1.8rem;
+        }
+    }
+{%- endstyle -%}
+

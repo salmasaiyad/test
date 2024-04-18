@@ -1,0 +1,148 @@
+{% comment %}
+<cart-sample-products class="cart-sample-products-wrapper">
+    <span>Välj 2 gratis varuprover.</span>
+    {% assign cartSamples = collections['cart-samples'] %}
+
+    <nav>
+        <span data-prev class="hide">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
+</svg>
+
+        </span>
+        <span data-next>
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
+</svg>
+        </span>
+    </nav>
+
+    <div class="cart-sample-products">
+        {% for product in cartSamples.products %}
+            <div class="cart-sample-product" data-product-id="{{ product.selected_or_first_available_variant.id }}">
+                <img src="{{ product.featured_image | img_url: 'small' }}" alt="{{ product.title }}" />
+                <fieldset>
+                    <input type="checkbox" id="{{ product.title | handleize }}" />
+                    <label for="{{ product.title | handleize }}">{{ product.title }}</label>
+                </fieldset>
+            </div>
+
+          <style>
+          li[data-handle="{{ product.title | handleize }}"] .product-quantity{
+            display:none;
+          }
+          </style>
+        {% endfor %}
+    </div>
+</cart-sample-products>
+
+<style>
+    .cart-sample-products-wrapper{
+        position: relative;
+        display: block;
+    }
+
+    .cart-sample-products-wrapper .w-6 {
+        width: 1.5rem;
+    }
+    .cart-sample-products-wrapper .h-6 {
+        height: 1.5rem;
+    }
+
+    .cart-sample-products-wrapper nav{
+        position: absolute;
+        top: 50%;
+        z-index: 1;
+        left: 0;
+        right: 0;
+        transform: translateY(-50%);
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .cart-sample-products-wrapper nav span.hide{
+        opacity: 0;
+    }
+
+    .cart-sample-products-wrapper nav span{
+        background: white;
+        width: 20px;
+        height: 20px;
+        border: 1px solid black;
+        display: flex;
+        border-radius: 100%;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        padding:1px;
+    }
+
+    .cart-sample-products {
+        display: flex;
+        scroll-snap-type: x mandatory;
+        overflow-x: hidden;
+        scroll-behavior: smooth;
+        gap:10px;
+        padding-bottom: 1rem;
+   }
+
+    .cart-sample-products .cart-sample-product{
+        width: 33.333%;
+        flex-shrink: 0;
+        scroll-snap-align: start;
+        position: relative;
+        border:1px solid #efefef;
+        overflow: hidden;
+    }
+
+    .cart-sample-products .cart-sample-product .status{
+        border:1px solid black;
+        width:12px;
+        display: flex;
+        justify-content: center;
+        height: 12px;
+        padding: 2px;
+        position: absolute;
+        left:10px;
+        top:10px;
+    }
+
+
+
+    .cart-sample-products .cart-sample-product img{
+        width: 100%;
+        height:auto;
+    }
+
+    .cart-sample-products .cart-sample-product fieldset{
+        margin: 0;
+        padding: 0;
+        line-height: normal;
+        border:0;
+        font-size:13px;
+        display: flex;
+        align-items: center;
+    }
+
+
+    .cart-sample-products .cart-sample-product fieldset input[type="checkbox"]:before {
+        content: "";
+        width:100%;
+        height: 100%;
+        background: none;
+        cursor: pointer;
+        position: absolute;
+        top:0;
+    }
+
+
+   .cart-sample-products .cart-sample-product.active {
+       border:1px solid black;
+    }
+
+   .cart-sample-products .cart-sample-product.deactive {
+       opacity: 0.5;
+   }
+</style>
+{% endcomment %}

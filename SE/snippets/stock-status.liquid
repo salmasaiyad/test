@@ -1,0 +1,51 @@
+{% if product.selected_or_first_available_variant.inventory_quantity > 0 %}
+    <div class="stock-status" {% if product.selected_or_first_available_variant.inventory_quantity > 25 %}style="display:none"{% endif %}>
+        Endast <span class="stock-left">{{ product.selected_or_first_available_variant.inventory_quantity }}</span> kvar i lager
+    </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", function(event) {
+
+            const stockStatus = document.querySelector('.stock-status');
+            const variantInventory = [
+                {% for variant in product.variants %}
+                {
+                    "title": "{{ variant.title }}",
+                    "id": "{{ variant.id }}",
+                    "inventory_quantity": "{{ variant.inventory_quantity }}"
+                }
+                {% unless forloop.last %},{% endunless %}
+                {% endfor %}
+            ];
+
+            const stockLeft = document.querySelector('.stock-left');
+            const selectedVariantInput = document.querySelector("input[name=id]");
+
+            selectedVariantInput.addEventListener("change", function(event) {
+                const selectedVariantID = event.target.value;
+                const variant = variantInventory.find(variant => variant.id === selectedVariantID);
+                const variantInventoryQuantity = variant.inventory_quantity;
+                stockLeft.innerHTML = variantInventoryQuantity;
+
+                if(variantInventoryQuantity > 0 && variantInventoryQuantity < 25) {
+                    stockStatus.style.display = 'block';
+                } else {
+                    stockStatus.style.display = 'none';
+                }
+
+            });
+        });
+    </script>
+
+  {% style %}
+    .stock-status{
+        padding-top:0.5rem;
+        --alert-color:#fbcaac;
+    }
+    .stock-status .stock-left{
+        font-weight: bold;
+        background: var(--alert-color);
+        padding: 0 0.5rem;
+    }
+{% endstyle %}
+  
+{% endif %}

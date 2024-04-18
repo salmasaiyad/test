@@ -1,0 +1,347 @@
+{% style %}
+    .hero-video{
+    position: relative;
+    }
+    .hero-video .hero-video-content{
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    /*background: rgba(0, 0, 0, 0.26);*/
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:white;
+    text-align: center;
+    gap:2rem;
+    font-family: var(--font-heading-family);
+    }
+
+    .hero-video .hero-video-content .hero-video-title h1{
+    color:white;
+    margin-bottom: 0;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+    }
+    .hero-video .hero-video-content .hero-video-title p{
+    margin-top: 0;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
+
+    .hero-video .hero-video-content .hero-video-title p.hero-content{
+    margin-bottom:0;
+    }
+
+
+
+    .hero-video .hero-video-content .hero-video-button a{
+    background:white;
+    padding:1.5rem 9rem;
+    color:#202326;
+    text-decoration: none;
+    border:1px solid #202326;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    text-transform: uppercase;
+    }
+
+    .hero-video .hero-video-content .hero-video-button a:hover{
+    background: #202326;
+    color:white;
+    }
+
+    .hero-video .video-area video, .hero-video .video-area img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    }
+
+
+
+
+    @media screen and (min-width: 768px) {
+    .hero-video .hero-video-content h1{
+    font-size:72px;
+    }
+    .hero-video .hero-video-content p{
+    font-size: 28px;
+    }
+
+
+    .hero-video .hero-video-content .hero-video-title p.hero-sub-content{
+    font-size:16px;
+    }
+
+    .hero-video .hero-video-content .hero-video-button a{
+    font-size:24px;
+    }
+    }
+
+    @media screen and (max-width: 767px) {
+    .hero-video .hero-video-content{
+    gap:1rem;
+    }
+    .hero-video .hero-video-content .hero-video-button a{
+    padding:1rem 4rem;
+    }
+
+    .hero-video .hero-video-content h1{
+    font-size:35px;
+    }
+    .hero-video .hero-video-content p.hero-content{
+    font-size:22px;
+    }
+    .hero-video .hero-video-content p.hero-sub-content{
+    font-size:12px;
+    }
+
+
+    }
+{% endstyle %}
+
+<div class="hero-video-content">
+    <div class="hero-video-title">
+        <h1>
+            {{ section.settings.headline }}
+        </h1>
+        {% if section.settings.content != blank %}
+            <p class="hero-content">
+                {{ section.settings.content }}
+            </p>
+        {% endif %}
+        {% if section.settings.sub_content != blank %}
+            <p class="hero-sub-content">
+                {{ section.settings.sub_content }}
+            </p>
+        {% endif %}
+    </div>
+    <div class="hero-video-button">
+        <a href="{{ section.settings.link }}">
+            {{ section.settings.button }}
+        </a>
+    </div>
+</div>
+
+<div class="video-area">
+  <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" preload="metadata"
+         poster="{{ section.settings.video_image | img_url: 'master', format: 'jpg' }}">
+    <source src="{{ section.settings.desktop_video.sources[1].url }}" type="video/mp4">
+    <img src="{{ section.settings.video_image | img_url: 'master', format: 'jpg' }}">
+  </video>
+</div>
+
+
+<script>
+    const heroVideo = document.querySelector('.hero-video video');
+    const appleExpression = /Apple/i;
+    const safariExpression = /Safari/i;
+    const isAppleSafari = () => {
+        return appleExpression.test(navigator.vendor) &&
+            safariExpression.test(navigator.userAgent);
+    };
+    
+    if (isAppleSafari()) {
+        heroVideo.outerHTML =
+            `<img src="{{ section.settings.desktop_video.sources[1].url }}">`;
+    }
+</script>
+
+{% comment %}
+{% style %}
+  .hero-video{
+  position: relative;
+  }
+  .hero-video .hero-video-content{
+  position: absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  /*background: rgba(0, 0, 0, 0.26);*/
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color:white;
+  text-align: center;
+  gap:2rem;
+  font-family: var(--font-heading-family);
+  }
+
+  .hero-video .hero-video-content .hero-video-title h1{
+  color:white;
+  margin-bottom: 0;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+  }
+  .hero-video .hero-video-content .hero-video-title p{
+  margin-top: 0;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
+    .hero-video .hero-video-content .hero-video-title p.hero-content{
+      margin-bottom:0;
+    }
+
+
+
+  .hero-video .hero-video-content .hero-video-button a{
+  background:white;
+  padding:1.5rem 9rem;
+  color:#202326;
+  text-decoration: none;
+  border:1px solid #202326;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  text-transform: uppercase;
+  }
+
+  .hero-video .hero-video-content .hero-video-button a:hover{
+  background: #202326;
+  color:white;
+  }
+
+  .hero-video video{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  }
+
+
+  @media screen and (min-width: 768px) {
+  .hero-video .hero-video-content h1{
+  font-size:72px;
+  }
+  .hero-video .hero-video-content p{
+  font-size: 28px;
+  }
+
+
+       .hero-video .hero-video-content .hero-video-title p.hero-sub-content{
+     font-size:16px;
+   }
+
+  .hero-video .hero-video-content .hero-video-button a{
+  font-size:24px;
+  }
+  }
+
+  @media screen and (max-width: 767px) {
+  .hero-video .hero-video-content{
+  gap:1rem;
+  }
+  .hero-video .hero-video-content .hero-video-button a{
+  padding:1rem 4rem;
+  }
+
+    .hero-video .hero-video-content h1{
+      font-size:35px;
+    }
+     .hero-video .hero-video-content p.hero-content{
+       font-size:22px;
+     }
+        .hero-video .hero-video-content p.hero-sub-content{
+       font-size:12px;
+     }
+
+    
+  }
+{% endstyle %}
+
+<div class="hero-video-content">
+    <div class="hero-video-title">
+      <h1>
+        {{ section.settings.headline }}
+      </h1>
+       {% if section.settings.content != blank %}
+      <p class="hero-content">
+        {{ section.settings.content }}
+      </p>
+                 {% endif %}
+      {% if section.settings.sub_content != blank %}
+      <p class="hero-sub-content">
+        {{ section.settings.sub_content }}
+      </p>
+        {% endif %}
+    </div>
+    <div class="hero-video-button">
+        <a href="{{ section.settings.link }}">
+            {{ section.settings.button }}
+        </a>
+    </div>
+  </div>
+  {{ section.settings.desktop_video | video_tag: autoplay:true, muted:true, loop:true }}
+
+{% endcomment %}
+
+{% schema %}
+{
+  "name": "Hero Video",
+  "tag": "section",
+  "class": "hero-video",
+  "settings": [
+    {
+      "type": "text",
+      "id": "headline",
+      "label": "Headline",
+      "default":"Headline Text"
+    },
+    {
+      "type": "textarea",
+      "id": "content",
+      "label": "Content",
+      "default":"Content text here."
+    },
+     {
+      "type": "textarea",
+      "id": "sub_content",
+      "label": "Subcontent",
+      "default":"Gäller ej redan nedsatta varor"
+    },
+    {
+      "type": "text",
+      "id": "button",
+      "label": "Button",
+      "info": "Insert button title",
+      "default":"Button Title"
+    },
+    {
+      "type": "url",
+      "id": "link",
+      "label": "Link",
+      "info": "Insert button link"
+    },
+    {
+      "type": "video",
+      "id": "desktop_video",
+      "label": "Desktop Video"
+    },
+    {
+      "type": "image_picker",
+        "id": "video_image",
+        "label": "Video Poster Image"
+    },
+    {
+      "type": "video",
+      "id": "mobile_video",
+      "label": "Mobile Video"
+    },
+    {
+      "type": "image_picker",
+        "id": "mobile_image",
+        "label": "Mobile Image",
+        "info": "Image will be used if no video is selected"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Hero Video"
+    }
+  ],
+  "templates": ["article", "index", "page", "product"]
+}
+{% endschema %}
