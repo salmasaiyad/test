@@ -1,0 +1,304 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false,
+            "blog_show_comment_count": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "disabled": true,
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        },
+        "back_to_blog": {
+          "type": "back_to_blog",
+          "disabled": true,
+          "settings": {}
+        },
+        "next_previous_posts": {
+          "type": "next_previous_posts",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "breadcrumb",
+        "title",
+        "content",
+        "share",
+        "back_to_blog",
+        "next_previous_posts"
+      ],
+      "settings": {
+        "show_gravatar": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "40862cbb-ba7c-4c0b-aa58-8479def55f8a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15321823641736__40862cbb-ba7c-4c0b-aa58-8479def55f8a-16702349373f864b87-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Even though all women in the world will go through it, there’s still taboo and lack of knowledge about menopause. Seven out of ten women suffer from menopausal symptoms, but only one out of ten receive treatment. Many suffer in silence from their menopausal problems and we want to change that!<em> </em></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823641736__40862cbb-ba7c-4c0b-aa58-8479def55f8a-16702349373f864b87-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "LET'S START FROM THE BEGINNING. WHAT EVEN IS MENOPAUSE?",
+            "heading_size": "h2"
+          }
+        },
+        "template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Most hair removal techniques are a trauma for the skin. Based on our clinical experience, we know that bikini area shaving causes the most irritation. Not only is that skin the most sensitive skin on our bodies, but the bikini area is one of the most irritation-prone areas due to external factors outside of shaving. The skin curves and folds when sitting, walking, general movement and more. Additionally, it usually rubs against tight underwear and clothing during any movement which can cause chafing and further irritation. Providing pre-shave care and post-shave aftercare is key for bikini hair removal. </p><p>Our top tips include: </p><p><strong>1. Use proper products specifically formulated for shaving: </strong></p><p>We know many people may use their body wash, conditioners, etc. but those may cause more irritation on already sensitive bikini area as they often contain harsh ingredients. </p><p></p><p><strong>2. Use a new men's razor:</strong> </p><p>The blades are sharper, they usually have five blades and provide a sharp cut on the hair so it can grow back without becoming ingrown. If the cut is dull, the probability of ingrown hair is higher. A good razor can also help stop post-shave irritation like razor burn. </p><p><br/></p><p><strong>3. Change razors or razor blades often:</strong></p><p>The newer blades, the better the shave.</p><p><br/></p><p><strong>4. If you are prone to ingrown hair, start shaving with the grain:</strong></p><p>This way of shaving cuts the hair in an angle that helps the hair to grow out easily instead of getting stuck under the skin and creating ingrown hair. Finish off by shaving<strong> only once</strong> <strong>with </strong>the grain</p><p><br/></p><p><strong>5. Aftercare post shaving is key! </strong></p><p>It is important to give the skin a product with moisturizing, calming and antiinflammatory properties. Apply directly after shaving, but also continue for at least 5 days. </p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "bca5d767-c04e-4b84-926a-331e10a54aab": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-0",
+        "template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-1",
+        "bca5d767-c04e-4b84-926a-331e10a54aab"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "12975e39-ff07-4085-b93e-3bb55b1ed5a4": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15484985868424__12975e39-ff07-4085-b93e-3bb55b1ed5a4-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--15484985868424__12975e39-ff07-4085-b93e-3bb55b1ed5a4-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We developed our Intimate Shaving Trio to not only shave but also to prepare and take care of the skin post-shave. </p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--15484985868424__12975e39-ff07-4085-b93e-3bb55b1ed5a4-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15484985868424__12975e39-ff07-4085-b93e-3bb55b1ed5a4-heading-1",
+        "template--15484985868424__12975e39-ff07-4085-b93e-3bb55b1ed5a4-text-1",
+        "template--15484985868424__12975e39-ff07-4085-b93e-3bb55b1ed5a4-button-1"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "95cbc348-f1cf-45c6-9125-3e47c696df97": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Pre-ShaveOil-FreshCoconut_23828d8d-c626-4617-84c0-629c571454c4.png",
+            "title": "1. Pre-shave oil",
+            "title_size": "h3",
+            "text": "<p>Begin by prepping the skin with the Pre-Shave Oil, add it on in the shower, and do not wash it off. The Pre-Shave Oil protects the skin against the razor and softens the hair prior to shaving.</p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/pre-shave-oil",
+            "button_style_secondary": false
+          }
+        },
+        "3795fd27-e7aa-4838-ba64-a95d158d0cac": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ShavingFoam-Freshcoconut_f387eefc-211f-41dd-a029-2763b30c275c.png",
+            "title": "2. Shaving foam",
+            "title_size": "h3",
+            "text": "<p>On top, add the Shaving Foam for the perfect glide. Shave with the grain (so up to down instead of down to up).</p>",
+            "button_label": "shop now",
+            "button_link": "shopify://products/shaving-foam",
+            "button_style_secondary": false
+          }
+        },
+        "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AfterShaveBalm-FreshCoconut_a9b2b638-30c3-4bd7-9172-e1677713022e.png",
+            "title": "3. After shave balm",
+            "title_size": "h3",
+            "text": "<p>After the shower, immediately apply the After-Shave Balm to help prevent irritation and soothe itching. We recommend using the balm for five days straight post-shave, morning and night for the best results.</p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/after-shave-balm",
+            "button_style_secondary": false
+          }
+        },
+        "e31b25df-1e11-4363-8dea-5c009a9c0e76": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IngrownHairExfoliator_09bb49fb-8f82-46e4-b9ed-dadd7a30cf46.png",
+            "title": "4. ingrown exfoliator",
+            "title_size": "h3",
+            "text": "<p>Lastly, gently exfoliate the skin using the ingrown exfoliator by wetting the skin and scrubbing the pin from the bottom up directly on the desired skin area 1 day after hair removal.</p>",
+            "button_label": "SHOP NOW",
+            "button_link": "shopify://products/ingrown-hair-exfoliator",
+            "button_style_secondary": false
+          }
+        },
+        "c6d2cdce-330f-4c52-97e3-3c674df6c265": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "title_size": "h3",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-0",
+        "3795fd27-e7aa-4838-ba64-a95d158d0cac",
+        "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-1",
+        "e31b25df-1e11-4363-8dea-5c009a9c0e76",
+        "c6d2cdce-330f-4c52-97e3-3c674df6c265"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 36
+      }
+    },
+    "featured-blog": {
+      "type": "featured-blog",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comment_count": true
+          }
+        },
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c": {
+          "type": "summary",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c"
+      ],
+      "settings": {
+        "heading": "DISCOVER MORE",
+        "heading_size": "h2",
+        "blog": "blog",
+        "post_limit": 3,
+        "show_view_all": true,
+        "show_divider": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_image": true,
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "main",
+    "40862cbb-ba7c-4c0b-aa58-8479def55f8a",
+    "87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8",
+    "12975e39-ff07-4085-b93e-3bb55b1ed5a4",
+    "95cbc348-f1cf-45c6-9125-3e47c696df97",
+    "featured-blog"
+  ]
+}

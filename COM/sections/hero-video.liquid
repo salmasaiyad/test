@@ -1,58 +1,65 @@
-{% style %}
-    .hero-video{
-    position: relative;
+{%- style -%}
+    .section-hero-video{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    --bg-color: {{ section.settings.bg_color }};
+    --text-color: {{ section.settings.text_color }};
+    background-color: var(--bg-color);
     }
-    .hero-video .hero-video-content{
-    position: absolute;
-    top:0;
-    left:0;
-    right:0;
-    bottom:0;
-    /*background: rgba(0, 0, 0, 0.26);*/
-    z-index: 1;
-    display: flex;
+
+    .section-hero-video .hero-video-content{
+    display:flex;
+    flex-direction:column;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
-    color:white;
-    text-align: center;
-    gap:2rem;
+    text-align:center;
+    gap:1rem;
+    font-style: var(--font-heading-style);
     font-family: var(--font-heading-family);
-    }
-
-    .hero-video .hero-video-content .hero-video-title h1{
-    color:white;
-    margin-bottom: 0;
-    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-
-    }
-    .hero-video .hero-video-content .hero-video-title p{
-    margin-top: 0;
-    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    }
-
-    .hero-video .hero-video-content .hero-video-title p.hero-content{
-    margin-bottom:0;
+    padding:0 1rem;
     }
 
 
-
-    .hero-video .hero-video-content .hero-video-button a{
-    background:white;
-    padding:1.5rem 9rem;
-    color:#202326;
-    text-decoration: none;
-    border:1px solid #202326;
-    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-    text-transform: uppercase;
+    .section-hero-video .hero-video-content h1, h2, p, a{
+    margin:0;
+    padding:0;
     }
 
-    .hero-video .hero-video-content .hero-video-button a:hover{
-    background: #202326;
-    color:white;
+    .section-hero-video .hero-video-content h1, h2, p{
+    color: var(--text-color);
     }
 
-    .hero-video .video-area video, .hero-video .video-area img{
+    .section-hero-video .hero-video-content h1{
+    font-size:44px;
+    }
+
+    .section-hero-video .hero-video-content h2{
+    font-size:28px;
+    text-transform: unset;
+    }
+
+    .section-hero-video .hero-video-content a{
+    --button-bg-color: {{ section.settings.button_bg_color }};
+    --button-text-color: {{ section.settings.button_text_color }};
+    margin-top:2rem;
+    background:var(--button-bg-color);
+    color:var(--button-text-color);
+    padding:0.6rem 6rem;
+    text-transform:uppercase;
+    font-size:17px;
+    text-decoration:none;
+    border:1px solid var(--button-bg-color);
+    transition:all 0.3s cubic-bezier(0.075, 0.82, 0.165, 1);
+    }
+
+    .section-hero-video .hero-video-content a:hover{
+    --button-hover-bg-color: {{ section.settings.button_hover_bg_color }};
+    --button-hover-text-color: {{ section.settings.button_hover_text_color }};
+    background:var(--button-hover-bg-color);
+    color:var(--button-hover-text-color);
+    }
+
+    .section-hero-video .hero-video video{
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -60,78 +67,70 @@
     }
 
 
-
-
-    @media screen and (min-width: 768px) {
-    .hero-video .hero-video-content h1{
-    font-size:72px;
-    }
-    .hero-video .hero-video-content p{
-    font-size: 28px;
+    @media screen and (max-width:1000px){
+    .section-hero-video{
+    display:flex;
+    flex-direction: column-reverse;
     }
 
-
-    .hero-video .hero-video-content .hero-video-title p.hero-sub-content{
-    font-size:16px;
-    }
-
-    .hero-video .hero-video-content .hero-video-button a{
-    font-size:24px;
-    }
-    }
-
-    @media screen and (max-width: 767px) {
-    .hero-video .hero-video-content{
-    gap:1rem;
-    }
-    .hero-video .hero-video-content .hero-video-button a{
-    padding:1rem 4rem;
-    }
-
-    .hero-video .hero-video-content h1{
-    font-size:35px;
-    }
-    .hero-video .hero-video-content p.hero-content{
-    font-size:22px;
-    }
-    .hero-video .hero-video-content p.hero-sub-content{
-    font-size:12px;
+    .section-hero-video .hero-video-content{
+    padding:2rem 1.5rem;
+    gap:0.5rem;
     }
 
 
+    .section-hero-video .hero-video-content h1{
+    font-size:29px;
+    line-height: 1.2;
     }
-{% endstyle %}
 
-<div class="hero-video-content">
-    <div class="hero-video-title">
-        <h1>
-            {{ section.settings.headline }}
-        </h1>
+    .section-hero-video .hero-video-content h2{
+    font-size:19px;
+    }
+
+    .section-hero-video .hero-video-content h2 p{
+    font-size:13px;
+    }
+
+    .section-hero-video .hero-video-content a{
+    padding:0.6rem 3rem;
+    margin-top:1rem;
+    font-size:14px;
+    }
+
+
+    .section-hero-video .hero-video img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    }
+    }
+{%- endstyle -%}
+
+<section class="section-hero-video">
+    <div class="hero-video-content">
+        <h1>{{ section.settings.headline | escape }}</h1>
         {% if section.settings.content != blank %}
-            <p class="hero-content">
-                {{ section.settings.content }}
-            </p>
+            <h2>{{ section.settings.content | escape }}</h2>
         {% endif %}
         {% if section.settings.sub_content != blank %}
-            <p class="hero-sub-content">
-                {{ section.settings.sub_content }}
+            <p>
+                <small>{{ section.settings.sub_content | escape }}</small>
             </p>
         {% endif %}
+        {% if section.settings.button != blank %}
+            <a href="{{ section.settings.link }}">{{ section.settings.button }}</a>
+        {% endif %}
     </div>
-    <div class="hero-video-button">
-        <a href="{{ section.settings.link }}">
-            {{ section.settings.button }}
-        </a>
+    <div class="hero-video">
+        <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" preload="metadata"
+               poster="{{ section.settings.video_image | img_url: 'master', format: 'jpg' }}">
+            <source src="{{ section.settings.desktop_video.sources[1].url }}" type="video/mp4">
+            <img src="{{ section.settings.video_image | img_url: 'master', format: 'jpg' }}">
+        </video>
     </div>
-</div>
-
-<div class="video-area">
-  <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" preload="metadata"
-         poster="{{ section.settings.video_image | img_url: 'master', format: 'jpg' }}">
-    <source src="{{ section.settings.desktop_video.sources[1].url }}" type="video/mp4">
-    <img src="{{ section.settings.video_image | img_url: 'master', format: 'jpg' }}">
-  </video>
-</div>
+</section>
 
 
 <script>
@@ -142,141 +141,12 @@
         return appleExpression.test(navigator.vendor) &&
             safariExpression.test(navigator.userAgent);
     };
-    
+
     if (isAppleSafari()) {
         heroVideo.outerHTML =
             `<img src="{{ section.settings.desktop_video.sources[1].url }}">`;
     }
 </script>
-
-{% comment %}
-{% style %}
-  .hero-video{
-  position: relative;
-  }
-  .hero-video .hero-video-content{
-  position: absolute;
-  top:0;
-  left:0;
-  right:0;
-  bottom:0;
-  /*background: rgba(0, 0, 0, 0.26);*/
-  z-index: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  color:white;
-  text-align: center;
-  gap:2rem;
-  font-family: var(--font-heading-family);
-  }
-
-  .hero-video .hero-video-content .hero-video-title h1{
-  color:white;
-  margin-bottom: 0;
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-
-  }
-  .hero-video .hero-video-content .hero-video-title p{
-  margin-top: 0;
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-  }
-
-    .hero-video .hero-video-content .hero-video-title p.hero-content{
-      margin-bottom:0;
-    }
-
-
-
-  .hero-video .hero-video-content .hero-video-button a{
-  background:white;
-  padding:1.5rem 9rem;
-  color:#202326;
-  text-decoration: none;
-  border:1px solid #202326;
-  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-  text-transform: uppercase;
-  }
-
-  .hero-video .hero-video-content .hero-video-button a:hover{
-  background: #202326;
-  color:white;
-  }
-
-  .hero-video video{
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-  }
-
-
-  @media screen and (min-width: 768px) {
-  .hero-video .hero-video-content h1{
-  font-size:72px;
-  }
-  .hero-video .hero-video-content p{
-  font-size: 28px;
-  }
-
-
-       .hero-video .hero-video-content .hero-video-title p.hero-sub-content{
-     font-size:16px;
-   }
-
-  .hero-video .hero-video-content .hero-video-button a{
-  font-size:24px;
-  }
-  }
-
-  @media screen and (max-width: 767px) {
-  .hero-video .hero-video-content{
-  gap:1rem;
-  }
-  .hero-video .hero-video-content .hero-video-button a{
-  padding:1rem 4rem;
-  }
-
-    .hero-video .hero-video-content h1{
-      font-size:35px;
-    }
-     .hero-video .hero-video-content p.hero-content{
-       font-size:22px;
-     }
-        .hero-video .hero-video-content p.hero-sub-content{
-       font-size:12px;
-     }
-
-    
-  }
-{% endstyle %}
-
-<div class="hero-video-content">
-    <div class="hero-video-title">
-      <h1>
-        {{ section.settings.headline }}
-      </h1>
-       {% if section.settings.content != blank %}
-      <p class="hero-content">
-        {{ section.settings.content }}
-      </p>
-                 {% endif %}
-      {% if section.settings.sub_content != blank %}
-      <p class="hero-sub-content">
-        {{ section.settings.sub_content }}
-      </p>
-        {% endif %}
-    </div>
-    <div class="hero-video-button">
-        <a href="{{ section.settings.link }}">
-            {{ section.settings.button }}
-        </a>
-    </div>
-  </div>
-  {{ section.settings.desktop_video | video_tag: autoplay:true, muted:true, loop:true }}
-
-{% endcomment %}
 
 {% schema %}
 {
@@ -285,29 +155,41 @@
   "class": "hero-video",
   "settings": [
     {
+      "type": "color",
+      "id": "bg_color",
+      "label": "Background Color",
+      "default": "#F6F5F2"
+    },
+    {
+      "type": "color",
+      "id": "text_color",
+      "label": "Text Color",
+      "default": "#000000"
+    },
+    {
       "type": "text",
       "id": "headline",
       "label": "Headline",
-      "default":"Headline Text"
+      "default": "Headline Text"
     },
     {
       "type": "textarea",
       "id": "content",
       "label": "Content",
-      "default":"Content text here."
+      "default": "Content text here."
     },
-     {
+    {
       "type": "textarea",
       "id": "sub_content",
       "label": "Subcontent",
-      "default":"Gäller ej redan nedsatta varor"
+      "default": "Gäller ej redan nedsatta varor"
     },
     {
       "type": "text",
       "id": "button",
       "label": "Button",
       "info": "Insert button title",
-      "default":"Button Title"
+      "default": "Button Title"
     },
     {
       "type": "url",
@@ -316,25 +198,38 @@
       "info": "Insert button link"
     },
     {
+      "type": "color",
+      "id": "button_bg_color",
+      "label": "Button Background Color",
+      "default": "#000000"
+    },
+    {
+      "type": "color",
+      "id": "button_text_color",
+      "label": "Button Text Color",
+      "default": "#FFFFFF"
+    },
+    {
+      "type": "color",
+      "id": "button_hover_bg_color",
+      "label": "Button Background Color",
+      "default": "#FFFFFF"
+    },
+    {
+      "type": "color",
+      "id": "button_hover_text_color",
+      "label": "Button Text Color",
+      "default": "#000000"
+    },
+    {
       "type": "video",
       "id": "desktop_video",
-      "label": "Desktop Video"
+      "label": "Video"
     },
     {
       "type": "image_picker",
-        "id": "video_image",
-        "label": "Video Poster Image"
-    },
-    {
-      "type": "video",
-      "id": "mobile_video",
-      "label": "Mobile Video"
-    },
-    {
-      "type": "image_picker",
-        "id": "mobile_image",
-        "label": "Mobile Image",
-        "info": "Image will be used if no video is selected"
+      "id": "video_image",
+      "label": "Video Poster Image"
     }
   ],
   "presets": [
@@ -342,6 +237,11 @@
       "name": "Hero Video"
     }
   ],
-  "templates": ["article", "index", "page", "product"]
+  "templates": [
+    "article",
+    "index",
+    "page",
+    "product"
+  ]
 }
 {% endschema %}

@@ -1,1 +1,500 @@
-{"sections":{"empty-space":{"type":"empty-space","settings":{"desktop_height":8,"mobile_height":0}},"main":{"type":"main-product","blocks":{"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":true}},"vendor":{"type":"text","disabled":true,"settings":{"icon":"none","text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{"title_size":"h2"}},"rating":{"type":"rating","settings":{}},"price":{"type":"price","settings":{}},"countdown":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#ffeeee"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":true,"show_dynamic_checkout":false}},"048b8677-9423-4197-a3d3-514d86a5e625":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Betalsatt_SE.png","height":28,"link":""}},"variant_picker":{"type":"variant_picker","settings":{"show_variant_labels":true,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"description":{"type":"description","settings":{}},"b614a68f-4156-4bff-8e3c-ae66b38cb10a":{"type":"collapsible_tab","settings":{"icon":"none","heading":"PRODUKTSPECIFIKATION","content":"<p>- Utvecklad av kvinnliga läkare och gynekologer<\/p><p>- 100% vegansk<\/p><p>- 3st individuellt förpackade värmeplåster<\/p>","page":""}},"collapsible_tab-0":{"type":"collapsible_tab","settings":{"icon":"none","heading":"Användning","content":"<p>1. Ta ut plåstret från från förpackningen.<\/p><p>2. Avlägsna skyddsfilmen som täcker den självhäftande delen av plåstret.<\/p><p>3. Fäst plåstret direkt på underkläder på nedre delen av ryggen eller magen (beroende på vart du har ont). Exempelvis fungerar även leggings, strumpbyxor eller linne också bra, undvik dock att sätta direkt på huden.<\/p><p>4. Låt plåstret sitta kvar, dock inte mer än 8 timmar i sträck.<\/p><p>5. Plåstret avlägsnas genom att försiktigt dra bort det från kläderna.<\/p><p>Använd ej vid graviditet. <\/p><p><\/p>","page":"shaving-kit"}},"collapsible_tab-1":{"type":"collapsible_tab","settings":{"icon":"none","heading":"INGREDIENSER","content":"<p>Iron powder, activated carbon, aqua (water), vermiculit, salt.<\/p><p>Innehåller en blanding av naturliga ämnen som vid kontakt med syret i luften utvecklar värme. Doftfri. <\/p>","page":""}},"share":{"type":"share","settings":{}},"related_buttons":{"type":"related_buttons","disabled":true,"settings":{"show_icons":false}},"sticky_cart":{"type":"sticky_cart","settings":{"show_quantity_selector":false}}},"block_order":["breadcrumb","vendor","title","rating","price","countdown","buy_buttons","048b8677-9423-4197-a3d3-514d86a5e625","variant_picker","description","b614a68f-4156-4bff-8e3c-ae66b38cb10a","collapsible_tab-0","collapsible_tab-1","share","related_buttons","sticky_cart"],"settings":{"enable_sticky_info":true,"media_size":"small","gallery_layout":"thumbnail_slider","image_ratio":"adapt","show_thumbnails":true,"hide_variants":true,"enable_image_zoom":true,"enable_video_looping":false,"mobile_image_ratio":"adapt_first","show_mobile_thumbnails":true,"padding_top":0,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"Addera till din intimvård","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"guarantees":{"type":"guarantees","blocks":{"guarantee-2":{"type":"guarantee","settings":{"icon":"clipboard","title":"Vetenskapligt baserat","title_size":"h4","text":""}},"guarantee-1":{"type":"guarantee","settings":{"icon":"heart","title":"Utvecklat av gynekologer","title_size":"h4","text":""}},"guarantee-3":{"type":"guarantee","settings":{"icon":"globe","title":"Tillverkat i Sverige","title_size":"h4","text":""}},"guarantee-0":{"type":"guarantee","settings":{"icon":"leaf","title":"100% Veganskt","title_size":"h4","text":""}}},"block_order":["guarantee-2","guarantee-1","guarantee-3","guarantee-0"],"settings":{"heading":"","heading_size":"h1","layout":"default","column_alignment":"center","secondary_background":false,"full_width":false,"show_divider":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1658133913d28abc37":{"type":"image-with-text","blocks":{"1658133913405b7b25-0":{"type":"heading","settings":{"heading":"Doktorn Tipsar","heading_size":"h1"}},"1658133913405b7b25-1":{"type":"text","settings":{"text":"<p><em>\"Menstruation är en inflammatorisk process som kan orsaka smärta och obehag. Antiinflammatoriska läkemedel är ett väldokumenterat förstahandsval som ofta rekommenderas till de individer som behöver smärtlindring. För vissa räcker behandling med receptfria alternativ, andra behöver receptbelagda läkemedel medan några föredrar lokal värme. Studier visar att värme temporärt kan lindra värk eftersom det ökar blodcirkulationen till området. Dessutom bidrar värme över 40 °C till att smärtreceptorer blockeras av hudens värmereceptorer.<\/em><\/p><p><em>Av den anledningen har vi utvecklat ett smidigt och mobilt alternativ som avger ett konstant värmeflöde i 8 timmar.\"<\/em><\/p><p><\/p><p><strong>-Dr. Hedieh Asadi, leg läkare<\/strong><\/p>","text_size":"typeset2","secondary_color":false}},"1658133913405b7b25-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1658133913405b7b25-0","1658133913405b7b25-1","1658133913405b7b25-2"],"settings":{"image":"shopify:\/\/shop_images\/IMG_8012_c139ccf9-3026-4c89-b8a3-39d04e94c6f2.jpg","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"650px","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"multicolumn":{"type":"multicolumn","blocks":{"column-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Skarmavbild_2022-10-17_kl._17.24.20.png","title":"Steg 1","title_size":"h3","text":"<p>Avlägsna skyddsfilmen som täcker den självhäftande delen av plåstret.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Skarmavbild_2022-10-17_kl._17.25.08.png","title":"Steg 2","title_size":"h3","text":"<p>Fäst plåstret direkt på underkläder på nedre delen av ryggen eller magen (beroende på vart du har ont). Undvik att sätta direkt på huden.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Skarmavbild_2022-10-17_kl._17.25.28.png","title":"Steg 3","title_size":"h3","text":"<p>Du känner värmen efter ca 10 minuter. Låt plåstret sitta kvar i upp till 8 timmar.<\/p>","button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["column-0","column-1","column-2"],"settings":{"heading":"Användning","heading_size":"h2","image_ratio":"square","image_position":"center center","text_alignment":"left","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":true,"padding_top":36,"padding_bottom":72}},"product-details":{"type":"product-details","disabled":true,"blocks":{"product-details-0":{"type":"description","disabled":true,"settings":{"heading":""}},"product-details-1":{"type":"collapsible_tab","settings":{"heading":"1. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-2":{"type":"collapsible_tab","settings":{"heading":"2. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-3":{"type":"collapsible_tab","settings":{"heading":"3. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}}},"block_order":["product-details-0","product-details-1","product-details-2","product-details-3"],"settings":{"heading":"Collapsible tabs","heading_size":"h2","padding_top":36,"padding_bottom":36}},"recently-viewed-products":{"type":"recently-viewed-products","disabled":true,"settings":{"heading":"Nyligen visade produkter","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"68b47b15-8f24-40fd-bdbd-794c87663ac2":{"type":"faq","blocks":{"template--15542011527324__68b47b15-8f24-40fd-bdbd-794c87663ac2-16660206194f46b73b-0":{"type":"question","settings":{"title":"ÄR DEODOCS PRODUKTER SÄKRA?","text":"<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<\/p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<\/p><p>- Produkterna är även dermatologiskt testade för känslig hud.<\/p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<\/p>"}},"647701d9-57f2-4cdc-9542-9a26d12d7d41":{"type":"question","settings":{"title":"ÄR DEODOCS PRODUKTER VEGANSKA?","text":"<p>Ja.<\/p>"}},"e5b05ff1-faa6-4b30-bc25-e09a801b4c0c":{"type":"question","disabled":true,"settings":{"title":"Frequently asked question","text":"<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"}},"e6c52669-c044-4fa7-aa95-0da95c7a8c11":{"type":"question","settings":{"title":"Kan gravida använda denna?","text":"<p>Produkten är inte testad på gravida. Därför ska produkten ej användas vid graviditet.<\/p>"}}},"block_order":["template--15542011527324__68b47b15-8f24-40fd-bdbd-794c87663ac2-16660206194f46b73b-0","647701d9-57f2-4cdc-9542-9a26d12d7d41","e5b05ff1-faa6-4b30-bc25-e09a801b4c0c","e6c52669-c044-4fa7-aa95-0da95c7a8c11"],"settings":{"heading":"FAQs","heading_size":"h2","narrow":true,"secondary_background":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"1663688262d107b837":{"type":"apps","blocks":{"aa9723d3-014b-44bd-8df4-1fb34001ab7e":{"type":"shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f","settings":{}}},"block_order":["aa9723d3-014b-44bd-8df4-1fb34001ab7e"],"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}}},"order":["empty-space","main","product-recommendations","guarantees","1658133913d28abc37","multicolumn","product-details","recently-viewed-products","68b47b15-8f24-40fd-bdbd-794c87663ac2","1663688262d107b837"]}
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 8,
+        "mobile_height": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": true
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false
+          }
+        },
+        "048b8677-9423-4197-a3d3-514d86a5e625": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Betalsatt_SE.png",
+            "height": 28,
+            "link": ""
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "PRODUKTSPECIFIKATION",
+            "content": "<p>- Utvecklad av kvinnliga läkare och gynekologer</p><p>- 100% vegansk</p><p>- 3st individuellt förpackade värmeplåster</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Användning",
+            "content": "<p>1. Ta ut plåstret från från förpackningen.</p><p>2. Avlägsna skyddsfilmen som täcker den självhäftande delen av plåstret.</p><p>3. Fäst plåstret direkt på underkläder på nedre delen av ryggen eller magen (beroende på vart du har ont). Exempelvis fungerar även leggings, strumpbyxor eller linne också bra, undvik dock att sätta direkt på huden.</p><p>4. Låt plåstret sitta kvar, dock inte mer än 8 timmar i sträck.</p><p>5. Plåstret avlägsnas genom att försiktigt dra bort det från kläderna.</p><p>Använd ej vid graviditet. </p><p></p>",
+            "page": "shaving-kit"
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "INGREDIENSER",
+            "content": "<p>Iron powder, activated carbon, aqua (water), vermiculit, salt.</p><p>Innehåller en blanding av naturliga ämnen som vid kontakt med syret i luften utvecklar värme. Doftfri. </p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb",
+        "vendor",
+        "title",
+        "rating",
+        "price",
+        "countdown",
+        "buy_buttons",
+        "048b8677-9423-4197-a3d3-514d86a5e625",
+        "variant_picker",
+        "description",
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "share",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Addera till din intimvård",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "clipboard",
+            "title": "Vetenskapligt baserat",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "title": "Utvecklat av gynekologer",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "globe",
+            "title": "Tillverkat i Sverige",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "title": "100% Veganskt",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-3",
+        "guarantee-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "default",
+        "column_alignment": "center",
+        "secondary_background": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658133913d28abc37": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658133913405b7b25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doktorn Tipsar",
+            "heading_size": "h1"
+          }
+        },
+        "1658133913405b7b25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Menstruation är en inflammatorisk process som kan orsaka smärta och obehag. Antiinflammatoriska läkemedel är ett väldokumenterat förstahandsval som ofta rekommenderas till de individer som behöver smärtlindring. För vissa räcker behandling med receptfria alternativ, andra behöver receptbelagda läkemedel medan några föredrar lokal värme. Studier visar att värme temporärt kan lindra värk eftersom det ökar blodcirkulationen till området. Dessutom bidrar värme över 40 °C till att smärtreceptorer blockeras av hudens värmereceptorer.</em></p><p><em>Av den anledningen har vi utvecklat ett smidigt och mobilt alternativ som avger ett konstant värmeflöde i 8 timmar.\"</em></p><p></p><p><strong>-Dr. Hedieh Asadi, leg läkare</strong></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "1658133913405b7b25-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658133913405b7b25-0",
+        "1658133913405b7b25-1",
+        "1658133913405b7b25-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_8012_c139ccf9-3026-4c89-b8a3-39d04e94c6f2.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Skarmavbild_2022-10-17_kl._17.24.20.png",
+            "title": "Steg 1",
+            "title_size": "h3",
+            "text": "<p>Avlägsna skyddsfilmen som täcker den självhäftande delen av plåstret.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Skarmavbild_2022-10-17_kl._17.25.08.png",
+            "title": "Steg 2",
+            "title_size": "h3",
+            "text": "<p>Fäst plåstret direkt på underkläder på nedre delen av ryggen eller magen (beroende på vart du har ont). Undvik att sätta direkt på huden.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Skarmavbild_2022-10-17_kl._17.25.28.png",
+            "title": "Steg 3",
+            "title_size": "h3",
+            "text": "<p>Du känner värmen efter ca 10 minuter. Låt plåstret sitta kvar i upp till 8 timmar.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "settings": {
+        "heading": "Användning",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_position": "center center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    },
+    "product-details": {
+      "type": "product-details",
+      "blocks": {
+        "product-details-0": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "product-details-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "product-details-0",
+        "product-details-1",
+        "product-details-2",
+        "product-details-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Collapsible tabs",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Nyligen visade produkter",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "68b47b15-8f24-40fd-bdbd-794c87663ac2": {
+      "type": "faq",
+      "blocks": {
+        "template--15542011527324__68b47b15-8f24-40fd-bdbd-794c87663ac2-16660206194f46b73b-0": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DEODOCS PRODUKTER SÄKRA?",
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.</p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.</p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.</p><p>- Produkterna är även dermatologiskt testade för känslig hud.</p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.</p>"
+          }
+        },
+        "647701d9-57f2-4cdc-9542-9a26d12d7d41": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DEODOCS PRODUKTER VEGANSKA?",
+            "text": "<p>Ja.</p>"
+          }
+        },
+        "e5b05ff1-faa6-4b30-bc25-e09a801b4c0c": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "e6c52669-c044-4fa7-aa95-0da95c7a8c11": {
+          "type": "question",
+          "settings": {
+            "title": "Kan gravida använda denna?",
+            "text": "<p>Produkten är inte testad på gravida. Därför ska produkten ej användas vid graviditet.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15542011527324__68b47b15-8f24-40fd-bdbd-794c87663ac2-16660206194f46b73b-0",
+        "647701d9-57f2-4cdc-9542-9a26d12d7d41",
+        "e5b05ff1-faa6-4b30-bc25-e09a801b4c0c",
+        "e6c52669-c044-4fa7-aa95-0da95c7a8c11"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663688262d107b837": {
+      "type": "apps",
+      "blocks": {
+        "aa9723d3-014b-44bd-8df4-1fb34001ab7e": {
+          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "aa9723d3-014b-44bd-8df4-1fb34001ab7e"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "product-recommendations",
+    "guarantees",
+    "1658133913d28abc37",
+    "multicolumn",
+    "product-details",
+    "recently-viewed-products",
+    "68b47b15-8f24-40fd-bdbd-794c87663ac2",
+    "1663688262d107b837"
+  ]
+}

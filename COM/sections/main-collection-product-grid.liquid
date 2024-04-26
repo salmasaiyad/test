@@ -120,6 +120,7 @@
                     assign lazy_load = false
                   endif
                 -%}
+              {% unless product.title contains 'sample' or product.title contains 'Sample' %}
                 <li class="grid__item">
                   {% render 'product-card',
                     card_product: product,
@@ -135,6 +136,7 @@
                     lazy_load: lazy_load
                   %}
                 </li>
+                 {% endunless %}
               {%- endfor -%}
             </ul>
 

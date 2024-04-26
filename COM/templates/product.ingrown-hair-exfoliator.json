@@ -1,1 +1,554 @@
-{"sections":{"empty-space":{"type":"empty-space","settings":{"desktop_height":8,"mobile_height":0}},"main":{"type":"main-product","blocks":{"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":true}},"vendor":{"type":"text","disabled":true,"settings":{"icon":"none","text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{"title_size":"h2"}},"rating":{"type":"rating","disabled":true,"settings":{}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","disabled":true,"settings":{"show_variant_labels":false,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"da6a9871-ac12-4633-bf4f-cbdf5e8f696c":{"type":"shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e","settings":{"product":"{{product}}"}},"countdown":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#ffeeee"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":false,"show_dynamic_checkout":true}},"dd2c7713-b61e-459a-9619-65a814ccac4c":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/test_4_4000_x_300_px.png","height":28,"link":""}},"description":{"type":"description","settings":{}},"b614a68f-4156-4bff-8e3c-ae66b38cb10a":{"type":"collapsible_tab","settings":{"icon":"none","heading":"specifications","content":"<p>-Developed by women doctors and gynecologists<\/p><p>-Gynecologically and dermatologically tested<\/p><p>-Free from allergens, alcohol and parabens<\/p><p>-Made in Sweden<\/p><p>-100% vegan<\/p><p>-1.4 FL. OZ<\/p>","page":""}},"collapsible_tab-0":{"type":"collapsible_tab","settings":{"icon":"none","heading":"How to use","content":"<p>Wet the skin and scrub the exfoliating stick from the bottom up directly on the desired skin area 1 day after hair removal.Do not use the stick under running water.For best results - use together with DeoDoc's Shaving Trio kit.<\/p>","page":"shaving-kit"}},"collapsible_tab-1":{"type":"collapsible_tab","settings":{"icon":"none","heading":"Ingredients","content":"<p>Propylene Glycol, Glycerin, Pumice, Palmitic Acid, Stearic Acid, Caprylyl\/Capryl Glucoside, Hydrogenated Starch Hydrolysate, Octyldodecanol, PEG-40 Hydrogenated Castor Oil, Chelidonine, Butylene Glycol, Hectorite, Tocopherol, Hydroxyethylcellulose, Sodium Hydroxide, Parfum<\/p>","page":""}},"bd3bdf10-a412-4ff7-be23-be137133872b":{"type":"collapsible_tab","settings":{"icon":"none","heading":"Scents","content":"<p><strong>Fresh Coconut:<\/strong> A sweet yet tropical blend of creamy coconut<\/p>","page":""}},"share":{"type":"share","settings":{}},"related_buttons":{"type":"related_buttons","disabled":true,"settings":{"show_icons":false}},"sticky_cart":{"type":"sticky_cart","settings":{"show_quantity_selector":false}}},"block_order":["breadcrumb","vendor","title","rating","price","variant_picker","da6a9871-ac12-4633-bf4f-cbdf5e8f696c","countdown","buy_buttons","dd2c7713-b61e-459a-9619-65a814ccac4c","description","b614a68f-4156-4bff-8e3c-ae66b38cb10a","collapsible_tab-0","collapsible_tab-1","bd3bdf10-a412-4ff7-be23-be137133872b","share","related_buttons","sticky_cart"],"settings":{"enable_sticky_info":true,"media_size":"small","gallery_layout":"thumbnail_slider","image_ratio":"adapt","show_thumbnails":true,"hide_variants":true,"enable_image_zoom":true,"enable_video_looping":false,"mobile_image_ratio":"adapt_first","show_mobile_thumbnails":true,"padding_top":0,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"You May Also Like","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"guarantees":{"type":"guarantees","blocks":{"guarantee-2":{"type":"guarantee","settings":{"icon":"clipboard","title":"SCIENCE BASED","title_size":"h4","text":""}},"guarantee-1":{"type":"guarantee","settings":{"icon":"heart","title":"Made by gynecologists","title_size":"h4","text":""}},"guarantee-3":{"type":"guarantee","settings":{"icon":"globe","title":"Made in Sweden","title_size":"h4","text":""}},"guarantee-0":{"type":"guarantee","settings":{"icon":"leaf","title":"Vegan","title_size":"h4","text":""}}},"block_order":["guarantee-2","guarantee-1","guarantee-3","guarantee-0"],"settings":{"heading":"","heading_size":"h1","layout":"default","column_alignment":"center","secondary_background":false,"full_width":false,"show_divider":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1658133913d28abc37":{"type":"image-with-text","blocks":{"1658133913405b7b25-0":{"type":"heading","settings":{"heading":"Doctor's Corner","heading_size":"h1"}},"1658133913405b7b25-1":{"type":"text","settings":{"text":"<p><em>\"Shaving fins, red dots or ingrown hairs actually have a medical name, namely Pseudofolliculitis barbae.This is an inflammatory reaction that occurs around an ingrown hair and it can be prevented or reduced by taking care of the skin before and after hair removal.Ingrown hairs occur because the hair can not penetrate the skin surface when it grows back.Instead, it gets stuck under the dead skin cells and causes an inflammatory reaction.To remove the old skin cells and make it easier for the hair follicle to grow back without irritation, we have created a gentle peeling.\"<\/em><br\/><br\/><strong>-Dr. Gunvor Ekman-Ordeberg, OB\/GYN, MD.,PhD. <\/strong><\/p>","text_size":"typeset2","secondary_color":false}},"1658133913405b7b25-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1658133913405b7b25-0","1658133913405b7b25-1","1658133913405b7b25-2"],"settings":{"image":"shopify:\/\/shop_images\/IMG_8061.jpg","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"650px","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"product-details":{"type":"product-details","disabled":true,"blocks":{"product-details-0":{"type":"description","disabled":true,"settings":{"heading":""}},"product-details-1":{"type":"collapsible_tab","settings":{"heading":"1. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-2":{"type":"collapsible_tab","settings":{"heading":"2. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-3":{"type":"collapsible_tab","settings":{"heading":"3. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}}},"block_order":["product-details-0","product-details-1","product-details-2","product-details-3"],"settings":{"heading":"Collapsible tabs","heading_size":"h2","padding_top":36,"padding_bottom":36}},"ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2":{"type":"multicolumn","disabled":true,"blocks":{"template--15103163138184__ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2-1667564966bda43c3a-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Skarmavbild_2022-11-04_kl._12.17.37.png","title":"Step 1","title_size":"h3","text":"<p>On moist skin, scrub the stick from the bottom up directly on the desired surface of skin.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"template--15103163138184__ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2-1667564966bda43c3a-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Exfoliator-yellow_background.jpg","title":"Step 2","title_size":"h3","text":"<p>Do not use the stick under running water.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"template--15103163138184__ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2-1667564966bda43c3a-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/27.png","title":"Step 3","title_size":"h3","text":"<p>Use one day post hair removal and repeat on days in between shaving.<\/p>","button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["template--15103163138184__ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2-1667564966bda43c3a-0","template--15103163138184__ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2-1667564966bda43c3a-1","template--15103163138184__ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2-1667564966bda43c3a-2"],"settings":{"heading":"How To Use","heading_size":"h2","image_ratio":"square","image_position":"center center","text_alignment":"left","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"c5caa18d-5807-4aed-afdd-9f19b50ecce1":{"type":"faq","blocks":{"template--15103163138184__c5caa18d-5807-4aed-afdd-9f19b50ecce1-166514572419802843-0":{"type":"question","settings":{"title":"How does the EXFOLIATOR prevent ingrowns? ","text":"<p>The exfoliator gently peels away dead skin cells, which allows the hair to penetrate the skin's barrier more easily instead of getting stuck under the layer of dead skin cells and growing inwards.<\/p>"}},"template--15103163138184__c5caa18d-5807-4aed-afdd-9f19b50ecce1-166514572419802843-1":{"type":"question","settings":{"title":"WHY DO YOUR PRODUCTS CONTAIN PERFUME?","text":"<p>DeoDoc only uses hypoallergenic scents\/perfumes in all of our products. Hypoallergenic scents are free from alcohol, allergens and irritants, therefore, they are safe for intimate skin.<br\/><br\/>Regular perfume should never be used in the intimate area as it contains:<br\/><br\/>- alcohol which can have a dehydrating effect<br\/><br\/>- allergens that can cause irritation<\/p>"}},"4227b7f4-3034-4c55-a694-c4b2cc5c32d8":{"type":"question","settings":{"title":"ARE DEODOC'S PRODUCTS VEGAN?","text":"<p>Yes.<\/p>"}},"e2f950b6-e697-493e-8f6d-c4df5310c941":{"type":"question","settings":{"title":"ARE DEODOC'S PRODUCTS SAFE TO USE?","text":"<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br\/><br\/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br\/><br\/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br\/><br\/>- Products are dermatologically tested for sensitive skin<br\/><br\/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg<\/p>"}}},"block_order":["template--15103163138184__c5caa18d-5807-4aed-afdd-9f19b50ecce1-166514572419802843-0","template--15103163138184__c5caa18d-5807-4aed-afdd-9f19b50ecce1-166514572419802843-1","4227b7f4-3034-4c55-a694-c4b2cc5c32d8","e2f950b6-e697-493e-8f6d-c4df5310c941"],"settings":{"heading":"FAQs","heading_size":"h2","narrow":true,"secondary_background":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"recently-viewed-products":{"type":"recently-viewed-products","disabled":true,"settings":{"heading":"Recently Viewed","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"166202708564eb6c1c":{"type":"apps","disabled":true,"blocks":{"4ca5374e-2af7-4106-b9f9-8e56f4b62c10":{"type":"shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f","settings":{}}},"block_order":["4ca5374e-2af7-4106-b9f9-8e56f4b62c10"],"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}},"166247728088eb935c":{"type":"apps","blocks":{"3b789b55-dc9b-4348-8cc5-d6a7972c853c":{"type":"shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"only_photos":false,"aggregated":false,"limit":20,"hide_thumbnails":false,"maxwidth":1080}}},"block_order":["3b789b55-dc9b-4348-8cc5-d6a7972c853c"],"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}}},"order":["empty-space","main","product-recommendations","guarantees","1658133913d28abc37","product-details","ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2","c5caa18d-5807-4aed-afdd-9f19b50ecce1","recently-viewed-products","166202708564eb6c1c","166247728088eb935c"]}
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 8,
+        "mobile_height": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": true
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "show_variant_labels": false,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "da6a9871-ac12-4633-bf4f-cbdf5e8f696c": {
+          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": true
+          }
+        },
+        "dd2c7713-b61e-459a-9619-65a814ccac4c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/test_4_4000_x_300_px.png",
+            "height": 28,
+            "link": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "specifications",
+            "content": "<p>-Developed by women doctors and gynecologists</p><p>-Gynecologically and dermatologically tested</p><p>-Free from allergens, alcohol and parabens</p><p>-Made in Sweden</p><p>-100% vegan</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "How to use",
+            "content": "<p>Wet the skin and scrub the exfoliating stick from the bottom up directly on the desired skin area 1 day after hair removal.Do not use the stick under running water.For best results - use together with DeoDoc's Shaving Trio kit.</p><p><strong>Note: </strong>This product is made with natural ingredients that may cause formations of small crystal-like residues during temperature changes.</p>",
+            "page": "shaving-kit"
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingredients",
+            "content": "<p>Propylene Glycol, Glycerin, Pumice, Palmitic Acid, Stearic Acid, Caprylyl/Capryl Glucoside, Hydrogenated Starch Hydrolysate, Octyldodecanol, PEG-40 Hydrogenated Castor Oil, Chelidonine, Butylene Glycol, Hectorite, Tocopherol, Hydroxyethylcellulose, Sodium Hydroxide, Parfum</p>",
+            "page": ""
+          }
+        },
+        "bd3bdf10-a412-4ff7-be23-be137133872b": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Scents",
+            "content": "<p><strong>Fresh Coconut:</strong> A sweet yet tropical blend of creamy coconut</p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb",
+        "vendor",
+        "title",
+        "rating",
+        "price",
+        "variant_picker",
+        "da6a9871-ac12-4633-bf4f-cbdf5e8f696c",
+        "countdown",
+        "buy_buttons",
+        "dd2c7713-b61e-459a-9619-65a814ccac4c",
+        "description",
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "bd3bdf10-a412-4ff7-be23-be137133872b",
+        "share",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "clipboard",
+            "title": "SCIENCE BASED",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "title": "Made by gynecologists",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "globe",
+            "title": "Made in Sweden",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "title": "Vegan",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-3",
+        "guarantee-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "default",
+        "column_alignment": "center",
+        "secondary_background": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658133913d28abc37": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658133913405b7b25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doctor's Corner",
+            "heading_size": "h1"
+          }
+        },
+        "1658133913405b7b25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Shaving fins, red dots or ingrown hairs actually have a medical name, namely Pseudofolliculitis barbae. This is an inflammatory reaction that occurs around an ingrown hair and it can be prevented or reduced by taking care of the skin before and after hair removal. Ingrown hairs occur because the hair can not penetrate the skin surface when it grows back.Instead, it gets stuck under the dead skin cells and causes an inflammatory reaction. To remove the old skin cells and make it easier for the hair follicle to grow back without irritation, we have created a gentle peeling.\"</em><br/><br/><strong>-Dr. Hedieh Asadi, Medical Doctor</strong></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "1658133913405b7b25-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658133913405b7b25-0",
+        "1658133913405b7b25-1",
+        "1658133913405b7b25-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_8061.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-details": {
+      "type": "product-details",
+      "blocks": {
+        "product-details-0": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "product-details-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "product-details-0",
+        "product-details-1",
+        "product-details-2",
+        "product-details-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Collapsible tabs",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15103163138184__ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2-1667564966bda43c3a-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Skarmavbild_2022-11-04_kl._12.17.37.png",
+            "title": "Step 1",
+            "title_size": "h3",
+            "text": "<p>On moist skin, scrub the stick from the bottom up directly on the desired surface of skin.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--15103163138184__ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2-1667564966bda43c3a-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Exfoliator-yellow_background.jpg",
+            "title": "Step 2",
+            "title_size": "h3",
+            "text": "<p>Do not use the stick under running water.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--15103163138184__ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2-1667564966bda43c3a-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/27.png",
+            "title": "Step 3",
+            "title_size": "h3",
+            "text": "<p>Use one day post hair removal and repeat on days in between shaving.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15103163138184__ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2-1667564966bda43c3a-0",
+        "template--15103163138184__ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2-1667564966bda43c3a-1",
+        "template--15103163138184__ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2-1667564966bda43c3a-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "How To Use",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_position": "center center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Recently Viewed",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166202708564eb6c1c": {
+      "type": "apps",
+      "blocks": {
+        "4ca5374e-2af7-4106-b9f9-8e56f4b62c10": {
+          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "4ca5374e-2af7-4106-b9f9-8e56f4b62c10"
+      ],
+      "disabled": true,
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166247728088eb935c": {
+      "type": "apps",
+      "blocks": {
+        "3b789b55-dc9b-4348-8cc5-d6a7972c853c": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "3b789b55-dc9b-4348-8cc5-d6a7972c853c"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c5caa18d-5807-4aed-afdd-9f19b50ecce1": {
+      "type": "faq",
+      "blocks": {
+        "template--15103163138184__c5caa18d-5807-4aed-afdd-9f19b50ecce1-166514572419802843-0": {
+          "type": "question",
+          "settings": {
+            "title": "How does the EXFOLIATOR prevent ingrowns? ",
+            "text": "<p>The exfoliator gently peels away dead skin cells, which allows the hair to penetrate the skin's barrier more easily instead of getting stuck under the layer of dead skin cells and growing inwards.</p>"
+          }
+        },
+        "question_MDWpmJ": {
+          "type": "question",
+          "settings": {
+            "title": "Why is there a crystal-like residue at the top of my exfoliating stick?",
+            "text": "<p>This product is made with natural ingredients including sugar which may cause the formation of small crystal-like residues during temperature changes. This residue is not harmful- simply remove it using a bit of water and use the product as usual.</p>"
+          }
+        },
+        "template--15103163138184__c5caa18d-5807-4aed-afdd-9f19b50ecce1-166514572419802843-1": {
+          "type": "question",
+          "settings": {
+            "title": "WHY DO YOUR PRODUCTS CONTAIN PERFUME?",
+            "text": "<p>DeoDoc only uses hypoallergenic scents/perfumes in all of our products. Hypoallergenic scents are free from alcohol, allergens and irritants, therefore, they are safe for intimate skin.<br/><br/>Regular perfume should never be used in the intimate area as it contains:<br/><br/>- alcohol which can have a dehydrating effect<br/><br/>- allergens that can cause irritation</p>"
+          }
+        },
+        "4227b7f4-3034-4c55-a694-c4b2cc5c32d8": {
+          "type": "question",
+          "settings": {
+            "title": "ARE DEODOC'S PRODUCTS VEGAN?",
+            "text": "<p>Yes.</p>"
+          }
+        },
+        "e2f950b6-e697-493e-8f6d-c4df5310c941": {
+          "type": "question",
+          "settings": {
+            "title": "ARE DEODOC'S PRODUCTS SAFE TO USE?",
+            "text": "<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br/><br/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br/><br/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br/><br/>- Products are dermatologically tested for sensitive skin<br/><br/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15103163138184__c5caa18d-5807-4aed-afdd-9f19b50ecce1-166514572419802843-0",
+        "question_MDWpmJ",
+        "template--15103163138184__c5caa18d-5807-4aed-afdd-9f19b50ecce1-166514572419802843-1",
+        "4227b7f4-3034-4c55-a694-c4b2cc5c32d8",
+        "e2f950b6-e697-493e-8f6d-c4df5310c941"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You May Also Like",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "guarantees",
+    "1658133913d28abc37",
+    "product-details",
+    "ae0e1ad9-61d1-4c1f-9672-d3f4b62e4ec2",
+    "recently-viewed-products",
+    "166202708564eb6c1c",
+    "166247728088eb935c",
+    "c5caa18d-5807-4aed-afdd-9f19b50ecce1",
+    "product-recommendations"
+  ]
+}

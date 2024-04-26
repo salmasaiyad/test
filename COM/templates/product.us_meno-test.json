@@ -1,0 +1,827 @@
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 36,
+        "mobile_height": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": true
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "specifications",
+            "content": "<p>- Easily taken at-home with a urine sample </p><p>- Results within 10-20 minutes</p><p>- Measures the follicle-stimulating hormone (FSH) in urine to detect FSH values above 25 mlU/ml.</p><p>- <strong>Not a replacement for medical consultations</strong></p><p>-<strong> Do not perform the test if you are currently taking any hormonal treatments (i.e. hormonal birth control, HRT, etc.) as this may result in a false negative.</strong></p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "How to use",
+            "content": "<p>1. Remove the test stick from the foil pouch. Use test within an hour of removal from the pouch.</p><p>2. Remove Cap to expose the Absorbent Tip. Hold test stick via the thumb grip with the exposed Absorbent Tip pointing downward. Urinate on the Absorbent Tip only until it is thoroughly wet (about 2-3 seconds). </p><p>3. Remove the test from your urine and immediately replace the Cap over the Absorbent Tip. </p><p>4. Lay the test on a flat surface with the results window facing upwards.<br/><br/>5. Read results between 10-20 minutes after use. Test results expire 30 minutes post-use. Do not interpret results after 30 minutes or more.</p>",
+            "page": "shaving-kit"
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Includes",
+            "content": "<p>- 2 Test midstreams (FSH 25 mlU/ ml). </p><p>- Instructions for use. </p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb",
+        "vendor",
+        "title",
+        "rating",
+        "price",
+        "countdown",
+        "variant_picker",
+        "buy_buttons",
+        "description",
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "share",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "medium",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You May Also Like",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "clipboard",
+            "title": "Science based",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "title": "Made by gynecologists",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "title": "Vegan",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "default",
+        "column_alignment": "center",
+        "secondary_background": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_mobile": "1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Share information about your brand with your customers",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>– SUBHEADING</em></p>",
+            "text_size": "typeset",
+            "secondary_color": true
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "center",
+        "narrow": false,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "padding_top": 48,
+        "padding_bottom": 60
+      }
+    },
+    "1658133913d28abc37": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658133913405b7b25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doctor's Corner",
+            "heading_size": "h1"
+          }
+        },
+        "1658133913405b7b25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Every woman or person with ovaries will go through menopause. The menopausal transition is a natural phase in a woman's life where changing hormonal levels in the body may cause a myriad of symptoms. <br/><br/>The menopausal transition usually occurs between the ages of 45-55 and the beginning of it is called perimenopause. Typical symptoms during this phase are: <br/></p><ul><li>﻿﻿Hot flashes</li><li>﻿﻿Irregular periods</li><li>Difficulty sleeping</li><li>﻿﻿Anxiety/depression</li><li>﻿﻿Fragile and dry mucous membranes in the intimate area<br/></li></ul><p>\"From my over 50 years of clinical experience as an OB/GYN, I've met countless women that have been misdiagnosed with depression, burnout or other conditions, when in actuality, they were experiencing perimenopause. <br/><br/>To help women figure out the root cause of their common symptoms, we have developed this rapid at-home test. This will allow women to easily discover if symptoms they are experiencing may be associated with rising FSH levels that usually occur in perimenopause. Our aim is for women to use test as a helpful tool to give them a better understanding of what they are going through. This way they can better advocate for themselves and get the help they need at their doctor's offices.\"</p><p><strong>-Dr. Gunvor Ekman-Ordeberg, OB/GYN, MD.,PhD</strong></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "1658133913405b7b25-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658133913405b7b25-0",
+        "1658133913405b7b25-1",
+        "1658133913405b7b25-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Doctor_Gunvor_1.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-details": {
+      "type": "product-details",
+      "blocks": {
+        "product-details-0": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "product-details-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "product-details-0",
+        "product-details-1",
+        "product-details-2",
+        "product-details-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Collapsible tabs",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1710924238e788b08c": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_K8FtP8": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_K8FtP8"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image-comparison": {
+      "type": "image-comparison",
+      "blocks": {
+        "look-0": {
+          "type": "look",
+          "settings": {
+            "image": "shopify://shop_images/Before_256x256_91d8acae-3c88-49ce-bca1-d347e258c82e.webp",
+            "title": "before",
+            "title_size": "small",
+            "title_position": "start"
+          }
+        },
+        "look-1": {
+          "type": "look",
+          "settings": {
+            "image": "shopify://shop_images/After_256x256_546b8fc8-e668-4cf2-bd5e-befac9e3d042.webp",
+            "title": "After",
+            "title_size": "small",
+            "title_position": "start"
+          }
+        }
+      },
+      "block_order": [
+        "look-0",
+        "look-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "horizontal",
+        "full_width": false,
+        "show_divider": false,
+        "colors_line": "#ffffff",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "heading": "Recently Viewed",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video-hero": {
+      "type": "video-hero",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Video hero",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "disabled": true,
+      "settings": {
+        "video_url": "",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "show_text_below": true,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "tab-collage": {
+      "type": "tab-collage",
+      "blocks": {
+        "tab-collage-0": {
+          "type": "image",
+          "settings": {
+            "heading": "1. Image heading",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "tab-collage-1": {
+          "type": "image",
+          "settings": {
+            "heading": "2. Image heading",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "tab-collage-2": {
+          "type": "image",
+          "settings": {
+            "heading": "3. Image heading",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "tab-collage-3": {
+          "type": "image",
+          "settings": {
+            "heading": "4. Image heading",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "tab-collage-0",
+        "tab-collage-1",
+        "tab-collage-2",
+        "tab-collage-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Tab collage",
+        "heading_size": "h1",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "top",
+        "text_alignment": "left",
+        "image_ratio": "550px",
+        "full_width": true,
+        "show_divider": false,
+        "mobile_layout": "text_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "colors_text": "#ffffff",
+        "colors_background": "#25958f",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "testimonials": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author's name"
+          }
+        },
+        "testimonial-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author's name"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial-0",
+        "testimonial-1",
+        "testimonial-2",
+        "testimonial-3",
+        "testimonial-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Testimonials",
+        "heading_size": "h2",
+        "autorotate": true,
+        "autorotate_speed": 5,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "Site-wide promotion",
+            "title_size": "h2",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Site-wide promotion",
+            "title_size": "h2",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Site-wide promotion",
+            "title_size": "h2",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "button_label": "Optional button",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "image_ratio": "wide",
+        "image_position": "top center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    },
+    "1659359285435336a7": {
+      "type": "testimonials",
+      "blocks": {
+        "1659359285ecbb7b06-0": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author"
+          }
+        },
+        "1659359285ecbb7b06-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author"
+          }
+        },
+        "1659359285ecbb7b06-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author"
+          }
+        },
+        "1659359285ecbb7b06-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author"
+          }
+        },
+        "1659359285ecbb7b06-4": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "5",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author": "Author"
+          }
+        }
+      },
+      "block_order": [
+        "1659359285ecbb7b06-0",
+        "1659359285ecbb7b06-1",
+        "1659359285ecbb7b06-2",
+        "1659359285ecbb7b06-3",
+        "1659359285ecbb7b06-4"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Testimonials",
+        "heading_size": "h2",
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e5fa209f-098f-4c65-864c-6cd202d0e791": {
+      "type": "faq",
+      "blocks": {
+        "template--15103162777736__e5fa209f-098f-4c65-864c-6cd202d0e791-1685093086011a587d-0": {
+          "type": "question",
+          "settings": {
+            "title": "CAN I PERFORM THE TEST IF I HAVE HORMONE THERAPY (ESTROGEN THERAPY) OR TAKE ESTROGEN SUPPLEMENTS?",
+            "text": "<p>No, do not perform the test if you are on hormone therapy as this may give a false negative result.</p>"
+          }
+        },
+        "template--15103162777736__e5fa209f-098f-4c65-864c-6cd202d0e791-1685093086011a587d-1": {
+          "type": "question",
+          "settings": {
+            "title": "CAN CONTRACEPTIVES (EG. BIRTH CONTROL PILLS/ HORMONAL IUDS) AFFECT THE TEST RESULT?",
+            "text": "<p>Oral contraceptives, hormone therapy or estrogen supplements can affect the test result and give false negative results. </p>"
+          }
+        },
+        "d52d38a5-94dc-4d35-acce-d0ca4f95cb78": {
+          "type": "question",
+          "settings": {
+            "title": "THE TEST SHOWED POSITIVE BUT MY MENSTRUAL CYCLE IS AS USUAL - WHY IS THAT?",
+            "text": "<p>The clinical definition for the menopause (menopause) is the absence of menstruation for 12 consecutive months. The test result can therefore show positive even though your menstrual cycle is going on as usual. In this case, you are in pre-menopause, also called perimenopause.</p>"
+          }
+        },
+        "0f41baf5-2ec5-4648-8375-582460ec3757": {
+          "type": "question",
+          "settings": {
+            "title": "ISN'T IT DIFFICULT TO MEASURE THIS - FSH DEPENDS ON WHERE IN THE CYCLE YOU ARE?",
+            "text": "<p>This test measures elevated levels of FSH (follicle stimulating hormone) in the urine. It is an immunochromatographic rapid test that detects FSH values above 25mlL/ml. FSH varies during the menstrual cycle and reaches its highest value of 25mlU ml in the middle of the menstrual cycle. When the body produces less and less estrogen, the production of FSH increases to start estrogen production in the ovaries again, and it is this increase that can be measured. It is more difficult to measure FSH in perimenopouse as it is o process. Therefore, the test contains 2 samples. For those who no longer menstruate, it is recommended that the sample be taken I week apart. For those who are still manstruating, the test should be taken during the first week of the menstrual cycle and the second test a week later. Measuring FSH via a blood test gives a more accurate level, but os a screening/indication this test is sufficient.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15103162777736__e5fa209f-098f-4c65-864c-6cd202d0e791-1685093086011a587d-0",
+        "template--15103162777736__e5fa209f-098f-4c65-864c-6cd202d0e791-1685093086011a587d-1",
+        "d52d38a5-94dc-4d35-acce-d0ca4f95cb78",
+        "0f41baf5-2ec5-4648-8375-582460ec3757"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1659359337855b4176": {
+      "type": "apps",
+      "blocks": {
+        "afb29d1c-263c-415f-ac89-668e87c1428a": {
+          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "afb29d1c-263c-415f-ac89-668e87c1428a"
+      ],
+      "disabled": true,
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "loox-product-reviews-app-section": {
+      "type": "apps",
+      "settings": {
+        "include_margins": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "product-recommendations",
+    "guarantees",
+    "rich-text",
+    "1658133913d28abc37",
+    "product-details",
+    "1710924238e788b08c",
+    "image-comparison",
+    "recently-viewed-products",
+    "video-hero",
+    "tab-collage",
+    "testimonials",
+    "multicolumn",
+    "1659359285435336a7",
+    "e5fa209f-098f-4c65-864c-6cd202d0e791",
+    "1659359337855b4176",
+    "loox-product-reviews-app-section"
+  ]
+}

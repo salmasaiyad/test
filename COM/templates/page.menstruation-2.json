@@ -1,1 +1,514 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"narrow":true,"padding_top":60,"padding_bottom":72}},"1658824030cc462a5a":{"type":"image-banner","blocks":{"165882403007b41154-0":{"type":"heading","settings":{"heading":"Menstruation","heading_size":"h1"}},"165882403007b41154-1":{"type":"text","disabled":true,"settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","text_size":"typeset2","secondary_color":false}},"165882403007b41154-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["165882403007b41154-0","165882403007b41154-1","165882403007b41154-2"],"settings":{"image":"shopify:\/\/shop_images\/Menstrua_family.jpg","image_position":"center center","text_box_position":"middle-center","text_alignment":"center","image_ratio":"550px","show_text_box":false,"full_width":true,"show_divider":false,"mobile_text_alignment":"center","mobile_image_ratio":"auto","stack_images_on_mobile":true,"show_text_below":true,"colors_text":"#ffffff","colors_overlay":"#000000","colors_overlay_opacity":28,"padding_top":36,"padding_bottom":36}},"16582309525d689d08":{"type":"rich-text","blocks":{"16582309516e5e2342-0":{"type":"heading","settings":{"heading":"Vad är menstruation?","heading_size":"h1"}},"16582309516e5e2342-1":{"type":"text","settings":{"text":"<p>Menstruation eller mens är en normal blödning som uppstår som en del av kvinnans månatliga menstruationscykel.<\/p>","text_size":"typeset2","secondary_color":false}},"16582309516e5e2342-2":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["16582309516e5e2342-0","16582309516e5e2342-1","16582309516e5e2342-2"],"settings":{"text_alignment":"left","narrow":true,"show_divider":false,"mobile_text_alignment":"center","padding_top":36,"padding_bottom":36}},"16588247239ddaf29e":{"type":"image-with-text-overlay","blocks":{"1658824723c4d9d8a7-0":{"type":"heading","settings":{"heading":"Menstruationscykelns fyra faser","heading_size":"h1"}},"1658824723c4d9d8a7-1":{"type":"text","settings":{"text":"<p>Menstruationscykeln består av 4 olika faser och är ett sofistikerat samspel av hormoner och kvinnans reproduktiva organ. Menstruationscykeln är i genomsnitt 28 dagar. Detta kan dock variera från person till person då alla kroppar är unika.<\/p><p>Bilden visar samspelet mellan ägg och livmoderslemhinnan under de fyra faserna.<\/p><p><\/p>","text_size":"typeset2","secondary_color":false}},"1658824723c4d9d8a7-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1658824723c4d9d8a7-0","1658824723c4d9d8a7-1","1658824723c4d9d8a7-2"],"settings":{"image":"shopify:\/\/shop_images\/menstruation.jpg","image_position":"center center","text_box_position":"flex-start","text_alignment":"left","image_ratio":"adapt","full_width":true,"show_divider":false,"mobile_text_box_position":"image_first","mobile_text_alignment":"center","mobile_image_ratio":"auto","colors_text":"#1a1b18","colors_overlay":"#ffffff","colors_overlay_opacity":92,"padding_top":36,"padding_bottom":36}},"1658825060144d0e87":{"type":"multicolumn","blocks":{"165882506042e5514f-0":{"type":"column","settings":{"title":"1. Follikulära fasen","title_size":"h2","text":"<p>Under denna fas stimuleras äggstockarna att producera folliklar. Folliklar är äggblåsor som innehåller omogna ägg. Varje månad blir ett ägg moget för befruktning. Samtidigt ökar östrogenproduktionen och livmoderslemhinnan växer och utvecklas så att den kanta emot ett befruktat ägg.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"165882506042e5514f-1":{"type":"column","settings":{"title":"2. Ägglossing","title_size":"h2","text":"<p>Ovulation betyder att en äggfollikel spricker och att det mogna ägget slungas ut för att fångas upp av den äggledare som ligger närmast. Efter ägglossningen vandrar ägget ned genom äggledaren mot livmodern. Livmoderslemhinnan har under tiden fortsatt att växa och bli tjockare för att förbereda sig för att ta emot ett ägg. Ägget lever i ca 24 timmar och det är endast under denna tid som ägget kan bli befruktat. Ägglossning sker ca 14 dagar innan menstruationen infaller.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"165882506042e5514f-2":{"type":"column","settings":{"title":"3. Luteala fasen","title_size":"h2","text":"<p>Efter att follikeln släppt ut sitt mogna ägg ändras äggblåsans hölje till corpus luteum. Corpus luteum frigör hormoner, främst frigörs progesteron. Denna ökningen av hormoner håller livmoderns slemhinna tjockoch redo för att ett befruktat ägg ska implanteras.<\/p><p>Om ägget inte blir befruktat kommer corpus luteum att krympa och leda till minskade hormonnivåer. Detta är vad som gör att din menstruation påbörjas. De PMS symptom som kan upplevas under denna fas tros höra ihop med de ämnen som bildas när hormonet progesteron bryts ner.<\/p><p><\/p>","button_label":"","button_link":"","button_style_secondary":false}},"3c928a71-23db-4b26-9f24-9e1c70f368b4":{"type":"column","settings":{"title":"4. Menstruation","title_size":"h2","text":"<p>Menstruationen startar och den tjocka livmoderslemhinnan stöts ut. Menstruationsblodet består bland annat av blod samt vävnad från livmodern. <\/p><p>När mensen är över börjar follikelfasen igen och cykeln börjar om.<\/p>","button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["165882506042e5514f-0","165882506042e5514f-1","165882506042e5514f-2","3c928a71-23db-4b26-9f24-9e1c70f368b4"],"settings":{"heading":"","heading_size":"h1","image_ratio":"landscape","image_position":"center center","text_alignment":"left","show_divider":false,"mobile_text_alignment":"center","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"1658825321f8a96d50":{"type":"cart-recommendations","disabled":true,"settings":{"heading":"You may also like","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":false,"image_ratio":"adapt","image_position":"center center","enable_image_fill":true,"show_secondary_image":false,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"1658825346ff59d864":{"type":"featured-product","disabled":true,"blocks":{"165882534649c3bc03-0":{"type":"text","settings":{"icon":"none","text":"{{ section.settings.product.metafields.descriptors.subtitle.value }}","text_style":"subtitle"}},"165882534649c3bc03-1":{"type":"title","settings":{"title_size":"h1"}},"165882534649c3bc03-2":{"type":"rating","settings":{}},"165882534649c3bc03-3":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#feeeee"}},"165882534649c3bc03-4":{"type":"price","settings":{}},"165882534649c3bc03-5":{"type":"variant_picker","settings":{"show_variant_labels":true,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"165882534649c3bc03-6":{"type":"buy_buttons","settings":{"show_quantity_selector":true,"show_dynamic_checkout":true}},"165882534649c3bc03-8":{"type":"read_more","settings":{"show_icon":false}}},"block_order":["165882534649c3bc03-0","165882534649c3bc03-1","165882534649c3bc03-2","165882534649c3bc03-3","165882534649c3bc03-4","165882534649c3bc03-5","165882534649c3bc03-6","165882534649c3bc03-8"],"settings":{"product":"tampons","layout":"media_first","full_width":false,"show_divider":false,"hide_variants":false,"enable_image_zoom":true,"enable_video_looping":false,"image_ratio":"adapt_first","image_position":"center center","enable_layered_images":true,"padding_top":36,"padding_bottom":36}},"1658825390906c1cbf":{"type":"featured-product","blocks":{"1658825390710bbc55-0":{"type":"text","settings":{"icon":"none","text":"{{ section.settings.product.metafields.descriptors.subtitle.value }}","text_style":"subtitle"}},"1658825390710bbc55-1":{"type":"title","settings":{"title_size":"h1"}},"1658825390710bbc55-2":{"type":"rating","settings":{}},"1658825390710bbc55-3":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#feeeee"}},"1658825390710bbc55-4":{"type":"price","settings":{}},"1658825390710bbc55-5":{"type":"variant_picker","settings":{"show_variant_labels":true,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"1658825390710bbc55-6":{"type":"buy_buttons","settings":{"show_quantity_selector":true,"show_dynamic_checkout":true}},"1658825390710bbc55-8":{"type":"read_more","settings":{"show_icon":false}}},"block_order":["1658825390710bbc55-0","1658825390710bbc55-1","1658825390710bbc55-2","1658825390710bbc55-3","1658825390710bbc55-4","1658825390710bbc55-5","1658825390710bbc55-6","1658825390710bbc55-8"],"settings":{"product":"cotton-day-pad","layout":"media_first","full_width":false,"show_divider":false,"hide_variants":false,"enable_image_zoom":true,"enable_video_looping":false,"image_ratio":"adapt_first","image_position":"center center","enable_layered_images":true,"padding_top":36,"padding_bottom":36}},"165882544544a38af3":{"type":"featured-product","blocks":{"16588254453a94181b-0":{"type":"text","settings":{"icon":"none","text":"{{ section.settings.product.metafields.descriptors.subtitle.value }}","text_style":"subtitle"}},"16588254453a94181b-1":{"type":"title","settings":{"title_size":"h1"}},"16588254453a94181b-2":{"type":"rating","settings":{}},"16588254453a94181b-3":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#feeeee"}},"16588254453a94181b-4":{"type":"price","settings":{}},"16588254453a94181b-5":{"type":"variant_picker","settings":{"show_variant_labels":true,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"16588254453a94181b-6":{"type":"buy_buttons","settings":{"show_quantity_selector":true,"show_dynamic_checkout":true}},"16588254453a94181b-8":{"type":"read_more","settings":{"show_icon":false}}},"block_order":["16588254453a94181b-0","16588254453a94181b-1","16588254453a94181b-2","16588254453a94181b-3","16588254453a94181b-4","16588254453a94181b-5","16588254453a94181b-6","16588254453a94181b-8"],"settings":{"product":"cotton-liners","layout":"media_first","full_width":false,"show_divider":false,"hide_variants":false,"enable_image_zoom":true,"enable_video_looping":false,"image_ratio":"adapt_first","image_position":"center center","enable_layered_images":true,"padding_top":36,"padding_bottom":36}}},"order":["main","1658824030cc462a5a","16582309525d689d08","16588247239ddaf29e","1658825060144d0e87","1658825321f8a96d50","1658825346ff59d864","1658825390906c1cbf","165882544544a38af3"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "1658824030cc462a5a": {
+      "type": "image-banner",
+      "blocks": {
+        "165882403007b41154-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Menstruation",
+            "heading_size": "h1"
+          }
+        },
+        "165882403007b41154-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "165882403007b41154-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "165882403007b41154-0",
+        "165882403007b41154-1",
+        "165882403007b41154-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Menstrua_family.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "550px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16582309525d689d08": {
+      "type": "rich-text",
+      "blocks": {
+        "16582309516e5e2342-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vad är menstruation?",
+            "heading_size": "h1"
+          }
+        },
+        "16582309516e5e2342-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Menstruation eller mens är en normal blödning som uppstår som en del av kvinnans månatliga menstruationscykel.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "16582309516e5e2342-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16582309516e5e2342-0",
+        "16582309516e5e2342-1",
+        "16582309516e5e2342-2"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16588247239ddaf29e": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "1658824723c4d9d8a7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Menstruationscykelns fyra faser",
+            "heading_size": "h1"
+          }
+        },
+        "1658824723c4d9d8a7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Menstruationscykeln består av 4 olika faser och är ett sofistikerat samspel av hormoner och kvinnans reproduktiva organ. Menstruationscykeln är i genomsnitt 28 dagar. Detta kan dock variera från person till person då alla kroppar är unika.</p><p>Bilden visar samspelet mellan ägg och livmoderslemhinnan under de fyra faserna.</p><p></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "1658824723c4d9d8a7-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658824723c4d9d8a7-0",
+        "1658824723c4d9d8a7-1",
+        "1658824723c4d9d8a7-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/menstruation.jpg",
+        "image_position": "center center",
+        "text_box_position": "flex-start",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_box_position": "image_first",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "colors_text": "#1a1b18",
+        "colors_overlay": "#ffffff",
+        "colors_overlay_opacity": 92,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658825060144d0e87": {
+      "type": "multicolumn",
+      "blocks": {
+        "165882506042e5514f-0": {
+          "type": "column",
+          "settings": {
+            "title": "1. Follikulära fasen",
+            "title_size": "h2",
+            "text": "<p>Under denna fas stimuleras äggstockarna att producera folliklar. Folliklar är äggblåsor som innehåller omogna ägg. Varje månad blir ett ägg moget för befruktning. Samtidigt ökar östrogenproduktionen och livmoderslemhinnan växer och utvecklas så att den kanta emot ett befruktat ägg.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "165882506042e5514f-1": {
+          "type": "column",
+          "settings": {
+            "title": "2. Ägglossing",
+            "title_size": "h2",
+            "text": "<p>Ovulation betyder att en äggfollikel spricker och att det mogna ägget slungas ut för att fångas upp av den äggledare som ligger närmast. Efter ägglossningen vandrar ägget ned genom äggledaren mot livmodern. Livmoderslemhinnan har under tiden fortsatt att växa och bli tjockare för att förbereda sig för att ta emot ett ägg. Ägget lever i ca 24 timmar och det är endast under denna tid som ägget kan bli befruktat. Ägglossning sker ca 14 dagar innan menstruationen infaller.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "165882506042e5514f-2": {
+          "type": "column",
+          "settings": {
+            "title": "3. Luteala fasen",
+            "title_size": "h2",
+            "text": "<p>Efter att follikeln släppt ut sitt mogna ägg ändras äggblåsans hölje till corpus luteum. Corpus luteum frigör hormoner, främst frigörs progesteron. Denna ökningen av hormoner håller livmoderns slemhinna tjockoch redo för att ett befruktat ägg ska implanteras.</p><p>Om ägget inte blir befruktat kommer corpus luteum att krympa och leda till minskade hormonnivåer. Detta är vad som gör att din menstruation påbörjas. De PMS symptom som kan upplevas under denna fas tros höra ihop med de ämnen som bildas när hormonet progesteron bryts ner.</p><p></p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "3c928a71-23db-4b26-9f24-9e1c70f368b4": {
+          "type": "column",
+          "settings": {
+            "title": "4. Menstruation",
+            "title_size": "h2",
+            "text": "<p>Menstruationen startar och den tjocka livmoderslemhinnan stöts ut. Menstruationsblodet består bland annat av blod samt vävnad från livmodern. </p><p>När mensen är över börjar follikelfasen igen och cykeln börjar om.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "165882506042e5514f-0",
+        "165882506042e5514f-1",
+        "165882506042e5514f-2",
+        "3c928a71-23db-4b26-9f24-9e1c70f368b4"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658825321f8a96d50": {
+      "type": "cart-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658825346ff59d864": {
+      "type": "featured-product",
+      "blocks": {
+        "165882534649c3bc03-0": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "165882534649c3bc03-1": {
+          "type": "title",
+          "settings": {
+            "title_size": "h1"
+          }
+        },
+        "165882534649c3bc03-2": {
+          "type": "rating",
+          "settings": {}
+        },
+        "165882534649c3bc03-3": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#feeeee"
+          }
+        },
+        "165882534649c3bc03-4": {
+          "type": "price",
+          "settings": {}
+        },
+        "165882534649c3bc03-5": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "165882534649c3bc03-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": true
+          }
+        },
+        "165882534649c3bc03-8": {
+          "type": "read_more",
+          "settings": {
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "165882534649c3bc03-0",
+        "165882534649c3bc03-1",
+        "165882534649c3bc03-2",
+        "165882534649c3bc03-3",
+        "165882534649c3bc03-4",
+        "165882534649c3bc03-5",
+        "165882534649c3bc03-6",
+        "165882534649c3bc03-8"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "tampons",
+        "layout": "media_first",
+        "full_width": false,
+        "show_divider": false,
+        "hide_variants": false,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "image_ratio": "adapt_first",
+        "image_position": "center center",
+        "enable_layered_images": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658825390906c1cbf": {
+      "type": "featured-product",
+      "blocks": {
+        "1658825390710bbc55-0": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1658825390710bbc55-1": {
+          "type": "title",
+          "settings": {
+            "title_size": "h1"
+          }
+        },
+        "1658825390710bbc55-2": {
+          "type": "rating",
+          "settings": {}
+        },
+        "1658825390710bbc55-3": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#feeeee"
+          }
+        },
+        "1658825390710bbc55-4": {
+          "type": "price",
+          "settings": {}
+        },
+        "1658825390710bbc55-5": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "1658825390710bbc55-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": true
+          }
+        },
+        "1658825390710bbc55-8": {
+          "type": "read_more",
+          "settings": {
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "1658825390710bbc55-0",
+        "1658825390710bbc55-1",
+        "1658825390710bbc55-2",
+        "1658825390710bbc55-3",
+        "1658825390710bbc55-4",
+        "1658825390710bbc55-5",
+        "1658825390710bbc55-6",
+        "1658825390710bbc55-8"
+      ],
+      "settings": {
+        "product": "cotton-day-pad",
+        "layout": "media_first",
+        "full_width": false,
+        "show_divider": false,
+        "hide_variants": false,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "image_ratio": "adapt_first",
+        "image_position": "center center",
+        "enable_layered_images": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165882544544a38af3": {
+      "type": "featured-product",
+      "blocks": {
+        "16588254453a94181b-0": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16588254453a94181b-1": {
+          "type": "title",
+          "settings": {
+            "title_size": "h1"
+          }
+        },
+        "16588254453a94181b-2": {
+          "type": "rating",
+          "settings": {}
+        },
+        "16588254453a94181b-3": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#feeeee"
+          }
+        },
+        "16588254453a94181b-4": {
+          "type": "price",
+          "settings": {}
+        },
+        "16588254453a94181b-5": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "16588254453a94181b-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": true
+          }
+        },
+        "16588254453a94181b-8": {
+          "type": "read_more",
+          "settings": {
+            "show_icon": false
+          }
+        }
+      },
+      "block_order": [
+        "16588254453a94181b-0",
+        "16588254453a94181b-1",
+        "16588254453a94181b-2",
+        "16588254453a94181b-3",
+        "16588254453a94181b-4",
+        "16588254453a94181b-5",
+        "16588254453a94181b-6",
+        "16588254453a94181b-8"
+      ],
+      "settings": {
+        "product": "cotton-liners",
+        "layout": "media_first",
+        "full_width": false,
+        "show_divider": false,
+        "hide_variants": false,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "image_ratio": "adapt_first",
+        "image_position": "center center",
+        "enable_layered_images": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1658824030cc462a5a",
+    "16582309525d689d08",
+    "16588247239ddaf29e",
+    "1658825060144d0e87",
+    "1658825321f8a96d50",
+    "1658825346ff59d864",
+    "1658825390906c1cbf",
+    "165882544544a38af3"
+  ]
+}

@@ -47,7 +47,7 @@
             <div class="product-container{% unless item.image %} no-image{% endunless %}">
               {% if item.image %}
                 <div>
-                  <a href="{{ item.url }}" class="product-image media-wrapper media-wrapper--small">
+                  <a href="{%- if item.product.type != "free_gift" -%}{{ item.url }}{% else %}#{%- endif -%}" class="product-image media-wrapper media-wrapper--small">
                     <lazy-image class="media media--adapt"
                       style="--image-ratio-percent: {{ 1 | divided_by: item.image.aspect_ratio | times: 100 }}%;"
                     >
@@ -64,7 +64,7 @@
               {% endif %}
               <div class="product-description">
                 <div class="product-content">
-                  <a href="{{ item.url }}" class="link product-title">{{ item.product.title }}</a>
+                  <a href="{%- if item.product.type != "free_gift" -%}{{ item.url }}{% else %}#{%- endif -%}" class="link product-title">{{ item.product.title }}</a>
                   <p class="cart-item__error form__message errors" id="Line-item-error-{{ item.index | plus: 1 }}">
                     <span class="cart-item__error-text"></span>
                   </p>
@@ -119,7 +119,7 @@
                     <div class="product-option">{{ item.selling_plan_allocation.selling_plan.name }}</div>
                   {%- endif -%}
                 {%- endif -%}
-                
+                {%- if item.product.type != "free_gift" -%}
                 <div class="product-quantity">
                   <dt>
                     {%- if gift_wrap_id == nil or item.id != gift_wrap_id -%}
@@ -175,6 +175,7 @@
                     <price-money><bdi>{{ item.original_price | money }}</bdi></price-money>
                   </dd>
                 </div>
+                  {%- endif -%}
               </div>
             </div>
           </li>

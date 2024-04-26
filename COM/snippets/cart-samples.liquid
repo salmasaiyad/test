@@ -2,34 +2,27 @@
     <span>Choose your 2 complimentary samples.</span>
     {% assign cartSamples = collections['cart-samples'] %}
 
-    <nav>
-        <span data-prev class="hide">
+        <span data-prev class="hide prev">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
   <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
 </svg>
 
         </span>
-        <span data-next>
+        <span data-next class="next">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
   <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
 </svg>
         </span>
-    </nav>
 
     <div class="cart-sample-products">
         {% for product in cartSamples.products %}
             <div class="cart-sample-product" data-product-id="{{ product.selected_or_first_available_variant.id }}">
-                <img src="{{ product.featured_image | img_url: 'small' }}" alt="{{ product.title }}" />
+                <img src="{{ product.featured_image | image_url: width: 242 }}" alt="{{ product.title }}" />
                 <fieldset>
-                    <input type="checkbox" id="{{ product.title | handleize }}" />
+                    <input type="checkbox" id="{{ product.title | handleize }}" class="sample-checkbox" />
                     <label for="{{ product.title | handleize }}">{{ product.title }}</label>
                 </fieldset>           
             </div>
-          <style>
-          li[data-handle="{{ product.title | handleize }}"] .product-quantity{
-            display:none;
-          }
-          </style>
         {% endfor %}
     </div>
 </cart-sample-products>
@@ -59,11 +52,12 @@
         justify-content: space-between;
     }
 
-    .cart-sample-products-wrapper nav span.hide{
+    .cart-sample-products-wrapper span.hide{
         opacity: 0;
     }
 
-    .cart-sample-products-wrapper nav span{
+    .cart-sample-products-wrapper span.next, 
+    .cart-sample-products-wrapper span.prev{
         background: white;
         width: 20px;
         height: 20px;
@@ -74,6 +68,13 @@
         align-items: center;
         cursor: pointer;
         padding:1px;
+        top: 50%;
+        position: absolute;
+        z-index: 1;
+        right: -15px;
+    }
+    .cart-sample-products-wrapper span.prev {
+      left: -15px;
     }
 
     .cart-sample-products {

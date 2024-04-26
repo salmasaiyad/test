@@ -1,1 +1,501 @@
-{"sections":{"empty-space":{"type":"empty-space","settings":{"desktop_height":8,"mobile_height":0}},"main":{"type":"main-product","blocks":{"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":true}},"vendor":{"type":"text","disabled":true,"settings":{"icon":"none","text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{"title_size":"h2"}},"rating":{"type":"rating","settings":{}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","disabled":true,"settings":{"show_variant_labels":false,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"countdown":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#ffeeee"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":true,"show_dynamic_checkout":false}},"95073fe0-1629-48c2-ac3f-24a78353ad1e":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Betalsatt_SE.png","height":28,"link":""}},"description":{"type":"description","settings":{}},"b614a68f-4156-4bff-8e3c-ae66b38cb10a":{"type":"collapsible_tab","settings":{"icon":"none","heading":"PRODUKTSPECIFIKATION","content":"<p>-Utvecklad av kvinnliga läkare och gynekologer<\/p><p>-Gynekologiskt och dermatologiskt testad<\/p><p>-Fri från allergener, alkohol och parabener<\/p><p>-Tillverkad i Sverige<\/p><p>-100% vegansk<\/p>","page":""}},"collapsible_tab-0":{"type":"collapsible_tab","settings":{"icon":"none","heading":"ANVÄNDNING","content":"<p>Häll en liten mängd i handen och tvätta varsamt. Skölj av med ljummet vatten.<\/p>","page":"shaving-kit"}},"collapsible_tab-1":{"type":"collapsible_tab","settings":{"icon":"none","heading":"INGREDIENSER","content":"<p>Helianthus Annuus Seed Oil, Persea Gratissima Oil, Caprylic\/Capric Triglyceride, Canola Oil, Glycine Soja Oil, Olea Europaea Fruit Oil, Chamomilla Recutita Flower Extract, Tocopherol.<\/p>","page":""}},"share":{"type":"share","settings":{}},"related_buttons":{"type":"related_buttons","disabled":true,"settings":{"show_icons":false}},"sticky_cart":{"type":"sticky_cart","settings":{"show_quantity_selector":false}}},"block_order":["breadcrumb","vendor","title","rating","price","variant_picker","countdown","buy_buttons","95073fe0-1629-48c2-ac3f-24a78353ad1e","description","b614a68f-4156-4bff-8e3c-ae66b38cb10a","collapsible_tab-0","collapsible_tab-1","share","related_buttons","sticky_cart"],"settings":{"enable_sticky_info":true,"media_size":"small","gallery_layout":"thumbnail_slider","image_ratio":"adapt","show_thumbnails":true,"hide_variants":true,"enable_image_zoom":true,"enable_video_looping":false,"mobile_image_ratio":"adapt_first","show_mobile_thumbnails":true,"padding_top":0,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"Addera till din intimvård","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"guarantees":{"type":"guarantees","blocks":{"guarantee-2":{"type":"guarantee","settings":{"icon":"clipboard","title":"Vetenskapligt baserat","title_size":"h4","text":""}},"guarantee-1":{"type":"guarantee","settings":{"icon":"heart","title":"Utvecklat av gynekologer","title_size":"h4","text":""}},"guarantee-3":{"type":"guarantee","settings":{"icon":"globe","title":"Tillverkat i Sverige","title_size":"h4","text":""}},"guarantee-0":{"type":"guarantee","settings":{"icon":"leaf","title":"100% Veganskt","title_size":"h4","text":""}}},"block_order":["guarantee-2","guarantee-1","guarantee-3","guarantee-0"],"settings":{"heading":"","heading_size":"h1","layout":"default","column_alignment":"center","secondary_background":false,"full_width":false,"show_divider":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1658133913d28abc37":{"type":"image-with-text","blocks":{"1658133913405b7b25-0":{"type":"heading","settings":{"heading":"Doktorn Tipsar","heading_size":"h1"}},"1658133913405b7b25-1":{"type":"text","settings":{"text":"<p><em>\"Vi rekommenderar ofta en oljeregim till perimenopausala, menopausala och postmenopausala patienter eftersom intimhuden då kan bli skörare, torrare och mer lättirriterad. Oljor kan varsamt rengöra utan att ta bort hudens naturliga fett. Vi har handplockat extremt närande superoljor som hjälper till att rengöra samtidigt som hudenbarriärens fuktbalans bibehålls och torrhet och sprickor motverkas.\"<br\/><br\/><\/em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>","text_size":"typeset2","secondary_color":false}},"1658133913405b7b25-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1658133913405b7b25-0","1658133913405b7b25-1","1658133913405b7b25-2"],"settings":{"image":"shopify:\/\/shop_images\/IMG_7851_d0f93dd1-db1a-47f6-b345-022c57ca6727.jpg","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"650px","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"multicolumn":{"type":"multicolumn","disabled":true,"blocks":{"column-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/5.png","title":"","title_size":"h2","text":"","button_label":"","button_link":"","button_style_secondary":false}},"column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/6.png","title":"","title_size":"h2","text":"","button_label":"","button_link":"","button_style_secondary":false}},"column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/4.png","title":"","title_size":"h2","text":"","button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["column-0","column-1","column-2"],"settings":{"heading":"Användning","heading_size":"h2","image_ratio":"square","image_position":"top center","text_alignment":"left","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":true,"padding_top":36,"padding_bottom":72}},"product-details":{"type":"product-details","disabled":true,"blocks":{"product-details-0":{"type":"description","disabled":true,"settings":{"heading":""}},"product-details-1":{"type":"collapsible_tab","settings":{"heading":"1. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-2":{"type":"collapsible_tab","settings":{"heading":"2. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-3":{"type":"collapsible_tab","settings":{"heading":"3. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}}},"block_order":["product-details-0","product-details-1","product-details-2","product-details-3"],"settings":{"heading":"Collapsible tabs","heading_size":"h2","padding_top":36,"padding_bottom":36}},"recently-viewed-products":{"type":"recently-viewed-products","disabled":true,"settings":{"heading":"Nyligen visade produkter","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"ee81639f-9fd2-4557-97d2-c7ca02cffc3b":{"type":"faq","blocks":{"template--15541999435932__ee81639f-9fd2-4557-97d2-c7ca02cffc3b-1668430102f9102bd9-0":{"type":"question","settings":{"title":"ÄR DEODOCS PRODUKTER SÄKRA?","text":"<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<br\/><br\/>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<br\/><br\/>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<br\/><br\/>- Produkterna är även dermatologiskt testade för känslig hud.<br\/><br\/>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<br\/><\/p>"}},"template--15541999435932__ee81639f-9fd2-4557-97d2-c7ca02cffc3b-1668430102f9102bd9-1":{"type":"question","settings":{"title":"VARFÖR REKOMMENDERAR NI EN OLJETVÄTT?","text":"<p>Att tvätta med en oljetvätt är ett mycket skonsamt och milt rengöringsalternativ som vi läkare rekommenderar till patienter med känsliga slemhinnor och hud. Det är fördelaktigt för kvinnor i alla åldrar men framför allt för kvinnor pre- och post klimakteriet.<\/p>"}},"226ad0bf-96ca-4de9-8fc5-d465ee546863":{"type":"question","settings":{"title":"ÄR DEODOCS PRODUKTER VEGANSKA?","text":"<p>Ja.<\/p>"}},"dc72b786-ead2-40cf-afb1-a3848fa2009b":{"type":"question","settings":{"title":"Passar produkterna till känslig hy?","text":"<p>Ja, DeoDocs Cleansing Oil är en mild tvättolja för känslig intimhud formulerad av 100% naturliga oljor från växtriket.<\/p>"}}},"block_order":["template--15541999435932__ee81639f-9fd2-4557-97d2-c7ca02cffc3b-1668430102f9102bd9-0","template--15541999435932__ee81639f-9fd2-4557-97d2-c7ca02cffc3b-1668430102f9102bd9-1","226ad0bf-96ca-4de9-8fc5-d465ee546863","dc72b786-ead2-40cf-afb1-a3848fa2009b"],"settings":{"heading":"FAQs","heading_size":"h2","narrow":true,"secondary_background":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"1663689957f7cccf40":{"type":"apps","blocks":{"868ed4e0-4f75-4e7a-ab78-4cd5692d5dde":{"type":"shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f","settings":{}}},"block_order":["868ed4e0-4f75-4e7a-ab78-4cd5692d5dde"],"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}}},"order":["empty-space","main","product-recommendations","guarantees","1658133913d28abc37","multicolumn","product-details","recently-viewed-products","ee81639f-9fd2-4557-97d2-c7ca02cffc3b","1663689957f7cccf40"]}
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 8,
+        "mobile_height": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": true
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "show_variant_labels": false,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false
+          }
+        },
+        "95073fe0-1629-48c2-ac3f-24a78353ad1e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Betalsatt_SE.png",
+            "height": 28,
+            "link": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "PRODUKTSPECIFIKATION",
+            "content": "<p>-Utvecklad av kvinnliga läkare och gynekologer</p><p>-Gynekologiskt och dermatologiskt testad</p><p>-Fri från allergener, alkohol och parabener</p><p>-Tillverkad i Sverige</p><p>-100% vegansk</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "ANVÄNDNING",
+            "content": "<p>Häll en liten mängd i handen och tvätta varsamt. Skölj av med ljummet vatten.</p>",
+            "page": "shaving-kit"
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "INGREDIENSER",
+            "content": "<p>Helianthus Annuus Seed Oil, Persea Gratissima Oil, Caprylic/Capric Triglyceride, Canola Oil, Glycine Soja Oil, Olea Europaea Fruit Oil, Chamomilla Recutita Flower Extract, Tocopherol.</p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb",
+        "vendor",
+        "title",
+        "rating",
+        "price",
+        "variant_picker",
+        "countdown",
+        "buy_buttons",
+        "95073fe0-1629-48c2-ac3f-24a78353ad1e",
+        "description",
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "share",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Addera till din intimvård",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "clipboard",
+            "title": "Vetenskapligt baserat",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "title": "Utvecklat av gynekologer",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "globe",
+            "title": "Tillverkat i Sverige",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "title": "100% Veganskt",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-3",
+        "guarantee-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "default",
+        "column_alignment": "center",
+        "secondary_background": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658133913d28abc37": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658133913405b7b25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doktorn Tipsar",
+            "heading_size": "h1"
+          }
+        },
+        "1658133913405b7b25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Vi rekommenderar ofta en oljeregim till perimenopausala, menopausala och postmenopausala patienter eftersom intimhuden då kan bli skörare, torrare och mer lättirriterad. Oljor kan varsamt rengöra utan att ta bort hudens naturliga fett. Vi har handplockat extremt närande superoljor som hjälper till att rengöra samtidigt som hudenbarriärens fuktbalans bibehålls och torrhet och sprickor motverkas.\"<br/><br/></em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet</strong></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "1658133913405b7b25-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658133913405b7b25-0",
+        "1658133913405b7b25-1",
+        "1658133913405b7b25-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_7851_d0f93dd1-db1a-47f6-b345-022c57ca6727.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/5.png",
+            "title": "",
+            "title_size": "h2",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/6.png",
+            "title": "",
+            "title_size": "h2",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/4.png",
+            "title": "",
+            "title_size": "h2",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Användning",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_position": "top center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    },
+    "product-details": {
+      "type": "product-details",
+      "blocks": {
+        "product-details-0": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "product-details-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "product-details-0",
+        "product-details-1",
+        "product-details-2",
+        "product-details-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Collapsible tabs",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Nyligen visade produkter",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ee81639f-9fd2-4557-97d2-c7ca02cffc3b": {
+      "type": "faq",
+      "blocks": {
+        "template--15541999435932__ee81639f-9fd2-4557-97d2-c7ca02cffc3b-1668430102f9102bd9-0": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DEODOCS PRODUKTER SÄKRA?",
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<br/><br/>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<br/><br/>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<br/><br/>- Produkterna är även dermatologiskt testade för känslig hud.<br/><br/>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<br/></p>"
+          }
+        },
+        "template--15541999435932__ee81639f-9fd2-4557-97d2-c7ca02cffc3b-1668430102f9102bd9-1": {
+          "type": "question",
+          "settings": {
+            "title": "VARFÖR REKOMMENDERAR NI EN OLJETVÄTT?",
+            "text": "<p>Att tvätta med en oljetvätt är ett mycket skonsamt och milt rengöringsalternativ som vi läkare rekommenderar till patienter med känsliga slemhinnor och hud. Det är fördelaktigt för kvinnor i alla åldrar men framför allt för kvinnor pre- och post klimakteriet.</p>"
+          }
+        },
+        "226ad0bf-96ca-4de9-8fc5-d465ee546863": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DEODOCS PRODUKTER VEGANSKA?",
+            "text": "<p>Ja.</p>"
+          }
+        },
+        "dc72b786-ead2-40cf-afb1-a3848fa2009b": {
+          "type": "question",
+          "settings": {
+            "title": "Passar produkterna till känslig hy?",
+            "text": "<p>Ja, DeoDocs Cleansing Oil är en mild tvättolja för känslig intimhud formulerad av 100% naturliga oljor från växtriket.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15541999435932__ee81639f-9fd2-4557-97d2-c7ca02cffc3b-1668430102f9102bd9-0",
+        "template--15541999435932__ee81639f-9fd2-4557-97d2-c7ca02cffc3b-1668430102f9102bd9-1",
+        "226ad0bf-96ca-4de9-8fc5-d465ee546863",
+        "dc72b786-ead2-40cf-afb1-a3848fa2009b"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1663689957f7cccf40": {
+      "type": "apps",
+      "blocks": {
+        "868ed4e0-4f75-4e7a-ab78-4cd5692d5dde": {
+          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "868ed4e0-4f75-4e7a-ab78-4cd5692d5dde"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "product-recommendations",
+    "guarantees",
+    "1658133913d28abc37",
+    "multicolumn",
+    "product-details",
+    "recently-viewed-products",
+    "ee81639f-9fd2-4557-97d2-c7ca02cffc3b",
+    "1663689957f7cccf40"
+  ]
+}

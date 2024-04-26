@@ -1,1 +1,565 @@
-{"sections":{"empty-space":{"type":"empty-space","settings":{"desktop_height":8,"mobile_height":0}},"main":{"type":"main-product","blocks":{"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":true}},"vendor":{"type":"text","disabled":true,"settings":{"icon":"none","text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{"title_size":"h2"}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"show_variant_labels":false,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"e48b72a9-9a87-4910-b361-f09e7fa22dda":{"type":"shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e","settings":{"product":"{{product}}"}},"countdown":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#ffeeee"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":false,"show_dynamic_checkout":true}},"6b4e66df-f458-48ac-bbb8-d494f5d2bb21":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/test_4_4000_x_300_px.png","height":28,"link":""}},"description":{"type":"description","settings":{}},"b614a68f-4156-4bff-8e3c-ae66b38cb10a":{"type":"collapsible_tab","settings":{"icon":"none","heading":"SPECIFICATIONS","content":"<p>-Developed by women doctors and gynecologists<\/p><p>-Gynecologically and dermatologically tested<\/p><p>-Free from allergens, alcohol and parabens<\/p><p>-Made in Sweden<\/p><p>-100% vegan<\/p>","page":""}},"collapsible_tab-0":{"type":"collapsible_tab","settings":{"icon":"none","heading":"How to use","content":"<p><strong>Intimate Deospray: <\/strong>Shake well before use and spray from a distance of approximately 8-12 inches on the external vaginal area that is normally covered with hair as this is where the sweat glands are located. Can be used on shaved areas as well as non-shaved areas. For external use only.<br\/><br\/><strong>Daily Intimate Wash: <\/strong>For external use only. Pour into hand and apply. Rinse thoroughly.<br\/><\/p><p><strong>Intimate Deowipes: <\/strong>For external use only. Remove the wipe from the foil package, unfold and gently wipe from front to back. Use each wipe only once, then throw away. Do not flush.<br\/><\/p>","page":"shaving-kit"}},"collapsible_tab-1":{"type":"collapsible_tab","settings":{"icon":"none","heading":"Ingredients","content":"<p><strong>Intimate Deospray:<\/strong> Butane, Isobutane, Dimethicone, Zea Mays (Corn) Starch, Propane, Isopropyl Myristate, Fragrance (Parfum), Disteardimonium Hectorite, Diethylhexyl Carbonate, Dimethiconol.<br\/><br\/><strong>Daily Intimate Wash: <\/strong>Water (Aqua), Sodium Laureth Sulfate, Sodium Cocoamphoacetate, Glycerin, Glycol Distearate, Fragrance (Parfum), Sodium Chloride, PEG-40 Hydrogenated Castor Oil, Lactic Acid, Polyquaternium-10, PEG-14M, Cocamide MEA, Sodium Benzoate, Sodium Levulinate, Sodium Anisate, Citric Acid<br\/><br\/><strong>Intimate Deowipes:<\/strong> Water (Aqua), Zea Mays Starch, Diethylhexyl Carbonate, Olea Europaea Fruit Oil, Aluminum Starch Octenylsuccinate, Steareth-2, Steareth-21, PPG-15 Stearyl Ether, Aloe Barbadensis Leaf Juice Powder, Tocopheryl Acetate, Allantoin, Phenoxyethanol, Fragrance (Parfum).<\/p>","page":""}},"1f5af68a-7df7-41c8-b308-41c24c915ae0":{"type":"collapsible_tab","settings":{"icon":"none","heading":"Scents","content":"<p><strong>Jasmine Pear:<\/strong> Calming scent with hints of pear & subtle floral notes<\/p><p><strong>Fresh Coconut:<\/strong> A sweet yet tropical blend of creamy coconut<\/p><p><strong>Violet Cotton:<\/strong> Fresh & clean aroma with warm cotton notes<\/p>","page":""}},"related_buttons":{"type":"related_buttons","disabled":true,"settings":{"show_icons":false}},"sticky_cart":{"type":"sticky_cart","settings":{"show_quantity_selector":false}},"998be63a-cbff-461c-9328-ca9d9513ff3b":{"type":"share","settings":{}}},"block_order":["breadcrumb","vendor","title","price","variant_picker","e48b72a9-9a87-4910-b361-f09e7fa22dda","countdown","buy_buttons","6b4e66df-f458-48ac-bbb8-d494f5d2bb21","description","b614a68f-4156-4bff-8e3c-ae66b38cb10a","collapsible_tab-0","collapsible_tab-1","1f5af68a-7df7-41c8-b308-41c24c915ae0","related_buttons","sticky_cart","998be63a-cbff-461c-9328-ca9d9513ff3b"],"settings":{"enable_sticky_info":true,"media_size":"small","gallery_layout":"thumbnail_slider","image_ratio":"adapt","show_thumbnails":true,"hide_variants":true,"enable_image_zoom":true,"enable_video_looping":false,"mobile_image_ratio":"adapt_first","show_mobile_thumbnails":true,"padding_top":36,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"You May Also Like","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"guarantees":{"type":"guarantees","blocks":{"guarantee-2":{"type":"guarantee","settings":{"icon":"clipboard","title":"Science based","title_size":"h4","text":""}},"guarantee-1":{"type":"guarantee","settings":{"icon":"heart","title":"Made by gynecologists","title_size":"h4","text":""}},"guarantee-3":{"type":"guarantee","settings":{"icon":"globe","title":"Made in Sweden","title_size":"h4","text":""}},"guarantee-0":{"type":"guarantee","settings":{"icon":"leaf","title":"Vegan","title_size":"h4","text":""}}},"block_order":["guarantee-2","guarantee-1","guarantee-3","guarantee-0"],"settings":{"heading":"","heading_size":"h1","layout":"default","column_alignment":"center","secondary_background":false,"full_width":false,"show_divider":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1658133913d28abc37":{"type":"image-with-text","blocks":{"1658133913405b7b25-0":{"type":"heading","settings":{"heading":"Doctor's Corner","heading_size":"h1"}},"1658133913405b7b25-1":{"type":"text","settings":{"text":"<p><em>\"The most common concern we hear from our patients is the self-consciousness of intimate odor. Many women do not know that we have the same sweat glands in the vulva as we do in the armpits.  It is normal for armpits to have a smell, similarly, the vulvar area can also smell. Sweat glands empty into hair follicles, so odor can be experienced anywhere where there is hair. From our clinical experience, many women that are worried about odor tend to wash their intimate parts excessively, which is not good. This is why we developed our gentle, pH-balanced intimate deodorant, or DeoSpray, which works just like an underarm deodorant, but for the sensitive intimate skin.\" <\/em><br\/><br\/><strong>-Dr. Gunvor Ekman-Ordeberg, OB\/GYN, MD.,PhD. <\/strong><\/p>","text_size":"typeset2","secondary_color":false}},"1658133913405b7b25-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1658133913405b7b25-0","1658133913405b7b25-1","1658133913405b7b25-2"],"settings":{"image":"shopify:\/\/shop_images\/IMG_7896.jpg","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"650px","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"product-details":{"type":"product-details","disabled":true,"blocks":{"product-details-0":{"type":"description","disabled":true,"settings":{"heading":""}},"product-details-1":{"type":"collapsible_tab","settings":{"heading":"1. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-2":{"type":"collapsible_tab","settings":{"heading":"2. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-3":{"type":"collapsible_tab","settings":{"heading":"3. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}}},"block_order":["product-details-0","product-details-1","product-details-2","product-details-3"],"settings":{"heading":"Collapsible tabs","heading_size":"h2","padding_top":36,"padding_bottom":36}},"multicolumn":{"type":"multicolumn","blocks":{"column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Skarmavbild_2022-09-21_kl._09.07.40.png","title":"Daily Intimate Wash","title_size":"h3","text":"<p>Everyday wash with pH 5 for optimal intimate health. Leaves a silky smooth feeling.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/DeoSpray_5.png","title":"DeoSpray","title_size":"h3","text":"<p>Gentle, pH-balanced DeoSpray that eliminates odor from sweat produced in the intimate area. Leaves a fresh feeling all day.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/191212_Deodoc13515.jpg","title":"DeoWipes","title_size":"h3","text":"<p>Ultra soft wipes for a gentle cleanse on-the-go, helps you freshen up whenever needed.<\/p>","button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["column-1","column-0","column-2"],"settings":{"heading":"Your Starter Kit Routine","heading_size":"h2","image_ratio":"square","image_position":"top center","text_alignment":"left","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"e5529884-c1e8-4308-a39e-59c18003e1a4":{"type":"faq","blocks":{"template--15103162941576__e5529884-c1e8-4308-a39e-59c18003e1a4-1665142611df6748a6-0":{"type":"question","settings":{"title":"HOW AND WHERE SHOULD I SPRAY THE DEOSPRAY?","text":"<p>Shake the can and spray 15cm away from the vulva or groin area. The vulva has apocrine sweat glands which empty into hair follicles, so the DeoSpray should only be used where ever hair can grow. Do not use or spray within the inner labia, mucosa or inside of the vagina.<\/p>"}},"template--15103162941576__e5529884-c1e8-4308-a39e-59c18003e1a4-1665142611df6748a6-1":{"type":"question","settings":{"title":"SHOULD I SEE A DOCTOR IF I EXPERIENCE ODOR FROM MY INTIMATE AREA?","text":"<p>Discharge has a naturally sour smell. If your discharge has an irregular smell, please consult a doctor as this may be a vaginal infection. If you are experiencing smell from vulvar sweat, the DeoSpray may be used. It is formulated with corn starch to absorb moisture from vulvar sweat.<\/p>"}},"d28f75cf-a2b9-4361-9bca-9faa5a8e080d":{"type":"question","settings":{"title":"CAN I USE THE DEOSPRAY TO COVER UP OR HELP THE SMELL OF A VAGINAL DISEASE OR INFECTION?","text":"<p>The DeoSpray is formulated to absorb moisture and sweat on the vulva. The spray does not cover up smells from vaginal diseases or infections. If you believe you have a vaginal disease or infection, please visit your doctor.<\/p>"}},"9f2ad8a7-cfea-4707-9daa-4457c2fbf332":{"type":"question","settings":{"title":"SHOULD I USE THE DEOSPRAY IF MY DISCHARGE SMELLS BAD?","text":"<p>Discharge has a naturally sour smell and is milky white in color. If that smell, color or texture changes, please see your doctor. The DeoSpray is formulated with corn starch to to absorb moisture from vulvar sweat. It does not mask or alter smell from discharge, STIs or vaginal infections.<\/p>"}},"4dfbcf3f-00d9-42dd-bb85-8f9a8c1f5855":{"type":"question","settings":{"title":"WHY DID YOU DEVELOP AN INTIMATE DEODORANT?","text":"<p>The sweat glands that exist in the armpits and the intimate area are the same. They are called apocrine sweat glands and they empty into hair follicles. So wherever there is hair in those areas, there may also be sweat. Sweating is natural and there are many deodorants for armpits available on the market for those who chose to use them. The same goes for the intimate\/groin area for both men and women, however, this area is highly sensitive and cannot be treated with the same products formulated for the armpits. We created a safe and doctor-developed product for those that would like to use it.<\/p><p>As doctors, we have seen patients with sweat concerns that overwash or use incorrectly formulated products which can give them infections. It was our responsibility to give them a safe and effective solution to prevent them from unsafe habits. That is why we chose to develop an intimate deodorant that we as doctors can actually recommend.<\/p>"}},"ac7850e6-045e-42c3-961d-b3d5b59222d7":{"type":"question","settings":{"title":"DOES THE PRODUCT CONTAIN ANY DANGEROUS INGREDIENTS?","text":"<p>All of our products are approved by the Medical Products Agency and follow European Union guidelines for the manufacturing of cosmetic products. The products are also reviewed and approved by Swedish pharmacies that are known for their strict regulation of products. Nothing in the products is dangerous for women or we would not be approved to sell them.<\/p>"}},"68d8a107-7083-4b7d-80ad-d1043e6e1e9b":{"type":"question","settings":{"title":"HOW MANY WIPES ARE IN A BOX?","text":"<p>The box contains 10 individually wrapped wipes.<\/p>"}},"e564df40-c133-4e43-b106-7cd0dc657e84":{"type":"question","settings":{"title":"WHY DO YOUR PRODUCTS CONTAIN PERFUME?","text":"<p>DeoDoc only uses hypoallergenic scents\/perfumes in all of our products. Hypoallergenic scents are free from alcohol, allergens and irritants, therefore, they are safe for intimate skin.<br\/><br\/>Regular perfume should never be used in the intimate area as it contains:<br\/><br\/>- alcohol which can have a dehydrating effect<br\/><br\/>- allergens that can cause irritation<\/p>"}},"8aaf9587-4c33-44f5-8930-a6407dddd854":{"type":"question","settings":{"title":"ARE DEODOC'S PRODUCTS SAFE TO USE?","text":"<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br\/><br\/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br\/><br\/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br\/><br\/>- Products are dermatologically tested for sensitive skin<br\/><br\/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg<\/p>"}},"d5e7391b-124a-40b5-b9c1-64d44b84fa17":{"type":"question","settings":{"title":"ARE DEODOC'S PRODUCTS VEGAN?","text":"<p>Yes.<\/p>"}}},"block_order":["template--15103162941576__e5529884-c1e8-4308-a39e-59c18003e1a4-1665142611df6748a6-0","template--15103162941576__e5529884-c1e8-4308-a39e-59c18003e1a4-1665142611df6748a6-1","d28f75cf-a2b9-4361-9bca-9faa5a8e080d","9f2ad8a7-cfea-4707-9daa-4457c2fbf332","4dfbcf3f-00d9-42dd-bb85-8f9a8c1f5855","ac7850e6-045e-42c3-961d-b3d5b59222d7","68d8a107-7083-4b7d-80ad-d1043e6e1e9b","e564df40-c133-4e43-b106-7cd0dc657e84","8aaf9587-4c33-44f5-8930-a6407dddd854","d5e7391b-124a-40b5-b9c1-64d44b84fa17"],"settings":{"heading":"FAQs","heading_size":"h2","narrow":true,"secondary_background":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"recently-viewed-products":{"type":"recently-viewed-products","disabled":true,"settings":{"heading":"Recently Viewed","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":true,"show_rating":true,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"1662477214675e34e5":{"type":"apps","blocks":{"b087bedb-9c06-4d58-8904-c3e9803509e7":{"type":"shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"only_photos":false,"aggregated":false,"limit":20,"hide_thumbnails":false,"maxwidth":1080}}},"block_order":["b087bedb-9c06-4d58-8904-c3e9803509e7"],"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}}},"order":["empty-space","main","product-recommendations","guarantees","1658133913d28abc37","product-details","multicolumn","e5529884-c1e8-4308-a39e-59c18003e1a4","recently-viewed-products","1662477214675e34e5"]}
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 8,
+        "mobile_height": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": true
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": false,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "e48b72a9-9a87-4910-b361-f09e7fa22dda": {
+          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": true
+          }
+        },
+        "6b4e66df-f458-48ac-bbb8-d494f5d2bb21": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/test_4_4000_x_300_px.png",
+            "height": 28,
+            "link": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "SPECIFICATIONS",
+            "content": "<p>-Developed by women doctors and gynecologists</p><p>-Gynecologically and dermatologically tested</p><p>-Free from allergens, alcohol and parabens</p><p>-Made in Sweden</p><p>-100% vegan</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "How to use",
+            "content": "<p><strong>Intimate Deospray: </strong>Shake well before use and spray from a distance of approximately 8-12 inches on the external vaginal area that is normally covered with hair as this is where the sweat glands are located. Can be used on shaved areas as well as non-shaved areas. For external use only.<br/><br/><strong>Daily Intimate Wash: </strong>For external use only. Pour into hand and apply. Rinse thoroughly.<br/></p><p><strong>Intimate Deowipes: </strong>For external use only. Remove the wipe from the foil package, unfold and gently wipe from front to back. Use each wipe only once, then throw away. Do not flush.<br/></p>",
+            "page": "shaving-kit"
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingredients",
+            "content": "<p><strong>Intimate Deospray:</strong> Butane, Isobutane, Dimethicone, Zea Mays (Corn) Starch, Propane, Isopropyl Myristate, Fragrance (Parfum), Disteardimonium Hectorite, Diethylhexyl Carbonate, Dimethiconol.<br/><br/><strong>Daily Intimate Wash: </strong>Water (Aqua), Sodium Laureth Sulfate, Sodium Cocoamphoacetate, Glycerin, Glycol Distearate, Fragrance (Parfum), Sodium Chloride, PEG-40 Hydrogenated Castor Oil, Lactic Acid, Polyquaternium-10, PEG-14M, Cocamide MEA, Sodium Benzoate, Sodium Levulinate, Sodium Anisate, Citric Acid<br/><br/><strong>Intimate Deowipes:</strong> Water (Aqua), Zea Mays Starch, Diethylhexyl Carbonate, Olea Europaea Fruit Oil, Aluminum Starch Octenylsuccinate, Steareth-2, Steareth-21, PPG-15 Stearyl Ether, Aloe Barbadensis Leaf Juice Powder, Tocopheryl Acetate, Allantoin, Phenoxyethanol, Fragrance (Parfum).</p>",
+            "page": ""
+          }
+        },
+        "1f5af68a-7df7-41c8-b308-41c24c915ae0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Scents",
+            "content": "<p><strong>Jasmine Pear:</strong> Calming scent with hints of pear & subtle floral notes</p><p><strong>Fresh Coconut:</strong> A sweet yet tropical blend of creamy coconut</p><p><strong>Violet Cotton:</strong> Fresh & clean aroma with warm cotton notes</p>",
+            "page": ""
+          }
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        },
+        "998be63a-cbff-461c-9328-ca9d9513ff3b": {
+          "type": "share",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "breadcrumb",
+        "vendor",
+        "title",
+        "price",
+        "variant_picker",
+        "e48b72a9-9a87-4910-b361-f09e7fa22dda",
+        "countdown",
+        "buy_buttons",
+        "6b4e66df-f458-48ac-bbb8-d494f5d2bb21",
+        "description",
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "1f5af68a-7df7-41c8-b308-41c24c915ae0",
+        "related_buttons",
+        "sticky_cart",
+        "998be63a-cbff-461c-9328-ca9d9513ff3b"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "clipboard",
+            "title": "Science based",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "title": "Made by gynecologists",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "globe",
+            "title": "Made in Sweden",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "title": "Vegan",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-3",
+        "guarantee-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "default",
+        "column_alignment": "center",
+        "secondary_background": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658133913d28abc37": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658133913405b7b25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doctor's Corner",
+            "heading_size": "h1"
+          }
+        },
+        "1658133913405b7b25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"The most common concern we hear from our patients is the self-consciousness of intimate odor. Many women do not know that we have the same sweat glands in the vulva as we do in the armpits.  It is normal for armpits to have a smell, similarly, the vulvar area can also smell. Sweat glands empty into hair follicles, so odor can be experienced anywhere where there is hair. From our clinical experience, many women that are worried about odor tend to wash their intimate parts excessively, which is not good. This is why we developed our gentle, pH-balanced intimate deodorant, or DeoSpray, which works just like an underarm deodorant, but for the sensitive intimate skin.\" </em><br/><br/><strong>-Dr. Gunvor Ekman-Ordeberg, OB/GYN, MD.,PhD. </strong></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "1658133913405b7b25-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658133913405b7b25-0",
+        "1658133913405b7b25-1",
+        "1658133913405b7b25-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_7896.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-details": {
+      "type": "product-details",
+      "blocks": {
+        "product-details-0": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "product-details-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "product-details-0",
+        "product-details-1",
+        "product-details-2",
+        "product-details-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Collapsible tabs",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/wash_2.jpg",
+            "title": "Daily Intimate Wash",
+            "title_size": "h3",
+            "text": "<p>Everyday wash with pH 5 for optimal intimate health. Leaves a silky smooth feeling.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "title": "DeoSpray",
+            "title_size": "h3",
+            "text": "<p>Gentle, pH-balanced DeoSpray that eliminates odor from sweat produced in the intimate area. Leaves a fresh feeling all day.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/10_8df6ab06-3943-487f-89db-adc56fbac60c.jpg",
+            "title": "DeoWipes",
+            "title_size": "h3",
+            "text": "<p>Ultra soft wipes for a gentle cleanse on-the-go, helps you freshen up whenever needed.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column-1",
+        "column-0",
+        "column-2"
+      ],
+      "settings": {
+        "heading": "Your Starter Kit Routine",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_position": "top center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e5529884-c1e8-4308-a39e-59c18003e1a4": {
+      "type": "faq",
+      "blocks": {
+        "template--15103162941576__e5529884-c1e8-4308-a39e-59c18003e1a4-1665142611df6748a6-0": {
+          "type": "question",
+          "settings": {
+            "title": "HOW AND WHERE SHOULD I SPRAY THE DEOSPRAY?",
+            "text": "<p>Shake the can and spray 15cm away from the vulva or groin area. The vulva has apocrine sweat glands which empty into hair follicles, so the DeoSpray should only be used where ever hair can grow. Do not use or spray within the inner labia, mucosa or inside of the vagina.</p>"
+          }
+        },
+        "template--15103162941576__e5529884-c1e8-4308-a39e-59c18003e1a4-1665142611df6748a6-1": {
+          "type": "question",
+          "settings": {
+            "title": "SHOULD I SEE A DOCTOR IF I EXPERIENCE ODOR FROM MY INTIMATE AREA?",
+            "text": "<p>Discharge has a naturally sour smell. If your discharge has an irregular smell, please consult a doctor as this may be a vaginal infection. If you are experiencing smell from vulvar sweat, the DeoSpray may be used. It is formulated with corn starch to absorb moisture from vulvar sweat.</p>"
+          }
+        },
+        "d28f75cf-a2b9-4361-9bca-9faa5a8e080d": {
+          "type": "question",
+          "settings": {
+            "title": "CAN I USE THE DEOSPRAY TO COVER UP OR HELP THE SMELL OF A VAGINAL DISEASE OR INFECTION?",
+            "text": "<p>The DeoSpray is formulated to absorb moisture and sweat on the vulva. The spray does not cover up smells from vaginal diseases or infections. If you believe you have a vaginal disease or infection, please visit your doctor.</p>"
+          }
+        },
+        "9f2ad8a7-cfea-4707-9daa-4457c2fbf332": {
+          "type": "question",
+          "settings": {
+            "title": "SHOULD I USE THE DEOSPRAY IF MY DISCHARGE SMELLS BAD?",
+            "text": "<p>Discharge has a naturally sour smell and is milky white in color. If that smell, color or texture changes, please see your doctor. The DeoSpray is formulated with corn starch to to absorb moisture from vulvar sweat. It does not mask or alter smell from discharge, STIs or vaginal infections.</p>"
+          }
+        },
+        "4dfbcf3f-00d9-42dd-bb85-8f9a8c1f5855": {
+          "type": "question",
+          "settings": {
+            "title": "WHY DID YOU DEVELOP AN INTIMATE DEODORANT?",
+            "text": "<p>The sweat glands that exist in the armpits and the intimate area are the same. They are called apocrine sweat glands and they empty into hair follicles. So wherever there is hair in those areas, there may also be sweat. Sweating is natural and there are many deodorants for armpits available on the market for those who chose to use them. The same goes for the intimate/groin area for both men and women, however, this area is highly sensitive and cannot be treated with the same products formulated for the armpits. We created a safe and doctor-developed product for those that would like to use it.</p><p>As doctors, we have seen patients with sweat concerns that overwash or use incorrectly formulated products which can give them infections. It was our responsibility to give them a safe and effective solution to prevent them from unsafe habits. That is why we chose to develop an intimate deodorant that we as doctors can actually recommend.</p>"
+          }
+        },
+        "ac7850e6-045e-42c3-961d-b3d5b59222d7": {
+          "type": "question",
+          "settings": {
+            "title": "DOES THE PRODUCT CONTAIN ANY DANGEROUS INGREDIENTS?",
+            "text": "<p>All of our products are approved by the Medical Products Agency and follow European Union guidelines for the manufacturing of cosmetic products. The products are also reviewed and approved by Swedish pharmacies that are known for their strict regulation of products. Nothing in the products is dangerous for women or we would not be approved to sell them.</p>"
+          }
+        },
+        "68d8a107-7083-4b7d-80ad-d1043e6e1e9b": {
+          "type": "question",
+          "settings": {
+            "title": "HOW MANY WIPES ARE IN A BOX?",
+            "text": "<p>The box contains 10 individually wrapped wipes.</p>"
+          }
+        },
+        "e564df40-c133-4e43-b106-7cd0dc657e84": {
+          "type": "question",
+          "settings": {
+            "title": "WHY DO YOUR PRODUCTS CONTAIN PERFUME?",
+            "text": "<p>DeoDoc only uses hypoallergenic scents/perfumes in all of our products. Hypoallergenic scents are free from alcohol, allergens and irritants, therefore, they are safe for intimate skin.<br/><br/>Regular perfume should never be used in the intimate area as it contains:<br/><br/>- alcohol which can have a dehydrating effect<br/><br/>- allergens that can cause irritation</p>"
+          }
+        },
+        "8aaf9587-4c33-44f5-8930-a6407dddd854": {
+          "type": "question",
+          "settings": {
+            "title": "ARE DEODOC'S PRODUCTS SAFE TO USE?",
+            "text": "<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br/><br/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br/><br/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br/><br/>- Products are dermatologically tested for sensitive skin<br/><br/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg</p>"
+          }
+        },
+        "d5e7391b-124a-40b5-b9c1-64d44b84fa17": {
+          "type": "question",
+          "settings": {
+            "title": "ARE DEODOC'S PRODUCTS VEGAN?",
+            "text": "<p>Yes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15103162941576__e5529884-c1e8-4308-a39e-59c18003e1a4-1665142611df6748a6-0",
+        "template--15103162941576__e5529884-c1e8-4308-a39e-59c18003e1a4-1665142611df6748a6-1",
+        "d28f75cf-a2b9-4361-9bca-9faa5a8e080d",
+        "9f2ad8a7-cfea-4707-9daa-4457c2fbf332",
+        "4dfbcf3f-00d9-42dd-bb85-8f9a8c1f5855",
+        "ac7850e6-045e-42c3-961d-b3d5b59222d7",
+        "68d8a107-7083-4b7d-80ad-d1043e6e1e9b",
+        "e564df40-c133-4e43-b106-7cd0dc657e84",
+        "8aaf9587-4c33-44f5-8930-a6407dddd854",
+        "d5e7391b-124a-40b5-b9c1-64d44b84fa17"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Recently Viewed",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1662477214675e34e5": {
+      "type": "apps",
+      "blocks": {
+        "b087bedb-9c06-4d58-8904-c3e9803509e7": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "b087bedb-9c06-4d58-8904-c3e9803509e7"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You May Also Like",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "guarantees",
+    "1658133913d28abc37",
+    "product-details",
+    "multicolumn",
+    "e5529884-c1e8-4308-a39e-59c18003e1a4",
+    "recently-viewed-products",
+    "1662477214675e34e5",
+    "product-recommendations"
+  ]
+}

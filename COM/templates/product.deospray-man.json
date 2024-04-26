@@ -1,1 +1,524 @@
-{"sections":{"empty-space":{"type":"empty-space","settings":{"desktop_height":8,"mobile_height":0}},"main":{"type":"main-product","blocks":{"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":true}},"vendor":{"type":"text","disabled":true,"settings":{"icon":"none","text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{"title_size":"h2"}},"rating":{"type":"rating","settings":{}},"price":{"type":"price","settings":{}},"countdown":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#ffeeee"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":true,"show_dynamic_checkout":false}},"4409912f-2ae4-4aa2-926e-1272b56e3e16":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Betalsatt_SE.png","height":28,"link":""}},"variant_picker":{"type":"variant_picker","settings":{"show_variant_labels":true,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"description":{"type":"description","settings":{}},"b614a68f-4156-4bff-8e3c-ae66b38cb10a":{"type":"collapsible_tab","settings":{"icon":"none","heading":"PRODUKTSPECIFIKATION","content":"<p>-Utvecklad av läkare<\/p><p>-Dermatologiskt testad<\/p><p>-Fri från allergener, alkohol och parabener<\/p><p>-Tillverkad i Sverige<\/p><p>-100% vegansk<\/p>","page":""}},"collapsible_tab-0":{"type":"collapsible_tab","settings":{"icon":"none","heading":"ANVÄNDNING","content":"<p>Skaka innan användning och spraya från ca 15 cm avstånd på intimområdet som normalt är hårbeklätt. De apokrina svettkörtlarna tömmer sig i hårsäckar, spraya således enbart i ljumskar och hårbeklätt område.  Sprayen kan användas på nyrakad hud. Produkten ska ej användas på skadad eller irriterad hud.<\/p><p> <\/p><p>DeoDoc Intimate DeoSpray kan användas för dagligt bruk.<\/p>","page":"shaving-kit"}},"collapsible_tab-1":{"type":"collapsible_tab","settings":{"icon":"none","heading":"INGREDIENSER","content":"<p>Butane, Isobutane, Aluminum Chlorohydrate, Dimethicone, Propane, Isopropyl Myristate, Disteardimonium Hectorite, Citronellyl Methylcrotonate, Limnanthes Alba <\/p><p>(Meadowfoam) Seed Oil, Parfum.<\/p>","page":""}},"share":{"type":"share","settings":{}},"related_buttons":{"type":"related_buttons","disabled":true,"settings":{"show_icons":false}},"sticky_cart":{"type":"sticky_cart","settings":{"show_quantity_selector":false}}},"block_order":["breadcrumb","vendor","title","rating","price","countdown","buy_buttons","4409912f-2ae4-4aa2-926e-1272b56e3e16","variant_picker","description","b614a68f-4156-4bff-8e3c-ae66b38cb10a","collapsible_tab-0","collapsible_tab-1","share","related_buttons","sticky_cart"],"settings":{"enable_sticky_info":true,"media_size":"small","gallery_layout":"thumbnail_slider","image_ratio":"adapt","show_thumbnails":true,"hide_variants":true,"enable_image_zoom":true,"enable_video_looping":false,"mobile_image_ratio":"adapt_first","show_mobile_thumbnails":true,"padding_top":0,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"Addera till din intimvård","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"guarantees":{"type":"guarantees","blocks":{"guarantee-2":{"type":"guarantee","settings":{"icon":"clipboard","title":"Vetenskapligt baserat","title_size":"h4","text":""}},"guarantee-1":{"type":"guarantee","settings":{"icon":"heart","title":"Utvecklat av gynekologer","title_size":"h4","text":""}},"guarantee-3":{"type":"guarantee","settings":{"icon":"globe","title":"Tillverkat i Sverige","title_size":"h4","text":""}},"guarantee-0":{"type":"guarantee","settings":{"icon":"leaf","title":"100% Veganskt","title_size":"h4","text":""}}},"block_order":["guarantee-2","guarantee-1","guarantee-3","guarantee-0"],"settings":{"heading":"","heading_size":"h1","layout":"default","column_alignment":"center","secondary_background":false,"full_width":false,"show_divider":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1658133913d28abc37":{"type":"image-with-text","blocks":{"1658133913405b7b25-0":{"type":"heading","settings":{"heading":"Doktorn Tipsar","heading_size":"h1"}},"1658133913405b7b25-1":{"type":"text","settings":{"text":"<p><em>\"Samma apokrina svettkörtlar som finns under armarna finns även i intimområdet både hos män och kvinnor. Baserat på vår kliniska erfarenhet vet vi att svettning i intimområdet kan vara besvärande för vissa. Baserat på detta behov har vi därför utvecklat en intimdeodorant som är speciellt formulerad för intimhuden.\"<br\/><br\/><\/em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>","text_size":"typeset2","secondary_color":false}},"1658133913405b7b25-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1658133913405b7b25-0","1658133913405b7b25-1","1658133913405b7b25-2"],"settings":{"image":"shopify:\/\/shop_images\/IMG_7873_fbbad9b0-efd4-4dfe-9298-a72135f14fed.jpg","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"650px","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"product-details":{"type":"product-details","disabled":true,"blocks":{"product-details-0":{"type":"description","disabled":true,"settings":{"heading":""}},"product-details-1":{"type":"collapsible_tab","settings":{"heading":"1. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-2":{"type":"collapsible_tab","settings":{"heading":"2. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-3":{"type":"collapsible_tab","settings":{"heading":"3. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}}},"block_order":["product-details-0","product-details-1","product-details-2","product-details-3"],"settings":{"heading":"Collapsible tabs","heading_size":"h2","padding_top":36,"padding_bottom":36}},"multicolumn":{"type":"multicolumn","disabled":true,"blocks":{"column-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/2_ca648a13-2db8-4e59-8f9d-17a31d7f8f39.png","title":"","title_size":"h2","text":"","button_label":"","button_link":"","button_style_secondary":false}},"column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/3_742b9e9d-6f99-4d12-9ed6-228d0e7807a8.png","title":"","title_size":"h2","text":"","button_label":"","button_link":"","button_style_secondary":false}},"column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/4_dcfb0300-639a-4818-9d96-5f28796d2e3a.png","title":"","title_size":"h2","text":"","button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["column-0","column-1","column-2"],"settings":{"heading":"Användning","heading_size":"h2","image_ratio":"square","image_position":"top center","text_alignment":"left","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"e53aea4e-5a2e-449c-b4fe-f3a23ca30d0d":{"type":"faq","blocks":{"template--15542006022300__e53aea4e-5a2e-449c-b4fe-f3a23ca30d0d-166807623732d4b099-0":{"type":"question","settings":{"title":"HUR ANVÄNDS DEOSPRAYEN?","text":"<p>Sprayas på ljumskar och yttre delen av skrotum som är hårbeklätt. Där det finns hår, där finns även svettkörtlar (apokrina svettkörtlar tömmer sig i hårsäckar).<\/p>"}},"template--15542006022300__e53aea4e-5a2e-449c-b4fe-f3a23ca30d0d-166807623732d4b099-1":{"type":"question","settings":{"title":"SKA JAG INTE UPPSÖKA LÄKARE VID LUKT FRÅN UNDERLIVET?","text":"<p>Om du har en flytning som ändrat karaktär eller lukt ska en läkare uppsökas då detta kan vara en indikation på vaginal åkomma. Om flytningen är normal, kan det handla om normal svettlukt och DeoDocs deospray kan provas.<\/p>"}},"f1be59eb-6046-451b-9b24-3bc1ec34b840":{"type":"question","settings":{"title":"SKA JAG ANVÄNDA DEOSPRAY VID ILLALUKTANDE FLYTNINGAR?","text":"<p>Nej, sprayen ska ej användas vid illaluktande flytningar. Istället ska en läkare konsulteras då detta kan vara en vaginal åkomma. Sprayen är endast avsedd för ljumskar och det hårbeklädda området i vulvan.<\/p>"}},"55c78251-6171-456d-a90b-9e0cac696c28":{"type":"question","settings":{"title":"DÖLJER INTE DEOSPRAYEN LUKT SOM ÄR FÖRENLIG MED VAGINAL ÅKOMMA?","text":"<p>Deosprayen har inte förmågan att dölja vaginal åkomma från vaginan. Sprayen är enbart svetthämmande och avsedd för ljumskar och hårbeklätt område i vulvan.<\/p>"}},"ab6ec558-38aa-4c6f-9014-96c72cf3ab29":{"type":"question","settings":{"title":"VARFÖR HAR NI UTVECKLAT EN INTIMDEODORANT?","text":"<p>Armhålan och intimområdet har samma typ av svettkörtlar, nämligen apokrina svettkörtlar. Att svettas och lukta från armhålan är naturligt, trots det finns det idag deodoranter för armhålan för de som vill använda det. Samma svettmekanism gäller även intimområdet, vilket betyder att man kan svettas från ljumskar, vulva eller pung. Precis som att deodorant för armhålan är en valfri möjlighet, bör även möjligheten för en gynekolog- och läkarutvecklad intimdeodorant finnas. <\/p><p><br\/>Baserat på vår kliniska erfarenhet har vi sett hur svettning och lukt besvärat våra patienter. Detta har lett till överdriven tvättning och användande av fel produkter. Detta har lett till olika former av besvär och irritation, och av den anledningen valde vi att ta fram en produkt som vi själva kunde rekommendera. <\/p>"}},"3760cdd8-9cc1-42ca-900b-00b175bf370a":{"type":"question","settings":{"title":"ÄR DET FARLIGA INGREDIENSER I PRODUKTEN?","text":"<p>Ingredienserna är noggrant säkerhetsbedömda för användningsområdet enligt EU:s lagstiftning för kosmetiska produkter.<\/p>"}},"47641de9-e5af-4f59-9874-828d4e0d6548":{"type":"question","settings":{"title":"Varför har ni aluminium i deosprayen?","text":"<p>Vi har aluminiumsalt i vår intimdeo då detta ger den bästa och mest effektivaste svetthämmande verkan. Alla antiperspiranter innehåller aluminiumsalt.<\/p><p>Det många inte vet om är att vi exponeras för aluminium via maten dagligen. Exponeringen som fås via en antiperspirant är i <strong>mycket låga halter jämfört med vad vi får i oss via födan.<\/strong><\/p><p>Antiperspiranter är kosmetiska produkter och måste enligt EU-gemensamma kosmetiska regler vara dokumenterat säkra för konsumenten som använder produkten på ett normalt och förutsebart sätt. DeoDoc följer givetvis dessa regelverk och vi har dessutom testat produkten ytterligare genom gynekologiska tester.<\/p><p>Vi erbjuder även aluminiumfria deosprayer för den som önskar ett aluminiumfritt alternativ. <\/p>"}}},"block_order":["template--15542006022300__e53aea4e-5a2e-449c-b4fe-f3a23ca30d0d-166807623732d4b099-0","template--15542006022300__e53aea4e-5a2e-449c-b4fe-f3a23ca30d0d-166807623732d4b099-1","f1be59eb-6046-451b-9b24-3bc1ec34b840","55c78251-6171-456d-a90b-9e0cac696c28","ab6ec558-38aa-4c6f-9014-96c72cf3ab29","3760cdd8-9cc1-42ca-900b-00b175bf370a","47641de9-e5af-4f59-9874-828d4e0d6548"],"settings":{"heading":"FAQs","heading_size":"h2","narrow":true,"secondary_background":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"recently-viewed-products":{"type":"recently-viewed-products","disabled":true,"settings":{"heading":"Nyligen visade produkter","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"166369117561b02932":{"type":"apps","blocks":{"e8657a88-3f23-4a07-9c51-68856607fb9d":{"type":"shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f","settings":{}}},"block_order":["e8657a88-3f23-4a07-9c51-68856607fb9d"],"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}}},"order":["empty-space","main","product-recommendations","guarantees","1658133913d28abc37","product-details","multicolumn","e53aea4e-5a2e-449c-b4fe-f3a23ca30d0d","recently-viewed-products","166369117561b02932"]}
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 8,
+        "mobile_height": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": true
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false
+          }
+        },
+        "4409912f-2ae4-4aa2-926e-1272b56e3e16": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Betalsatt_SE.png",
+            "height": 28,
+            "link": ""
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "PRODUKTSPECIFIKATION",
+            "content": "<p>-Utvecklad av läkare</p><p>-Dermatologiskt testad</p><p>-Fri från allergener, alkohol och parabener</p><p>-Tillverkad i Sverige</p><p>-100% vegansk</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "ANVÄNDNING",
+            "content": "<p>Skaka innan användning och spraya från ca 15 cm avstånd på intimområdet som normalt är hårbeklätt. De apokrina svettkörtlarna tömmer sig i hårsäckar, spraya således enbart i ljumskar och hårbeklätt område.  Sprayen kan användas på nyrakad hud. Produkten ska ej användas på skadad eller irriterad hud.</p><p> </p><p>DeoDoc Intimate DeoSpray kan användas för dagligt bruk.</p>",
+            "page": "shaving-kit"
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "INGREDIENSER",
+            "content": "<p>Butane, Isobutane, Aluminum Chlorohydrate, Dimethicone, Propane, Isopropyl Myristate, Disteardimonium Hectorite, Citronellyl Methylcrotonate, Limnanthes Alba </p><p>(Meadowfoam) Seed Oil, Parfum.</p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb",
+        "vendor",
+        "title",
+        "rating",
+        "price",
+        "countdown",
+        "buy_buttons",
+        "4409912f-2ae4-4aa2-926e-1272b56e3e16",
+        "variant_picker",
+        "description",
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "share",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Addera till din intimvård",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "clipboard",
+            "title": "Vetenskapligt baserat",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "title": "Utvecklat av gynekologer",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "globe",
+            "title": "Tillverkat i Sverige",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "title": "100% Veganskt",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-3",
+        "guarantee-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "default",
+        "column_alignment": "center",
+        "secondary_background": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658133913d28abc37": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658133913405b7b25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doktorn Tipsar",
+            "heading_size": "h1"
+          }
+        },
+        "1658133913405b7b25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Samma apokrina svettkörtlar som finns under armarna finns även i intimområdet både hos män och kvinnor. Baserat på vår kliniska erfarenhet vet vi att svettning i intimområdet kan vara besvärande för vissa. Baserat på detta behov har vi därför utvecklat en intimdeodorant som är speciellt formulerad för intimhuden.\"<br/><br/></em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet</strong></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "1658133913405b7b25-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658133913405b7b25-0",
+        "1658133913405b7b25-1",
+        "1658133913405b7b25-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_7873_fbbad9b0-efd4-4dfe-9298-a72135f14fed.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-details": {
+      "type": "product-details",
+      "blocks": {
+        "product-details-0": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "product-details-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "product-details-0",
+        "product-details-1",
+        "product-details-2",
+        "product-details-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Collapsible tabs",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2_ca648a13-2db8-4e59-8f9d-17a31d7f8f39.png",
+            "title": "",
+            "title_size": "h2",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/3_742b9e9d-6f99-4d12-9ed6-228d0e7807a8.png",
+            "title": "",
+            "title_size": "h2",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/4_dcfb0300-639a-4818-9d96-5f28796d2e3a.png",
+            "title": "",
+            "title_size": "h2",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Användning",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_position": "top center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e53aea4e-5a2e-449c-b4fe-f3a23ca30d0d": {
+      "type": "faq",
+      "blocks": {
+        "template--15542006022300__e53aea4e-5a2e-449c-b4fe-f3a23ca30d0d-166807623732d4b099-0": {
+          "type": "question",
+          "settings": {
+            "title": "HUR ANVÄNDS DEOSPRAYEN?",
+            "text": "<p>Sprayas på ljumskar och yttre delen av skrotum som är hårbeklätt. Där det finns hår, där finns även svettkörtlar (apokrina svettkörtlar tömmer sig i hårsäckar).</p>"
+          }
+        },
+        "template--15542006022300__e53aea4e-5a2e-449c-b4fe-f3a23ca30d0d-166807623732d4b099-1": {
+          "type": "question",
+          "settings": {
+            "title": "SKA JAG INTE UPPSÖKA LÄKARE VID LUKT FRÅN UNDERLIVET?",
+            "text": "<p>Om du har en flytning som ändrat karaktär eller lukt ska en läkare uppsökas då detta kan vara en indikation på vaginal åkomma. Om flytningen är normal, kan det handla om normal svettlukt och DeoDocs deospray kan provas.</p>"
+          }
+        },
+        "f1be59eb-6046-451b-9b24-3bc1ec34b840": {
+          "type": "question",
+          "settings": {
+            "title": "SKA JAG ANVÄNDA DEOSPRAY VID ILLALUKTANDE FLYTNINGAR?",
+            "text": "<p>Nej, sprayen ska ej användas vid illaluktande flytningar. Istället ska en läkare konsulteras då detta kan vara en vaginal åkomma. Sprayen är endast avsedd för ljumskar och det hårbeklädda området i vulvan.</p>"
+          }
+        },
+        "55c78251-6171-456d-a90b-9e0cac696c28": {
+          "type": "question",
+          "settings": {
+            "title": "DÖLJER INTE DEOSPRAYEN LUKT SOM ÄR FÖRENLIG MED VAGINAL ÅKOMMA?",
+            "text": "<p>Deosprayen har inte förmågan att dölja vaginal åkomma från vaginan. Sprayen är enbart svetthämmande och avsedd för ljumskar och hårbeklätt område i vulvan.</p>"
+          }
+        },
+        "ab6ec558-38aa-4c6f-9014-96c72cf3ab29": {
+          "type": "question",
+          "settings": {
+            "title": "VARFÖR HAR NI UTVECKLAT EN INTIMDEODORANT?",
+            "text": "<p>Armhålan och intimområdet har samma typ av svettkörtlar, nämligen apokrina svettkörtlar. Att svettas och lukta från armhålan är naturligt, trots det finns det idag deodoranter för armhålan för de som vill använda det. Samma svettmekanism gäller även intimområdet, vilket betyder att man kan svettas från ljumskar, vulva eller pung. Precis som att deodorant för armhålan är en valfri möjlighet, bör även möjligheten för en gynekolog- och läkarutvecklad intimdeodorant finnas. </p><p><br/>Baserat på vår kliniska erfarenhet har vi sett hur svettning och lukt besvärat våra patienter. Detta har lett till överdriven tvättning och användande av fel produkter. Detta har lett till olika former av besvär och irritation, och av den anledningen valde vi att ta fram en produkt som vi själva kunde rekommendera. </p>"
+          }
+        },
+        "3760cdd8-9cc1-42ca-900b-00b175bf370a": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DET FARLIGA INGREDIENSER I PRODUKTEN?",
+            "text": "<p>Ingredienserna är noggrant säkerhetsbedömda för användningsområdet enligt EU:s lagstiftning för kosmetiska produkter.</p>"
+          }
+        },
+        "47641de9-e5af-4f59-9874-828d4e0d6548": {
+          "type": "question",
+          "settings": {
+            "title": "Varför har ni aluminium i deosprayen?",
+            "text": "<p>Vi har aluminiumsalt i vår intimdeo då detta ger den bästa och mest effektivaste svetthämmande verkan. Alla antiperspiranter innehåller aluminiumsalt.</p><p>Det många inte vet om är att vi exponeras för aluminium via maten dagligen. Exponeringen som fås via en antiperspirant är i <strong>mycket låga halter jämfört med vad vi får i oss via födan.</strong></p><p>Antiperspiranter är kosmetiska produkter och måste enligt EU-gemensamma kosmetiska regler vara dokumenterat säkra för konsumenten som använder produkten på ett normalt och förutsebart sätt. DeoDoc följer givetvis dessa regelverk och vi har dessutom testat produkten ytterligare genom gynekologiska tester.</p><p>Vi erbjuder även aluminiumfria deosprayer för den som önskar ett aluminiumfritt alternativ. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15542006022300__e53aea4e-5a2e-449c-b4fe-f3a23ca30d0d-166807623732d4b099-0",
+        "template--15542006022300__e53aea4e-5a2e-449c-b4fe-f3a23ca30d0d-166807623732d4b099-1",
+        "f1be59eb-6046-451b-9b24-3bc1ec34b840",
+        "55c78251-6171-456d-a90b-9e0cac696c28",
+        "ab6ec558-38aa-4c6f-9014-96c72cf3ab29",
+        "3760cdd8-9cc1-42ca-900b-00b175bf370a",
+        "47641de9-e5af-4f59-9874-828d4e0d6548"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Nyligen visade produkter",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166369117561b02932": {
+      "type": "apps",
+      "blocks": {
+        "e8657a88-3f23-4a07-9c51-68856607fb9d": {
+          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "e8657a88-3f23-4a07-9c51-68856607fb9d"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "product-recommendations",
+    "guarantees",
+    "1658133913d28abc37",
+    "product-details",
+    "multicolumn",
+    "e53aea4e-5a2e-449c-b4fe-f3a23ca30d0d",
+    "recently-viewed-products",
+    "166369117561b02932"
+  ]
+}

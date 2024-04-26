@@ -1,1 +1,162 @@
-{"sections":{"main":{"type":"main-article","blocks":{"featured_image":{"type":"featured_image","disabled":true,"settings":{"image_height":"adapt"}},"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":false}},"title":{"type":"title","settings":{"blog_show_date":false,"blog_show_author":false,"blog_show_comment_count":false}},"content":{"type":"content","settings":{}},"share":{"type":"share","disabled":true,"settings":{}},"back_to_blog":{"type":"back_to_blog","disabled":true,"settings":{}},"next_previous_posts":{"type":"next_previous_posts","disabled":true,"settings":{}}},"block_order":["featured_image","breadcrumb","title","content","share","back_to_blog","next_previous_posts"],"settings":{"show_gravatar":true,"padding_top":0,"padding_bottom":16}},"87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8":{"type":"rich-text","disabled":true,"blocks":{"template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-0":{"type":"heading","settings":{"heading":"LET'S START FROM THE BEGINNING. WHAT EVEN IS MENOPAUSE?","heading_size":"h2"}},"template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-1":{"type":"text","settings":{"text":"<p>Despite popular belief, the entire female anatomy is not the vagina. We’ve worked in women’s healthcare for years and we have seen firsthand the many misconceptions women have about their female anatomy.<br\/><br\/>To break it down, externally we have a vulva, outer labia and inner labia. Internally we have the vagina, cervix, urethra, fallopian tubes, and ovaries. <br\/><br\/>The vulva, inner labia and outer labia should be washed. The main reason for washing is that the same sweat glands that exist in our armpits, also exist in these three areas. They are called <span style=\"text-decoration:underline\"><strong>apocrine sweat glands<\/strong><\/span> and they empty into hair follicles. So wherever there is hair down there, should and can be washed with a gentle, pH-balanced intimate wash.<\/p><p>Inside the vagina there is a pH of 3.5 – which is very acidic. Just like the vulva, the vagina also has a very delicate ecosystem. No soaps, body washes or douches should ever be used inside your vagina (or vaginal canal) as the vagina is self-cleansing. Vaginas naturally produce discharge as a completely normal housekeeping function. When you use an appropriate cleanser on your vulva, excess discharge is rinsed away so you never disrupt the natural internal pH or wash away any good-for-you bacteria.<br\/><br\/>How well do you know your female anatomy? Check out our educational pictures below to become a vulva and vagina expert!<\/p>","text_size":"typeset2","secondary_color":false}}},"block_order":["template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-0","template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-1"],"settings":{"text_alignment":"left","narrow":true,"show_divider":false,"mobile_text_alignment":"left","padding_top":0,"padding_bottom":36}},"15d77a3c-d19c-452f-b93f-312a9cb1ec5c":{"type":"image-banner","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Skarmavbild_2022-11-25_kl._09.53.37.png","image_position":"center center","text_box_position":"middle-center","text_alignment":"center","image_ratio":"adapt","show_text_box":false,"full_width":false,"show_divider":false,"mobile_text_alignment":"center","mobile_image_ratio":"auto","stack_images_on_mobile":true,"show_text_below":true,"colors_text":"#ffffff","colors_overlay":"#000000","colors_overlay_opacity":0,"padding_top":36,"padding_bottom":36}},"featured-blog":{"type":"featured-blog","blocks":{"title":{"type":"title","disabled":true,"settings":{"show_date":true,"show_author":false,"show_comment_count":true}},"1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c":{"type":"summary","settings":{}}},"block_order":["title","1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c"],"settings":{"heading":"DISCOVER MORE","heading_size":"h2","blog":"blog","post_limit":3,"show_view_all":true,"show_divider":false,"columns_mobile":"1","swipe_on_mobile":true,"show_image":true,"image_ratio":"landscape","image_position":"center center","padding_top":36,"padding_bottom":72}}},"order":["main","87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8","15d77a3c-d19c-452f-b93f-312a9cb1ec5c","featured-blog"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false,
+            "blog_show_comment_count": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        },
+        "back_to_blog": {
+          "type": "back_to_blog",
+          "disabled": true,
+          "settings": {}
+        },
+        "next_previous_posts": {
+          "type": "next_previous_posts",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "breadcrumb",
+        "title",
+        "content",
+        "share",
+        "back_to_blog",
+        "next_previous_posts"
+      ],
+      "settings": {
+        "show_gravatar": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "LET'S START FROM THE BEGINNING. WHAT EVEN IS MENOPAUSE?",
+            "heading_size": "h2"
+          }
+        },
+        "template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Despite popular belief, the entire female anatomy is not the vagina. We’ve worked in women’s healthcare for years and we have seen firsthand the many misconceptions women have about their female anatomy.<br/><br/>To break it down, externally we have a vulva, outer labia and inner labia. Internally we have the vagina, cervix, urethra, fallopian tubes, and ovaries. <br/><br/>The vulva, inner labia and outer labia should be washed. The main reason for washing is that the same sweat glands that exist in our armpits, also exist in these three areas. They are called <span style=\"text-decoration:underline\"><strong>apocrine sweat glands</strong></span> and they empty into hair follicles. So wherever there is hair down there, should and can be washed with a gentle, pH-balanced intimate wash.</p><p>Inside the vagina there is a pH of 3.5 – which is very acidic. Just like the vulva, the vagina also has a very delicate ecosystem. No soaps, body washes or douches should ever be used inside your vagina (or vaginal canal) as the vagina is self-cleansing. Vaginas naturally produce discharge as a completely normal housekeeping function. When you use an appropriate cleanser on your vulva, excess discharge is rinsed away so you never disrupt the natural internal pH or wash away any good-for-you bacteria.<br/><br/>How well do you know your female anatomy? Check out our educational pictures below to become a vulva and vagina expert!</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-0",
+        "template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "15d77a3c-d19c-452f-b93f-312a9cb1ec5c": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Skarmavbild_2022-11-25_kl._09.53.37.png",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "adapt",
+        "show_text_box": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured-blog": {
+      "type": "featured-blog",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comment_count": true
+          }
+        },
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c": {
+          "type": "summary",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c"
+      ],
+      "settings": {
+        "heading": "DISCOVER MORE",
+        "heading_size": "h2",
+        "blog": "blog",
+        "post_limit": 3,
+        "show_view_all": true,
+        "show_divider": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_image": true,
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "main",
+    "87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8",
+    "15d77a3c-d19c-452f-b93f-312a9cb1ec5c",
+    "featured-blog"
+  ]
+}

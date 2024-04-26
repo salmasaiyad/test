@@ -1,1 +1,210 @@
-{"sections":{"main":{"type":"main-article","blocks":{"featured_image":{"type":"featured_image","disabled":true,"settings":{"image_height":"adapt"}},"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":false}},"title":{"type":"title","settings":{"blog_show_date":false,"blog_show_author":false,"blog_show_comment_count":false}},"content":{"type":"content","disabled":true,"settings":{}},"share":{"type":"share","disabled":true,"settings":{}},"back_to_blog":{"type":"back_to_blog","disabled":true,"settings":{}},"next_previous_posts":{"type":"next_previous_posts","disabled":true,"settings":{}}},"block_order":["featured_image","breadcrumb","title","content","share","back_to_blog","next_previous_posts"],"settings":{"show_gravatar":true,"padding_top":0,"padding_bottom":36}},"40862cbb-ba7c-4c0b-aa58-8479def55f8a":{"type":"rich-text","blocks":{"template--15321823641736__40862cbb-ba7c-4c0b-aa58-8479def55f8a-16702349373f864b87-1":{"type":"text","settings":{"text":"<p>Even though all women in the world will go through it, there’s still taboo and lack of knowledge about menopause. Seven out of ten women suffer from menopausal symptoms, but only one out of ten receive treatment. Many suffer in silence from their menopausal problems and we want to change that!<em> <\/em><\/p>","text_size":"typeset2","secondary_color":false}}},"block_order":["template--15321823641736__40862cbb-ba7c-4c0b-aa58-8479def55f8a-16702349373f864b87-1"],"settings":{"text_alignment":"left","narrow":true,"show_divider":false,"mobile_text_alignment":"left","padding_top":36,"padding_bottom":12}},"87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8":{"type":"rich-text","blocks":{"template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-0":{"type":"heading","settings":{"heading":"LET'S START FROM THE BEGINNING. WHAT EVEN IS MENOPAUSE?","heading_size":"h2"}},"template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-1":{"type":"text","settings":{"text":"<p>Anyone who menstruates will eventually enter menopause as it is a natural, biological process that typically occurs between the ages of 45 and 55. <br\/><br\/>Menopause occurs due to a natural decline in hormonal functions of the ovaries which results in a reduction of estrogen. Almost all symptoms can be attributed to the decreasing hormone production of estrogen. By definition, menopause is the point in time when menstruation has not occurred for 12 months in a row. Anything before that is called perimenopause and anything after that is called post-menopause. <br\/><br\/>As doctors, we see that many women confuse perimenopause for menopause as the perimenopausal stage is when the symptoms begin to show. The symptoms are of course very individual, but the most common ones are: irregular periods, hot flashes, vulvar and vaginal dryness, mood changes, night sweats and pain during intercourse. <br\/><br\/>It is very important to know that some treatments and medications treat and help relieve menopause symptoms, which is why we always recommend visiting your doctor if you have any problems.<br\/>Although many of the symptoms associated with menopause may fade away with time, vulvar and vaginal dryness rarely does. From our clinical work as a gynecologist and doctors, we usually recommend an oil routine for the delicate vulvar skin. Plant-based oils provide intense hydration and help repair the skin barrier.<\/p><p><\/p><p><br\/>XO,<br\/>Dr. Hedieh and Dr. Gunvor<\/p>","text_size":"typeset2","secondary_color":false}}},"block_order":["template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-0","template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-1"],"settings":{"text_alignment":"left","narrow":true,"show_divider":false,"mobile_text_alignment":"left","padding_top":36,"padding_bottom":36}},"95cbc348-f1cf-45c6-9125-3e47c696df97":{"type":"multicolumn","blocks":{"template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Cleansing_Oil.png","title":"CLEANSING OIL","title_size":"h3","text":"<p>Our most nourishing wash is formulated with 100% plant-based oils to leave skin soft and supple.<\/p>","button_label":"Shop Now","button_link":"shopify:\/\/products\/cleansing-oil","button_style_secondary":false}},"template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Calming_Oil_1de109c9-ef87-4580-986b-ec878e704eb0.png","title":"CALMING OIL","title_size":"h3","text":"<p>Our bestselling leave-on oil with soothing and moisturizing properties. Can be described as a body lotion, but for the vulva.<\/p>","button_label":"Shop Now","button_link":"shopify:\/\/products\/calming-oil","button_style_secondary":false}}},"block_order":["template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-0","template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-1"],"settings":{"heading":"","heading_size":"h1","image_ratio":"portrait","image_position":"center center","text_alignment":"center","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":false,"padding_top":24,"padding_bottom":36}},"featured-blog":{"type":"featured-blog","blocks":{"title":{"type":"title","disabled":true,"settings":{"show_date":true,"show_author":false,"show_comment_count":true}},"1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c":{"type":"summary","settings":{}}},"block_order":["title","1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c"],"settings":{"heading":"DISCOVER MORE","heading_size":"h2","blog":"blog","post_limit":3,"show_view_all":true,"show_divider":false,"columns_mobile":"1","swipe_on_mobile":true,"show_image":true,"image_ratio":"landscape","image_position":"center center","padding_top":36,"padding_bottom":72}}},"order":["main","40862cbb-ba7c-4c0b-aa58-8479def55f8a","87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8","95cbc348-f1cf-45c6-9125-3e47c696df97","featured-blog"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false,
+            "blog_show_comment_count": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "disabled": true,
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        },
+        "back_to_blog": {
+          "type": "back_to_blog",
+          "disabled": true,
+          "settings": {}
+        },
+        "next_previous_posts": {
+          "type": "next_previous_posts",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "breadcrumb",
+        "title",
+        "content",
+        "share",
+        "back_to_blog",
+        "next_previous_posts"
+      ],
+      "settings": {
+        "show_gravatar": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "40862cbb-ba7c-4c0b-aa58-8479def55f8a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15321823641736__40862cbb-ba7c-4c0b-aa58-8479def55f8a-16702349373f864b87-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Even though all women in the world will go through it, there’s still taboo and lack of knowledge about menopause. Seven out of ten women suffer from menopausal symptoms, but only one out of ten receive treatment. Many suffer in silence from their menopausal problems and we want to change that!<em> </em></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823641736__40862cbb-ba7c-4c0b-aa58-8479def55f8a-16702349373f864b87-1"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "LET'S START FROM THE BEGINNING. WHAT EVEN IS MENOPAUSE?",
+            "heading_size": "h2"
+          }
+        },
+        "template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Anyone who menstruates will eventually enter menopause as it is a natural, biological process that typically occurs between the ages of 45 and 55. <br/><br/>Menopause occurs due to a natural decline in hormonal functions of the ovaries which results in a reduction of estrogen. Almost all symptoms can be attributed to the decreasing hormone production of estrogen. By definition, menopause is the point in time when menstruation has not occurred for 12 months in a row. Anything before that is called perimenopause and anything after that is called post-menopause. <br/><br/>As doctors, we see that many women confuse perimenopause for menopause as the perimenopausal stage is when the symptoms begin to show. The symptoms are of course very individual, but the most common ones are: irregular periods, hot flashes, vulvar and vaginal dryness, mood changes, night sweats and pain during intercourse. <br/><br/>It is very important to know that some treatments and medications treat and help relieve menopause symptoms, which is why we always recommend visiting your doctor if you have any problems.<br/>Although many of the symptoms associated with menopause may fade away with time, vulvar and vaginal dryness rarely does. From our clinical work as a gynecologist and doctors, we usually recommend an oil routine for the delicate vulvar skin. Plant-based oils provide intense hydration and help repair the skin barrier.</p><p></p><p><br/>XO,<br/>Dr. Hedieh and Dr. Gunvor</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-0",
+        "template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-1"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "95cbc348-f1cf-45c6-9125-3e47c696df97": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Cleansing_Oil.png",
+            "title": "CLEANSING OIL",
+            "title_size": "h3",
+            "text": "<p>Our most nourishing wash is formulated with 100% plant-based oils to leave skin soft and supple.</p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/cleansing-oil",
+            "button_style_secondary": false
+          }
+        },
+        "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Calming_Oil_1de109c9-ef87-4580-986b-ec878e704eb0.png",
+            "title": "CALMING OIL",
+            "title_size": "h3",
+            "text": "<p>Our bestselling leave-on oil with soothing and moisturizing properties. Can be described as a body lotion, but for the vulva.</p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://products/calming-oil",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-0",
+        "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-1"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 36
+      }
+    },
+    "featured-blog": {
+      "type": "featured-blog",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comment_count": true
+          }
+        },
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c": {
+          "type": "summary",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c"
+      ],
+      "settings": {
+        "heading": "DISCOVER MORE",
+        "heading_size": "h2",
+        "blog": "blog",
+        "post_limit": 3,
+        "show_view_all": true,
+        "show_divider": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_image": true,
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "main",
+    "40862cbb-ba7c-4c0b-aa58-8479def55f8a",
+    "87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8",
+    "95cbc348-f1cf-45c6-9125-3e47c696df97",
+    "featured-blog"
+  ]
+}

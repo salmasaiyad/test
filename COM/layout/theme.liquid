@@ -41,12 +41,9 @@
     {% render 'meta-tags' %}
 
     <script src="{{ 'vendor-v4.js' | asset_url | split: '?' | first }}" defer="defer"></script>
-   
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
     <script src="{{ 'cart-drawer.js' | asset_url }}" defer="defer"></script>
-    <script src="{{ 'cartevents.js' | asset_url }}" defer="defer"></script>
-
     {{ content_for_header }}
 
     {%- liquid
@@ -237,12 +234,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     {%- if linklists.gift-wrapping.links.size > 0 and linklists.gift-wrapping.links.first.type == 'product_link' -%}
       <script src="{{ 'gift-wrapping.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
+
+     {% comment %}
     {%- if theme.id == 125262692488 -%}
       <script src="https://www.dwin1.com/23701.js" type="text/javascript" defer="defer"></script>
     {%- endif -%}
+    {% endcomment %}
   
 	{{ shop.metafields.loox["global_html_body"] }}
-    
+
+     <link rel="stylesheet" href="{{ 'product-card.css' | asset_url }}" media="print" onload="this.media='all'">
+     <noscript>{{ 'product-card.css' | asset_url | stylesheet_tag }}</noscript>
+
   {% render  'freegifts-snippet' %} 
  </body>
 </html>

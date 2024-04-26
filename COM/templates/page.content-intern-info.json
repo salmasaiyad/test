@@ -1,1 +1,341 @@
-{"sections":{"image-banner":{"type":"image-banner","disabled":true,"blocks":{"c9f309ed-935d-4a6e-9716-1d3c14af568e":{"type":"heading","settings":{"heading":"About us","heading_size":"h1"}},"heading":{"type":"heading","settings":{"heading":"About Us","heading_size":"h0"}},"text":{"type":"text","disabled":true,"settings":{"text":"<p>Share information about your brand with your customers.<\/p>","text_size":"typeset3","secondary_color":false}}},"block_order":["c9f309ed-935d-4a6e-9716-1d3c14af568e","heading","text"],"settings":{"image_position":"20% 50%","text_box_position":"top-center","text_alignment":"center","image_ratio":"550px","show_text_box":false,"full_width":true,"show_divider":false,"mobile_text_alignment":"center","mobile_image_ratio":"400px","stack_images_on_mobile":false,"show_text_below":false,"colors_text":"#ffffff","colors_overlay":"#000000","colors_overlay_opacity":16,"padding_top":0,"padding_bottom":36}},"main":{"type":"main-page","disabled":true,"settings":{"narrow":true,"padding_top":60,"padding_bottom":72}},"image-with-text-overlay":{"type":"image-with-text-overlay","disabled":true,"blocks":{"heading":{"type":"heading","settings":{"heading":"","heading_size":"h1"}},"text":{"type":"text","settings":{"text":"<p>-DeoDoc Founders <\/p>","text_size":"typeset2","secondary_color":false}},"button":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["heading","text","button"],"settings":{"image_position":"center center","text_box_position":"flex-start","text_alignment":"left","image_ratio":"550px","full_width":true,"show_divider":false,"mobile_text_box_position":"image_first","mobile_text_alignment":"center","mobile_image_ratio":"500px","colors_text":"#212326","colors_overlay":"#fef7da","colors_overlay_opacity":92,"padding_top":36,"padding_bottom":0}},"empty-space":{"type":"empty-space","settings":{"desktop_height":0,"mobile_height":48}},"16578063681b11d81a":{"type":"multicolumn","disabled":true,"blocks":{"1657806368eb1a5abf-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/22.jpg","title":"E-commerce\/ Digital marketing Intern","title_size":"h2","text":"","button_label":"READ MORE","button_link":"https:\/\/www.vogue.co.kr\/2020\/05\/18\/%ed%8e%a8%ed%85%8c%ed%81%ac%eb%a5%bc-%ec%95%84%ec%8b%9c%eb%82%98%ec%9a%94\/","button_style_secondary":false}},"1657806368eb1a5abf-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/23.jpg","title":"Content Creator Intern","title_size":"h2","text":"","button_label":"READ MORE","button_link":"https:\/\/www.violetgrey.com\/violet-files\/top-flight\/deodoc-daily-intimate-wash","button_style_secondary":false}},"2406df09-0f57-4f1f-a6cd-442f69e5a611":{"type":"column","disabled":true,"settings":{"title":"Why do razor bumps happen?","title_size":"h3","text":"<p>Expert approved products to treat and prevent razor bumps...<\/p>","button_label":"Button label","button_link":"","button_style_secondary":false}},"c8e308f3-a4c3-41c4-a1c2-73648dc1a0de":{"type":"column","disabled":true,"settings":{"title":"All the Questions You Have About How to Use a Menstrual Cup","title_size":"h3","text":"<p>Find out the key to clean your menstrual cup when you are in a public restroom...<\/p>","button_label":"Button label","button_link":"","button_style_secondary":false}},"e15ded95-6933-4724-a075-c6ad446581eb":{"type":"column","disabled":true,"settings":{"title":"Refresh Fast!","title_size":"h3","text":"<p>For the unpredictable stinky situations. Keep calm and carry on with these staples...<\/p>","button_label":"Button label","button_link":"","button_style_secondary":false}},"59382a53-55aa-4364-9f6d-53314aad62dd":{"type":"column","disabled":true,"settings":{"title":"How women entrepreneurs are disrupting the feminine market?","title_size":"h3","text":"<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...<\/p>","button_label":"Button label","button_link":"https:\/\/wwd.com\/beauty-industry-news\/beauty-features\/vagina-products-vibrators-feminist-1202758743\/","button_style_secondary":false}}},"block_order":["1657806368eb1a5abf-0","1657806368eb1a5abf-1","2406df09-0f57-4f1f-a6cd-442f69e5a611","c8e308f3-a4c3-41c4-a1c2-73648dc1a0de","e15ded95-6933-4724-a075-c6ad446581eb","59382a53-55aa-4364-9f6d-53314aad62dd"],"settings":{"heading":"Work with us","heading_size":"h1","image_ratio":"adapt","image_position":"center center","text_alignment":"center","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"2","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"16583237505565ccaa":{"type":"multicolumn","settings":{"heading":"","heading_size":"h1","image_ratio":"adapt","image_position":"center center","text_alignment":"left","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"16575421429975cb27":{"type":"video-hero","disabled":true,"blocks":{"16575421422babb9f9-0":{"type":"heading","settings":{"heading":"“We do not want another generation of young women growing up without knowing their own female anatomy.”","heading_size":"h1"}},"16575421422babb9f9-1":{"type":"text","settings":{"text":"<p>-DeoDoc Founders <\/p>","text_size":"typeset2","secondary_color":false}},"16575421422babb9f9-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["16575421422babb9f9-0","16575421422babb9f9-1","16575421422babb9f9-2"],"settings":{"video_url":"https:\/\/www.youtube.com\/watch?v=NzycSGeg7nI","text_box_position":"middle-center","text_alignment":"center","image_ratio":"650px","show_text_box":false,"full_width":true,"show_divider":false,"mobile_text_alignment":"center","mobile_image_ratio":"auto","show_text_below":true,"colors_text":"#ffffff","colors_overlay":"#000000","colors_overlay_opacity":28,"padding_top":36,"padding_bottom":36}},"d04f6775-d6c2-4a9d-9b61-a8839f3dce59":{"type":"rich-text","blocks":{"template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-0":{"type":"heading","settings":{"heading":"Content Creator Intern","heading_size":"h2"}},"template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-1":{"type":"text","settings":{"text":"<p>Based in Stockholm<\/p><p>We are looking for a talented Content Creator Intern who can help us elevate our social media and marketing presence through engaging and creative content.<\/p><p>As a Content Creator Intern for DeoDoc, you will have the opportunity to work closely with our marketing team and gain valuable experience in creating social media and website content. You will be responsible for creating TikTok videos and creating photo\/ video content for our social media, marketing and sales channels. You will collaborate with our marketing team to ensure that our brand messaging is consistent and that our content aligns with our overall marketing strategy.<\/p><p><strong>Responsibilities:<\/strong><\/p><ul><li>Create engaging and creative content for our TikTok account.<\/li><li>Take high-quality photos for our social media and sales channels.<\/li><li>Collaborate with our marketing team to develop content that aligns with our brand messaging and overall marketing strategy.<\/li><li>Stay up-to-date with the latest social media trends and incorporate them into our content.<\/li><li>Use data and analytics to measure the success of our content and make data-driven decisions to optimize performance.<\/li><\/ul><p><strong>Requirements:<\/strong><\/p><ul><li>A passion for social media and a deep understanding of TikTok.<\/li><li>Experience creating content for social media platforms, specifically TikTok (portfolio of previous work preferred).<\/li><li>Basic photography skills and an interest in learning more about photo editing software.<\/li><li>Strong communication and collaboration skills.<\/li><li>Ability to work independently and manage multiple projects simultaneously.<\/li><li>A creative mindset and a willingness to experiment with new ideas and approaches.<\/li><li>Familiarity with data analysis and an interest in using data to make informed decisions.<\/li><\/ul><p>This is an excellent opportunity for a creative and driven individual who is passionate about social media and photography to gain valuable experience working with a fast-growing personal care brand. If you're interested in joining our team as a Content Creator Intern, please submit your resume, creative portfolio, and a brief introduction about why you would be a great fit for this role.<\/p>","text_size":"typeset2","secondary_color":false}},"template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-2":{"type":"button","settings":{"button_label":"Apply now","button_link":"shopify:\/\/pages\/interns-contact-form","button_style_secondary":false}}},"block_order":["template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-0","template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-1","template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-2"],"settings":{"text_alignment":"left","narrow":true,"show_divider":false,"mobile_text_alignment":"left","padding_top":36,"padding_bottom":36}}},"order":["image-banner","main","image-with-text-overlay","empty-space","16578063681b11d81a","16583237505565ccaa","16575421429975cb27","d04f6775-d6c2-4a9d-9b61-a8839f3dce59"]}
+{
+  "sections": {
+    "image-banner": {
+      "type": "image-banner",
+      "blocks": {
+        "c9f309ed-935d-4a6e-9716-1d3c14af568e": {
+          "type": "heading",
+          "settings": {
+            "heading": "About us",
+            "heading_size": "h1"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers.</p>",
+            "text_size": "typeset3",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "c9f309ed-935d-4a6e-9716-1d3c14af568e",
+        "heading",
+        "text"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_position": "20% 50%",
+        "text_box_position": "top-center",
+        "text_alignment": "center",
+        "image_ratio": "550px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "400px",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 16,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>-DeoDoc Founders </p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "text_box_position": "flex-start",
+        "text_alignment": "left",
+        "image_ratio": "550px",
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_box_position": "image_first",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "500px",
+        "colors_text": "#212326",
+        "colors_overlay": "#fef7da",
+        "colors_overlay_opacity": 92,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 0,
+        "mobile_height": 48
+      }
+    },
+    "16578063681b11d81a": {
+      "type": "multicolumn",
+      "blocks": {
+        "1657806368eb1a5abf-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/22.jpg",
+            "title": "E-commerce/ Digital marketing Intern",
+            "title_size": "h2",
+            "text": "",
+            "button_label": "READ MORE",
+            "button_link": "https://www.vogue.co.kr/2020/05/18/%ed%8e%a8%ed%85%8c%ed%81%ac%eb%a5%bc-%ec%95%84%ec%8b%9c%eb%82%98%ec%9a%94/",
+            "button_style_secondary": false
+          }
+        },
+        "1657806368eb1a5abf-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/23.jpg",
+            "title": "Content Creator Intern",
+            "title_size": "h2",
+            "text": "",
+            "button_label": "READ MORE",
+            "button_link": "https://www.violetgrey.com/violet-files/top-flight/deodoc-daily-intimate-wash",
+            "button_style_secondary": false
+          }
+        },
+        "2406df09-0f57-4f1f-a6cd-442f69e5a611": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Why do razor bumps happen?",
+            "title_size": "h3",
+            "text": "<p>Expert approved products to treat and prevent razor bumps...</p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "c8e308f3-a4c3-41c4-a1c2-73648dc1a0de": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "All the Questions You Have About How to Use a Menstrual Cup",
+            "title_size": "h3",
+            "text": "<p>Find out the key to clean your menstrual cup when you are in a public restroom...</p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "e15ded95-6933-4724-a075-c6ad446581eb": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Refresh Fast!",
+            "title_size": "h3",
+            "text": "<p>For the unpredictable stinky situations. Keep calm and carry on with these staples...</p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "59382a53-55aa-4364-9f6d-53314aad62dd": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "How women entrepreneurs are disrupting the feminine market?",
+            "title_size": "h3",
+            "text": "<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...</p>",
+            "button_label": "Button label",
+            "button_link": "https://wwd.com/beauty-industry-news/beauty-features/vagina-products-vibrators-feminist-1202758743/",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1657806368eb1a5abf-0",
+        "1657806368eb1a5abf-1",
+        "2406df09-0f57-4f1f-a6cd-442f69e5a611",
+        "c8e308f3-a4c3-41c4-a1c2-73648dc1a0de",
+        "e15ded95-6933-4724-a075-c6ad446581eb",
+        "59382a53-55aa-4364-9f6d-53314aad62dd"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Work with us",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16583237505565ccaa": {
+      "type": "multicolumn",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16575421429975cb27": {
+      "type": "video-hero",
+      "blocks": {
+        "16575421422babb9f9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "“We do not want another generation of young women growing up without knowing their own female anatomy.”",
+            "heading_size": "h1"
+          }
+        },
+        "16575421422babb9f9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>-DeoDoc Founders </p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "16575421422babb9f9-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16575421422babb9f9-0",
+        "16575421422babb9f9-1",
+        "16575421422babb9f9-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "video_url": "https://www.youtube.com/watch?v=NzycSGeg7nI",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "show_text_below": true,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d04f6775-d6c2-4a9d-9b61-a8839f3dce59": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Content Creator Intern",
+            "heading_size": "h2"
+          }
+        },
+        "template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Based in Stockholm</p><p>We are looking for a talented Content Creator Intern who can help us elevate our social media and marketing presence through engaging and creative content.</p><p>As a Content Creator Intern for DeoDoc, you will have the opportunity to work closely with our marketing team and gain valuable experience in creating social media and website content. You will be responsible for creating TikTok videos and creating photo/ video content for our social media, marketing and sales channels. You will collaborate with our marketing team to ensure that our brand messaging is consistent and that our content aligns with our overall marketing strategy.</p><p><strong>Responsibilities:</strong></p><ul><li>Create engaging and creative content for our TikTok account.</li><li>Take high-quality photos for our social media and sales channels.</li><li>Collaborate with our marketing team to develop content that aligns with our brand messaging and overall marketing strategy.</li><li>Stay up-to-date with the latest social media trends and incorporate them into our content.</li><li>Use data and analytics to measure the success of our content and make data-driven decisions to optimize performance.</li></ul><p><strong>Requirements:</strong></p><ul><li>A passion for social media and a deep understanding of TikTok.</li><li>Experience creating content for social media platforms, specifically TikTok (portfolio of previous work preferred).</li><li>Basic photography skills and an interest in learning more about photo editing software.</li><li>Strong communication and collaboration skills.</li><li>Ability to work independently and manage multiple projects simultaneously.</li><li>A creative mindset and a willingness to experiment with new ideas and approaches.</li><li>Familiarity with data analysis and an interest in using data to make informed decisions.</li></ul><p>This is an excellent opportunity for a creative and driven individual who is passionate about social media and photography to gain valuable experience working with a fast-growing personal care brand. If you're interested in joining our team as a Content Creator Intern, please submit your resume, creative portfolio, and a brief introduction about why you would be a great fit for this role.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Apply now",
+            "button_link": "shopify://pages/interns-contact-form",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-0",
+        "template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-1",
+        "template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-2"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image-banner",
+    "main",
+    "image-with-text-overlay",
+    "empty-space",
+    "16578063681b11d81a",
+    "16583237505565ccaa",
+    "16575421429975cb27",
+    "d04f6775-d6c2-4a9d-9b61-a8839f3dce59"
+  ]
+}

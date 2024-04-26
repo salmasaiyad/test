@@ -1,1 +1,605 @@
-{"sections":{"empty-space":{"type":"empty-space","settings":{"desktop_height":8,"mobile_height":0}},"main":{"type":"main-product","blocks":{"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":true}},"vendor":{"type":"text","disabled":true,"settings":{"icon":"none","text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{"title_size":"h2"}},"rating":{"type":"rating","settings":{}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"show_variant_labels":false,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"countdown":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#ffeeee"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":true,"show_dynamic_checkout":false}},"24a3fc94-543b-4f8b-a621-f71062e2d503":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Betalsatt_SE.png","height":28,"link":""}},"description":{"type":"description","settings":{}},"b614a68f-4156-4bff-8e3c-ae66b38cb10a":{"type":"collapsible_tab","settings":{"icon":"none","heading":"PRODUKTSPECIFIKATION","content":"<p>- Utvecklad av kvinnliga läkare och gynekologer<\/p><p>- Gynekologiskt och dermatologiskt testad<\/p><p>- Kliniskt testad, hypoallergen<\/p><p>- Fri från plast, parfym, färgämnen, blekningsmedel, bekämpningsmedel och syntetiska material (viskos, cellulosa fiber)<\/p><p>- Tillverkad av 100% nedbrytbara material<\/p><p>- 100% vegansk<\/p><p>- FDA godkänd<\/p><p>- ICEA certifierad<\/p>","page":""}},"collapsible_tab-0":{"type":"collapsible_tab","settings":{"icon":"none","heading":"ANVÄNDNING","content":"<p>Tvätta händer och öppna tampongen från pappersförpackningen. Placera försiktigt tampongen i vaginamynningen i en 45° vinkel. Tryck därefter underdelen av tampongen med pekfingret så att tampongen hamnar i rätt position i din vagina. Tvätta händerna.<\/p>","page":""}},"collapsible_tab-1":{"type":"collapsible_tab","settings":{"icon":"none","heading":"INGREDIENSER","content":"<p>100% Ekologisk Bomull (är odlad utan bekämpningsmedel).<\/p>","page":""}},"share":{"type":"share","settings":{}},"related_buttons":{"type":"related_buttons","disabled":true,"settings":{"show_icons":false}},"sticky_cart":{"type":"sticky_cart","settings":{"show_quantity_selector":false}}},"block_order":["breadcrumb","vendor","title","rating","price","variant_picker","countdown","buy_buttons","24a3fc94-543b-4f8b-a621-f71062e2d503","description","b614a68f-4156-4bff-8e3c-ae66b38cb10a","collapsible_tab-0","collapsible_tab-1","share","related_buttons","sticky_cart"],"settings":{"enable_sticky_info":true,"media_size":"small","gallery_layout":"thumbnail_slider","image_ratio":"adapt","show_thumbnails":true,"hide_variants":true,"enable_image_zoom":true,"enable_video_looping":false,"mobile_image_ratio":"adapt_first","show_mobile_thumbnails":true,"padding_top":0,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"ADDERA TILL DIN INTIMVÅRD","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"guarantees":{"type":"guarantees","blocks":{"guarantee-2":{"type":"guarantee","settings":{"icon":"clipboard","title":"Vetenskapligt baserat","title_size":"h4","text":""}},"guarantee-1":{"type":"guarantee","settings":{"icon":"heart","title":"Utvecklat av gynekologer","title_size":"h4","text":""}},"guarantee-3":{"type":"guarantee","settings":{"icon":"globe","title":"Tillverkat i Sverige","title_size":"h4","text":""}},"guarantee-0":{"type":"guarantee","settings":{"icon":"leaf","title":"100% Veganskt","title_size":"h4","text":""}}},"block_order":["guarantee-2","guarantee-1","guarantee-3","guarantee-0"],"settings":{"heading":"","heading_size":"h1","layout":"default","column_alignment":"center","secondary_background":false,"full_width":false,"show_divider":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1658133913d28abc37":{"type":"image-with-text","blocks":{"1658133913405b7b25-0":{"type":"heading","settings":{"heading":"Doktorn Tipsar","heading_size":"h1"}},"1658133913405b7b25-1":{"type":"text","settings":{"text":"<p><em>\"Studier visar att 15% av kvinnors besök till gynekologen är pga besvär orsakade av menstruationsprodukter. Då majoriteten av vanliga tamponger är tillverkade av syntetiskt framställda fibrer kan detta orsaka irritation. Dessutom kan även dessa tamponger fälla fibrer i vaginan, vilket också kan orsaka ytterligare besvär.  <\/em><\/p><p><em>Det finns visserligen tamponger i 100% bomull på marknaden, men eftersom dessa också fäller, valde vi att ta fram våra egna som inte fäller. Tack vare ett hölje i 100% ekologisk bomull förhindras fällning av fibrer.\"<\/em><\/p><p><\/p><p><strong>-Dr. Hedieh Asadi, leg läkare<\/strong><\/p>","text_size":"typeset2","secondary_color":false}},"1658133913405b7b25-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1658133913405b7b25-0","1658133913405b7b25-1","1658133913405b7b25-2"],"settings":{"image":"shopify:\/\/shop_images\/IMG_8041_391abb58-1946-449d-b7d1-96df6502c7fa.jpg","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"650px","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"product-details":{"type":"product-details","disabled":true,"blocks":{"product-details-0":{"type":"description","disabled":true,"settings":{"heading":""}},"product-details-1":{"type":"collapsible_tab","settings":{"heading":"1. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-2":{"type":"collapsible_tab","settings":{"heading":"2. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-3":{"type":"collapsible_tab","settings":{"heading":"3. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}}},"block_order":["product-details-0","product-details-1","product-details-2","product-details-3"],"settings":{"heading":"Collapsible tabs","heading_size":"h2","padding_top":36,"padding_bottom":36}},"multicolumn":{"type":"multicolumn","disabled":true,"blocks":{"column-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/17_1dfbe13e-db24-4e1c-9564-05eb4bf0175e.png","title":"Steg 1","title_size":"h3","text":"<p>Öppna tampongen från pappersförpackningen.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/23_c9b9e039-c96f-4493-838f-9c8b8a63bc2a.png","title":"Steg 2","title_size":"h3","text":"<p>Placera försiktigt tampongen i vaginamynningen i en 45° vinkel.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/21_052ab43a-3a78-4a99-86b2-77d089cec918.png","title":"Steg 3","title_size":"h3","text":"<p>Tryck därefter underdelen av tampongen med pekfingret så att tampongen hamnar i rätt position i din vagina.<\/p>","button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["column-0","column-1","column-2"],"settings":{"heading":"Användning","heading_size":"h2","image_ratio":"square","image_position":"top center","text_alignment":"left","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"cfe03971-b97d-494c-8b17-98c179b80760":{"type":"faq","blocks":{"template--15575470014620__cfe03971-b97d-494c-8b17-98c179b80760-16680742798de540ee-0":{"type":"question","settings":{"title":"INNEHÅLLER DEODOCS TAMPONGER NÅGOT SYNTETISKT MATERIAL?","text":"<p>Nej. Tampongen och det skyddande höljet är tillverkad av 100% bomull. Tampongerna är gynekologiskt testade och allergenfria.<\/p>"}},"template--15575470014620__cfe03971-b97d-494c-8b17-98c179b80760-16680742798de540ee-1":{"type":"question","settings":{"title":"VAD BETYDER DET ATT TAMPONGERNA ÄR ICKE-IRRITERANDE?","text":"<p>De flesta tampongerna på marknaden är tillverkade av syntetiska material som kan irritera vaginan. De syntetiska materialen kan även släppa ifrån sig fibrer och orsaka ytterligare irritation.<\/p><p>Våra tamponger innehåller inte något syntetiskt material och är tillverkade av 100% bomull som inte släpper ifrån sig fibrer och irriterar vaginan.<\/p>"}},"abac8659-cd78-41c1-97e4-52f7e608eaec":{"type":"question","settings":{"title":"VARFÖR FÄLLER INTE TAMPONGEN?","text":"<p>Tampongen har ett skyddande hölje, som ett nät, som förhindrar att tampongen släpper fibrer.<\/p>"}},"7002b821-762b-435e-a49d-554e23c9d532":{"type":"question","settings":{"title":"HUR OFTA BÖR JAG BYTA TAMPONG?","text":"<p>Varje 4-8 timme är rekommenderat.<\/p>"}},"9a71cdaa-ef9e-4084-8ec1-9cb71fd1ab2f":{"type":"question","settings":{"title":"KOMPROMISSAR MAN MED ABSORPTIONSFÖRMÅGA VID ANVÄNDNINGEN AV TAMPONGER I 100 % EKOLOGISK BOMULL?","text":"<p>Nej, absorptionsförmågan äventyras inte av att använda 100% ekologisk bomull.<\/p>"}},"6ba9c836-b7bd-4d82-acea-f4ab4642fea6":{"type":"question","settings":{"title":"KAN JAG SPOLA NER TAMPONGEN I TOALAETTEN?","text":"<p>Även fast tampongen är tillverkad av 100% bomull så ska den aldrig spolas ned i toaletten. Det tar flera månader för en tampong att brytas ner och de kan även orsaka stopp i rören då de expanderar vid kontakt med vatten.<\/p>"}},"716339bf-3995-4211-a6f6-cc2baaca729a":{"type":"question","settings":{"title":"ÄR TAMPONGEN VEGANSK?","text":"<p>Ja.<\/p>"}},"02e7775b-35af-421b-8d44-465c20f1cbcb":{"type":"question","settings":{"title":"VAD BETYDER 100% BOMULL?","text":"<p>Att inga syntetiska material har använts och att hela tampongen är tillverkad av ekologisk bomull, även det skyddande höljet (som ofta är syntetisk) och snöret.<\/p>"}},"10c2b576-599d-4273-836c-a23ce2e28bf0":{"type":"question","settings":{"title":"VILKEN STORLEK FINNS PÅ TAMPONGERNA?","text":"<p>Regular flow - för lätta till rikliga.<br\/>Super flow - för rikliga blödningar.<\/p>"}},"bdb8e9a9-29d8-4a75-95fb-f75851c544a9":{"type":"question","settings":{"title":"HUR MÅNGA TAMPONGER ÄR DET I EN FÖRPACKNING?","text":"<p>Regular - 16 stycken.<br\/>Super - 14 stycken.<\/p>"}},"df10be2e-1b5b-47dc-90c4-f5f01a2dbb0e":{"type":"question","settings":{"title":"VAD STÅR ICEA FÖR?","text":"<p>ICEA står för Ethical and Environmental Certification Institute. ICEA övervakar och intygar företag som bedriver verksamhet med respekt för människor och miljö, vilket skyddar både arbetarnas värdighet och konsumenternas rättigheter. <\/p><p>Läs mer på \/\/icea.bio\/en\/<\/p>"}},"6543d444-7dce-48ee-af44-25720dde1bc7":{"type":"question","settings":{"title":"VAD BETYDER DET ATT MAN ÄR GOTS-CERTIFIERAD?","text":"<p>GOTS stands for Global Organic Textile Standard. The world's leading processing standard for textiles made from organic fibres. GOTS keeps a high-level environmental criteria and requires compliance with social criteria as well.<\/p><p>To learn more go to https:\/\/www.global-standard.org\/Use this text to answer questions in as much detail as possible for your customers.<\/p>"}},"75f8c7c1-cddd-4b50-a610-b947dad49334":{"type":"question","disabled":true,"settings":{"title":"ÄR TAMPONGERNA GODKÄNDA AV FDA?","text":"<p>Ja.<\/p>"}},"e5681137-40e0-4e00-bdaf-a43940fa46d7":{"type":"question","settings":{"title":"VAD BETYDER DET ATT NÅGOT ÄR KLINISKT TESTAT?","text":"<p>Att våra produkter har blivit testade i labb och är klassificerade som allergivänliga.<\/p>"}},"9e33f8dc-c4f0-4181-acbd-9bb0d8fdd8cb":{"type":"question","settings":{"title":"ÄR TAMPONGERNA ALLERGIVÄNLIGA?","text":"<p>Ja.<\/p>"}}},"block_order":["template--15575470014620__cfe03971-b97d-494c-8b17-98c179b80760-16680742798de540ee-0","template--15575470014620__cfe03971-b97d-494c-8b17-98c179b80760-16680742798de540ee-1","abac8659-cd78-41c1-97e4-52f7e608eaec","7002b821-762b-435e-a49d-554e23c9d532","9a71cdaa-ef9e-4084-8ec1-9cb71fd1ab2f","6ba9c836-b7bd-4d82-acea-f4ab4642fea6","716339bf-3995-4211-a6f6-cc2baaca729a","02e7775b-35af-421b-8d44-465c20f1cbcb","10c2b576-599d-4273-836c-a23ce2e28bf0","bdb8e9a9-29d8-4a75-95fb-f75851c544a9","df10be2e-1b5b-47dc-90c4-f5f01a2dbb0e","6543d444-7dce-48ee-af44-25720dde1bc7","75f8c7c1-cddd-4b50-a610-b947dad49334","e5681137-40e0-4e00-bdaf-a43940fa46d7","9e33f8dc-c4f0-4181-acbd-9bb0d8fdd8cb"],"settings":{"heading":"FAQs","heading_size":"h2","narrow":true,"secondary_background":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"recently-viewed-products":{"type":"recently-viewed-products","disabled":true,"settings":{"heading":"Nyligen visade produkter","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"79f2ab06-36ef-4567-9684-c1fde835e379":{"type":"video","disabled":true,"settings":{"heading":"","heading_size":"h2","cover_image":"shopify:\/\/shop_images\/Vagina_1x1_5e37d66b-38f3-485e-a3bd-26fe9d18e164.png","video_url":"https:\/\/www.youtube.com\/watch?v=KW_88s_aYHs&list=PLg4HfZ1cbnJQoQyWzGH9kuTW44La-lDXL&index=4","description":"","full_width":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"16636902785380ca34":{"type":"apps","blocks":{"463cfc0f-41f7-4c6d-865c-2a02d9a27642":{"type":"shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f","settings":{}}},"block_order":["463cfc0f-41f7-4c6d-865c-2a02d9a27642"],"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}}},"order":["empty-space","main","product-recommendations","guarantees","1658133913d28abc37","product-details","multicolumn","cfe03971-b97d-494c-8b17-98c179b80760","recently-viewed-products","79f2ab06-36ef-4567-9684-c1fde835e379","16636902785380ca34"]}
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 8,
+        "mobile_height": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": true
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": false,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false
+          }
+        },
+        "24a3fc94-543b-4f8b-a621-f71062e2d503": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Betalsatt_SE.png",
+            "height": 28,
+            "link": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "PRODUKTSPECIFIKATION",
+            "content": "<p>- Utvecklad av kvinnliga läkare och gynekologer</p><p>- Gynekologiskt och dermatologiskt testad</p><p>- Kliniskt testad, hypoallergen</p><p>- Fri från plast, parfym, färgämnen, blekningsmedel, bekämpningsmedel och syntetiska material (viskos, cellulosa fiber)</p><p>- Tillverkad av 100% nedbrytbara material</p><p>- 100% vegansk</p><p>- FDA godkänd</p><p>- ICEA certifierad</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "ANVÄNDNING",
+            "content": "<p>Tvätta händer och öppna tampongen från pappersförpackningen. Placera försiktigt tampongen i vaginamynningen i en 45° vinkel. Tryck därefter underdelen av tampongen med pekfingret så att tampongen hamnar i rätt position i din vagina. Tvätta händerna.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "INGREDIENSER",
+            "content": "<p>100% Ekologisk Bomull (är odlad utan bekämpningsmedel).</p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb",
+        "vendor",
+        "title",
+        "rating",
+        "price",
+        "variant_picker",
+        "countdown",
+        "buy_buttons",
+        "24a3fc94-543b-4f8b-a621-f71062e2d503",
+        "description",
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "share",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "ADDERA TILL DIN INTIMVÅRD",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "clipboard",
+            "title": "Vetenskapligt baserat",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "title": "Utvecklat av gynekologer",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "globe",
+            "title": "Tillverkat i Sverige",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "title": "100% Veganskt",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-3",
+        "guarantee-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "default",
+        "column_alignment": "center",
+        "secondary_background": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658133913d28abc37": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658133913405b7b25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doktorn Tipsar",
+            "heading_size": "h1"
+          }
+        },
+        "1658133913405b7b25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Studier visar att 15% av kvinnors besök till gynekologen är pga besvär orsakade av menstruationsprodukter. Då majoriteten av vanliga tamponger är tillverkade av syntetiskt framställda fibrer kan detta orsaka irritation. Dessutom kan även dessa tamponger fälla fibrer i vaginan, vilket också kan orsaka ytterligare besvär.  </em></p><p><em>Det finns visserligen tamponger i 100% bomull på marknaden, men eftersom dessa också fäller, valde vi att ta fram våra egna som inte fäller. Tack vare ett hölje i 100% ekologisk bomull förhindras fällning av fibrer.\"</em></p><p></p><p><strong>-Dr. Hedieh Asadi, leg läkare</strong></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "1658133913405b7b25-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658133913405b7b25-0",
+        "1658133913405b7b25-1",
+        "1658133913405b7b25-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_8041_391abb58-1946-449d-b7d1-96df6502c7fa.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-details": {
+      "type": "product-details",
+      "blocks": {
+        "product-details-0": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "product-details-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "product-details-0",
+        "product-details-1",
+        "product-details-2",
+        "product-details-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Collapsible tabs",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/17_1dfbe13e-db24-4e1c-9564-05eb4bf0175e.png",
+            "title": "Steg 1",
+            "title_size": "h3",
+            "text": "<p>Öppna tampongen från pappersförpackningen.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/23_c9b9e039-c96f-4493-838f-9c8b8a63bc2a.png",
+            "title": "Steg 2",
+            "title_size": "h3",
+            "text": "<p>Placera försiktigt tampongen i vaginamynningen i en 45° vinkel.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/21_052ab43a-3a78-4a99-86b2-77d089cec918.png",
+            "title": "Steg 3",
+            "title_size": "h3",
+            "text": "<p>Tryck därefter underdelen av tampongen med pekfingret så att tampongen hamnar i rätt position i din vagina.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Användning",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_position": "top center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cfe03971-b97d-494c-8b17-98c179b80760": {
+      "type": "faq",
+      "blocks": {
+        "template--15575470014620__cfe03971-b97d-494c-8b17-98c179b80760-16680742798de540ee-0": {
+          "type": "question",
+          "settings": {
+            "title": "INNEHÅLLER DEODOCS TAMPONGER NÅGOT SYNTETISKT MATERIAL?",
+            "text": "<p>Nej. Tampongen och det skyddande höljet är tillverkad av 100% bomull. Tampongerna är gynekologiskt testade och allergenfria.</p>"
+          }
+        },
+        "template--15575470014620__cfe03971-b97d-494c-8b17-98c179b80760-16680742798de540ee-1": {
+          "type": "question",
+          "settings": {
+            "title": "VAD BETYDER DET ATT TAMPONGERNA ÄR ICKE-IRRITERANDE?",
+            "text": "<p>De flesta tampongerna på marknaden är tillverkade av syntetiska material som kan irritera vaginan. De syntetiska materialen kan även släppa ifrån sig fibrer och orsaka ytterligare irritation.</p><p>Våra tamponger innehåller inte något syntetiskt material och är tillverkade av 100% bomull som inte släpper ifrån sig fibrer och irriterar vaginan.</p>"
+          }
+        },
+        "abac8659-cd78-41c1-97e4-52f7e608eaec": {
+          "type": "question",
+          "settings": {
+            "title": "VARFÖR FÄLLER INTE TAMPONGEN?",
+            "text": "<p>Tampongen har ett skyddande hölje, som ett nät, som förhindrar att tampongen släpper fibrer.</p>"
+          }
+        },
+        "7002b821-762b-435e-a49d-554e23c9d532": {
+          "type": "question",
+          "settings": {
+            "title": "HUR OFTA BÖR JAG BYTA TAMPONG?",
+            "text": "<p>Varje 4-8 timme är rekommenderat.</p>"
+          }
+        },
+        "9a71cdaa-ef9e-4084-8ec1-9cb71fd1ab2f": {
+          "type": "question",
+          "settings": {
+            "title": "KOMPROMISSAR MAN MED ABSORPTIONSFÖRMÅGA VID ANVÄNDNINGEN AV TAMPONGER I 100 % EKOLOGISK BOMULL?",
+            "text": "<p>Nej, absorptionsförmågan äventyras inte av att använda 100% ekologisk bomull.</p>"
+          }
+        },
+        "6ba9c836-b7bd-4d82-acea-f4ab4642fea6": {
+          "type": "question",
+          "settings": {
+            "title": "KAN JAG SPOLA NER TAMPONGEN I TOALAETTEN?",
+            "text": "<p>Även fast tampongen är tillverkad av 100% bomull så ska den aldrig spolas ned i toaletten. Det tar flera månader för en tampong att brytas ner och de kan även orsaka stopp i rören då de expanderar vid kontakt med vatten.</p>"
+          }
+        },
+        "716339bf-3995-4211-a6f6-cc2baaca729a": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR TAMPONGEN VEGANSK?",
+            "text": "<p>Ja.</p>"
+          }
+        },
+        "02e7775b-35af-421b-8d44-465c20f1cbcb": {
+          "type": "question",
+          "settings": {
+            "title": "VAD BETYDER 100% BOMULL?",
+            "text": "<p>Att inga syntetiska material har använts och att hela tampongen är tillverkad av ekologisk bomull, även det skyddande höljet (som ofta är syntetisk) och snöret.</p>"
+          }
+        },
+        "10c2b576-599d-4273-836c-a23ce2e28bf0": {
+          "type": "question",
+          "settings": {
+            "title": "VILKEN STORLEK FINNS PÅ TAMPONGERNA?",
+            "text": "<p>Regular flow - för lätta till rikliga.<br/>Super flow - för rikliga blödningar.</p>"
+          }
+        },
+        "bdb8e9a9-29d8-4a75-95fb-f75851c544a9": {
+          "type": "question",
+          "settings": {
+            "title": "HUR MÅNGA TAMPONGER ÄR DET I EN FÖRPACKNING?",
+            "text": "<p>Regular - 16 stycken.<br/>Super - 14 stycken.</p>"
+          }
+        },
+        "df10be2e-1b5b-47dc-90c4-f5f01a2dbb0e": {
+          "type": "question",
+          "settings": {
+            "title": "VAD STÅR ICEA FÖR?",
+            "text": "<p>ICEA står för Ethical and Environmental Certification Institute. ICEA övervakar och intygar företag som bedriver verksamhet med respekt för människor och miljö, vilket skyddar både arbetarnas värdighet och konsumenternas rättigheter. </p><p>Läs mer på //icea.bio/en/</p>"
+          }
+        },
+        "6543d444-7dce-48ee-af44-25720dde1bc7": {
+          "type": "question",
+          "settings": {
+            "title": "VAD BETYDER DET ATT MAN ÄR GOTS-CERTIFIERAD?",
+            "text": "<p>GOTS stands for Global Organic Textile Standard. The world's leading processing standard for textiles made from organic fibres. GOTS keeps a high-level environmental criteria and requires compliance with social criteria as well.</p><p>To learn more go to https://www.global-standard.org/Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "75f8c7c1-cddd-4b50-a610-b947dad49334": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "ÄR TAMPONGERNA GODKÄNDA AV FDA?",
+            "text": "<p>Ja.</p>"
+          }
+        },
+        "e5681137-40e0-4e00-bdaf-a43940fa46d7": {
+          "type": "question",
+          "settings": {
+            "title": "VAD BETYDER DET ATT NÅGOT ÄR KLINISKT TESTAT?",
+            "text": "<p>Att våra produkter har blivit testade i labb och är klassificerade som allergivänliga.</p>"
+          }
+        },
+        "9e33f8dc-c4f0-4181-acbd-9bb0d8fdd8cb": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR TAMPONGERNA ALLERGIVÄNLIGA?",
+            "text": "<p>Ja.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15575470014620__cfe03971-b97d-494c-8b17-98c179b80760-16680742798de540ee-0",
+        "template--15575470014620__cfe03971-b97d-494c-8b17-98c179b80760-16680742798de540ee-1",
+        "abac8659-cd78-41c1-97e4-52f7e608eaec",
+        "7002b821-762b-435e-a49d-554e23c9d532",
+        "9a71cdaa-ef9e-4084-8ec1-9cb71fd1ab2f",
+        "6ba9c836-b7bd-4d82-acea-f4ab4642fea6",
+        "716339bf-3995-4211-a6f6-cc2baaca729a",
+        "02e7775b-35af-421b-8d44-465c20f1cbcb",
+        "10c2b576-599d-4273-836c-a23ce2e28bf0",
+        "bdb8e9a9-29d8-4a75-95fb-f75851c544a9",
+        "df10be2e-1b5b-47dc-90c4-f5f01a2dbb0e",
+        "6543d444-7dce-48ee-af44-25720dde1bc7",
+        "75f8c7c1-cddd-4b50-a610-b947dad49334",
+        "e5681137-40e0-4e00-bdaf-a43940fa46d7",
+        "9e33f8dc-c4f0-4181-acbd-9bb0d8fdd8cb"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Nyligen visade produkter",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "79f2ab06-36ef-4567-9684-c1fde835e379": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "cover_image": "shopify://shop_images/Vagina_1x1_5e37d66b-38f3-485e-a3bd-26fe9d18e164.png",
+        "video_url": "https://www.youtube.com/watch?v=KW_88s_aYHs&list=PLg4HfZ1cbnJQoQyWzGH9kuTW44La-lDXL&index=4",
+        "description": "",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16636902785380ca34": {
+      "type": "apps",
+      "blocks": {
+        "463cfc0f-41f7-4c6d-865c-2a02d9a27642": {
+          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "463cfc0f-41f7-4c6d-865c-2a02d9a27642"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "product-recommendations",
+    "guarantees",
+    "1658133913d28abc37",
+    "product-details",
+    "multicolumn",
+    "cfe03971-b97d-494c-8b17-98c179b80760",
+    "recently-viewed-products",
+    "79f2ab06-36ef-4567-9684-c1fde835e379",
+    "16636902785380ca34"
+  ]
+}

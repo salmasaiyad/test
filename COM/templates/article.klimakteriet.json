@@ -1,1 +1,416 @@
-{"sections":{"main":{"type":"main-article","blocks":{"featured_image":{"type":"featured_image","settings":{"image_height":"large"}},"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":false}},"title":{"type":"title","settings":{"blog_show_date":false,"blog_show_author":false,"blog_show_comment_count":false}}},"block_order":["featured_image","breadcrumb","title"],"settings":{"show_gravatar":true,"padding_top":0,"padding_bottom":0}},"acb3ff06-5131-4d68-ad0c-f98aadbad6e3":{"type":"rich-text","blocks":{"template--15679215141020__acb3ff06-5131-4d68-ad0c-f98aadbad6e3-1669131050bd0b90a6-1":{"type":"text","settings":{"text":"<p>Klimakteriet eller övergångsåldern är en naturlig följd av att mängden östrogen i kroppen sjunker och att äggstockarnas funktion minskar. Denna fas inträffar vanligtvis i åldern mellan 45-55 år (median 51,5 år). 12 månader utan menstruation definieras som menopaus(sista mensen). Perioden innan menopaus kallas för perimenopaus(preklimakteriet). Perioden efter menopaus kallas för postmenopaus.<\/p>","text_size":"typeset2","secondary_color":false}}},"block_order":["template--15679215141020__acb3ff06-5131-4d68-ad0c-f98aadbad6e3-1669131050bd0b90a6-1"],"settings":{"text_alignment":"left","narrow":true,"show_divider":false,"mobile_text_alignment":"left","padding_top":36,"padding_bottom":36}},"61daa9f8-9c41-41fe-b1d8-799bead87822":{"type":"image-banner","blocks":{"template--15679215141020__61daa9f8-9c41-41fe-b1d8-799bead87822-167455757102ecc4f8-0":{"type":"heading","disabled":true,"settings":{"heading":"Image banner","heading_size":"h1"}},"template--15679215141020__61daa9f8-9c41-41fe-b1d8-799bead87822-167455757102ecc4f8-1":{"type":"text","disabled":true,"settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","text_size":"typeset2","secondary_color":false}},"template--15679215141020__61daa9f8-9c41-41fe-b1d8-799bead87822-167455757102ecc4f8-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["template--15679215141020__61daa9f8-9c41-41fe-b1d8-799bead87822-167455757102ecc4f8-0","template--15679215141020__61daa9f8-9c41-41fe-b1d8-799bead87822-167455757102ecc4f8-1","template--15679215141020__61daa9f8-9c41-41fe-b1d8-799bead87822-167455757102ecc4f8-2"],"settings":{"image":"shopify:\/\/shop_images\/2_045f5d2a-fc1b-4fc3-91a0-594b4f29530d.png","image_position":"center center","text_box_position":"middle-center","text_alignment":"center","image_ratio":"adapt","show_text_box":false,"full_width":true,"show_divider":false,"mobile_text_alignment":"center","mobile_image_ratio":"auto","stack_images_on_mobile":true,"show_text_below":true,"colors_text":"#FFFFFF","colors_overlay":"#000000","colors_overlay_opacity":0,"padding_top":0,"padding_bottom":0}},"71ce5fc6-cf1e-4036-b86f-d4b317e83811":{"type":"rich-text","blocks":{"template--15679215141020__71ce5fc6-cf1e-4036-b86f-d4b317e83811-1669131050bd0b90a6-0":{"type":"heading","disabled":true,"settings":{"heading":"Talk about your brand","heading_size":"h1"}},"template--15679215141020__71ce5fc6-cf1e-4036-b86f-d4b317e83811-1669131050bd0b90a6-1":{"type":"text","settings":{"text":"<p><strong>DIN KROPPS ÖSTROGENNIVÅER UNDER EN LIVSTID<br\/><\/strong>När det gäller klimakteriet ger östrogennivåerna oss många svar på symptomen vi får och vad som händer med kroppen. Klimakteriet innebär kvinnans sista menstruationsblödning, men symtomen kan börja flera år innan, vilket kallas premenopaus. Det följs av perimenopause, tiden runt klimakteriet. Klimakteriet ersätts av postmenopausen som varar livet ut.<\/p><p><strong><br\/>PRODUKTER FÖR ATT LINDRA TORRA SLEMHINNOR<br\/><\/strong>Även om många av besvären associerade med klimakteriet kan klinga av, försvinner däremot inte torrheten i slemhinnorna med tiden. Din doktor kan hjälpa dig att hitta bra och effektiva läkamedel för att få hjälp med detta. Från vårt kliniska arbete som gynekolg och läkare brukar vi också rekommendera en oljeregim för skör och torr hud, då olja återfuktar effektivt. De oljor vi har utvecklat är baserade på 100% naturliga oljor från växtriket som lätt absorberas av slemhinnor och skör hud. Dessa är inga läkemedel eller en behandling, men de kan vara ett alternativ och komplement för att lindra besvär vid sköra och torra slemhinnor.<\/p>","text_size":"typeset2","secondary_color":false}},"template--15679215141020__71ce5fc6-cf1e-4036-b86f-d4b317e83811-1669131050bd0b90a6-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["template--15679215141020__71ce5fc6-cf1e-4036-b86f-d4b317e83811-1669131050bd0b90a6-0","template--15679215141020__71ce5fc6-cf1e-4036-b86f-d4b317e83811-1669131050bd0b90a6-1","template--15679215141020__71ce5fc6-cf1e-4036-b86f-d4b317e83811-1669131050bd0b90a6-2"],"settings":{"text_alignment":"left","narrow":true,"show_divider":false,"mobile_text_alignment":"left","padding_top":36,"padding_bottom":36}},"ed26fda3-ce05-4586-96af-dd34db18cfe7":{"type":"image-banner","blocks":{"template--15679215141020__ed26fda3-ce05-4586-96af-dd34db18cfe7-1669131206eb3ea5a8-0":{"type":"heading","disabled":true,"settings":{"heading":"Image banner","heading_size":"h1"}},"template--15679215141020__ed26fda3-ce05-4586-96af-dd34db18cfe7-1669131206eb3ea5a8-1":{"type":"text","disabled":true,"settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","text_size":"typeset2","secondary_color":false}},"template--15679215141020__ed26fda3-ce05-4586-96af-dd34db18cfe7-1669131206eb3ea5a8-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["template--15679215141020__ed26fda3-ce05-4586-96af-dd34db18cfe7-1669131206eb3ea5a8-0","template--15679215141020__ed26fda3-ce05-4586-96af-dd34db18cfe7-1669131206eb3ea5a8-1","template--15679215141020__ed26fda3-ce05-4586-96af-dd34db18cfe7-1669131206eb3ea5a8-2"],"settings":{"image":"shopify:\/\/shop_images\/estogenscale.jpg","image_position":"center center","text_box_position":"middle-center","text_alignment":"center","image_ratio":"adapt","show_text_box":false,"full_width":false,"show_divider":false,"mobile_text_alignment":"center","mobile_image_ratio":"auto","stack_images_on_mobile":true,"show_text_below":true,"colors_text":"#ffffff","colors_overlay":"#000000","colors_overlay_opacity":8,"padding_top":36,"padding_bottom":36}},"4fb398e1-47f9-4733-9657-0f2248a3e4db":{"type":"image-with-text","blocks":{"template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-0":{"type":"heading","settings":{"heading":"VAD ÄR KVINNOR MEST OFÖRBEREDDA PÅ NÄR DE GÅR IGENOM KLIMAKTERIET?","heading_size":"h2"}},"template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-1":{"type":"text","settings":{"text":"<p>”Baserat på min erfarenhet är den vanligaste associationen kvinnor har med klimakteriet, plötsliga svettningar och att menstruationen upphör.<\/p><p>Med det sagt kan symtom så som depression, humörsvängningar, vaginal torrhet och irritation också förekomma. Många kvinnor vet inte detta och kan därför bli förvånade när det uppstår. <\/p><p>Det är väldigt viktigt att veta att det finns behandlingar och mediciner som behandlar symtom vid klimakteriet. Om du känner dig orolig eller har frågor så rekommenderar jag att höra av dig till din gynekolog.”<\/p><p><br\/><strong>-Dr. Gunvor Ekman-Ordeberg, Gynekolog, Professor Karolinska Institutet, MD, PhD. <\/strong><\/p>","text_size":"typeset2","secondary_color":false}},"template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-0","template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-1","template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-2"],"settings":{"image":"shopify:\/\/shop_images\/Skarmbild_2023-01-04_161646.png","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"650px","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":44,"padding_bottom":32}},"38686fc8-1b91-467b-b5e6-5125bdefdfc4":{"type":"multicolumn","blocks":{"template--15679215141020__38686fc8-1b91-467b-b5e6-5125bdefdfc4-1669131296b2845ee1-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/MenoCareOilWash.png","title":"Meno care oil wash","title_size":"h4","text":"<p>En vårdande och intensivt återfuktande oljetvätt. Speciellt framtagen för torra och sköra slemhinnor som kan uppstå i klimakteriet. Innehåller enbart oljor från växtriket som handplockats för att bevara hudbarriärens fuktbalans och samtidigt motverka torrhet.<br\/><\/p>","button_label":"Köp nu","button_link":"shopify:\/\/products\/meno-care-oil-wash","button_style_secondary":false}},"template--15679215141020__38686fc8-1b91-467b-b5e6-5125bdefdfc4-1669131296b2845ee1-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/MenoCareHydratingBalm.png","title":"meno care hydrating balm","title_size":"h4","text":"<p>Hormonella förändringar under klimakteriet kan bidra till att hudbarriären och slemhinnor blir torra och sköra. Den krämiga formulan är berikad med mjukgörande squalane och fuktbevarande ingredienser som motverkar torrhet. <br\/><\/p>","button_label":"Köp nu","button_link":"shopify:\/\/products\/meno-care-hydrating-balm","button_style_secondary":false}}},"block_order":["template--15679215141020__38686fc8-1b91-467b-b5e6-5125bdefdfc4-1669131296b2845ee1-0","template--15679215141020__38686fc8-1b91-467b-b5e6-5125bdefdfc4-1669131296b2845ee1-1"],"settings":{"heading":"","heading_size":"h1","image_ratio":"square","image_position":"center center","text_alignment":"center","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":false,"padding_top":0,"padding_bottom":36}},"featured-blog":{"type":"featured-blog","disabled":true,"blocks":{"title":{"type":"title","disabled":true,"settings":{"show_date":true,"show_author":false,"show_comment_count":true}},"1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c":{"type":"summary","settings":{}},"65d0c3b4-5edf-4447-9603-9832db2cb558":{"type":"read_more","settings":{}}},"block_order":["title","1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c","65d0c3b4-5edf-4447-9603-9832db2cb558"],"settings":{"heading":"UPPTÄCK MER","heading_size":"h2","blog":"blog","post_limit":3,"show_view_all":true,"show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"show_image":true,"image_ratio":"landscape","image_position":"center center","padding_top":36,"padding_bottom":72}},"7ea2723b-61de-4a13-b362-ca5a35f0c936":{"type":"image-with-text-overlay","disabled":true,"blocks":{"template--15679057297564__7ea2723b-61de-4a13-b362-ca5a35f0c936-16691281729783c40c-0":{"type":"heading","settings":{"heading":"Image with text overlay","heading_size":"h1"}},"template--15679057297564__7ea2723b-61de-4a13-b362-ca5a35f0c936-16691281729783c40c-1":{"type":"text","settings":{"text":"<p>Upptäck våra Meno Care produkter <a href=\"https:\/\/se.deodoc.se\/collections\/kategori-klimakteriet\">här<\/a>!<\/p>","text_size":"typeset3","secondary_color":false}},"template--15679057297564__7ea2723b-61de-4a13-b362-ca5a35f0c936-16691281729783c40c-2":{"type":"button","settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["template--15679057297564__7ea2723b-61de-4a13-b362-ca5a35f0c936-16691281729783c40c-0","template--15679057297564__7ea2723b-61de-4a13-b362-ca5a35f0c936-16691281729783c40c-1","template--15679057297564__7ea2723b-61de-4a13-b362-ca5a35f0c936-16691281729783c40c-2"],"settings":{"image":"shopify:\/\/shop_images\/4_183ca347-e9b0-4f62-8bb8-014f714c88f1.png","image_position":"center center","text_box_position":"flex-start","text_alignment":"left","image_ratio":"650px","full_width":true,"show_divider":false,"mobile_text_box_position":"image_first","mobile_text_alignment":"center","mobile_image_ratio":"auto","colors_text":"#212326","colors_overlay":"#f3f3f3","colors_overlay_opacity":92,"padding_top":36,"padding_bottom":36}}},"order":["main","acb3ff06-5131-4d68-ad0c-f98aadbad6e3","61daa9f8-9c41-41fe-b1d8-799bead87822","71ce5fc6-cf1e-4036-b86f-d4b317e83811","ed26fda3-ce05-4586-96af-dd34db18cfe7","4fb398e1-47f9-4733-9657-0f2248a3e4db","38686fc8-1b91-467b-b5e6-5125bdefdfc4","featured-blog","7ea2723b-61de-4a13-b362-ca5a35f0c936"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "large"
+          }
+        },
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false,
+            "blog_show_comment_count": false
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "breadcrumb",
+        "title"
+      ],
+      "settings": {
+        "show_gravatar": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "acb3ff06-5131-4d68-ad0c-f98aadbad6e3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15679215141020__acb3ff06-5131-4d68-ad0c-f98aadbad6e3-1669131050bd0b90a6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Klimakteriet eller övergångsåldern är en naturlig följd av att mängden östrogen i kroppen sjunker och att äggstockarnas funktion minskar. Denna fas inträffar vanligtvis i åldern mellan 45-55 år (median 51,5 år). 12 månader utan menstruation definieras som menopaus(sista mensen). Perioden innan menopaus kallas för perimenopaus(preklimakteriet). Perioden efter menopaus kallas för postmenopaus.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15679215141020__acb3ff06-5131-4d68-ad0c-f98aadbad6e3-1669131050bd0b90a6-1"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "61daa9f8-9c41-41fe-b1d8-799bead87822": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15679215141020__61daa9f8-9c41-41fe-b1d8-799bead87822-167455757102ecc4f8-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--15679215141020__61daa9f8-9c41-41fe-b1d8-799bead87822-167455757102ecc4f8-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--15679215141020__61daa9f8-9c41-41fe-b1d8-799bead87822-167455757102ecc4f8-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15679215141020__61daa9f8-9c41-41fe-b1d8-799bead87822-167455757102ecc4f8-0",
+        "template--15679215141020__61daa9f8-9c41-41fe-b1d8-799bead87822-167455757102ecc4f8-1",
+        "template--15679215141020__61daa9f8-9c41-41fe-b1d8-799bead87822-167455757102ecc4f8-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/2_045f5d2a-fc1b-4fc3-91a0-594b4f29530d.png",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "adapt",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_text": "#FFFFFF",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 0,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "71ce5fc6-cf1e-4036-b86f-d4b317e83811": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15679215141020__71ce5fc6-cf1e-4036-b86f-d4b317e83811-1669131050bd0b90a6-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "template--15679215141020__71ce5fc6-cf1e-4036-b86f-d4b317e83811-1669131050bd0b90a6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>DIN KROPPS ÖSTROGENNIVÅER UNDER EN LIVSTID<br/></strong>När det gäller klimakteriet ger östrogennivåerna oss många svar på symptomen vi får och vad som händer med kroppen. Klimakteriet innebär kvinnans sista menstruationsblödning, men symtomen kan börja flera år innan, vilket kallas premenopaus. Det följs av perimenopause, tiden runt klimakteriet. Klimakteriet ersätts av postmenopausen som varar livet ut.</p><p><strong><br/>PRODUKTER FÖR ATT LINDRA TORRA SLEMHINNOR<br/></strong>Även om många av besvären associerade med klimakteriet kan klinga av, försvinner däremot inte torrheten i slemhinnorna med tiden. Din doktor kan hjälpa dig att hitta bra och effektiva läkamedel för att få hjälp med detta. Från vårt kliniska arbete som gynekolg och läkare brukar vi också rekommendera en oljeregim för skör och torr hud, då olja återfuktar effektivt. De oljor vi har utvecklat är baserade på 100% naturliga oljor från växtriket som lätt absorberas av slemhinnor och skör hud. Dessa är inga läkemedel eller en behandling, men de kan vara ett alternativ och komplement för att lindra besvär vid sköra och torra slemhinnor.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--15679215141020__71ce5fc6-cf1e-4036-b86f-d4b317e83811-1669131050bd0b90a6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15679215141020__71ce5fc6-cf1e-4036-b86f-d4b317e83811-1669131050bd0b90a6-0",
+        "template--15679215141020__71ce5fc6-cf1e-4036-b86f-d4b317e83811-1669131050bd0b90a6-1",
+        "template--15679215141020__71ce5fc6-cf1e-4036-b86f-d4b317e83811-1669131050bd0b90a6-2"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ed26fda3-ce05-4586-96af-dd34db18cfe7": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15679215141020__ed26fda3-ce05-4586-96af-dd34db18cfe7-1669131206eb3ea5a8-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--15679215141020__ed26fda3-ce05-4586-96af-dd34db18cfe7-1669131206eb3ea5a8-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--15679215141020__ed26fda3-ce05-4586-96af-dd34db18cfe7-1669131206eb3ea5a8-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15679215141020__ed26fda3-ce05-4586-96af-dd34db18cfe7-1669131206eb3ea5a8-0",
+        "template--15679215141020__ed26fda3-ce05-4586-96af-dd34db18cfe7-1669131206eb3ea5a8-1",
+        "template--15679215141020__ed26fda3-ce05-4586-96af-dd34db18cfe7-1669131206eb3ea5a8-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/estogenscale.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "adapt",
+        "show_text_box": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 8,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4fb398e1-47f9-4733-9657-0f2248a3e4db": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "VAD ÄR KVINNOR MEST OFÖRBEREDDA PÅ NÄR DE GÅR IGENOM KLIMAKTERIET?",
+            "heading_size": "h2"
+          }
+        },
+        "template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>”Baserat på min erfarenhet är den vanligaste associationen kvinnor har med klimakteriet, plötsliga svettningar och att menstruationen upphör.</p><p>Med det sagt kan symtom så som depression, humörsvängningar, vaginal torrhet och irritation också förekomma. Många kvinnor vet inte detta och kan därför bli förvånade när det uppstår. </p><p>Det är väldigt viktigt att veta att det finns behandlingar och mediciner som behandlar symtom vid klimakteriet. Om du känner dig orolig eller har frågor så rekommenderar jag att höra av dig till din gynekolog.”</p><p><br/><strong>-Dr. Gunvor Ekman-Ordeberg, Gynekolog, Professor Karolinska Institutet, MD, PhD. </strong></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-0",
+        "template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-1",
+        "template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Skarmbild_2023-01-04_161646.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 44,
+        "padding_bottom": 32
+      }
+    },
+    "38686fc8-1b91-467b-b5e6-5125bdefdfc4": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15679215141020__38686fc8-1b91-467b-b5e6-5125bdefdfc4-1669131296b2845ee1-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MenoCareOilWash.png",
+            "title": "Meno care oil wash",
+            "title_size": "h4",
+            "text": "<p>En vårdande och intensivt återfuktande oljetvätt. Speciellt framtagen för torra och sköra slemhinnor som kan uppstå i klimakteriet. Innehåller enbart oljor från växtriket som handplockats för att bevara hudbarriärens fuktbalans och samtidigt motverka torrhet.<br/></p>",
+            "button_label": "Köp nu",
+            "button_link": "shopify://products/meno-care-oil-wash",
+            "button_style_secondary": false
+          }
+        },
+        "template--15679215141020__38686fc8-1b91-467b-b5e6-5125bdefdfc4-1669131296b2845ee1-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MenoCareHydratingBalm.png",
+            "title": "meno care hydrating balm",
+            "title_size": "h4",
+            "text": "<p>Hormonella förändringar under klimakteriet kan bidra till att hudbarriären och slemhinnor blir torra och sköra. Den krämiga formulan är berikad med mjukgörande squalane och fuktbevarande ingredienser som motverkar torrhet. <br/></p>",
+            "button_label": "Köp nu",
+            "button_link": "shopify://products/meno-care-hydrating-balm",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15679215141020__38686fc8-1b91-467b-b5e6-5125bdefdfc4-1669131296b2845ee1-0",
+        "template--15679215141020__38686fc8-1b91-467b-b5e6-5125bdefdfc4-1669131296b2845ee1-1"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "featured-blog": {
+      "type": "featured-blog",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comment_count": true
+          }
+        },
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c": {
+          "type": "summary",
+          "settings": {}
+        },
+        "65d0c3b4-5edf-4447-9603-9832db2cb558": {
+          "type": "read_more",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c",
+        "65d0c3b4-5edf-4447-9603-9832db2cb558"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "UPPTÄCK MER",
+        "heading_size": "h2",
+        "blog": "blog",
+        "post_limit": 3,
+        "show_view_all": true,
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "show_image": true,
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    },
+    "7ea2723b-61de-4a13-b362-ca5a35f0c936": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--15679057297564__7ea2723b-61de-4a13-b362-ca5a35f0c936-16691281729783c40c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text overlay",
+            "heading_size": "h1"
+          }
+        },
+        "template--15679057297564__7ea2723b-61de-4a13-b362-ca5a35f0c936-16691281729783c40c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Upptäck våra Meno Care produkter <a href=\"https://se.deodoc.se/collections/kategori-klimakteriet\">här</a>!</p>",
+            "text_size": "typeset3",
+            "secondary_color": false
+          }
+        },
+        "template--15679057297564__7ea2723b-61de-4a13-b362-ca5a35f0c936-16691281729783c40c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15679057297564__7ea2723b-61de-4a13-b362-ca5a35f0c936-16691281729783c40c-0",
+        "template--15679057297564__7ea2723b-61de-4a13-b362-ca5a35f0c936-16691281729783c40c-1",
+        "template--15679057297564__7ea2723b-61de-4a13-b362-ca5a35f0c936-16691281729783c40c-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/4_183ca347-e9b0-4f62-8bb8-014f714c88f1.png",
+        "image_position": "center center",
+        "text_box_position": "flex-start",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_box_position": "image_first",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "colors_text": "#212326",
+        "colors_overlay": "#f3f3f3",
+        "colors_overlay_opacity": 92,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "acb3ff06-5131-4d68-ad0c-f98aadbad6e3",
+    "61daa9f8-9c41-41fe-b1d8-799bead87822",
+    "71ce5fc6-cf1e-4036-b86f-d4b317e83811",
+    "ed26fda3-ce05-4586-96af-dd34db18cfe7",
+    "4fb398e1-47f9-4733-9657-0f2248a3e4db",
+    "38686fc8-1b91-467b-b5e6-5125bdefdfc4",
+    "featured-blog",
+    "7ea2723b-61de-4a13-b362-ca5a35f0c936"
+  ]
+}

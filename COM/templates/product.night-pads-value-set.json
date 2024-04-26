@@ -1,1 +1,521 @@
-{"sections":{"empty-space":{"type":"empty-space","settings":{"desktop_height":8,"mobile_height":0}},"main":{"type":"main-product","blocks":{"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":true}},"vendor":{"type":"text","disabled":true,"settings":{"icon":"none","text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{"title_size":"h2"}},"rating":{"type":"rating","disabled":true,"settings":{}},"variant_picker":{"type":"variant_picker","disabled":true,"settings":{"show_variant_labels":true,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"price":{"type":"price","settings":{}},"66df07f9-fb21-4a0c-9be3-59ddcda6d86d":{"type":"shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e","settings":{"product":"{{product}}"}},"c9777562-76f2-4533-b3c4-9eb3854912ec":{"type":"shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e","settings":{"product":"{{product}}"}},"countdown":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#ffeeee"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":false,"show_dynamic_checkout":true}},"b1b3d83e-ccd3-4284-9ea9-c8c6658f8ac0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/test_4_4000_x_300_px.png","height":28,"link":""}},"description":{"type":"description","settings":{}},"b614a68f-4156-4bff-8e3c-ae66b38cb10a":{"type":"collapsible_tab","settings":{"icon":"none","heading":"specifications","content":"<p>-Developed by women doctors and gynecologists<\/p><p>-Gynecologically and dermatologically tested<\/p><p>-Free from allergens, alcohol and parabens<\/p><p>-Made in Sweden<\/p><p>-100% vegan<\/p>","page":""}},"collapsible_tab-0":{"type":"collapsible_tab","settings":{"icon":"none","heading":"How to use","content":"<p>Open the pad package, remove the paper on the backside and place the pad on your underwear with the glue facing down. Wrap the wings of the pad around the underside of your underwear for a secure fit.<\/p>","page":"shaving-kit"}},"collapsible_tab-1":{"type":"collapsible_tab","settings":{"icon":"none","heading":"Ingredients","content":"<p>Top sheet + core made with 100 % organic cotton. Biofilm layer, wrap and adhesive; compostable and biodegradable.<\/p>","page":""}},"share":{"type":"share","settings":{}},"related_buttons":{"type":"related_buttons","disabled":true,"settings":{"show_icons":false}},"sticky_cart":{"type":"sticky_cart","settings":{"show_quantity_selector":false}}},"block_order":["breadcrumb","vendor","title","rating","variant_picker","price","66df07f9-fb21-4a0c-9be3-59ddcda6d86d","c9777562-76f2-4533-b3c4-9eb3854912ec","countdown","buy_buttons","b1b3d83e-ccd3-4284-9ea9-c8c6658f8ac0","description","b614a68f-4156-4bff-8e3c-ae66b38cb10a","collapsible_tab-0","collapsible_tab-1","share","related_buttons","sticky_cart"],"settings":{"enable_sticky_info":true,"media_size":"small","gallery_layout":"thumbnail_slider","image_ratio":"adapt","show_thumbnails":true,"hide_variants":true,"enable_image_zoom":true,"enable_video_looping":false,"mobile_image_ratio":"adapt_first","show_mobile_thumbnails":true,"padding_top":0,"padding_bottom":32}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"You May Also Like","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"guarantees":{"type":"guarantees","blocks":{"guarantee-2":{"type":"guarantee","settings":{"icon":"clipboard","title":"Science based","title_size":"h4","text":""}},"guarantee-1":{"type":"guarantee","settings":{"icon":"heart","title":"Made by gynecologists","title_size":"h4","text":""}},"guarantee-3":{"type":"guarantee","settings":{"icon":"globe","title":"Made in Sweden","title_size":"h4","text":""}},"guarantee-0":{"type":"guarantee","settings":{"icon":"leaf","title":"Vegan","title_size":"h4","text":""}}},"block_order":["guarantee-2","guarantee-1","guarantee-3","guarantee-0"],"settings":{"heading":"","heading_size":"h1","layout":"default","column_alignment":"center","secondary_background":false,"full_width":false,"show_divider":false,"columns_mobile":"2","padding_top":12,"padding_bottom":12}},"1658133913d28abc37":{"type":"image-with-text","blocks":{"1658133913405b7b25-0":{"type":"heading","settings":{"heading":"Doctor's Corner","heading_size":"h1"}},"1658133913405b7b25-1":{"type":"text","settings":{"text":"<p><em>\"Studies show that 15% of women’s OB\/GYN visits are due to irritation caused by menstruation care products. The primary cause being pads and panty liners produced from synthetic fibers and plastic. As doctors, we recommend to avoid plastic and synthetic fibers in contact with your most intimate skin. Therefore we recommend using menstruation care products made by 100% organic cotton.\"<\/em><\/p><p><\/p><p><strong>-Dr. Hedieh Asadi, Medical Doctor<\/strong><\/p>","text_size":"typeset2","secondary_color":false}},"1658133913405b7b25-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1658133913405b7b25-0","1658133913405b7b25-1","1658133913405b7b25-2"],"settings":{"image":"shopify:\/\/shop_images\/IMG_8024_e8338342-05a1-42f6-8645-9c741e619a53.jpg","image_position":"bottom center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"550px","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"product-details":{"type":"product-details","disabled":true,"blocks":{"product-details-0":{"type":"description","disabled":true,"settings":{"heading":""}},"product-details-1":{"type":"collapsible_tab","settings":{"heading":"1. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-2":{"type":"collapsible_tab","settings":{"heading":"2. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-3":{"type":"collapsible_tab","settings":{"heading":"3. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}}},"block_order":["product-details-0","product-details-1","product-details-2","product-details-3"],"settings":{"heading":"Collapsible tabs","heading_size":"h2","padding_top":36,"padding_bottom":36}},"multicolumn":{"type":"multicolumn","disabled":true,"blocks":{"column-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/28_40af5c6e-17e7-4b95-b23a-7b3374ec58cd.png","title":"Step 1","title_size":"h3","text":"<p>Open the box.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/13_a60bdf68-4b71-4c11-b7eb-78c75600bd17.png","title":"Step 2","title_size":"h3","text":"<p>Remove the paper from the bottom and place the pad on your underwear with the glue facing down.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/37_7f6586b0-6650-4009-b45d-c1550717b62e.png","title":"Step 3","title_size":"h3","text":"<p>Wrap the wings of the pad around the bottom of your underwear for a secure fit.<\/p>","button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["column-0","column-1","column-2"],"settings":{"heading":"how to use","heading_size":"h2","image_ratio":"square","image_position":"top center","text_alignment":"left","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":true,"padding_top":36,"padding_bottom":72}},"recently-viewed-products":{"type":"recently-viewed-products","disabled":true,"settings":{"heading":"Recently Viewed","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":true,"show_rating":true,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"f87cd3e4-5e6f-4f90-92d9-ef0353b9c9fa":{"type":"faq","blocks":{"template--15252542587016__f87cd3e4-5e6f-4f90-92d9-ef0353b9c9fa-166515597799603228-0":{"type":"question","settings":{"title":"DO THE PADS CONTAIN ANY SYNTHETIC MATERIALS?","text":"<p>There are no synthetic materials used in our pads. Top sheet + core made with 100 % organic cotton and biofilm layer, wrap and adhesive; compostable and biodegradable.<\/p>"}},"template--15252542587016__f87cd3e4-5e6f-4f90-92d9-ef0353b9c9fa-166515597799603228-1":{"type":"question","settings":{"title":"CAN DEODOC PADS IRRITATE THE INTIMATE AREA?","text":"<p>Synthetic materials are the most common cause of irritation from pads. DeoDoc pads are made out of 100% organic cotton.<\/p>"}},"42552479-09eb-4283-9439-540e9ecb8d85":{"type":"question","settings":{"title":"WHAT DOES 100% ORGANIC COTTON MEAN?","text":"<p>It means that DeoDoc pads contain zero synthetic materials.<\/p>"}},"3a8e97c3-dd83-49ab-b72e-b57e706b7b15":{"type":"question","settings":{"title":"HOW MANY PADS ARE IN A BOX?","text":"<p>10pads\/box.<\/p>"}},"92997f9e-9aa5-4be9-ae2e-d8119579aab8":{"type":"question","settings":{"title":"What about the planet?","text":"<p>Choosing period care products in 100% organic cotton is much better for both you and the planet.<\/p>"}}},"block_order":["template--15252542587016__f87cd3e4-5e6f-4f90-92d9-ef0353b9c9fa-166515597799603228-0","template--15252542587016__f87cd3e4-5e6f-4f90-92d9-ef0353b9c9fa-166515597799603228-1","42552479-09eb-4283-9439-540e9ecb8d85","3a8e97c3-dd83-49ab-b72e-b57e706b7b15","92997f9e-9aa5-4be9-ae2e-d8119579aab8"],"settings":{"heading":"FAQs","heading_size":"h2","narrow":true,"secondary_background":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"1662478064f0c22777":{"type":"apps","blocks":{"3867d0c6-463d-4140-9163-967b6ce42f11":{"type":"shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"only_photos":false,"aggregated":false,"limit":20,"hide_thumbnails":false,"maxwidth":1080}}},"block_order":["3867d0c6-463d-4140-9163-967b6ce42f11"],"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}}},"order":["empty-space","main","product-recommendations","guarantees","1658133913d28abc37","product-details","multicolumn","recently-viewed-products","f87cd3e4-5e6f-4f90-92d9-ef0353b9c9fa","1662478064f0c22777"]}
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 8,
+        "mobile_height": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": true
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "66df07f9-fb21-4a0c-9be3-59ddcda6d86d": {
+          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "c9777562-76f2-4533-b3c4-9eb3854912ec": {
+          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": true
+          }
+        },
+        "b1b3d83e-ccd3-4284-9ea9-c8c6658f8ac0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/test_4_4000_x_300_px.png",
+            "height": 28,
+            "link": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "specifications",
+            "content": "<p>-Developed by women doctors and gynecologists</p><p>-Gynecologically and dermatologically tested</p><p>-Free from allergens, alcohol and parabens</p><p>-Designed in Sweden, made in Spain.</p><p>-100% vegan</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "How to use",
+            "content": "<p>Open the pad package, remove the paper on the backside and place the pad on your underwear with the glue facing down. Wrap the wings of the pad around the underside of your underwear for a secure fit.</p>",
+            "page": "shaving-kit"
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingredients",
+            "content": "<p>Top sheet + core made with 100 % organic cotton. Biofilm layer, wrap and adhesive; compostable and biodegradable.</p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb",
+        "vendor",
+        "title",
+        "rating",
+        "variant_picker",
+        "price",
+        "66df07f9-fb21-4a0c-9be3-59ddcda6d86d",
+        "c9777562-76f2-4533-b3c4-9eb3854912ec",
+        "countdown",
+        "buy_buttons",
+        "b1b3d83e-ccd3-4284-9ea9-c8c6658f8ac0",
+        "description",
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "share",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 32
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "clipboard",
+            "title": "Science based",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "title": "Made by gynecologists",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "title": "Vegan",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "default",
+        "column_alignment": "center",
+        "secondary_background": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_mobile": "2",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "1658133913d28abc37": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658133913405b7b25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doctor's Corner",
+            "heading_size": "h1"
+          }
+        },
+        "1658133913405b7b25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Studies show that 15% of women’s OB/GYN visits are due to irritation caused by menstruation care products. The primary cause being pads and panty liners produced from synthetic fibers and plastic. As doctors, we recommend to avoid plastic and synthetic fibers in contact with your most intimate skin. Therefore we recommend using menstruation care products made by 100% organic cotton.\"</em></p><p></p><p><strong>-Dr. Hedieh Asadi, Medical Doctor</strong></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "1658133913405b7b25-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658133913405b7b25-0",
+        "1658133913405b7b25-1",
+        "1658133913405b7b25-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_8024_e8338342-05a1-42f6-8645-9c741e619a53.jpg",
+        "image_position": "bottom center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "550px",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-details": {
+      "type": "product-details",
+      "blocks": {
+        "product-details-0": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "product-details-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "product-details-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "product-details-0",
+        "product-details-1",
+        "product-details-2",
+        "product-details-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Collapsible tabs",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/28_40af5c6e-17e7-4b95-b23a-7b3374ec58cd.png",
+            "title": "Step 1",
+            "title_size": "h3",
+            "text": "<p>Open the box.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/13_a60bdf68-4b71-4c11-b7eb-78c75600bd17.png",
+            "title": "Step 2",
+            "title_size": "h3",
+            "text": "<p>Remove the paper from the bottom and place the pad on your underwear with the glue facing down.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/37_7f6586b0-6650-4009-b45d-c1550717b62e.png",
+            "title": "Step 3",
+            "title_size": "h3",
+            "text": "<p>Wrap the wings of the pad around the bottom of your underwear for a secure fit.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "how to use",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_position": "top center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Recently Viewed",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f87cd3e4-5e6f-4f90-92d9-ef0353b9c9fa": {
+      "type": "faq",
+      "blocks": {
+        "template--15252542587016__f87cd3e4-5e6f-4f90-92d9-ef0353b9c9fa-166515597799603228-0": {
+          "type": "question",
+          "settings": {
+            "title": "DO THE PADS CONTAIN ANY SYNTHETIC MATERIALS?",
+            "text": "<p>There are no synthetic materials used in our pads. Top sheet + core made with 100 % organic cotton and biofilm layer, wrap and adhesive; compostable and biodegradable.</p>"
+          }
+        },
+        "template--15252542587016__f87cd3e4-5e6f-4f90-92d9-ef0353b9c9fa-166515597799603228-1": {
+          "type": "question",
+          "settings": {
+            "title": "CAN DEODOC PADS IRRITATE THE INTIMATE AREA?",
+            "text": "<p>Synthetic materials are the most common cause of irritation from pads. DeoDoc pads are made out of 100% organic cotton.</p>"
+          }
+        },
+        "42552479-09eb-4283-9439-540e9ecb8d85": {
+          "type": "question",
+          "settings": {
+            "title": "WHAT DOES 100% ORGANIC COTTON MEAN?",
+            "text": "<p>It means that DeoDoc pads contain zero synthetic materials.</p>"
+          }
+        },
+        "3a8e97c3-dd83-49ab-b72e-b57e706b7b15": {
+          "type": "question",
+          "settings": {
+            "title": "HOW MANY PADS ARE IN A BOX?",
+            "text": "<p>10pads/box.</p>"
+          }
+        },
+        "92997f9e-9aa5-4be9-ae2e-d8119579aab8": {
+          "type": "question",
+          "settings": {
+            "title": "What about the planet?",
+            "text": "<p>Choosing period care products in 100% organic cotton is much better for both you and the planet.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15252542587016__f87cd3e4-5e6f-4f90-92d9-ef0353b9c9fa-166515597799603228-0",
+        "template--15252542587016__f87cd3e4-5e6f-4f90-92d9-ef0353b9c9fa-166515597799603228-1",
+        "42552479-09eb-4283-9439-540e9ecb8d85",
+        "3a8e97c3-dd83-49ab-b72e-b57e706b7b15",
+        "92997f9e-9aa5-4be9-ae2e-d8119579aab8"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1662478064f0c22777": {
+      "type": "apps",
+      "blocks": {
+        "3867d0c6-463d-4140-9163-967b6ce42f11": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "3867d0c6-463d-4140-9163-967b6ce42f11"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You May Also Like",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "guarantees",
+    "1658133913d28abc37",
+    "product-details",
+    "multicolumn",
+    "recently-viewed-products",
+    "f87cd3e4-5e6f-4f90-92d9-ef0353b9c9fa",
+    "1662478064f0c22777",
+    "product-recommendations"
+  ]
+}

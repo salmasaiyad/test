@@ -1,1 +1,475 @@
-{"sections":{"empty-space":{"type":"empty-space","settings":{"desktop_height":8,"mobile_height":0}},"main":{"type":"main-product","blocks":{"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":true}},"vendor":{"type":"text","disabled":true,"settings":{"icon":"none","text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{"title_size":"h2"}},"rating":{"type":"rating","disabled":true,"settings":{}},"variant_picker":{"type":"variant_picker","disabled":true,"settings":{"show_variant_labels":false,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"price":{"type":"price","settings":{}},"72650fe0-87f1-43cd-8b5c-fceab9bfc05f":{"type":"shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e","settings":{"product":"{{product}}"}},"countdown":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#ffeeee"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":false,"show_dynamic_checkout":true}},"ef447a6d-469a-48a5-9050-359825941e02":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/test_4_4000_x_300_px.png","height":28,"link":""}},"description":{"type":"description","settings":{}},"b614a68f-4156-4bff-8e3c-ae66b38cb10a":{"type":"collapsible_tab","settings":{"icon":"none","heading":"specifications","content":"<p>-Developed by women doctors and gynecologists<\/p><p>-Gynecologically and dermatologically tested<\/p><p>-Free from allergens, alcohol and parabens<\/p><p>-Made in Sweden<\/p><p>-100% vegan<\/p><p>-1.0 FL. OZ<\/p>","page":""}},"collapsible_tab-0":{"type":"collapsible_tab","settings":{"icon":"none","heading":"How to use","content":"<p>Pump a few drops and apply to skin. Do not use it with other silicone products. Compatible with natural rubber latex, polyisoprene and polyurethane condoms.<\/p>","page":"shaving-kit"}},"collapsible_tab-1":{"type":"collapsible_tab","settings":{"icon":"none","heading":"Ingredients","content":"<p>Dimethicone, Cyclopentasiloxane, Dimethiconol, Phenly Trimethicone<\/p>","page":""}},"share":{"type":"share","settings":{}},"related_buttons":{"type":"related_buttons","disabled":true,"settings":{"show_icons":false}},"sticky_cart":{"type":"sticky_cart","settings":{"show_quantity_selector":false}}},"block_order":["breadcrumb","vendor","title","rating","variant_picker","price","72650fe0-87f1-43cd-8b5c-fceab9bfc05f","countdown","buy_buttons","ef447a6d-469a-48a5-9050-359825941e02","description","b614a68f-4156-4bff-8e3c-ae66b38cb10a","collapsible_tab-0","collapsible_tab-1","share","related_buttons","sticky_cart"],"settings":{"enable_sticky_info":true,"media_size":"small","gallery_layout":"thumbnail_slider","image_ratio":"adapt","show_thumbnails":true,"hide_variants":true,"enable_image_zoom":true,"enable_video_looping":false,"mobile_image_ratio":"adapt_first","show_mobile_thumbnails":true,"padding_top":0,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"You May Also Like","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"guarantees":{"type":"guarantees","blocks":{"guarantee-2":{"type":"guarantee","settings":{"icon":"clipboard","title":"Science based","title_size":"h4","text":""}},"guarantee-1":{"type":"guarantee","settings":{"icon":"heart","title":"Made by gynecologists","title_size":"h4","text":""}},"guarantee-3":{"type":"guarantee","settings":{"icon":"globe","title":"Made in Sweden","title_size":"h4","text":""}},"guarantee-0":{"type":"guarantee","settings":{"icon":"leaf","title":"Vegan","title_size":"h4","text":""}}},"block_order":["guarantee-2","guarantee-1","guarantee-3","guarantee-0"],"settings":{"heading":"","heading_size":"h1","layout":"default","column_alignment":"center","secondary_background":false,"full_width":false,"show_divider":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1658133913d28abc37":{"type":"image-with-text","blocks":{"1658133913405b7b25-0":{"type":"heading","settings":{"heading":"Doctor's Corner","heading_size":"h1"}},"1658133913405b7b25-1":{"type":"text","settings":{"text":"<p><em>\"Is water or silicone-based better and what is the best option from a vaginal health standpoint? The short answer is that silicone-based lubricants are better. <\/em><\/p><p><em>Water-based lubricants require preservatives to prevent bacterial growth, which means it can interfere with the \"good\" (Lactobacillus) vaginal bacteria  and thus set off  the pH-balance and potentially lead to infections or discomfort. A silicone-based formula does not require preservatives—which means it won't interfere with the \"good\" (Lactobacillus) vaginal bacteria and won't disrupt its delicate pH balance. From a vaginal health perspective, we recommend silicon based lubricants.\"<br\/><br\/><\/em><strong>-Dr. Gunvor Ekman-Ordeberg, OB\/GYN, MD.,PhD. <\/strong><\/p>","text_size":"typeset2","secondary_color":false}},"1658133913405b7b25-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1658133913405b7b25-0","1658133913405b7b25-1","1658133913405b7b25-2"],"settings":{"image":"shopify:\/\/shop_images\/IMG_7842.jpg","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"650px","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"multicolumn":{"type":"multicolumn","disabled":true,"blocks":{"column-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Skarmavbild_2022-10-13_kl._15.21.52.png","title":"Step 1","title_size":"h3","text":"<p>Pump a few drops.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Skarmavbild_2022-10-13_kl._15.22.01.png","title":"Step 2","title_size":"h3","text":"<p>Apply to skin.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/lube_on_pink.jpg","title":"Step 3","title_size":"h3","text":"<p>Do not combine with silicone products. Compatible with natural rubber latex, polyisoprene and polyurethane condoms.<\/p>","button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["column-0","column-1","column-2"],"settings":{"heading":"How To Use","heading_size":"h2","image_ratio":"square","image_position":"top center","text_alignment":"left","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"product-details":{"type":"product-details","disabled":true,"settings":{"heading":"Collapsible tabs","heading_size":"h2","padding_top":36,"padding_bottom":36}},"recently-viewed-products":{"type":"recently-viewed-products","disabled":true,"settings":{"heading":"Recently Viewed","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":true,"show_rating":true,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"3e2517cf-e24a-4f61-b9d4-b156e840c578":{"type":"faq","blocks":{"76354e00-9580-4c16-9ab9-2714f962f761":{"type":"question","settings":{"title":"Why silicon-based lubricant? ","text":"<p>A silicone-based formula does not require preservatives—which means it won't interfere with the \"good\" (Lactobacillus) vaginal bacteria and won't disrupt its delicate pH balance. From a vaginal health perspective, we recommend silicon-based lubricants.<\/p>"}},"b44947c6-b8e6-4c35-90db-8f1b4d9495b4":{"type":"question","settings":{"title":"Should I use water-based lubricant? ","text":"<p>No. Water-based lubricants require preservatives to prevent bacterial growth, which means they can interfere with the \"good\" (Lactobacillus) vaginal bacteria and thus set off the pH balance and potentially lead to infections or discomfort.<\/p>"}},"d5e2a21f-5a4a-4657-b1fd-248f159062ed":{"type":"question","settings":{"title":"ARE DEODOC'S PRODUCTS SAFE TO USE?","text":"<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br\/><br\/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br\/><br\/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br\/><br\/>- Products are dermatologically tested for sensitive skin<br\/><br\/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg<\/p>"}},"4517159b-9dc9-436e-ac65-c90867993a21":{"type":"question","settings":{"title":"ARE DEODOC'S PRODUCTS VEGAN?","text":"<p>Yes.<\/p>"}}},"block_order":["76354e00-9580-4c16-9ab9-2714f962f761","b44947c6-b8e6-4c35-90db-8f1b4d9495b4","d5e2a21f-5a4a-4657-b1fd-248f159062ed","4517159b-9dc9-436e-ac65-c90867993a21"],"settings":{"heading":"FAQs","heading_size":"h2","narrow":true,"secondary_background":false,"show_divider":false,"padding_top":8,"padding_bottom":8}},"1662477481a68ba650":{"type":"apps","blocks":{"9ef0268b-c2c7-4fba-903a-e7431be97571":{"type":"shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"only_photos":false,"aggregated":false,"limit":20,"hide_thumbnails":false,"maxwidth":1080}}},"block_order":["9ef0268b-c2c7-4fba-903a-e7431be97571"],"settings":{"include_margins":true,"show_divider":false,"padding_top":48,"padding_bottom":8}}},"order":["empty-space","main","product-recommendations","guarantees","1658133913d28abc37","multicolumn","product-details","recently-viewed-products","3e2517cf-e24a-4f61-b9d4-b156e840c578","1662477481a68ba650"]}
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 8,
+        "mobile_height": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": true
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "show_variant_labels": false,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "72650fe0-87f1-43cd-8b5c-fceab9bfc05f": {
+          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "settings": {
+            "product": "{{product}}"
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": false,
+            "show_dynamic_checkout": true
+          }
+        },
+        "ef447a6d-469a-48a5-9050-359825941e02": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/test_4_4000_x_300_px.png",
+            "height": 28,
+            "link": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "specifications",
+            "content": "<p>-Developed by women doctors and gynecologists</p><p>-Gynecologically and dermatologically tested</p><p>-Free from allergens, alcohol and parabens</p><p>-100% vegan</p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "How to use",
+            "content": "<p>Pump a few drops and apply to skin. Do not use it with other silicone products. Compatible with natural rubber latex, polyisoprene and polyurethane condoms.</p>",
+            "page": "shaving-kit"
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Ingredients",
+            "content": "<p>Dimethicone, Cyclopentasiloxane, Dimethiconol, Phenly Trimethicone</p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb",
+        "vendor",
+        "title",
+        "rating",
+        "variant_picker",
+        "price",
+        "72650fe0-87f1-43cd-8b5c-fceab9bfc05f",
+        "countdown",
+        "buy_buttons",
+        "ef447a6d-469a-48a5-9050-359825941e02",
+        "description",
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "share",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "clipboard",
+            "title": "Science based",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "title": "Made by gynecologists",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "title": "Vegan",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "default",
+        "column_alignment": "center",
+        "secondary_background": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658133913d28abc37": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658133913405b7b25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doctor's Corner",
+            "heading_size": "h1"
+          }
+        },
+        "1658133913405b7b25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Is water or silicone-based better and what is the best option from a vaginal health standpoint? The short answer is that silicone-based lubricants are better. </em></p><p><em>Water-based lubricants require preservatives to prevent bacterial growth, which means it can interfere with the \"good\" (Lactobacillus) vaginal bacteria  and thus set off  the pH-balance and potentially lead to infections or discomfort. A silicone-based formula does not require preservatives—which means it won't interfere with the \"good\" (Lactobacillus) vaginal bacteria and won't disrupt its delicate pH balance. From a vaginal health perspective, we recommend silicon based lubricants.\"<br/><br/></em><strong>-Dr. Gunvor Ekman-Ordeberg, OB/GYN, MD.,PhD. </strong></p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "1658133913405b7b25-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658133913405b7b25-0",
+        "1658133913405b7b25-1",
+        "1658133913405b7b25-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_7842.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Skarmavbild_2022-10-13_kl._15.21.52.png",
+            "title": "Step 1",
+            "title_size": "h3",
+            "text": "<p>Pump a few drops.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Skarmavbild_2022-10-13_kl._15.22.01.png",
+            "title": "Step 2",
+            "title_size": "h3",
+            "text": "<p>Apply to skin.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/lube_on_pink.jpg",
+            "title": "Step 3",
+            "title_size": "h3",
+            "text": "<p>Do not combine with silicone products. Compatible with natural rubber latex, polyisoprene and polyurethane condoms.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "How To Use",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_position": "top center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-details": {
+      "type": "product-details",
+      "disabled": true,
+      "settings": {
+        "heading": "Collapsible tabs",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Recently Viewed",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3e2517cf-e24a-4f61-b9d4-b156e840c578": {
+      "type": "faq",
+      "blocks": {
+        "76354e00-9580-4c16-9ab9-2714f962f761": {
+          "type": "question",
+          "settings": {
+            "title": "Why silicon-based lubricant? ",
+            "text": "<p>A silicone-based formula does not require preservatives—which means it won't interfere with the \"good\" (Lactobacillus) vaginal bacteria and won't disrupt its delicate pH balance. From a vaginal health perspective, we recommend silicon-based lubricants.</p>"
+          }
+        },
+        "b44947c6-b8e6-4c35-90db-8f1b4d9495b4": {
+          "type": "question",
+          "settings": {
+            "title": "Should I use water-based lubricant? ",
+            "text": "<p>No. Water-based lubricants require preservatives to prevent bacterial growth, which means they can interfere with the \"good\" (Lactobacillus) vaginal bacteria and thus set off the pH balance and potentially lead to infections or discomfort.</p>"
+          }
+        },
+        "d5e2a21f-5a4a-4657-b1fd-248f159062ed": {
+          "type": "question",
+          "settings": {
+            "title": "ARE DEODOC'S PRODUCTS SAFE TO USE?",
+            "text": "<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br/><br/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br/><br/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br/><br/>- Products are dermatologically tested for sensitive skin<br/><br/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg</p>"
+          }
+        },
+        "4517159b-9dc9-436e-ac65-c90867993a21": {
+          "type": "question",
+          "settings": {
+            "title": "ARE DEODOC'S PRODUCTS VEGAN?",
+            "text": "<p>Yes.</p>"
+          }
+        },
+        "question_wixWYG": {
+          "type": "question",
+          "settings": {
+            "title": "What pH does the intimate lubricant drops have?",
+            "text": "<p>Our intimate lubricant drop does not contain any water. pH can only be determined in a solution that contains water, which means our formula has no pH and will not interfere with your vaginal pH balance. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "76354e00-9580-4c16-9ab9-2714f962f761",
+        "b44947c6-b8e6-4c35-90db-8f1b4d9495b4",
+        "d5e2a21f-5a4a-4657-b1fd-248f159062ed",
+        "4517159b-9dc9-436e-ac65-c90867993a21",
+        "question_wixWYG"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "1662477481a68ba650": {
+      "type": "apps",
+      "blocks": {
+        "9ef0268b-c2c7-4fba-903a-e7431be97571": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "9ef0268b-c2c7-4fba-903a-e7431be97571"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 48,
+        "padding_bottom": 8
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You May Also Like",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "guarantees",
+    "1658133913d28abc37",
+    "multicolumn",
+    "product-details",
+    "recently-viewed-products",
+    "3e2517cf-e24a-4f61-b9d4-b156e840c578",
+    "1662477481a68ba650",
+    "product-recommendations"
+  ]
+}

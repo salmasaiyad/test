@@ -1,1 +1,325 @@
-{"sections":{"main":{"type":"main-article","blocks":{"featured_image":{"type":"featured_image","disabled":true,"settings":{"image_height":"adapt"}},"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":false}},"title":{"type":"title","settings":{"blog_show_date":false,"blog_show_author":false,"blog_show_comment_count":false}},"content":{"type":"content","disabled":true,"settings":{}},"share":{"type":"share","disabled":true,"settings":{}},"back_to_blog":{"type":"back_to_blog","disabled":true,"settings":{}},"next_previous_posts":{"type":"next_previous_posts","disabled":true,"settings":{}}},"block_order":["featured_image","breadcrumb","title","content","share","back_to_blog","next_previous_posts"],"settings":{"show_gravatar":true,"padding_top":0,"padding_bottom":36}},"9237752b-f785-49eb-b744-30d062ab099e":{"type":"rich-text","blocks":{"template--15321823805576__9237752b-f785-49eb-b744-30d062ab099e-1670243711ef94b006-1":{"type":"text","settings":{"text":"<p>The month of September marks Gynecological Cancer Awareness Month. Gynecologic cancer is any cancer that starts in a woman's reproductive organs. There are 5 types of gynecological cancer and these include:<\/p>","text_size":"typeset2","secondary_color":false}}},"block_order":["template--15321823805576__9237752b-f785-49eb-b744-30d062ab099e-1670243711ef94b006-1"],"settings":{"text_alignment":"left","narrow":true,"show_divider":false,"mobile_text_alignment":"left","padding_top":0,"padding_bottom":36}},"d95997ac-813f-438b-84a7-84e6b3aa73ed":{"type":"image-with-text","blocks":{"0dc57a9e-0246-4651-8a90-7154a2b822a5":{"type":"heading","settings":{"heading":"   1. CERVICAL  CANCER ","heading_size":"h2"}},"template--15321823641736__d95997ac-813f-438b-84a7-84e6b3aa73ed-16702350183af80019-1":{"type":"text","settings":{"text":"<p>The cervix is the lower part of the uterus. HPV (Human Papillomavirus) is the most common cause of cervical cancer.<\/p><p>Symptoms include: <\/p><p>- Vaginal bleeding between periods<br\/>- Pain during intercourse<br\/>- Bleeding after intercourse<br\/>- Pelvic pain<br\/>- Vaginal bleeding after menopause<\/p><p>PS: Pap smears might not be fun, but they are extremely important as they help to detect early stages of cervical cancer. There is also vaccine available for prevention. <\/p>","text_size":"typeset2","secondary_color":false}}},"block_order":["0dc57a9e-0246-4651-8a90-7154a2b822a5","template--15321823641736__d95997ac-813f-438b-84a7-84e6b3aa73ed-16702350183af80019-1"],"settings":{"image":"shopify:\/\/shop_images\/3.cervical.jpg","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"adapt","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"051bf1d0-7d3a-45e7-aa17-5c7bc0f594d1":{"type":"image-with-text","blocks":{"template--15321823805576__051bf1d0-7d3a-45e7-aa17-5c7bc0f594d1-1670235384d4c1cc63-0":{"type":"heading","settings":{"heading":"2.  UTERINE CANCER","heading_size":"h2"}},"template--15321823805576__051bf1d0-7d3a-45e7-aa17-5c7bc0f594d1-1670235384d4c1cc63-1":{"type":"text","settings":{"text":"<p>Uterine cancer begins in the inner lining of the uterus. It is the most common cancer of women's reproductive organs. The causes are unclear.<\/p><p>Common symptoms may include:<\/p><p>- Vaginal bleeding after menopause<br\/>- Vaginal Bleeding between periods<br\/>- Pelvic pain<\/p><p>PS: It's the fourth most common cancer diagnosed in women after breast cancer, lung cancer, and cancer of the colon and rectum. <\/p>","text_size":"typeset2","secondary_color":false}}},"block_order":["template--15321823805576__051bf1d0-7d3a-45e7-aa17-5c7bc0f594d1-1670235384d4c1cc63-0","template--15321823805576__051bf1d0-7d3a-45e7-aa17-5c7bc0f594d1-1670235384d4c1cc63-1"],"settings":{"image":"shopify:\/\/shop_images\/2._Uterine.jpg","image_position":"center center","layout":"text_first","text_box_position":"middle","text_alignment":"left","image_ratio":"adapt","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"aa4a87ea-f51f-4de1-ab63-a2a19f13f04c":{"type":"image-with-text","blocks":{"template--15321823805576__aa4a87ea-f51f-4de1-ab63-a2a19f13f04c-1670235413d623e3f1-0":{"type":"heading","settings":{"heading":"3.  OVARIAN CANCER","heading_size":"h2"}},"template--15321823805576__aa4a87ea-f51f-4de1-ab63-a2a19f13f04c-1670235413d623e3f1-1":{"type":"text","settings":{"text":"<p>The ovaries — each about the size and shape of an almond — produce eggs as well as the hormones estrogen and progesterone. Ovarian cancer is hard to detect due to its vague symptoms that are not always obvious. Many symptoms are similar to those from other conditions, such as constipation, bloating or back pain.<\/p><p>Common symptoms include:<\/p><p>- Abdominal bloating or swelling<br\/>- Quickly feeling full when eating<br\/>- Weight loss<br\/>- Fatigue<br\/>- Back pain<br\/>- Changes in bowel habits<\/p><p>PS: Ovarian cancer can run in families and be hereditary.<\/p>","text_size":"typeset2","secondary_color":false}}},"block_order":["template--15321823805576__aa4a87ea-f51f-4de1-ab63-a2a19f13f04c-1670235413d623e3f1-0","template--15321823805576__aa4a87ea-f51f-4de1-ab63-a2a19f13f04c-1670235413d623e3f1-1"],"settings":{"image":"shopify:\/\/shop_images\/1._ovarian.jpg","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"adapt","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"c9bde8c6-0d4b-423f-881a-a245333b24bc":{"type":"image-with-text","blocks":{"template--15321823805576__c9bde8c6-0d4b-423f-881a-a245333b24bc-16702354237f67ebee-0":{"type":"heading","settings":{"heading":"4.  VAGINAL CANCER","heading_size":"h2"}},"template--15321823805576__c9bde8c6-0d4b-423f-881a-a245333b24bc-16702354237f67ebee-1":{"type":"text","settings":{"text":"<p>Vaginal cancer is a rare form of gynecological cancer which most commonly occurs in the cells that line the surface of your vagina, also called the birth canal.<\/p><p>The most common symptoms include: <\/p><p>- Unusual vaginal bleeding, for example, after intercourse or after menopause<br\/>- Watery vaginal discharge<br\/>- A lump or mass in your vagina<br\/>- Smelly or blood stained vaginal discharge<br\/>- Frequent urination<\/p><p>PS: More than half of all vaginal cancers are caused by human papillomavirus (HPV).<\/p>","text_size":"typeset2","secondary_color":false}}},"block_order":["template--15321823805576__c9bde8c6-0d4b-423f-881a-a245333b24bc-16702354237f67ebee-0","template--15321823805576__c9bde8c6-0d4b-423f-881a-a245333b24bc-16702354237f67ebee-1"],"settings":{"image":"shopify:\/\/shop_images\/vaginal.jpg","image_position":"center center","layout":"text_first","text_box_position":"middle","text_alignment":"left","image_ratio":"adapt","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"890aa146-ce8a-4f8b-ae99-49ca6e6d7dd5":{"type":"image-with-text","blocks":{"template--15321823805576__890aa146-ce8a-4f8b-ae99-49ca6e6d7dd5-1670235449bf54fe37-0":{"type":"heading","settings":{"heading":"5.   VULVAR CANCER","heading_size":"h2"}},"template--15321823805576__890aa146-ce8a-4f8b-ae99-49ca6e6d7dd5-1670235449bf54fe37-1":{"type":"text","settings":{"text":"<p>Vulvar cancer is a cancer that occurs in any part of the external female genitals- in the inner lips, the outer lips, and the skin between the vagina and the anus.<\/p><p>Common symptoms include:<\/p><p>- A persistent itch that does not go away<br\/>- Pain, soreness or tenderness in the vulva<br\/>- Skin changes, such as thickening of the skin<br\/>- A lump or sore on the vulva<\/p><p>PS: The cause of vulvar cancer is still unknown, some risk factors however include increasing age, being exposed to HPV and smoking. <\/p>","text_size":"typeset2","secondary_color":false}}},"block_order":["template--15321823805576__890aa146-ce8a-4f8b-ae99-49ca6e6d7dd5-1670235449bf54fe37-0","template--15321823805576__890aa146-ce8a-4f8b-ae99-49ca6e6d7dd5-1670235449bf54fe37-1"],"settings":{"image":"shopify:\/\/shop_images\/5.vulvar.jpg","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"adapt","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"featured-blog":{"type":"featured-blog","blocks":{"title":{"type":"title","disabled":true,"settings":{"show_date":true,"show_author":false,"show_comment_count":true}},"1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c":{"type":"summary","settings":{}}},"block_order":["title","1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c"],"settings":{"heading":"DISCOVER MORE","heading_size":"h2","blog":"blog","post_limit":3,"show_view_all":true,"show_divider":false,"columns_mobile":"1","swipe_on_mobile":true,"show_image":true,"image_ratio":"landscape","image_position":"center center","padding_top":36,"padding_bottom":72}}},"order":["main","9237752b-f785-49eb-b744-30d062ab099e","d95997ac-813f-438b-84a7-84e6b3aa73ed","051bf1d0-7d3a-45e7-aa17-5c7bc0f594d1","aa4a87ea-f51f-4de1-ab63-a2a19f13f04c","c9bde8c6-0d4b-423f-881a-a245333b24bc","890aa146-ce8a-4f8b-ae99-49ca6e6d7dd5","featured-blog"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false,
+            "blog_show_comment_count": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "disabled": true,
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        },
+        "back_to_blog": {
+          "type": "back_to_blog",
+          "disabled": true,
+          "settings": {}
+        },
+        "next_previous_posts": {
+          "type": "next_previous_posts",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "breadcrumb",
+        "title",
+        "content",
+        "share",
+        "back_to_blog",
+        "next_previous_posts"
+      ],
+      "settings": {
+        "show_gravatar": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "9237752b-f785-49eb-b744-30d062ab099e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15321823805576__9237752b-f785-49eb-b744-30d062ab099e-1670243711ef94b006-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The month of September marks Gynecological Cancer Awareness Month. Gynecologic cancer is any cancer that starts in a woman's reproductive organs. There are 5 types of gynecological cancer and these include:</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823805576__9237752b-f785-49eb-b744-30d062ab099e-1670243711ef94b006-1"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "d95997ac-813f-438b-84a7-84e6b3aa73ed": {
+      "type": "image-with-text",
+      "blocks": {
+        "0dc57a9e-0246-4651-8a90-7154a2b822a5": {
+          "type": "heading",
+          "settings": {
+            "heading": "   1. CERVICAL  CANCER ",
+            "heading_size": "h2"
+          }
+        },
+        "template--15321823641736__d95997ac-813f-438b-84a7-84e6b3aa73ed-16702350183af80019-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The cervix is the lower part of the uterus. HPV (Human Papillomavirus) is the most common cause of cervical cancer.</p><p>Symptoms include: </p><p>- Vaginal bleeding between periods<br/>- Pain during intercourse<br/>- Bleeding after intercourse<br/>- Pelvic pain<br/>- Vaginal bleeding after menopause</p><p>PS: Pap smears might not be fun, but they are extremely important as they help to detect early stages of cervical cancer. There is also vaccine available for prevention. </p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "0dc57a9e-0246-4651-8a90-7154a2b822a5",
+        "template--15321823641736__d95997ac-813f-438b-84a7-84e6b3aa73ed-16702350183af80019-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/3.cervical.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "051bf1d0-7d3a-45e7-aa17-5c7bc0f594d1": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15321823805576__051bf1d0-7d3a-45e7-aa17-5c7bc0f594d1-1670235384d4c1cc63-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "2.  UTERINE CANCER",
+            "heading_size": "h2"
+          }
+        },
+        "template--15321823805576__051bf1d0-7d3a-45e7-aa17-5c7bc0f594d1-1670235384d4c1cc63-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Uterine cancer begins in the inner lining of the uterus. It is the most common cancer of women's reproductive organs. The causes are unclear.</p><p>Common symptoms may include:</p><p>- Vaginal bleeding after menopause<br/>- Vaginal Bleeding between periods<br/>- Pelvic pain</p><p>PS: It's the fourth most common cancer diagnosed in women after breast cancer, lung cancer, and cancer of the colon and rectum. </p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823805576__051bf1d0-7d3a-45e7-aa17-5c7bc0f594d1-1670235384d4c1cc63-0",
+        "template--15321823805576__051bf1d0-7d3a-45e7-aa17-5c7bc0f594d1-1670235384d4c1cc63-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/2._Uterine.jpg",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "aa4a87ea-f51f-4de1-ab63-a2a19f13f04c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15321823805576__aa4a87ea-f51f-4de1-ab63-a2a19f13f04c-1670235413d623e3f1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "3.  OVARIAN CANCER",
+            "heading_size": "h2"
+          }
+        },
+        "template--15321823805576__aa4a87ea-f51f-4de1-ab63-a2a19f13f04c-1670235413d623e3f1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The ovaries — each about the size and shape of an almond — produce eggs as well as the hormones estrogen and progesterone. Ovarian cancer is hard to detect due to its vague symptoms that are not always obvious. Many symptoms are similar to those from other conditions, such as constipation, bloating or back pain.</p><p>Common symptoms include:</p><p>- Abdominal bloating or swelling<br/>- Quickly feeling full when eating<br/>- Weight loss<br/>- Fatigue<br/>- Back pain<br/>- Changes in bowel habits</p><p>PS: Ovarian cancer can run in families and be hereditary.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823805576__aa4a87ea-f51f-4de1-ab63-a2a19f13f04c-1670235413d623e3f1-0",
+        "template--15321823805576__aa4a87ea-f51f-4de1-ab63-a2a19f13f04c-1670235413d623e3f1-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/1._ovarian.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c9bde8c6-0d4b-423f-881a-a245333b24bc": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15321823805576__c9bde8c6-0d4b-423f-881a-a245333b24bc-16702354237f67ebee-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "4.  VAGINAL CANCER",
+            "heading_size": "h2"
+          }
+        },
+        "template--15321823805576__c9bde8c6-0d4b-423f-881a-a245333b24bc-16702354237f67ebee-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vaginal cancer is a rare form of gynecological cancer which most commonly occurs in the cells that line the surface of your vagina, also called the birth canal.</p><p>The most common symptoms include: </p><p>- Unusual vaginal bleeding, for example, after intercourse or after menopause<br/>- Watery vaginal discharge<br/>- A lump or mass in your vagina<br/>- Smelly or blood stained vaginal discharge<br/>- Frequent urination</p><p>PS: More than half of all vaginal cancers are caused by human papillomavirus (HPV).</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823805576__c9bde8c6-0d4b-423f-881a-a245333b24bc-16702354237f67ebee-0",
+        "template--15321823805576__c9bde8c6-0d4b-423f-881a-a245333b24bc-16702354237f67ebee-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/vaginal.jpg",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "890aa146-ce8a-4f8b-ae99-49ca6e6d7dd5": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--15321823805576__890aa146-ce8a-4f8b-ae99-49ca6e6d7dd5-1670235449bf54fe37-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "5.   VULVAR CANCER",
+            "heading_size": "h2"
+          }
+        },
+        "template--15321823805576__890aa146-ce8a-4f8b-ae99-49ca6e6d7dd5-1670235449bf54fe37-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vulvar cancer is a cancer that occurs in any part of the external female genitals- in the inner lips, the outer lips, and the skin between the vagina and the anus.</p><p>Common symptoms include:</p><p>- A persistent itch that does not go away<br/>- Pain, soreness or tenderness in the vulva<br/>- Skin changes, such as thickening of the skin<br/>- A lump or sore on the vulva</p><p>PS: The cause of vulvar cancer is still unknown, some risk factors however include increasing age, being exposed to HPV and smoking. </p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823805576__890aa146-ce8a-4f8b-ae99-49ca6e6d7dd5-1670235449bf54fe37-0",
+        "template--15321823805576__890aa146-ce8a-4f8b-ae99-49ca6e6d7dd5-1670235449bf54fe37-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/5.vulvar.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured-blog": {
+      "type": "featured-blog",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comment_count": true
+          }
+        },
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c": {
+          "type": "summary",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c"
+      ],
+      "settings": {
+        "heading": "DISCOVER MORE",
+        "heading_size": "h2",
+        "blog": "blog",
+        "post_limit": 3,
+        "show_view_all": true,
+        "show_divider": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_image": true,
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "main",
+    "9237752b-f785-49eb-b744-30d062ab099e",
+    "d95997ac-813f-438b-84a7-84e6b3aa73ed",
+    "051bf1d0-7d3a-45e7-aa17-5c7bc0f594d1",
+    "aa4a87ea-f51f-4de1-ab63-a2a19f13f04c",
+    "c9bde8c6-0d4b-423f-881a-a245333b24bc",
+    "890aa146-ce8a-4f8b-ae99-49ca6e6d7dd5",
+    "featured-blog"
+  ]
+}

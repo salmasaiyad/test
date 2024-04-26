@@ -1,1 +1,320 @@
-{"sections":{"main":{"type":"main-article","blocks":{"featured_image":{"type":"featured_image","disabled":true,"settings":{"image_height":"adapt"}},"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":false}},"title":{"type":"title","settings":{"blog_show_date":false,"blog_show_author":false,"blog_show_comment_count":false}},"content":{"type":"content","disabled":true,"settings":{}},"share":{"type":"share","disabled":true,"settings":{}},"back_to_blog":{"type":"back_to_blog","disabled":true,"settings":{}},"next_previous_posts":{"type":"next_previous_posts","disabled":true,"settings":{}}},"block_order":["featured_image","breadcrumb","title","content","share","back_to_blog","next_previous_posts"],"settings":{"show_gravatar":true,"padding_top":0,"padding_bottom":36}},"40862cbb-ba7c-4c0b-aa58-8479def55f8a":{"type":"rich-text","blocks":{"db102293-d7f3-48bd-b18f-3ee72acb3bdb":{"type":"heading","disabled":true,"settings":{"heading":"WHAT IS MENSTRUATION?","heading_size":"h2"}},"template--15321823641736__40862cbb-ba7c-4c0b-aa58-8479def55f8a-16702349373f864b87-1":{"type":"text","settings":{"text":"<p>Menstruation, or more commonly known as a period, is the monthly shedding of blood and uterine lining via the vagina.<\/p>","text_size":"typeset2","secondary_color":false}}},"block_order":["db102293-d7f3-48bd-b18f-3ee72acb3bdb","template--15321823641736__40862cbb-ba7c-4c0b-aa58-8479def55f8a-16702349373f864b87-1"],"settings":{"text_alignment":"left","narrow":true,"show_divider":false,"mobile_text_alignment":"left","padding_top":0,"padding_bottom":12}},"f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9":{"type":"image-with-text-overlay","blocks":{"template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-0":{"type":"heading","settings":{"heading":"The phases of the menstrual cycle","heading_size":"h2"}},"template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-1":{"type":"text","settings":{"text":"<p>The menstruation cycle consists of 4 phases and is a complex interaction between the female reproductive organs and the bodies’ hormones.<\/p><p>The menstrual cycle varies from person to person, but on average, a period occurs every 28 days. The image illustrates the interplay of the egg and uterine lining during each of the four phases.<\/p>","text_size":"typeset2","secondary_color":false}},"template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-0","template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-1","template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-2"],"settings":{"image":"shopify:\/\/shop_images\/menstruation_26491c55-5338-4b0a-9bb5-1b5abf0fc139.jpg","image_position":"center center","text_box_position":"flex-start","text_alignment":"left","image_ratio":"adapt","full_width":true,"show_divider":false,"mobile_text_box_position":"image_first","mobile_text_alignment":"center","mobile_image_ratio":"auto","colors_text":"#212326","colors_overlay":"#f3f3f3","colors_overlay_opacity":92,"padding_top":36,"padding_bottom":36}},"95cbc348-f1cf-45c6-9125-3e47c696df97":{"type":"multicolumn","blocks":{"template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-0":{"type":"column","settings":{"title":"1. FOLLICULAR PHASE","title_size":"h3","text":"<p>During this phase, the ovaries are stimulated by hormonal changes to stimulate follicular growth. Follicles contain unfertilized eggs, and each month one egg prepares to be released via the dominant follicle. During this time,  estrogen levels also begin to rise, causing the uterine lining to thicken in order to receive a fertilized egg.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-1":{"type":"column","settings":{"title":"2. OVULATION","title_size":"h3","text":"<p>Ovulation occurs approximately 14 days before menstruation. In this phase, the ovarian follicle bursts and the mature egg is released into the fallopian tube. After ovulation, the egg travels through the fallopian tube towards the uterus. At the same time, the uterine lining continues to thicken in preparation for an egg.  If the egg is not fertilized, it dissolves after 24h.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"e4956324-5faa-471b-b8df-467db645e2e4":{"type":"column","settings":{"title":"3. LUTEAL PHASE","title_size":"h3","text":"<p>After ovulation, the follicle that held the mature egg transforms into something called corpus luteum. Corpus luteum releases hormones, especially progesterone. This increase of hormones helps the uterine lining to maintain its thickness and get ready for a fertilized egg to be implanted.<\/p><p>If the egg is not fertilized, corpus luteum will start to break down and the hormone levels will drop (progesterone and estrogen). This is what starts menstruation. The hormonal changes that occur in the luteal phase are associated with PMS symptoms that many people experience. <\/p>","button_label":"","button_link":"","button_style_secondary":false}},"8bf004de-8555-4445-a887-4ae6f550c60f":{"type":"column","settings":{"title":"4. MENSTRUATION","title_size":"h3","text":"<p>The lining of the uterus starts to shed via the vagina. The menstrual fluid consists of blood and uterine tissue.<\/p><p>When the menstrual phase ends, the follicular phase initiates and the cycle begins again.<\/p>","button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-0","template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-1","e4956324-5faa-471b-b8df-467db645e2e4","8bf004de-8555-4445-a887-4ae6f550c60f"],"settings":{"heading":"","heading_size":"h1","image_ratio":"portrait","image_position":"center center","text_alignment":"left","show_divider":true,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":false,"padding_top":24,"padding_bottom":36}},"e8c1e804-2a0c-4698-91b6-bd1f391fbdd2":{"type":"multicolumn","blocks":{"template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Cotton_Day_Pad.png","title":"PADS","title_size":"h3","text":"<p>Thin and naturally absorbent day pads made of 100% organic cotton - and nothing else!<\/p>","button_label":"Shop now","button_link":"shopify:\/\/products\/cotton-day-pad","button_style_secondary":false}},"template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Cotton_Liners.png","title":"LINERS","title_size":"h3","text":"<p>Ultra-thin liners in 100% organic cotton. Made to be barely noticeable when wearing them. <\/p>","button_label":"Shop now","button_link":"shopify:\/\/products\/cotton-liners","button_style_secondary":false}},"template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Cotton_Tampons_Applicator_-_Super.png","title":"TAMPONS","title_size":"h3","text":"<p>Breathable and naturally absorbent tampons made of 100% organic cotton.<\/p>","button_label":"Shop now","button_link":"shopify:\/\/products\/tampons","button_style_secondary":false}}},"block_order":["template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-0","template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-1","template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-2"],"settings":{"heading":"","heading_size":"h1","image_ratio":"square","image_position":"center center","text_alignment":"center","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"featured-blog":{"type":"featured-blog","blocks":{"title":{"type":"title","disabled":true,"settings":{"show_date":true,"show_author":false,"show_comment_count":true}},"1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c":{"type":"summary","settings":{}}},"block_order":["title","1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c"],"settings":{"heading":"DISCOVER MORE","heading_size":"h2","blog":"blog","post_limit":3,"show_view_all":true,"show_divider":false,"columns_mobile":"1","swipe_on_mobile":true,"show_image":true,"image_ratio":"landscape","image_position":"center center","padding_top":36,"padding_bottom":72}}},"order":["main","40862cbb-ba7c-4c0b-aa58-8479def55f8a","f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9","95cbc348-f1cf-45c6-9125-3e47c696df97","e8c1e804-2a0c-4698-91b6-bd1f391fbdd2","featured-blog"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false,
+            "blog_show_comment_count": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "disabled": true,
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        },
+        "back_to_blog": {
+          "type": "back_to_blog",
+          "disabled": true,
+          "settings": {}
+        },
+        "next_previous_posts": {
+          "type": "next_previous_posts",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "breadcrumb",
+        "title",
+        "content",
+        "share",
+        "back_to_blog",
+        "next_previous_posts"
+      ],
+      "settings": {
+        "show_gravatar": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "40862cbb-ba7c-4c0b-aa58-8479def55f8a": {
+      "type": "rich-text",
+      "blocks": {
+        "db102293-d7f3-48bd-b18f-3ee72acb3bdb": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "WHAT IS MENSTRUATION?",
+            "heading_size": "h2"
+          }
+        },
+        "template--15321823641736__40862cbb-ba7c-4c0b-aa58-8479def55f8a-16702349373f864b87-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Menstruation, or more commonly known as a period, is the monthly shedding of blood and uterine lining via the vagina.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "db102293-d7f3-48bd-b18f-3ee72acb3bdb",
+        "template--15321823641736__40862cbb-ba7c-4c0b-aa58-8479def55f8a-16702349373f864b87-1"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The phases of the menstrual cycle",
+            "heading_size": "h2"
+          }
+        },
+        "template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The menstruation cycle consists of 4 phases and is a complex interaction between the female reproductive organs and the bodies’ hormones.</p><p>The menstrual cycle varies from person to person, but on average, a period occurs every 28 days. The image illustrates the interplay of the egg and uterine lining during each of the four phases.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-0",
+        "template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-1",
+        "template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-2"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/menstruation_26491c55-5338-4b0a-9bb5-1b5abf0fc139.jpg",
+        "image_position": "center center",
+        "text_box_position": "flex-start",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_box_position": "image_first",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "colors_text": "#212326",
+        "colors_overlay": "#f3f3f3",
+        "colors_overlay_opacity": 92,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "95cbc348-f1cf-45c6-9125-3e47c696df97": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-0": {
+          "type": "column",
+          "settings": {
+            "title": "1. FOLLICULAR PHASE",
+            "title_size": "h3",
+            "text": "<p>During this phase, the ovaries are stimulated by hormonal changes to stimulate follicular growth. Follicles contain unfertilized eggs, and each month one egg prepares to be released via the dominant follicle. During this time,  estrogen levels also begin to rise, causing the uterine lining to thicken in order to receive a fertilized egg.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-1": {
+          "type": "column",
+          "settings": {
+            "title": "2. OVULATION",
+            "title_size": "h3",
+            "text": "<p>Ovulation occurs approximately 14 days before menstruation. In this phase, the ovarian follicle bursts and the mature egg is released into the fallopian tube. After ovulation, the egg travels through the fallopian tube towards the uterus. At the same time, the uterine lining continues to thicken in preparation for an egg.  If the egg is not fertilized, it dissolves after 24h.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "e4956324-5faa-471b-b8df-467db645e2e4": {
+          "type": "column",
+          "settings": {
+            "title": "3. LUTEAL PHASE",
+            "title_size": "h3",
+            "text": "<p>After ovulation, the follicle that held the mature egg transforms into something called corpus luteum. Corpus luteum releases hormones, especially progesterone. This increase of hormones helps the uterine lining to maintain its thickness and get ready for a fertilized egg to be implanted.</p><p>If the egg is not fertilized, corpus luteum will start to break down and the hormone levels will drop (progesterone and estrogen). This is what starts menstruation. The hormonal changes that occur in the luteal phase are associated with PMS symptoms that many people experience. </p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "8bf004de-8555-4445-a887-4ae6f550c60f": {
+          "type": "column",
+          "settings": {
+            "title": "4. MENSTRUATION",
+            "title_size": "h3",
+            "text": "<p>The lining of the uterus starts to shed via the vagina. The menstrual fluid consists of blood and uterine tissue.</p><p>When the menstrual phase ends, the follicular phase initiates and the cycle begins again.</p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-0",
+        "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-1",
+        "e4956324-5faa-471b-b8df-467db645e2e4",
+        "8bf004de-8555-4445-a887-4ae6f550c60f"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "text_alignment": "left",
+        "show_divider": true,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 36
+      }
+    },
+    "e8c1e804-2a0c-4698-91b6-bd1f391fbdd2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Cotton_Day_Pad.png",
+            "title": "PADS",
+            "title_size": "h3",
+            "text": "<p>Thin and naturally absorbent day pads made of 100% organic cotton - and nothing else!</p>",
+            "button_label": "Shop now",
+            "button_link": "shopify://products/cotton-day-pad",
+            "button_style_secondary": false
+          }
+        },
+        "template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Cotton_Liners.png",
+            "title": "LINERS",
+            "title_size": "h3",
+            "text": "<p>Ultra-thin liners in 100% organic cotton. Made to be barely noticeable when wearing them. </p>",
+            "button_label": "Shop now",
+            "button_link": "shopify://products/cotton-liners",
+            "button_style_secondary": false
+          }
+        },
+        "template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Cotton_Tampons_Applicator_-_Super.png",
+            "title": "TAMPONS",
+            "title_size": "h3",
+            "text": "<p>Breathable and naturally absorbent tampons made of 100% organic cotton.</p>",
+            "button_label": "Shop now",
+            "button_link": "shopify://products/tampons",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-0",
+        "template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-1",
+        "template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-2"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured-blog": {
+      "type": "featured-blog",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comment_count": true
+          }
+        },
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c": {
+          "type": "summary",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c"
+      ],
+      "settings": {
+        "heading": "DISCOVER MORE",
+        "heading_size": "h2",
+        "blog": "blog",
+        "post_limit": 3,
+        "show_view_all": true,
+        "show_divider": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_image": true,
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "main",
+    "40862cbb-ba7c-4c0b-aa58-8479def55f8a",
+    "f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9",
+    "95cbc348-f1cf-45c6-9125-3e47c696df97",
+    "e8c1e804-2a0c-4698-91b6-bd1f391fbdd2",
+    "featured-blog"
+  ]
+}

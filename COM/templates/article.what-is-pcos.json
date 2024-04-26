@@ -1,1 +1,152 @@
-{"sections":{"main":{"type":"main-article","blocks":{"featured_image":{"type":"featured_image","settings":{"image_height":"adapt"}},"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":false}},"title":{"type":"title","settings":{"blog_show_date":false,"blog_show_author":false,"blog_show_comment_count":false}},"content":{"type":"content","disabled":true,"settings":{}},"share":{"type":"share","disabled":true,"settings":{}},"back_to_blog":{"type":"back_to_blog","disabled":true,"settings":{}},"next_previous_posts":{"type":"next_previous_posts","disabled":true,"settings":{}}},"block_order":["featured_image","breadcrumb","title","content","share","back_to_blog","next_previous_posts"],"settings":{"show_gravatar":true,"padding_top":0,"padding_bottom":36}},"328bc461-64d1-4fc0-ad5d-83a0e9349b8c":{"type":"rich-text","blocks":{"template--15321823510664__328bc461-64d1-4fc0-ad5d-83a0e9349b8c-16702339100fa60514-1":{"type":"text","settings":{"text":"<p><strong>What gynecological condition does Victoria Beckham, Lea Michael and Emma Thompson have in common? <\/strong><\/p><p>The condition is called PCOS, polycystic ovarian syndrome and it affects 1 in 10 women. Pretty common in other words, yet many women who have PCOS are unaware of the condition as the symptoms can go unnoticed or mistaken for other problems.<\/p><p>In the spirit of PCOS awareness month (in September) we would like to spread knowledge and share the most frequently asked questions about PCOS. <\/p><p><strong>What is PCOS?<br\/><\/strong>PCOS is a hormone imbalance that can cause:<strong><br\/><\/strong><\/p><p>Irregular periods periods that come every few months, not at all or too frequently.Extra hair on your face or other parts of your body, called “hirsutism\".Acne.Weight gain and\/or trouble losing weight.Not all people with PCOS realize they have it, but symptoms usually start during the teenage years and can be anything from mild to severe. The cause is yet unknown, but often there is a family history.<\/p><p> <br\/><strong>What causes PCOS?<br\/><\/strong>PCOS is caused by an imbalance in the hormones in your brain and your ovaries which result in extra production of testosterone (or male hormone) from your ovaries. Ovaries are enlarged with multiple cysts.<strong><br\/><\/strong><\/p><p> <br\/><strong>How is PCOS diagnosed?<br\/><\/strong>Your doctor will ask questions about your symptoms and examine you. If a diagnosis of PCOS is suspected, it can be confirmed with a blood test and ultrasound scan of your ovaries. Typically women with PCOS have lots of tiny cysts (like bubbles) in their ovaries. These are not harmful.<strong><br\/><\/strong><\/p><p> <br\/><strong>Why are the periods irregular?<br\/><\/strong>Having PCOS means that your ovaries are not getting the right hormonal signals from your pituitary gland. Without these signals you will not ovulate (make eggs). Your periods may be irregular or you may not have a period at all.<strong><br\/><\/strong><\/p><p> <br\/><strong>Why do I get acne and\/or extra hair on my body?<br\/><\/strong>Acne and extra hair on your face can happen if your body is making too much testosterone. All women make testosterone, but if you have PCOS, your ovaries make a little bit more testosterone than they are supposed to.<\/p><p> <br\/><strong>Will my PCOS affect my ability to have children some day?<br\/><\/strong>Women with PCOS have a normal uterus and healthy eggs but many women with PCOS have trouble getting pregnant. Some have no trouble at all though. If you have trouble conceiving, consult your doctor as there are many treatments which can help.<\/p><p> <br\/><strong>What can I do about having PCOS?<br\/><\/strong>While you can't cure PCOS, you can treat it. A healthy lifestyle is very important, including eating and daily exercise. There are also treatments which can help you manage irregular periods, hair growth and acne.<\/p>","text_size":"typeset2","secondary_color":false}}},"block_order":["template--15321823510664__328bc461-64d1-4fc0-ad5d-83a0e9349b8c-16702339100fa60514-1"],"settings":{"text_alignment":"left","narrow":true,"show_divider":false,"mobile_text_alignment":"left","padding_top":0,"padding_bottom":36}},"e6af98f7-aa65-49e2-9678-35e47dbcf127":{"type":"image-banner","disabled":true,"settings":{"image_position":"center center","text_box_position":"middle-center","text_alignment":"center","image_ratio":"650px","show_text_box":false,"full_width":false,"show_divider":false,"mobile_text_alignment":"center","mobile_image_ratio":"auto","stack_images_on_mobile":true,"show_text_below":true,"colors_text":"#ffffff","colors_overlay":"#000000","colors_overlay_opacity":28,"padding_top":20,"padding_bottom":36}},"featured-blog":{"type":"featured-blog","blocks":{"title":{"type":"title","disabled":true,"settings":{"show_date":true,"show_author":false,"show_comment_count":true}},"1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c":{"type":"summary","settings":{}}},"block_order":["title","1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c"],"settings":{"heading":"Discover More","heading_size":"h2","blog":"blog","post_limit":3,"show_view_all":true,"show_divider":false,"columns_mobile":"1","swipe_on_mobile":true,"show_image":true,"image_ratio":"landscape","image_position":"center center","padding_top":36,"padding_bottom":72}}},"order":["main","328bc461-64d1-4fc0-ad5d-83a0e9349b8c","e6af98f7-aa65-49e2-9678-35e47dbcf127","featured-blog"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": false,
+            "blog_show_author": false,
+            "blog_show_comment_count": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "disabled": true,
+          "settings": {}
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {}
+        },
+        "back_to_blog": {
+          "type": "back_to_blog",
+          "disabled": true,
+          "settings": {}
+        },
+        "next_previous_posts": {
+          "type": "next_previous_posts",
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "breadcrumb",
+        "title",
+        "content",
+        "share",
+        "back_to_blog",
+        "next_previous_posts"
+      ],
+      "settings": {
+        "show_gravatar": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "328bc461-64d1-4fc0-ad5d-83a0e9349b8c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15321823510664__328bc461-64d1-4fc0-ad5d-83a0e9349b8c-16702339100fa60514-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>What gynecological condition does Victoria Beckham, Lea Michael and Emma Thompson have in common? </strong></p><p>The condition is called PCOS, polycystic ovarian syndrome and it affects 1 in 10 women. Pretty common in other words, yet many women who have PCOS are unaware of the condition as the symptoms can go unnoticed or mistaken for other problems.</p><p>In the spirit of PCOS awareness month (in September) we would like to spread knowledge and share the most frequently asked questions about PCOS. </p><p><strong>What is PCOS?<br/></strong>PCOS is a hormone imbalance that can cause:<strong><br/></strong></p><p>Irregular periods periods that come every few months, not at all or too frequently.Extra hair on your face or other parts of your body, called “hirsutism\".Acne.Weight gain and/or trouble losing weight.Not all people with PCOS realize they have it, but symptoms usually start during the teenage years and can be anything from mild to severe. The cause is yet unknown, but often there is a family history.</p><p> <br/><strong>What causes PCOS?<br/></strong>PCOS is caused by an imbalance in the hormones in your brain and your ovaries which result in extra production of testosterone (or male hormone) from your ovaries. Ovaries are enlarged with multiple cysts.<strong><br/></strong></p><p> <br/><strong>How is PCOS diagnosed?<br/></strong>Your doctor will ask questions about your symptoms and examine you. If a diagnosis of PCOS is suspected, it can be confirmed with a blood test and ultrasound scan of your ovaries. Typically women with PCOS have lots of tiny cysts (like bubbles) in their ovaries. These are not harmful.<strong><br/></strong></p><p> <br/><strong>Why are the periods irregular?<br/></strong>Having PCOS means that your ovaries are not getting the right hormonal signals from your pituitary gland. Without these signals you will not ovulate (make eggs). Your periods may be irregular or you may not have a period at all.<strong><br/></strong></p><p> <br/><strong>Why do I get acne and/or extra hair on my body?<br/></strong>Acne and extra hair on your face can happen if your body is making too much testosterone. All women make testosterone, but if you have PCOS, your ovaries make a little bit more testosterone than they are supposed to.</p><p> <br/><strong>Will my PCOS affect my ability to have children some day?<br/></strong>Women with PCOS have a normal uterus and healthy eggs but many women with PCOS have trouble getting pregnant. Some have no trouble at all though. If you have trouble conceiving, consult your doctor as there are many treatments which can help.</p><p> <br/><strong>What can I do about having PCOS?<br/></strong>While you can't cure PCOS, you can treat it. A healthy lifestyle is very important, including eating and daily exercise. There are also treatments which can help you manage irregular periods, hair growth and acne.</p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15321823510664__328bc461-64d1-4fc0-ad5d-83a0e9349b8c-16702339100fa60514-1"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "e6af98f7-aa65-49e2-9678-35e47dbcf127": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 20,
+        "padding_bottom": 36
+      }
+    },
+    "featured-blog": {
+      "type": "featured-blog",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comment_count": true
+          }
+        },
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c": {
+          "type": "summary",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title",
+        "1a50fcab-e75a-4b67-b6a1-0ced3ef44b9c"
+      ],
+      "settings": {
+        "heading": "Discover More",
+        "heading_size": "h2",
+        "blog": "blog",
+        "post_limit": 3,
+        "show_view_all": true,
+        "show_divider": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_image": true,
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "main",
+    "328bc461-64d1-4fc0-ad5d-83a0e9349b8c",
+    "e6af98f7-aa65-49e2-9678-35e47dbcf127",
+    "featured-blog"
+  ]
+}
