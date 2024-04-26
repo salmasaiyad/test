@@ -43,14 +43,11 @@
                 {% render 'icon', icon: 'spinner' %}
               </div>
             </div>
-            {% comment %}
-            Cart Items Remove Button
             <cart-remove-button id="Remove-{{ item.index | plus: 1 }}" data-index="{{ item.index | plus: 1 }}"{% unless gift_wrap_id == nil or item.id != gift_wrap_id %} class="hidden"{% endunless %}>
               <a href="{{ item.url_to_remove }}" class="delete-product" aria-label="{{ 'sections.cart.remove_title' | t: title: item.title }}" data-no-instant>
                 {% render 'icon', icon: 'close-alt' %}
               </a>
             </cart-remove-button>
-            {% endcomment %}
             <div class="product-container{% unless item.image %} no-image{% endunless %}">
               {% if item.image %}
                 <div>
@@ -132,11 +129,11 @@
                     {%- if gift_wrap_id == nil or item.id != gift_wrap_id -%}
                       <label for="Quantity-{{ item.index | plus: 1 }}" class="visually-hidden">{{ 'products.product.quantity.label' | t }}</label>
                       <quantity-input class="quantity">
-                        <button class="quantity__button no-js-hidden" name="minus" type="button">
+                        <button {% if item.url contains "sca_clone_freegift" %} style="display: none;" {% endif %} class="quantity__button no-js-hidden" name="minus" type="button">
                           <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: item.product.title | escape }}</span>
                           {% render 'icon', icon: 'minus' %}
                         </button>
-                        <input class="quantity__input"
+                        <input {% if item.url contains "sca_clone_freegift" %} readonly {% endif %} class="quantity__input"
                           type="number"
                           name="updates[]"
                           value="{{ item.quantity }}"
@@ -145,7 +142,7 @@
                           id="Quantity-{{ item.index | plus: 1 }}"
                           data-index="{{ item.index | plus: 1 }}"
                         />
-                        <button class="quantity__button no-js-hidden" name="plus" type="button">
+                        <button {% if item.url contains "sca_clone_freegift" %} style="display: none;" {% endif %} class="quantity__button no-js-hidden" name="plus" type="button">
                           <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: item.product.title | escape }}</span>
                           {% render 'icon', icon: 'plus' %}
                         </button>
@@ -191,9 +188,8 @@
     </div>
 
     {%- assign animate_count = animate_count | plus: 1 -%}
-    <div class="mini-cart__footer" data-animate data-animate-delay-{{ animate_count }}>
-            {% render 'cart-samples' %}
-
+    <div class="mini-cart__footer" data-animate data-animate-delay-{{ animate_count }}>      
+      {% render 'cart-samples' %}
       {%- if gift_wrapping != nil -%}
         <gift-wrapping class="gift-wrapping"
           data-gift-wrap-id="{{ gift_wrap_id }}"

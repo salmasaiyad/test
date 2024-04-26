@@ -384,11 +384,7 @@
               </span>
             </summary>
             <mini-cart class="cart-drawer focus-inset" id="mini-cart" data-url="{{ routes.root }}?section_id=mini-cart">
-              <div class="loading-overlay">
-                <div class="loading-overlay__spinner">
-                  {% render 'icon', icon: 'spinner' %}
-                </div>
-              </div>
+              {% render 'mini-cart' %}
             </mini-cart>
           </details>
           <noscript>

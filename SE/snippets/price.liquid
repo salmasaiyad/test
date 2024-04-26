@@ -77,6 +77,10 @@
         <span class="price-item price-item--sale">
           {{ money_price }}
         </span>
+        
+        {% if template.name == 'product' %}
+          <span class="save__price">Save {{ product.compare_at_price |  minus: price | money }}</span>
+        {% endif %}
       </dd>
     </div>
     {% if available and product.selected_or_first_available_variant.unit_price_measurement %}
