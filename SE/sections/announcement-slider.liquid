@@ -1,0 +1,152 @@
+{%- liquid
+  assign show_announcement_bar = true
+
+  if section.blocks.size == 0
+    assign show_announcement_bar = false
+  endif
+
+  if section.settings.only_homepage and request.page_type != 'index'
+    assign show_announcement_bar = false
+  endif
+-%}
+
+{%- if show_announcement_bar -%}
+  <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js"></script>
+
+<link href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css" rel="stylesheet">
+  {%- style -%}
+  button.close-banner-button {
+    display: none;
+}
+
+div#shopify-section-announcement-slider {
+    text-align: center;
+    height: 40px;
+    background: #000;
+    color: #fff;
+}
+    .splide__slide{
+          line-height: 40px;
+    }
+    {%- endstyle -%}
+  {{ 'section-announcement-bar.css' | asset_url | stylesheet_tag: preload: true }}
+<div class="splide" role="group" aria-label="announcement-slider">
+  <div class="splide__track">
+		<ul class="splide__list">
+          {%- for block in section.blocks -%}
+			<li class="splide__slide" data-splide-interval="3000"> {{ block.settings.text | escape }}</li>
+          {%- endfor -%} 
+		</ul>
+  </div>
+    <button class="close-banner-button"> <i class="fa-solid fa-xmark"></i> </button>
+</div>
+<script>
+var splide = new Splide( '.splide', {
+  type: 'loop',
+  direction: 'ttb',
+  height   : '40px',
+  autoplay: true,
+  pagination: false,
+  arrows: false,
+} );
+
+splide.mount();
+</script>
+   
+{%- endif -%}
+
+
+
+{% schema %}
+{
+  "name": "t:sections.announcement-bar.name",
+  "max_blocks": 3,
+  "settings": [
+    {
+      "type": "checkbox",
+      "id": "only_homepage",
+      "label": "t:sections.announcement-bar.settings.only_homepage.label",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_compact",
+      "default": false,
+      "label": "t:sections.announcement-bar.settings.enable_compact.label",
+      "info": "t:sections.announcement-bar.settings.enable_compact.info"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.announcement-bar.settings.header.content"
+    },
+    {
+      "type": "paragraph",
+      "content": "t:sections.announcement-bar.settings.paragraph.content"
+    },
+    {
+      "type": "checkbox",
+      "id": "autorotate",
+      "default": false,
+      "label": "t:sections.announcement-bar.settings.autorotate.label"
+    },
+    {
+      "type": "range",
+      "id": "autorotate_speed",
+      "label": "t:sections.announcement-bar.settings.autorotate_speed.label",
+      "max": 9,
+      "min": 3,
+      "step": 2,
+      "unit": "t:sections.announcement-bar.settings.autorotate_speed.unit",
+      "default": 5
+    },
+    {
+      "type": "checkbox",
+      "id": "show_navigation",
+      "default": false,
+      "label": "t:sections.announcement-bar.settings.show_navigation.label"
+    },
+    {
+      "type": "header",
+      "content": "t:sections.all.colors.header.content"
+    },
+    {
+      "type": "color",
+      "id": "colors_text",
+      "label": "t:sections.all.colors.colors_text.label",
+      "default": "#ffffff"
+    },
+    {
+      "type": "color",
+      "id": "colors_background",
+      "label": "t:sections.all.colors.colors_background.label",
+      "default": "#1a1b18"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "announcement",
+      "name": "t:sections.announcement-bar.blocks.announcement.name",
+      "settings": [
+        {
+          "type": "text",
+          "id": "text",
+          "default": "Welcome to our store",
+          "label": "t:sections.announcement-bar.blocks.announcement.settings.text.label"
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "t:sections.announcement-bar.blocks.announcement.settings.link.label"
+        }
+      ]
+    }
+  ],
+  "default": {
+    "blocks": [
+      {
+        "type": "announcement"
+      }
+    ]
+  }
+}
+{% endschema %}

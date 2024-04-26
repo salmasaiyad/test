@@ -37,9 +37,7 @@
 
     <script src="{{ 'vendor-v4.js' | asset_url | split: '?' | first }}" defer="defer"></script>
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
-    <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
-    <script src="{{ 'cart-drawer.js' | asset_url }}" defer="defer"></script>
-
+    
     {{ content_for_header }}
 
     {%- liquid
@@ -106,7 +104,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     {% render 'transition-cover' %}
 
     <div class="transition-body">
-      {% section 'announcement-bar' %}
+      {% section 'announcement-slider' %}
       {% section 'header' %}
 
       <div class="transition-content">

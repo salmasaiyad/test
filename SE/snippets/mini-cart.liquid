@@ -58,7 +58,7 @@
               
               {%- capture progress_percent -%}{{ cart.total_price | times: 1.0 | divided_by: minimum_amount_in_cents | at_most: 1 | times: 100 | round }}%{%- endcapture -%}
               <div class="free-shipping__progress" style="--progress: {{ progress_percent }};">
-                <!-- <span>{{ progress_percent }}</span> -->
+                <span>{{ progress_percent }}</span>
               </div>
             {%- endif -%}
           </div>
@@ -66,13 +66,9 @@
       {%- endif -%}
     <div class="mini-cart__empty" data-animate data-animate-delay-{{ animate_count }}>
       <h3 class="mini-cart__empty-text">{{ 'sections.cart.empty' | t }}</h3>
-      {% comment %}
       <a href="{{ routes.all_products_collection_url }}" class="button button--tertiary">{{ 'general.continue_shopping' | t }}</a>
-      {% endcomment %}
-      <a href="/collections/products" class="button button--tertiary">{{ 'general.continue_shopping' | t }}</a>
-      
     </div>
-    <div class="mini-cart__main" id="main-cart-items">      
+    <div class="mini-cart__main" id="main-cart-items">
       <cart-items>
         <ul class="mini-cart__navigation" data-animate data-animate-delay-{{ animate_count }}>
           {%- for item in cart.items -%}
@@ -162,8 +158,7 @@
                     <div class="product-option">{{ item.selling_plan_allocation.selling_plan.name }}</div>
                   {%- endif -%}
                 {%- endif -%}
-                {%- unless item.url contains "sample" -%}
-                {%- if item.product.type != "free_gift" -%}
+                
                 <div class="product-quantity">
                   <dt>
                     {%- if gift_wrap_id == nil or item.id != gift_wrap_id -%}
@@ -219,14 +214,13 @@
                     <price-money><bdi>{{ item.original_price | money }}</bdi></price-money>
                   </dd>
                 </div>
-                  {% endif %}
-                {%- endunless -%}
               </div>
             </div>
           </li>
           {%- endfor -%}
         </ul>
       </cart-items>
+    </div>
 
     {%- assign animate_count = animate_count | plus: 1 -%}
     <div class="mini-cart__footer" data-animate data-animate-delay-{{ animate_count }}>      
@@ -382,7 +376,8 @@
           {%- endif -%}
         </div>
       {%- endif -%}
-      
+            
+
       {%- unless show_free_shipping_message and settings.disable_view_cart -%}
         <div class="subtotal">
           <h3 class="label">{{ 'sections.cart.subtotal' | t }}</h3>
@@ -403,7 +398,7 @@
           </ul>
         {%- endif -%}
 
-        <!-- <small class="tax-note caption-large rte">
+        <small class="tax-note caption-large rte">
           {%- if cart.taxes_included and shop.shipping_policy.body != blank -%}
             {{ 'sections.cart.taxes_included_and_shipping_policy_html' | t: link: shop.shipping_policy.url }}
           {%- elsif cart.taxes_included -%}
@@ -413,7 +408,7 @@
           {%- else -%}
             {{ 'sections.cart.taxes_and_shipping_at_checkout' | t }}
           {%- endif -%}
-        </small> -->
+        </small>
       </div>
       <div class="button-container">
         <button class="button" name="checkout" type="submit">
@@ -470,7 +465,3 @@
     </ul>
   </cart-recommendations>
 {%- endif -%}
-  
-    </div>
-
-    

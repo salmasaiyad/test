@@ -26,6 +26,8 @@
       line-height: calc(1 + 0.2 / var(--font-body-scale));
       position: relative;
       z-index: 101;
+            height: 40px;
+      overflow: hidden;
     }
 
     announcement-bar {
@@ -53,6 +55,9 @@
     overflow: hidden;
     user-select: none;
     gap: var(--gap);
+
+
+      flex-direction: column;
     }
 
     .marquee__content {
@@ -61,28 +66,33 @@
     justify-content: space-around;
     min-width: 100%;
     gap: var(--gap);
+            flex-direction: column;
+
     }
 
 
     @keyframes scroll {
     from {
-    transform: translateX(0);
+    transform: translateY(0);
     }
     to {
-    transform: translateX(calc(-100% - var(--gap)));
+    transform: translateY(calc(-100% - var(--gap)));
     }
     }
 
     .marquee__content{
     list-style: none;
     }
-
+.marquee__content li{
+  height: 30px;
+}
 
     .marquee__content li span{
         display: inline-block;
         border-right:0.5px solid #979797;
         padding: 0 1rem;
         white-space: nowrap;
+  
     }
 
     .marquee__content li span:last-child{
@@ -97,36 +107,37 @@
    <div class="announcement-bar">
          <div class="marquee">
       <ul class="marquee__content">
+  {%- for block in section.blocks -%}
           <li>
-        {%- for block in section.blocks -%}
+        
             <span>
               {{ block.settings.text | escape }}
             </span>
-          {%- endfor -%}          
+                   
           </li>
-        <li>
-            {%- for block in section.blocks -%}
-            <span>
-              {{ block.settings.text | escape }}
-            </span>
-          {%- endfor -%}  
-        </li>
+        {%- endfor -%} 
       </ul>
       <ul class="marquee__content" aria-hidden="true">
-        <li>
-            {%- for block in section.blocks -%}
+       {%- for block in section.blocks -%}
+          <li>
+        
             <span>
               {{ block.settings.text | escape }}
             </span>
-          {%- endfor -%}  
-        </li>
-        <li>
-            {%- for block in section.blocks -%}
+                   
+          </li>
+        {%- endfor -%} 
+      </ul>
+      <ul class="marquee__content" aria-hidden="true">
+       {%- for block in section.blocks -%}
+          <li>
+        
             <span>
               {{ block.settings.text | escape }}
             </span>
-          {%- endfor -%}  
-        </li>
+                   
+          </li>
+        {%- endfor -%} 
       </ul>
     </div>
    </div>
@@ -144,8 +155,8 @@
 
       function startMarquee() {
         intervalId = setInterval(function () {
-          firstElement.style.marginLeft = `-${i}px`;
-          if (i > firstElement.clientWidth) {
+          firstElement.style.marginTop = `-${i}px`;
+          if (i > firstElement.clientHeight) {
             i = 0;
           }
           i = i + speed;

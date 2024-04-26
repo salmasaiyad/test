@@ -77,9 +77,9 @@
         <span class="price-item price-item--sale">
           {{ money_price }}
         </span>
-        
+
         {% if template.name == 'product' %}
-          <span class="save__price">Save {{ product.compare_at_price |  minus: price | money }}</span>
+          <span class="save__price" style="color: #7B897D;">Spara {{ product.compare_at_price |  minus: price | money }}</span>
         {% endif %}
       </dd>
     </div>
