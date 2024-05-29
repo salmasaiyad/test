@@ -1,1 +1,495 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"narrow":true,"padding_top":36,"padding_bottom":36}},"image-banner":{"type":"image-banner","blocks":{"image-banner-0":{"type":"heading","settings":{"heading":"FAQ","heading_size":"h0"}}},"block_order":["image-banner-0"],"settings":{"image":"shopify:\/\/shop_images\/faq_banner.jpg","image_position":"center center","text_box_position":"middle-center","text_alignment":"center","image_ratio":"550px","show_text_box":false,"full_width":true,"show_divider":false,"mobile_text_alignment":"center","mobile_image_ratio":"300px","stack_images_on_mobile":false,"show_text_below":false,"colors_text":"#ffffff","colors_overlay":"#000000","colors_overlay_opacity":12,"padding_top":0,"padding_bottom":0}},"faq":{"type":"faq","blocks":{"5dfe3595-cf9d-456c-b5bc-a2934e614295":{"type":"rich-text","settings":{"title":"Frakt, leverans och retur","text":""}},"question-0":{"type":"question","settings":{"title":"Hur lång tid tar det att få min order?","text":"<p>Det beror på var du bor. Bor du i Sverige skickar vi din order inom 2-4 dagar. För mer detaljer om din frakt se mailet du fått för din order.<\/p>"}},"question-1":{"type":"question","settings":{"title":"Vilken leveranspartner har ni?","text":"<p>Vi använder olika leveranspartners. Du kan välja leveransmetod vid utcheckning.<\/p>"}},"question-2":{"type":"question","settings":{"title":"Kan jag lämna tillbaka produkter?","text":"<p>Vår målsättning är att alla våra kunder ska vara nöjda med våra produkter. Vid eventuella frågor kring ångerrätt och reklamationer hänvisar vi i första hand till våra <a href=\"https:\/\/se.deodoc.se\/pages\/terms-and-conditions\" title=\"https:\/\/se.deodoc.se\/pages\/terms-and-conditions\">köpvillkor<\/a> och villkor för <a href=\"https:\/\/se.deodoc.se\/pages\/retur-och-reklamationer\" title=\"https:\/\/se.deodoc.se\/pages\/retur-och-reklamationer\">returer och reklamationer<\/a>. Du kan även maila oss på <a href=\"mailto:myorder@deodoc.se\" target=\"_blank\">myorder@deodoc.se<\/a> så hjälper vi dig med ditt ärende. <\/p>"}},"13956f65-f489-41e2-a095-85a8e0c9037f":{"type":"question","settings":{"title":"Om jag väljer Budbee","text":"<ul><li>Observera att om du begärt att varan lämnas utanför dörr har du själv ansvar från och med att Budbees chaufför lämnat leveransen.<\/li><li>Om du bokat Budbee box - observera att paketet retuneras efter 4 dagar om du inte själv aktivt ändrar detta i Budbees app eller i länken som står skrivet i SMS:et från Budbee.<\/li><\/ul>"}},"79c19745-21a1-4444-b8bc-b1df58867dcf":{"type":"question","settings":{"title":"OM jag väljer Schenker","text":"<p>Om du har valt Schenker kan du hitta information om ditt paket via länken nedan. Du kan chatta med Chatboten eller kundtjänst. https:\/\/www.dbschenker.com\/se-sv\/foretag\/kontakta-oss<\/p>"}},"af7eff53-94d2-4959-9950-1a3a87025844":{"type":"question","settings":{"title":"Ej uthämtade paket","text":"<p>För beställningar som inte hämtas ut debiterar vi en avgift på 150 SEK för returkostnad och administration. När vi mottagit din retur återbetalas resten av beloppet till dig. <\/p>"}},"c1ae819b-6696-4769-9bc4-428bb07c7a1e":{"type":"rich-text","settings":{"title":"Produktsäkerhet","text":""}},"question-3":{"type":"question","settings":{"title":"Är DeoDocs produkter säkra?","text":"<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<\/p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<\/p><p>- Produkterna är även dermatologiskt testade för känslig hud.<\/p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<\/p>"}},"36abd39d-ab07-4572-a847-67d4f866e72e":{"type":"rich-text","settings":{"title":"Parfym","text":""}},"question-4":{"type":"question","settings":{"title":"Varför har ni parfym i produkterna?","text":"<p><strong>Vanliga parfymer <\/strong>ska aldrig användas i intimområdet då de innehåller:<\/p><p>- Alkohol (kan verka uttorkande) och allergener (kan ge irritation).<\/p><p>DeoDoc använder därför dofter som kallas för <strong>allergenfria dofter. <\/strong>Detta är dofter som är utvecklade<strong> utan allergener och alkohol. <\/strong><\/p><p>Vi har valt både att utveckla produkter med allergenfri doft och utan doft för att erbjuda valmöjlighet.<\/p>"}},"a1404cee-811d-4cac-8e40-c5db7d391032":{"type":"rich-text","settings":{"title":"Deospray","text":""}},"question-5":{"type":"question","settings":{"title":"Hur används Deosprayen?","text":"<p>För kvinnor: Sprayas enbart på ljumskar och yttre delen av vulva som är hårbeklätt. Där det finns hår, där finns även svettkörtlar (apokrina svettkörtlar tömmer sig i hårsäckar). <\/p><p>För män: Sprayas på ljumskar och yttre delen av skrotum som är hårbeklätt. Där det finns hår, där finns även svettkörtlar (apokrina svettkörtlar tömmer sig i hårsäckar).<\/p>"}},"3236f7b8-ed3e-4bad-9290-37edc534824b":{"type":"question","settings":{"title":"Ska jag inte uppsöka läkare vid lukt från underlivet?","text":"<p>Om du har en flytning som ändrat karaktär eller lukt ska en läkare uppsökas då detta kan vara en indikation på vaginal åkomma. Om flytningen är normal, kan det handla om normal svettlukt och DeoDocs deospray kan provas.<\/p>"}},"9d0765a8-ca03-4288-ba1c-11e499a34db5":{"type":"question","settings":{"title":"Ska jag använda Deospray vid illaluktande flytningar?","text":"<p>Nej, sprayen ska ej användas vid illaluktande flytningar. Istället ska en läkare konsulteras då detta kan vara en vaginal åkomma. Sprayen är endast avsedd för ljumskar och det hårbeklädda området i vulvan.<\/p><p><\/p>"}},"e6cd875d-b89f-4fd3-9ff4-38b3ab44a265":{"type":"question","settings":{"title":"Döljer inte Deosprayen lukt som är förenlig med vaginal åkomma?","text":"<p>Deosprayen har inte förmågan att dölja vaginal åkomma från vaginan. Sprayen är enbart svetthämmande och avsedd för ljumskar och hårbeklätt område i vulvan.<\/p>"}},"e927b79a-afd8-46ea-92b7-e8ad369d0644":{"type":"question","settings":{"title":"Varför har ni utvecklat en intimdeodorant?","text":"<p>Armhålan och intimområdet har samma typ av svettkörtlar, nämligen apokrina svettkörtlar. Att svettas och lukta från armhålan är naturligt, trots det finns det idag deodoranter för armhålan för de som vill använda det. Samma svettmekanism gäller även intimområdet, vilket betyder att man kan svettas från ljumskar, vulva eller pung. Precis som att deodorant för armhålan är en valfri möjlighet, bör även möjligheten för en gynekolog- och läkarutvecklad intimdeodorant finnas. <\/p><p><br\/>Baserat på vår kliniska erfarenhet har vi sett hur svettning och lukt besvärat våra patienter. Detta har lett till överdriven tvättning och användande av fel produkter. Detta har lett till olika former av besvär och irritation, och av den anledningen valde vi att ta fram en produkt som vi själva kunde rekommendera. <\/p>"}},"e8182e39-9dd3-42b7-9dd2-e5058366385d":{"type":"question","settings":{"title":"Är det farliga ingredienser i produkten?","text":"<p>Ingredienserna är noggrant säkerhetsbedömda för användningsområdet enligt EU:s lagstiftning för kosmetiska produkter.<\/p>"}},"e7febe8e-ea4d-42c6-bb1c-76fb99f8685e":{"type":"question","settings":{"title":"Varför har ni aluminium i deosprayen?","text":"<p>Vi har aluminiumsalt i vår intimdeo då detta ger den bästa och mest effektivaste svetthämmande verkan. Alla antiperspiranter innehåller aluminiumsalt.<\/p><p>Det många inte vet om är att vi exponeras för aluminium via maten dagligen. Exponeringen som fås via en antiperspirant är i <strong>mycket låga halter jämfört med vad vi får i oss via födan.<\/strong><\/p><p>Antiperspiranter är kosmetiska produkter och måste enligt EU-gemensamma kosmetiska regler vara dokumenterat säkra för konsumenten som använder produkten på ett normalt och förutsebart sätt. DeoDoc följer givetvis dessa regelverk och vi har dessutom testat produkten ytterligare genom gynekologiska tester.<\/p><p>Vi erbjuder även aluminiumfria deosprayer för den som önskar ett aluminiumfritt alternativ. <\/p>"}},"6574d330-4f50-46e2-bec8-66a382d8f136":{"type":"rich-text","settings":{"title":"Tamponger","text":""}},"f0743b0b-7a22-471c-8988-5a0c8ec64498":{"type":"question","settings":{"title":"Innehåller DeoDocs tamponger något syntetiskt material?","text":"<p>Nej. Tampongen och det skyddande höljet är tillverkad av 100% bomull och applikatorn är tillverkad av nedbrytbar kartong. Tampongerna är gynekologiskt testade och allergenfria.<\/p>"}},"ae6324a3-42d7-405b-8e19-2ed13fb10822":{"type":"question","settings":{"title":"Vad betyder det att tampongerna är icke-irriterande?","text":"<p>De flesta tampongerna på marknaden är tillverkade av syntetiska material som kan irritera vaginan. De syntetiska materialen kan även släppa ifrån sig fibrer och orsaka ytterligare irritation.<\/p><p>Våra tamponger innehåller inte något syntetiskt material och är tillverkade av 100% bomull som inte släpper ifrån sig fibrer och irriterar vaginan.<\/p>"}},"e618bdf6-e81b-4f62-9480-c8c3e6521489":{"type":"question","settings":{"title":"Varför fäller inte tampongen?","text":"<p>Tampongen har ett skyddande hölje, som ett nät, som förhindrar att tampongen släpper fibrer.<\/p><p><\/p>"}},"5bfeaf93-0c2f-447d-9351-16948f11192a":{"type":"question","settings":{"title":"Hur ofta bör jag byta tampong?","text":"<p>Varje 4-8 timme är rekommenderat.<\/p>"}},"9370aeb8-d3af-4648-b05d-a795252a2eb2":{"type":"question","settings":{"title":"Kompromissar man med  absorptionsförmåga vid användningen av tamponger i 100 % ekologisk bomull?","text":"<p>Nej, absorptionsförmågan äventyras inte av att använda 100% ekologisk bomull.<\/p>"}},"e3454ff9-a824-4979-8e91-904684b57801":{"type":"question","settings":{"title":"Kan jag spola ner tampongen i toalaetten?","text":"<p>Även fast tampongen är tillverkad av 100% bomull så ska den aldrig spolas ned i toaletten. Det tar flera månader för en tampong att brytas ner och de kan även orsaka stopp i rören då de expanderar vid kontakt med vatten.<\/p><p><\/p>"}},"9f33e6c0-5b66-4c8b-b9d0-b00368f72a3d":{"type":"question","settings":{"title":"Är tampongen vegansk?","text":"<p>Ja. <\/p>"}},"bd594974-e8cf-493a-8979-b65880f4ea2e":{"type":"question","settings":{"title":"Vad betyder 100% bomull?","text":"<p>Att inga syntetiska material har använts och att hela tampongen är tillverkad av ekologisk bomull, även det skyddande höljet (som ofta är syntetisk) och snöret.<\/p><p><\/p>"}},"0418d891-b114-4aa8-b02c-32b1d83bf822":{"type":"question","settings":{"title":"Vilken storlek finns på tampongerna?","text":"<p>Regular flow - för lätta till rikliga.<br\/>Super flow - för rikliga blödningar.<\/p>"}},"3768a854-9d4b-47dc-870a-821fa6c2dfda":{"type":"question","settings":{"title":"Hur många tamponger är det i en förpackning?","text":"<p>Regular - 16 stycken.<br\/>Super - 14 stycken.<\/p>"}},"4932cca4-13f7-489c-ad04-f29151ee391e":{"type":"question","settings":{"title":"Varför använder man en applikator?","text":"<p>Lättare att föra in tampongen och av hygieniska skäl.<\/p>"}},"225d13d7-dee9-461d-81c3-5f4b6b51f709":{"type":"question","settings":{"title":"Vad är applikatorn gjord av?","text":"<p>Nedbrytbar kartong.<\/p>"}},"9981b852-ae59-44a2-9149-53d0bb599971":{"type":"question","settings":{"title":"Hur använder jag applikatorn?","text":"<p>Om du inte har använt applikator innan så kan det vara lite svårt i början, men så fort du har fått in tekniken är det lätt.<\/p><p>Placera tummen och långfingret på den ribbade delen av applikatorn. Placera pekfingret under basen av applikatorn. Sära försiktigt på blygdläpparna med den andra handen och för in applikatorn 1-2cm. Tryck in basen på applikatorn med ditt pekfinger. Ta försiktigt ut applikatorn, tampongen är nu på plats.<\/p>"}},"fb861a0a-a9b7-4681-bca9-6574e35bba8f":{"type":"question","settings":{"title":"Vad står ICEA för?","text":"<p>ICEA står för Ethical and Environmental Certification Institute. ICEA övervakar och intygar företag som bedriver verksamhet med respekt för människor och miljö, vilket skyddar både arbetarnas värdighet och konsumenternas rättigheter. <\/p><p>Läs mer på \/\/icea.bio\/en\/ <\/p>"}},"349f1dca-b956-438a-9bb3-bd4d818cf9ef":{"type":"question","settings":{"title":"Vad betyder det att man är GOTS-certifierad?","text":"<p>GOTS stands for Global Organic Textile Standard. The world's leading processing standard for textiles made from organic fibres. GOTS keeps a high-level environmental criteria and requires compliance with social criteria as well.<\/p><p>To learn more go to https:\/\/www.global-standard.org\/<\/p>"}},"10df62e1-328b-431e-ba76-1a1c7f8274e0":{"type":"question","disabled":true,"settings":{"title":"Är tampongerna godkända av FDA?","text":"<p>Ja.<\/p>"}},"dc4c5c0d-5141-467e-bc95-600f2e9c6d20":{"type":"question","settings":{"title":"Vad betyder det att något är kliniskt testat?","text":"<p>Att våra produkter har blivit testade i labb och är klassificerade som allergivänliga.<\/p><p><\/p>"}},"e7037da3-32d5-47cc-9c4c-cf7c7081e790":{"type":"question","settings":{"title":"Är tampongerna allergivänliga?","text":"<p>Ja.<\/p>"}}},"block_order":["5dfe3595-cf9d-456c-b5bc-a2934e614295","question-0","question-1","question-2","13956f65-f489-41e2-a095-85a8e0c9037f","79c19745-21a1-4444-b8bc-b1df58867dcf","af7eff53-94d2-4959-9950-1a3a87025844","c1ae819b-6696-4769-9bc4-428bb07c7a1e","question-3","36abd39d-ab07-4572-a847-67d4f866e72e","question-4","a1404cee-811d-4cac-8e40-c5db7d391032","question-5","3236f7b8-ed3e-4bad-9290-37edc534824b","9d0765a8-ca03-4288-ba1c-11e499a34db5","e6cd875d-b89f-4fd3-9ff4-38b3ab44a265","e927b79a-afd8-46ea-92b7-e8ad369d0644","e8182e39-9dd3-42b7-9dd2-e5058366385d","e7febe8e-ea4d-42c6-bb1c-76fb99f8685e","6574d330-4f50-46e2-bec8-66a382d8f136","f0743b0b-7a22-471c-8988-5a0c8ec64498","ae6324a3-42d7-405b-8e19-2ed13fb10822","e618bdf6-e81b-4f62-9480-c8c3e6521489","5bfeaf93-0c2f-447d-9351-16948f11192a","9370aeb8-d3af-4648-b05d-a795252a2eb2","e3454ff9-a824-4979-8e91-904684b57801","9f33e6c0-5b66-4c8b-b9d0-b00368f72a3d","bd594974-e8cf-493a-8979-b65880f4ea2e","0418d891-b114-4aa8-b02c-32b1d83bf822","3768a854-9d4b-47dc-870a-821fa6c2dfda","4932cca4-13f7-489c-ad04-f29151ee391e","225d13d7-dee9-461d-81c3-5f4b6b51f709","9981b852-ae59-44a2-9149-53d0bb599971","fb861a0a-a9b7-4681-bca9-6574e35bba8f","349f1dca-b956-438a-9bb3-bd4d818cf9ef","10df62e1-328b-431e-ba76-1a1c7f8274e0","dc4c5c0d-5141-467e-bc95-600f2e9c6d20","e7037da3-32d5-47cc-9c4c-cf7c7081e790"],"settings":{"heading":"","heading_size":"h2","narrow":true,"secondary_background":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"rich-text-0":{"type":"rich-text","blocks":{"rich-text-0-0":{"type":"heading","settings":{"heading":"Har du andra frågor?","heading_size":"h2"}},"rich-text-0-1":{"type":"text","settings":{"text":"<p>Maila oss på askdeodoc@deodoc.se, alla ämnen är välkomna! <\/p><p>DeoDoc, Doctors Team<\/p>","text_size":"typeset","secondary_color":false}}},"block_order":["rich-text-0-0","rich-text-0-1"],"settings":{"text_alignment":"left","narrow":true,"show_divider":true,"mobile_text_alignment":"left","padding_top":36,"padding_bottom":36}},"rich-text-1":{"type":"rich-text","blocks":{"rich-text-1-0":{"type":"heading","settings":{"heading":"Other inquiries? Let's chat.","heading_size":"h2"}},"rich-text-1-1":{"type":"text","settings":{"text":"<p>Please email us at <a href=\"mailto:info@yourstore.com\" title=\"shop@yourstore.com\">shop@yourstore.com<\/a><\/p>","text_size":"typeset","secondary_color":false}}},"block_order":["rich-text-1-0","rich-text-1-1"],"disabled":true,"settings":{"text_alignment":"left","narrow":true,"show_divider":false,"mobile_text_alignment":"left","padding_top":36,"padding_bottom":72}},"1657703514ec4f556b":{"type":"contact-form","disabled":true,"settings":{"heading":"Other enquiries?","show_phone":true,"show_divider":false,"padding_top":36,"padding_bottom":36}},"165772011780831f82":{"type":"rich-text","blocks":{"1657720117a35fb36d-0":{"type":"heading","settings":{"heading":"Har du några frågor om din order?","heading_size":"h2"}},"1657720117a35fb36d-1":{"type":"text","settings":{"text":"<p>Maila oss på myorder@deodoc.se så kommer vi att höra av oss till dig! <\/p>","text_size":"typeset","secondary_color":false}},"1657720117a35fb36d-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1657720117a35fb36d-0","1657720117a35fb36d-1","1657720117a35fb36d-2"],"settings":{"text_alignment":"left","narrow":true,"show_divider":true,"mobile_text_alignment":"left","padding_top":36,"padding_bottom":36}}},"order":["main","image-banner","faq","rich-text-0","rich-text-1","1657703514ec4f556b","165772011780831f82"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image-banner": {
+      "type": "image-banner",
+      "blocks": {
+        "image-banner-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAQ",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "image-banner-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/faq_banner.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "550px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "300px",
+        "stack_images_on_mobile": false,
+        "show_text_below": false,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 12,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "5dfe3595-cf9d-456c-b5bc-a2934e614295": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Frakt, leverans och retur",
+            "text": ""
+          }
+        },
+        "question-0": {
+          "type": "question",
+          "settings": {
+            "title": "Hur lång tid tar det att få min order?",
+            "text": "<p>Det beror på var du bor. Bor du i Sverige skickar vi din order inom 2-4 dagar. För mer detaljer om din frakt se mailet du fått för din order.<\/p>"
+          }
+        },
+        "question-1": {
+          "type": "question",
+          "settings": {
+            "title": "Vilken leveranspartner har ni?",
+            "text": "<p>Vi använder olika leveranspartners. Du kan välja leveransmetod vid utcheckning.<\/p>"
+          }
+        },
+        "question-2": {
+          "type": "question",
+          "settings": {
+            "title": "Kan jag lämna tillbaka produkter?",
+            "text": "<p>Vår målsättning är att alla våra kunder ska vara nöjda med våra produkter. Vid eventuella frågor kring ångerrätt och reklamationer hänvisar vi i första hand till våra <a href=\"https:\/\/se.deodoc.se\/pages\/terms-and-conditions\" title=\"https:\/\/se.deodoc.se\/pages\/terms-and-conditions\">köpvillkor<\/a> och villkor för <a href=\"https:\/\/se.deodoc.se\/pages\/retur-och-reklamationer\" title=\"https:\/\/se.deodoc.se\/pages\/retur-och-reklamationer\">returer och reklamationer<\/a>. Du kan även maila oss på <a href=\"mailto:myorder@deodoc.se\" target=\"_blank\">myorder@deodoc.se<\/a> så hjälper vi dig med ditt ärende. <\/p>"
+          }
+        },
+        "13956f65-f489-41e2-a095-85a8e0c9037f": {
+          "type": "question",
+          "settings": {
+            "title": "Om jag väljer Budbee",
+            "text": "<ul><li>Observera att om du begärt att varan lämnas utanför dörr har du själv ansvar från och med att Budbees chaufför lämnat leveransen.<\/li><li>Om du bokat Budbee box - observera att paketet retuneras efter 4 dagar om du inte själv aktivt ändrar detta i Budbees app eller i länken som står skrivet i SMS:et från Budbee.<\/li><\/ul>"
+          }
+        },
+        "79c19745-21a1-4444-b8bc-b1df58867dcf": {
+          "type": "question",
+          "settings": {
+            "title": "OM jag väljer Schenker",
+            "text": "<p>Om du har valt Schenker kan du hitta information om ditt paket via länken nedan. Du kan chatta med Chatboten eller kundtjänst. https:\/\/www.dbschenker.com\/se-sv\/foretag\/kontakta-oss<\/p>"
+          }
+        },
+        "af7eff53-94d2-4959-9950-1a3a87025844": {
+          "type": "question",
+          "settings": {
+            "title": "Ej uthämtade paket",
+            "text": "<p>För beställningar som inte hämtas ut debiterar vi en avgift på 150 SEK för returkostnad och administration. När vi mottagit din retur återbetalas resten av beloppet till dig. <\/p>"
+          }
+        },
+        "c1ae819b-6696-4769-9bc4-428bb07c7a1e": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Produktsäkerhet",
+            "text": ""
+          }
+        },
+        "question-3": {
+          "type": "question",
+          "settings": {
+            "title": "Är DeoDocs produkter säkra?",
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<\/p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<\/p><p>- Produkterna är även dermatologiskt testade för känslig hud.<\/p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<\/p>"
+          }
+        },
+        "36abd39d-ab07-4572-a847-67d4f866e72e": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Parfym",
+            "text": ""
+          }
+        },
+        "question-4": {
+          "type": "question",
+          "settings": {
+            "title": "Varför har ni parfym i produkterna?",
+            "text": "<p><strong>Vanliga parfymer <\/strong>ska aldrig användas i intimområdet då de innehåller:<\/p><p>- Alkohol (kan verka uttorkande) och allergener (kan ge irritation).<\/p><p>DeoDoc använder därför dofter som kallas för <strong>allergenfria dofter. <\/strong>Detta är dofter som är utvecklade<strong> utan allergener och alkohol. <\/strong><\/p><p>Vi har valt både att utveckla produkter med allergenfri doft och utan doft för att erbjuda valmöjlighet.<\/p>"
+          }
+        },
+        "a1404cee-811d-4cac-8e40-c5db7d391032": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Deospray",
+            "text": ""
+          }
+        },
+        "question-5": {
+          "type": "question",
+          "settings": {
+            "title": "Hur används Deosprayen?",
+            "text": "<p>För kvinnor: Sprayas enbart på ljumskar och yttre delen av vulva som är hårbeklätt. Där det finns hår, där finns även svettkörtlar (apokrina svettkörtlar tömmer sig i hårsäckar). <\/p><p>För män: Sprayas på ljumskar och yttre delen av skrotum som är hårbeklätt. Där det finns hår, där finns även svettkörtlar (apokrina svettkörtlar tömmer sig i hårsäckar).<\/p>"
+          }
+        },
+        "3236f7b8-ed3e-4bad-9290-37edc534824b": {
+          "type": "question",
+          "settings": {
+            "title": "Ska jag inte uppsöka läkare vid lukt från underlivet?",
+            "text": "<p>Om du har en flytning som ändrat karaktär eller lukt ska en läkare uppsökas då detta kan vara en indikation på vaginal åkomma. Om flytningen är normal, kan det handla om normal svettlukt och DeoDocs deospray kan provas.<\/p>"
+          }
+        },
+        "9d0765a8-ca03-4288-ba1c-11e499a34db5": {
+          "type": "question",
+          "settings": {
+            "title": "Ska jag använda Deospray vid illaluktande flytningar?",
+            "text": "<p>Nej, sprayen ska ej användas vid illaluktande flytningar. Istället ska en läkare konsulteras då detta kan vara en vaginal åkomma. Sprayen är endast avsedd för ljumskar och det hårbeklädda området i vulvan.<\/p><p><\/p>"
+          }
+        },
+        "e6cd875d-b89f-4fd3-9ff4-38b3ab44a265": {
+          "type": "question",
+          "settings": {
+            "title": "Döljer inte Deosprayen lukt som är förenlig med vaginal åkomma?",
+            "text": "<p>Deosprayen har inte förmågan att dölja vaginal åkomma från vaginan. Sprayen är enbart svetthämmande och avsedd för ljumskar och hårbeklätt område i vulvan.<\/p>"
+          }
+        },
+        "e927b79a-afd8-46ea-92b7-e8ad369d0644": {
+          "type": "question",
+          "settings": {
+            "title": "Varför har ni utvecklat en intimdeodorant?",
+            "text": "<p>Armhålan och intimområdet har samma typ av svettkörtlar, nämligen apokrina svettkörtlar. Att svettas och lukta från armhålan är naturligt, trots det finns det idag deodoranter för armhålan för de som vill använda det. Samma svettmekanism gäller även intimområdet, vilket betyder att man kan svettas från ljumskar, vulva eller pung. Precis som att deodorant för armhålan är en valfri möjlighet, bör även möjligheten för en gynekolog- och läkarutvecklad intimdeodorant finnas. <\/p><p><br\/>Baserat på vår kliniska erfarenhet har vi sett hur svettning och lukt besvärat våra patienter. Detta har lett till överdriven tvättning och användande av fel produkter, som i sin tur har lett till olika former av besvär och irritation. Av den anledningen valde vi att ta fram en produkt som vi själva kunde rekommendera. <\/p>"
+          }
+        },
+        "e8182e39-9dd3-42b7-9dd2-e5058366385d": {
+          "type": "question",
+          "settings": {
+            "title": "Är det farliga ingredienser i produkten?",
+            "text": "<p>Ingredienserna är noggrant säkerhetsbedömda för användningsområdet enligt EU:s lagstiftning för kosmetiska produkter.<\/p>"
+          }
+        },
+        "e7febe8e-ea4d-42c6-bb1c-76fb99f8685e": {
+          "type": "question",
+          "settings": {
+            "title": "Varför har ni aluminium i deosprayen?",
+            "text": "<p>Vi har aluminiumsalt i vår intimdeo då detta ger den bästa och mest effektivaste svetthämmande verkan. Alla antiperspiranter innehåller aluminiumsalt.<\/p><p>Det många inte vet om är att vi exponeras för aluminium via maten dagligen. Exponeringen som fås via en antiperspirant är i <strong>mycket låga halter jämfört med vad vi får i oss via födan.<\/strong><\/p><p>Antiperspiranter är kosmetiska produkter och måste enligt EU-gemensamma kosmetiska regler vara dokumenterat säkra för konsumenten som använder produkten på ett normalt och förutsebart sätt. DeoDoc följer givetvis dessa regelverk och vi har dessutom testat produkten ytterligare genom gynekologiska tester.<\/p><p>Vi erbjuder även aluminiumfria deosprayer för den som önskar ett aluminiumfritt alternativ. <\/p>"
+          }
+        },
+        "6574d330-4f50-46e2-bec8-66a382d8f136": {
+          "type": "rich-text",
+          "settings": {
+            "title": "Tamponger",
+            "text": ""
+          }
+        },
+        "f0743b0b-7a22-471c-8988-5a0c8ec64498": {
+          "type": "question",
+          "settings": {
+            "title": "Innehåller DeoDocs tamponger något syntetiskt material?",
+            "text": "<p>Nej. Tampongen och det skyddande höljet är tillverkad av 100% bomull och applikatorn är tillverkad av nedbrytbar kartong. Tampongerna är gynekologiskt testade och allergenfria.<\/p>"
+          }
+        },
+        "ae6324a3-42d7-405b-8e19-2ed13fb10822": {
+          "type": "question",
+          "settings": {
+            "title": "Vad betyder det att tampongerna är icke-irriterande?",
+            "text": "<p>De flesta tampongerna på marknaden är tillverkade av syntetiska material som kan irritera vaginan. De syntetiska materialen kan även släppa ifrån sig fibrer och orsaka ytterligare irritation.<\/p><p>Våra tamponger innehåller inte något syntetiskt material och är tillverkade av 100% bomull som inte släpper ifrån sig fibrer och irriterar vaginan.<\/p>"
+          }
+        },
+        "e618bdf6-e81b-4f62-9480-c8c3e6521489": {
+          "type": "question",
+          "settings": {
+            "title": "Varför fäller inte tampongen?",
+            "text": "<p>Tampongen har ett skyddande hölje, som ett nät, som förhindrar att tampongen släpper fibrer.<\/p><p><\/p>"
+          }
+        },
+        "5bfeaf93-0c2f-447d-9351-16948f11192a": {
+          "type": "question",
+          "settings": {
+            "title": "Hur ofta bör jag byta tampong?",
+            "text": "<p>Varje 4-8 timme är rekommenderat.<\/p>"
+          }
+        },
+        "9370aeb8-d3af-4648-b05d-a795252a2eb2": {
+          "type": "question",
+          "settings": {
+            "title": "Kompromissar man med  absorptionsförmåga vid användningen av tamponger i 100 % ekologisk bomull?",
+            "text": "<p>Nej, absorptionsförmågan äventyras inte av att använda 100% ekologisk bomull.<\/p>"
+          }
+        },
+        "e3454ff9-a824-4979-8e91-904684b57801": {
+          "type": "question",
+          "settings": {
+            "title": "Kan jag spola ner tampongen i toalaetten?",
+            "text": "<p>Även fast tampongen är tillverkad av 100% bomull så ska den aldrig spolas ned i toaletten. Det tar flera månader för en tampong att brytas ner och de kan även orsaka stopp i rören då de expanderar vid kontakt med vatten.<\/p><p><\/p>"
+          }
+        },
+        "9f33e6c0-5b66-4c8b-b9d0-b00368f72a3d": {
+          "type": "question",
+          "settings": {
+            "title": "Är tampongen vegansk?",
+            "text": "<p>Ja. <\/p>"
+          }
+        },
+        "bd594974-e8cf-493a-8979-b65880f4ea2e": {
+          "type": "question",
+          "settings": {
+            "title": "Vad betyder 100% bomull?",
+            "text": "<p>Att inga syntetiska material har använts och att hela tampongen är tillverkad av ekologisk bomull, även det skyddande höljet (som ofta är syntetisk) och snöret.<\/p><p><\/p>"
+          }
+        },
+        "0418d891-b114-4aa8-b02c-32b1d83bf822": {
+          "type": "question",
+          "settings": {
+            "title": "Vilken storlek finns på tampongerna?",
+            "text": "<p>Regular flow - för lätta till rikliga.<br\/>Super flow - för rikliga blödningar.<\/p>"
+          }
+        },
+        "3768a854-9d4b-47dc-870a-821fa6c2dfda": {
+          "type": "question",
+          "settings": {
+            "title": "Hur många tamponger är det i en förpackning?",
+            "text": "<p>Regular - 16 stycken.<br\/>Super - 14 stycken.<\/p>"
+          }
+        },
+        "4932cca4-13f7-489c-ad04-f29151ee391e": {
+          "type": "question",
+          "settings": {
+            "title": "Varför använder man en applikator?",
+            "text": "<p>Lättare att föra in tampongen och av hygieniska skäl.<\/p>"
+          }
+        },
+        "225d13d7-dee9-461d-81c3-5f4b6b51f709": {
+          "type": "question",
+          "settings": {
+            "title": "Vad är applikatorn gjord av?",
+            "text": "<p>Nedbrytbar kartong.<\/p>"
+          }
+        },
+        "9981b852-ae59-44a2-9149-53d0bb599971": {
+          "type": "question",
+          "settings": {
+            "title": "Hur använder jag applikatorn?",
+            "text": "<p>Om du inte har använt applikator innan så kan det vara lite svårt i början, men så fort du har fått in tekniken är det lätt.<\/p><p>Placera tummen och långfingret på den ribbade delen av applikatorn. Placera pekfingret under basen av applikatorn. Sära försiktigt på blygdläpparna med den andra handen och för in applikatorn 1-2cm. Tryck in basen på applikatorn med ditt pekfinger. Ta försiktigt ut applikatorn, tampongen är nu på plats.<\/p>"
+          }
+        },
+        "fb861a0a-a9b7-4681-bca9-6574e35bba8f": {
+          "type": "question",
+          "settings": {
+            "title": "Vad står ICEA för?",
+            "text": "<p>ICEA står för Ethical and Environmental Certification Institute. ICEA övervakar och intygar företag som bedriver verksamhet med respekt för människor och miljö, vilket skyddar både arbetarnas värdighet och konsumenternas rättigheter. <\/p><p>Läs mer på \/\/icea.bio\/en\/ <\/p>"
+          }
+        },
+        "349f1dca-b956-438a-9bb3-bd4d818cf9ef": {
+          "type": "question",
+          "settings": {
+            "title": "Vad betyder det att man är GOTS-certifierad?",
+            "text": "<p>GOTS stands for Global Organic Textile Standard. The world's leading processing standard for textiles made from organic fibres. GOTS keeps a high-level environmental criteria and requires compliance with social criteria as well.<\/p><p>To learn more go to https:\/\/www.global-standard.org\/<\/p>"
+          }
+        },
+        "10df62e1-328b-431e-ba76-1a1c7f8274e0": {
+          "type": "question",
+          "disabled": true,
+          "settings": {
+            "title": "Är tampongerna godkända av FDA?",
+            "text": "<p>Ja.<\/p>"
+          }
+        },
+        "dc4c5c0d-5141-467e-bc95-600f2e9c6d20": {
+          "type": "question",
+          "settings": {
+            "title": "Vad betyder det att något är kliniskt testat?",
+            "text": "<p>Att våra produkter har blivit testade i labb och är klassificerade som allergivänliga.<\/p><p><\/p>"
+          }
+        },
+        "e7037da3-32d5-47cc-9c4c-cf7c7081e790": {
+          "type": "question",
+          "settings": {
+            "title": "Är tampongerna allergivänliga?",
+            "text": "<p>Ja.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "5dfe3595-cf9d-456c-b5bc-a2934e614295",
+        "question-0",
+        "question-1",
+        "question-2",
+        "13956f65-f489-41e2-a095-85a8e0c9037f",
+        "79c19745-21a1-4444-b8bc-b1df58867dcf",
+        "af7eff53-94d2-4959-9950-1a3a87025844",
+        "c1ae819b-6696-4769-9bc4-428bb07c7a1e",
+        "question-3",
+        "36abd39d-ab07-4572-a847-67d4f866e72e",
+        "question-4",
+        "a1404cee-811d-4cac-8e40-c5db7d391032",
+        "question-5",
+        "3236f7b8-ed3e-4bad-9290-37edc534824b",
+        "9d0765a8-ca03-4288-ba1c-11e499a34db5",
+        "e6cd875d-b89f-4fd3-9ff4-38b3ab44a265",
+        "e927b79a-afd8-46ea-92b7-e8ad369d0644",
+        "e8182e39-9dd3-42b7-9dd2-e5058366385d",
+        "e7febe8e-ea4d-42c6-bb1c-76fb99f8685e",
+        "6574d330-4f50-46e2-bec8-66a382d8f136",
+        "f0743b0b-7a22-471c-8988-5a0c8ec64498",
+        "ae6324a3-42d7-405b-8e19-2ed13fb10822",
+        "e618bdf6-e81b-4f62-9480-c8c3e6521489",
+        "5bfeaf93-0c2f-447d-9351-16948f11192a",
+        "9370aeb8-d3af-4648-b05d-a795252a2eb2",
+        "e3454ff9-a824-4979-8e91-904684b57801",
+        "9f33e6c0-5b66-4c8b-b9d0-b00368f72a3d",
+        "bd594974-e8cf-493a-8979-b65880f4ea2e",
+        "0418d891-b114-4aa8-b02c-32b1d83bf822",
+        "3768a854-9d4b-47dc-870a-821fa6c2dfda",
+        "4932cca4-13f7-489c-ad04-f29151ee391e",
+        "225d13d7-dee9-461d-81c3-5f4b6b51f709",
+        "9981b852-ae59-44a2-9149-53d0bb599971",
+        "fb861a0a-a9b7-4681-bca9-6574e35bba8f",
+        "349f1dca-b956-438a-9bb3-bd4d818cf9ef",
+        "10df62e1-328b-431e-ba76-1a1c7f8274e0",
+        "dc4c5c0d-5141-467e-bc95-600f2e9c6d20",
+        "e7037da3-32d5-47cc-9c4c-cf7c7081e790"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich-text-0": {
+      "type": "rich-text",
+      "blocks": {
+        "rich-text-0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Har du andra frågor?",
+            "heading_size": "h2"
+          }
+        },
+        "rich-text-0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Maila oss på askdeodoc@deodoc.se, alla ämnen är välkomna! <\/p><p>DeoDoc, Doctors Team<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "rich-text-0-0",
+        "rich-text-0-1"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": true,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich-text-1": {
+      "type": "rich-text",
+      "blocks": {
+        "rich-text-1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Other inquiries? Let's chat.",
+            "heading_size": "h2"
+          }
+        },
+        "rich-text-1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please email us at <a href=\"mailto:info@yourstore.com\" title=\"shop@yourstore.com\">shop@yourstore.com<\/a><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "rich-text-1-0",
+        "rich-text-1-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    },
+    "1657703514ec4f556b": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "Other enquiries?",
+        "show_phone": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165772011780831f82": {
+      "type": "rich-text",
+      "blocks": {
+        "1657720117a35fb36d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Har du några frågor om din order?",
+            "heading_size": "h2"
+          }
+        },
+        "1657720117a35fb36d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Maila oss på myorder@deodoc.se så kommer vi att höra av oss till dig! <\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "1657720117a35fb36d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1657720117a35fb36d-0",
+        "1657720117a35fb36d-1",
+        "1657720117a35fb36d-2"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": true,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-banner",
+    "faq",
+    "rich-text-0",
+    "rich-text-1",
+    "1657703514ec4f556b",
+    "165772011780831f82"
+  ]
+}

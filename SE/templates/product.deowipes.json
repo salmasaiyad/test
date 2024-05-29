@@ -1,1 +1,554 @@
-{"sections":{"empty-space":{"type":"empty-space","settings":{"desktop_height":8,"mobile_height":0}},"main":{"type":"main-product","blocks":{"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":true}},"vendor":{"type":"text","disabled":true,"settings":{"icon":"none","text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{"title_size":"h2"}},"rating":{"type":"rating","disabled":true,"settings":{}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"show_variant_labels":false,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"countdown":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#ffeeee"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":true,"show_dynamic_checkout":false}},"0422c352-558b-4fca-a2c2-bfbb2f24fea3":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Betalsatt_SE.png","height":28,"link":""}},"description":{"type":"description","settings":{}},"b614a68f-4156-4bff-8e3c-ae66b38cb10a":{"type":"collapsible_tab","settings":{"icon":"none","heading":"PRODUKTSPECIFIKATION","content":"<p> -10st individuellt förpackade wipes.<\/p><p>- 100% viskos. Fri från plast & biologiskt nedbrytbar.<\/p><p>- Utvecklad av kvinnliga läkare och gynekologer<\/p><p>- Gynekologiskt och dermatologiskt testad<\/p><p>- Fri från allergener, alkohol och parabener<\/p><p>- Tillverkad i Sverige<\/p><p> -100% vegansk<\/p>","page":""}},"collapsible_tab-0":{"type":"collapsible_tab","settings":{"icon":"none","heading":"ANVÄNDNING","content":"<p>Öppna förpackningen och torka varsamt underlivet framifrån och bak. Endast engångsbruk. Släng ej i toalett.<\/p>","page":"shaving-kit"}},"collapsible_tab-1":{"type":"collapsible_tab","settings":{"icon":"none","heading":"INGREDIENSER","content":"<p>Water (Aqua), Zea Mays Starch, Diethylhexyl Carbonate, Olea Europaea Fruit Oil, Aluminum Starch Octenylsuccinate, Steareth-2, Steareth-21, PPG-15 Stearyl Ether, Aloe Barbadensis Leaf Juice Powder, Tocopheryl Acetate, Allantoin, Phenoxyethanol, Hypoallergen Parfum.<\/p>","page":""}},"8231d931-3f73-450e-9208-f541354e03db":{"type":"collapsible_tab","settings":{"icon":"none","heading":"Doft","content":"<p><strong>Jasmine Pear:<\/strong> En mjuk doft med lätta inslag av blommiga och fruktiga noter<\/p><p><strong>Fresh Coconut:<\/strong> En fräsch & söt blandning av tropisk kokosdoft<\/p><p><strong>Violet Cotton:<\/strong> En ren & frisk doft med noter av varm bomull & nytvättade lakan<\/p>","page":""}},"share":{"type":"share","settings":{}},"related_buttons":{"type":"related_buttons","disabled":true,"settings":{"show_icons":false}},"sticky_cart":{"type":"sticky_cart","settings":{"show_quantity_selector":false}}},"block_order":["breadcrumb","vendor","title","rating","price","variant_picker","countdown","buy_buttons","0422c352-558b-4fca-a2c2-bfbb2f24fea3","description","b614a68f-4156-4bff-8e3c-ae66b38cb10a","collapsible_tab-0","collapsible_tab-1","8231d931-3f73-450e-9208-f541354e03db","share","related_buttons","sticky_cart"],"settings":{"enable_sticky_info":true,"media_size":"small","gallery_layout":"thumbnail_slider","image_ratio":"square","show_thumbnails":true,"hide_variants":true,"enable_image_zoom":true,"enable_video_looping":false,"mobile_image_ratio":"adapt_first","show_mobile_thumbnails":true,"padding_top":0,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"Addera till din intimvård","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"guarantees":{"type":"guarantees","blocks":{"guarantee-2":{"type":"guarantee","settings":{"icon":"clipboard","title":"Vetenskapligt baserat","title_size":"h4","text":""}},"guarantee-1":{"type":"guarantee","settings":{"icon":"heart","title":"Utvecklat av gynekologer","title_size":"h4","text":""}},"guarantee-3":{"type":"guarantee","settings":{"icon":"globe","title":"Tillverkat i Sverige","title_size":"h4","text":""}},"guarantee-0":{"type":"guarantee","settings":{"icon":"leaf","title":"100% Veganskt","title_size":"h4","text":""}}},"block_order":["guarantee-2","guarantee-1","guarantee-3","guarantee-0"],"settings":{"heading":"","heading_size":"h1","layout":"default","column_alignment":"center","secondary_background":false,"full_width":false,"show_divider":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1658133913d28abc37":{"type":"image-with-text","blocks":{"1658133913405b7b25-0":{"type":"heading","settings":{"heading":"Doktorn Tipsar","heading_size":"h1"}},"1658133913405b7b25-1":{"type":"text","settings":{"text":"<p><em>\"Intimområdet har kroppens känsligaste och tunnaste hud med ett delikat pH-värde som lätt kan sättas ur balans. Våra Deowipes är fria från allergener, parabener och eteriska oljor, De innehåller mjukgörande olivolja, aloe vera & vitamin E - perfekta att använda när du är på språng.\"<br\/><br\/><\/em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>","text_size":"typeset2","secondary_color":false}},"1658133913405b7b25-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1658133913405b7b25-0","1658133913405b7b25-1","1658133913405b7b25-2"],"settings":{"image":"shopify:\/\/shop_images\/IMG_7822_5e6b2a79-2eb1-4099-ae2d-54847da8a520.jpg","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"650px","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"multicolumn":{"type":"multicolumn","blocks":{"column-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Skarmavbild_2022-10-18_kl._09.21.56.png","title":"Steg 1","title_size":"h3","text":"<p>Öppna förpackningen.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Skarmavbild_2022-10-18_kl._09.22.25.png","title":"Steg 2","title_size":"h3","text":"<p>Riv av en wipe för användning.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Skarmavbild_2022-10-18_kl._09.22.12.png","title":"Steg 3","title_size":"h3","text":"<p>Varsamt torka underlivet framifrån och bak.<\/p>","button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["column-0","column-1","column-2"],"disabled":true,"settings":{"heading":"Användning","heading_size":"h2","image_ratio":"square","image_position":"top center","text_alignment":"left","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"product-details":{"type":"product-details","blocks":{"product-details-0":{"type":"description","disabled":true,"settings":{"heading":""}},"product-details-1":{"type":"collapsible_tab","settings":{"heading":"1. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-2":{"type":"collapsible_tab","settings":{"heading":"2. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-3":{"type":"collapsible_tab","settings":{"heading":"3. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}}},"block_order":["product-details-0","product-details-1","product-details-2","product-details-3"],"disabled":true,"settings":{"heading":"","heading_size":"h2","padding_top":36,"padding_bottom":36}},"recently-viewed-products":{"type":"recently-viewed-products","disabled":true,"settings":{"heading":"Nyligen visade produkter","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"1706537239203af1b7":{"type":"apps","blocks":{"loox_reviews_loox_dynamic_section_PnRiGd":{"type":"shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"only_photos":false,"aggregated":false,"limit":20,"hide_thumbnails":false,"maxwidth":1080,"is_sample":true}}},"block_order":["loox_reviews_loox_dynamic_section_PnRiGd"],"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}},"d043c852-af12-4124-862a-9c8d73115a03":{"type":"faq","blocks":{"e0a5d8a2-b503-4690-85f2-0dfe359c5b0f":{"type":"question","settings":{"title":"HUR MÅNGA WIPES ÄR DET I EN FÖRPACKNING?","text":"<p>Varje förpackning innehåller 10 stycken Individuellt packade wipes.<\/p>"}},"3c3767e2-3a3e-46b9-97da-2ca2fd7e1c84":{"type":"question","settings":{"title":"VARFÖR HAR NI PARFYM I PRODUKTERNA?","text":"<p>Vanliga parfymer ska aldrig användas i intimområdet då de innehåller alkohol (kan verka uttorkande) och allergener (kan ge irritation).<br\/><br\/>DeoDoc använder därför dofter som kallas för allergenfria dofter. Detta är dofter som är utvecklade utan allergener och alkohol. Vi har valt både att utveckla produkter med allergenfri doft och utan doft för att erbjuda valmöjlighet.<\/p>"}},"bc1c6b97-728d-47df-b9d7-578f94f88002":{"type":"question","settings":{"title":"Frequently asked question","text":"<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"}},"fecaa548-89a2-441e-8797-0642b090a3c4":{"type":"question","settings":{"title":"ÄR DEODOCS PRODUKTER VEGANSKA?","text":"<p>Ja.<\/p>"}},"1c1fc240-ddbb-4b4d-bba7-6649fa9a9c95":{"type":"question","settings":{"title":"Passar produkterna till känslig hy?","text":"<p>Ja, våra Intimate Wipes är utvecklade för att skonsamt rengöra utan att innehålla allergener, alkohol och parabener.<\/p>"}},"template--15426236481692__d043c852-af12-4124-862a-9c8d73115a03-16660774557a1ce9e9-0":{"type":"question","settings":{"title":"ÄR DEODOCS PRODUKTER SÄKRA?","text":"<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<\/p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<\/p><p>- Produkterna är även dermatologiskt testade för känslig hud.<\/p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<\/p>"}}},"block_order":["e0a5d8a2-b503-4690-85f2-0dfe359c5b0f","3c3767e2-3a3e-46b9-97da-2ca2fd7e1c84","bc1c6b97-728d-47df-b9d7-578f94f88002","fecaa548-89a2-441e-8797-0642b090a3c4","1c1fc240-ddbb-4b4d-bba7-6649fa9a9c95","template--15426236481692__d043c852-af12-4124-862a-9c8d73115a03-16660774557a1ce9e9-0"],"settings":{"heading":"FAQs","heading_size":"h2","narrow":true,"secondary_background":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"16636893916ff5b496":{"type":"apps","blocks":{"c23da0b6-fa60-4df3-b6cc-ee6836b01e3d":{"type":"shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f","settings":{}}},"block_order":["c23da0b6-fa60-4df3-b6cc-ee6836b01e3d"],"disabled":true,"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}}},"order":["empty-space","main","product-recommendations","guarantees","1658133913d28abc37","multicolumn","product-details","recently-viewed-products","1706537239203af1b7","d043c852-af12-4124-862a-9c8d73115a03","16636893916ff5b496"]}
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 8,
+        "mobile_height": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": true
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": false,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false
+          }
+        },
+        "0422c352-558b-4fca-a2c2-bfbb2f24fea3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betalsatt_SE.png",
+            "height": 28,
+            "link": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "PRODUKTSPECIFIKATION",
+            "content": "<p> -10st individuellt förpackade wipes.<\/p><p>- 100% viskos. Fri från plast & biologiskt nedbrytbar.<\/p><p>- Utvecklad av kvinnliga läkare och gynekologer<\/p><p>- Gynekologiskt och dermatologiskt testad<\/p><p>- Fri från allergener, alkohol och parabener<\/p><p>- Tillverkad i Sverige<\/p><p> -100% vegansk<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "ANVÄNDNING",
+            "content": "<p>Öppna förpackningen och torka varsamt underlivet framifrån och bak. Endast engångsbruk. Släng ej i toalett.<\/p>",
+            "page": "shaving-kit"
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "INGREDIENSER",
+            "content": "<p>Water (Aqua), Zea Mays Starch, Diethylhexyl Carbonate, Olea Europaea Fruit Oil, Aluminum Starch Octenylsuccinate, Steareth-2, Steareth-21, PPG-15 Stearyl Ether, Aloe Barbadensis Leaf Juice Powder, Tocopheryl Acetate, Allantoin, Phenoxyethanol, Hypoallergen Parfum.<\/p>",
+            "page": ""
+          }
+        },
+        "8231d931-3f73-450e-9208-f541354e03db": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Doft",
+            "content": "<p><strong>Jasmine Pear:<\/strong> En mjuk doft med lätta inslag av blommiga och fruktiga noter<\/p><p><strong>Fresh Coconut:<\/strong> En fräsch & söt blandning av tropisk kokosdoft<\/p><p><strong>Violet Cotton:<\/strong> En ren & frisk doft med noter av varm bomull & nytvättade lakan<\/p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb",
+        "vendor",
+        "title",
+        "rating",
+        "price",
+        "variant_picker",
+        "countdown",
+        "buy_buttons",
+        "0422c352-558b-4fca-a2c2-bfbb2f24fea3",
+        "description",
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "8231d931-3f73-450e-9208-f541354e03db",
+        "share",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "square",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "clipboard",
+            "title": "Vetenskapligt baserat",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "title": "Utvecklat av gynekologer",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "globe",
+            "title": "Tillverkat i Sverige",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "title": "100% Veganskt",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-3",
+        "guarantee-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "default",
+        "column_alignment": "center",
+        "secondary_background": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658133913d28abc37": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658133913405b7b25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doktorn Tipsar",
+            "heading_size": "h1"
+          }
+        },
+        "1658133913405b7b25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Intimområdet har kroppens känsligaste och tunnaste hud med ett delikat pH-värde som lätt kan sättas ur balans. Våra Deowipes är fria från allergener, parabener och eteriska oljor, De innehåller mjukgörande olivolja, aloe vera & vitamin E - perfekta att använda när du är på språng.\"<br\/><br\/><\/em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "1658133913405b7b25-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658133913405b7b25-0",
+        "1658133913405b7b25-1",
+        "1658133913405b7b25-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_7822_5e6b2a79-2eb1-4099-ae2d-54847da8a520.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-10-18_kl._09.21.56.png",
+            "title": "Steg 1",
+            "title_size": "h3",
+            "text": "<p>Öppna förpackningen.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-10-18_kl._09.22.25.png",
+            "title": "Steg 2",
+            "title_size": "h3",
+            "text": "<p>Riv av en wipe för användning.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-10-18_kl._09.22.12.png",
+            "title": "Steg 3",
+            "title_size": "h3",
+            "text": "<p>Varsamt torka underlivet framifrån och bak.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Användning",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_position": "top center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-details": {
+      "type": "product-details",
+      "blocks": {
+        "product-details-0": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "product-details-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "page": ""
+          }
+        },
+        "product-details-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "page": ""
+          }
+        },
+        "product-details-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "product-details-0",
+        "product-details-1",
+        "product-details-2",
+        "product-details-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Nyligen visade produkter",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1706537239203af1b7": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_PnRiGd": {
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_PnRiGd"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d043c852-af12-4124-862a-9c8d73115a03": {
+      "type": "faq",
+      "blocks": {
+        "e0a5d8a2-b503-4690-85f2-0dfe359c5b0f": {
+          "type": "question",
+          "settings": {
+            "title": "HUR MÅNGA WIPES ÄR DET I EN FÖRPACKNING?",
+            "text": "<p>Varje förpackning innehåller 10 stycken Individuellt packade wipes.<\/p>"
+          }
+        },
+        "3c3767e2-3a3e-46b9-97da-2ca2fd7e1c84": {
+          "type": "question",
+          "settings": {
+            "title": "VARFÖR HAR NI PARFYM I PRODUKTERNA?",
+            "text": "<p>Vanliga parfymer ska aldrig användas i intimområdet då de innehåller alkohol (kan verka uttorkande) och allergener (kan ge irritation).<br\/><br\/>DeoDoc använder därför dofter som kallas för allergenfria dofter. Detta är dofter som är utvecklade utan allergener och alkohol. Vi har valt både att utveckla produkter med allergenfri doft och utan doft för att erbjuda valmöjlighet.<\/p>"
+          }
+        },
+        "bc1c6b97-728d-47df-b9d7-578f94f88002": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "fecaa548-89a2-441e-8797-0642b090a3c4": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DEODOCS PRODUKTER VEGANSKA?",
+            "text": "<p>Ja.<\/p>"
+          }
+        },
+        "1c1fc240-ddbb-4b4d-bba7-6649fa9a9c95": {
+          "type": "question",
+          "settings": {
+            "title": "Passar produkterna till känslig hy?",
+            "text": "<p>Ja, våra Intimate Wipes är utvecklade för att skonsamt rengöra utan att innehålla allergener, alkohol och parabener.<\/p>"
+          }
+        },
+        "template--15426236481692__d043c852-af12-4124-862a-9c8d73115a03-16660774557a1ce9e9-0": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DEODOCS PRODUKTER SÄKRA?",
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<\/p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<\/p><p>- Produkterna är även dermatologiskt testade för känslig hud.<\/p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "e0a5d8a2-b503-4690-85f2-0dfe359c5b0f",
+        "3c3767e2-3a3e-46b9-97da-2ca2fd7e1c84",
+        "bc1c6b97-728d-47df-b9d7-578f94f88002",
+        "fecaa548-89a2-441e-8797-0642b090a3c4",
+        "1c1fc240-ddbb-4b4d-bba7-6649fa9a9c95",
+        "template--15426236481692__d043c852-af12-4124-862a-9c8d73115a03-16660774557a1ce9e9-0"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16636893916ff5b496": {
+      "type": "apps",
+      "blocks": {
+        "c23da0b6-fa60-4df3-b6cc-ee6836b01e3d": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "c23da0b6-fa60-4df3-b6cc-ee6836b01e3d"
+      ],
+      "disabled": true,
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Addera till din intimvård",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "guarantees",
+    "1658133913d28abc37",
+    "multicolumn",
+    "product-details",
+    "recently-viewed-products",
+    "1706537239203af1b7",
+    "d043c852-af12-4124-862a-9c8d73115a03",
+    "16636893916ff5b496",
+    "product-recommendations"
+  ]
+}

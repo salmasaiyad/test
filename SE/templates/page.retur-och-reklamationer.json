@@ -1,1 +1,129 @@
-{"sections":{"16582309525d689d08":{"type":"rich-text","blocks":{"16582309516e5e2342-0":{"type":"heading","settings":{"heading":"Retur och reklamationer","heading_size":"h1"}},"16582309516e5e2342-1":{"type":"text","settings":{"text":"<p><strong>Reklamation<\/strong><\/p><p>Vi följer Konsumentverkets rekommendationer för e-handel. Kundtjänst måste alltid kontaktas via e-post (myorder@deodoc.se) inom skälig tid. Du som konsument har enligt svensk lag möjlighet att reklamera en vara i upp till 3 år efter köpet, dock inom skälig tid från att ett fel upptäckts. Reklamationsrätten gäller fel som kan härledas till produktionen av varan och gäller alltså inte normalt slitage eller åldrande av produkt. DEODOC AB förbehåller sig rätten att i första hand avhjälpa felet, i andra hand omleverans av varan och i sista hand återköp. Observera att den trasiga produkten samt emballaget måste sparas tills dess att ärendet är löst. Om varan ej finns i lager eller har utgått så kontaktar vi dig innan vidare hantering. Vi hanterar reklamationsärenden normalt sett inom 3-14 arbetsdagar. Vid godkänd reklamation av köp så återbetalar vi summan för din beställning inom 30 dagar.<\/p><p><strong>Ångerrätt<\/strong><\/p><p>Vid köp av produkter hos DEODOC AB har du som kund 14 dagars ångerrätt <strong>endast<\/strong> om det yttre emballaget (fraktförpackningen) är obruten. Det vill säga, det yttre emballaget (fraktförpackningen) som produkterna är packade i, får ej vara bruten. Detta på grund av hälso- och hygienskäl samt för att garantera att alla våra kunder köper en fräsch och orörd intimprodukt. <\/p><p>Ångerrätten gäller från det att du har tagit emot en vara som du har beställt. Du är ansvarig för att kontrollera att leveransen och produkterna är oskadda i samband med mottagande av paketet. Vid godkänd retur betalar du själv returkostnaden och ombeds höra av dig till vår kundtjänst på <a href=\"mailto:myorder@deodoc.se\">myorder@deodoc.se<\/a> för vidare instruktioner. Returhanteringen tar ca 1-3 veckor. Tänk på att spara kvittot på din retur och skicka spårbart så att vi kan ersätta dig även i de fall paketet försvinner under leveransen. <\/p><p>Vid godkänd hävning av köp så återbetalar vi summan för din beställning inom 21 dagar.<\/p><p><strong>Undantag från ångerrätt<\/strong><\/p><p>För att garantera att alla våra kunder köper en fräsch och orörd intimprodukt så gäller ej ångerrätten av hälso- och hygienskäl. <\/p>","text_size":"typeset2","secondary_color":false}},"16582309516e5e2342-2":{"type":"button","settings":{"button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["16582309516e5e2342-0","16582309516e5e2342-1","16582309516e5e2342-2"],"settings":{"text_alignment":"left","narrow":true,"show_divider":false,"mobile_text_alignment":"left","padding_top":36,"padding_bottom":36}},"main":{"type":"main-page","disabled":true,"settings":{"narrow":true,"padding_top":60,"padding_bottom":72}},"165754365028872bb2":{"type":"multicolumn","blocks":{"1657543650d8b5f2f0-0":{"type":"column","settings":{"title":"Vulva vs Vagina","title_size":"h2","text":"<p>It’s time that we once and for all dispel the misconception between vulva and vagina. <\/p>","button_label":"Learn more","button_link":"shopify:\/\/pages\/vulva-vs-vagina","button_style_secondary":false}},"1657543650d8b5f2f0-1":{"type":"column","settings":{"title":"pH","title_size":"h2","text":"<p>What is pH? And why does pH matter for the vulva and vagina?<\/p>","button_label":"Learn More","button_link":"shopify:\/\/pages\/ph","button_style_secondary":false}},"1657543650d8b5f2f0-2":{"type":"column","settings":{"title":"Menstruation","title_size":"h2","text":"<p>Here you can learn more about what is happening in your body during the four phases of the menstrual cycle.<\/p>","button_label":"Learn More","button_link":"shopify:\/\/pages\/menstruation","button_style_secondary":false}},"967e363e-99b2-4470-9340-46f6684b65c4":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/final4.jpg","title":"Intimate odors","title_size":"h3","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","button_label":"Learn more","button_link":"shopify:\/\/pages\/intimate-odor","button_style_secondary":false}}},"block_order":["1657543650d8b5f2f0-0","1657543650d8b5f2f0-1","1657543650d8b5f2f0-2","967e363e-99b2-4470-9340-46f6684b65c4"],"disabled":true,"settings":{"heading":"","heading_size":"h1","image_ratio":"landscape","image_position":"center center","text_alignment":"left","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}}},"order":["16582309525d689d08","main","165754365028872bb2"]}
+{
+  "sections": {
+    "16582309525d689d08": {
+      "type": "rich-text",
+      "blocks": {
+        "16582309516e5e2342-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Retur och reklamationer",
+            "heading_size": "h1"
+          }
+        },
+        "16582309516e5e2342-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Reklamation<\/strong><\/p><p>Vi följer Konsumentverkets rekommendationer för e-handel. Kundtjänst måste alltid kontaktas via e-post (myorder@deodoc.se) inom skälig tid. Du som konsument har enligt svensk lag möjlighet att reklamera en vara i upp till 3 år efter köpet, dock inom skälig tid från att ett fel upptäckts. Reklamationsrätten gäller fel som kan härledas till produktionen av varan och gäller alltså inte normalt slitage eller åldrande av produkt. DEODOC AB förbehåller sig rätten att i första hand avhjälpa felet, i andra hand omleverans av varan och i sista hand återköp. Observera att den trasiga produkten samt emballaget måste sparas tills dess att ärendet är löst. Om varan ej finns i lager eller har utgått så kontaktar vi dig innan vidare hantering. Vi hanterar reklamationsärenden normalt sett inom 3-14 arbetsdagar. Vid godkänd reklamation av köp så återbetalar vi summan för din beställning inom 30 dagar.<\/p><p><strong>Ångerrätt<\/strong><\/p><p>Vid köp av produkter hos DEODOC AB har du som kund 14 dagars ångerrätt <strong>endast<\/strong> om det yttre emballaget (fraktförpackningen) är obruten. Det vill säga, det yttre emballaget (fraktförpackningen) som produkterna är packade i, får ej vara bruten. Detta på grund av hälso- och hygienskäl samt för att garantera att alla våra kunder köper en fräsch och orörd intimprodukt. <\/p><p>Ångerrätten gäller från det att du har tagit emot en vara som du har beställt. Du är ansvarig för att kontrollera att leveransen och produkterna är oskadda i samband med mottagande av paketet. Vid godkänd retur betalar du själv returkostnaden och ombeds höra av dig till vår kundtjänst på <a href=\"mailto:myorder@deodoc.se\">myorder@deodoc.se<\/a> för vidare instruktioner. Returhanteringen tar ca 1-3 veckor. Tänk på att spara kvittot på din retur och skicka spårbart så att vi kan ersätta dig även i de fall paketet försvinner under leveransen. <\/p><p>Vid godkänd hävning av köp så återbetalar vi summan för din beställning inom 21 dagar.<\/p><p><strong>Undantag från ångerrätt<\/strong><\/p><p>För att garantera att alla våra kunder köper en fräsch och orörd intimprodukt så gäller ej undantag från ångerrätten av hälso- och hygienskäl. <\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "16582309516e5e2342-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16582309516e5e2342-0",
+        "16582309516e5e2342-1",
+        "16582309516e5e2342-2"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "narrow": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "165754365028872bb2": {
+      "type": "multicolumn",
+      "blocks": {
+        "1657543650d8b5f2f0-0": {
+          "type": "column",
+          "settings": {
+            "title": "Vulva vs Vagina",
+            "title_size": "h2",
+            "text": "<p>It’s time that we once and for all dispel the misconception between vulva and vagina. <\/p>",
+            "button_label": "Learn more",
+            "button_link": "shopify:\/\/pages\/vulva-vs-vagina",
+            "button_style_secondary": false
+          }
+        },
+        "1657543650d8b5f2f0-1": {
+          "type": "column",
+          "settings": {
+            "title": "pH",
+            "title_size": "h2",
+            "text": "<p>What is pH? And why does pH matter for the vulva and vagina?<\/p>",
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/pages\/ph",
+            "button_style_secondary": false
+          }
+        },
+        "1657543650d8b5f2f0-2": {
+          "type": "column",
+          "settings": {
+            "title": "Menstruation",
+            "title_size": "h2",
+            "text": "<p>Here you can learn more about what is happening in your body during the four phases of the menstrual cycle.<\/p>",
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/pages\/menstruation",
+            "button_style_secondary": false
+          }
+        },
+        "967e363e-99b2-4470-9340-46f6684b65c4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/final4.jpg",
+            "title": "Intimate odors",
+            "title_size": "h3",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Learn more",
+            "button_link": "shopify:\/\/pages\/intimate-odor",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1657543650d8b5f2f0-0",
+        "1657543650d8b5f2f0-1",
+        "1657543650d8b5f2f0-2",
+        "967e363e-99b2-4470-9340-46f6684b65c4"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "16582309525d689d08",
+    "main",
+    "165754365028872bb2"
+  ]
+}

@@ -17,6 +17,15 @@
             "show_divider": true
           }
         },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -34,6 +43,7 @@
         },
         "variant_picker": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "show_variant_labels": false,
             "picker_type": "button",
@@ -59,7 +69,7 @@
             "show_dynamic_checkout": false
           }
         },
-        "e6621e5d-588f-4d08-9ecb-d22e92be9870": {
+        "95073fe0-1629-48c2-ac3f-24a78353ad1e": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Betalsatt_SE.png",
@@ -76,7 +86,7 @@
           "settings": {
             "icon": "none",
             "heading": "PRODUKTSPECIFIKATION",
-            "content": "<p>- Utvecklad av kvinnliga läkare<\/p><p>- Gynekologiskt och dermatologiskt testad<\/p><p>- Fri från allergener, alkohol och parabener<\/p><p>- Tillverkad i Sverige<\/p><p>- 100% vegansk<\/p>",
+            "content": "<p>- Med Svensk havreolja och kamomillolja<\/p><p>-Utvecklad av kvinnliga läkare och gynekologer<\/p><p>-Gynekologiskt och dermatologiskt testad<\/p><p>-Fri från allergener, alkohol och parabener<\/p><p>-Tillverkad i Sverige<\/p><p>-100% vegansk<\/p>",
             "page": ""
           }
         },
@@ -84,8 +94,8 @@
           "type": "collapsible_tab",
           "settings": {
             "icon": "none",
-            "heading": "Användning",
-            "content": "<p>Skaka väl innan användning. Blöt huden och applicera ett lager av rakskummet över pre-shave oil på önskat område. Raka och skölj därefter av. <\/p>",
+            "heading": "ANVÄNDNING",
+            "content": "<p>Spray från ca 10 cm avstånd på vulva ( inre och yttre blygdläppar samt slemhinna) vid behov under dagen. Ett halvpumptryck ger en finfördelad oljemist.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -94,16 +104,7 @@
           "settings": {
             "icon": "none",
             "heading": "INGREDIENSER",
-            "content": "<p><strong>Fresh Coconut: <\/strong>Aqua, Sodium Laureth Sulfate, Propane, Butane, Sodium Cocoamphoacetate, Glycol Distearate, Parfum, Isobutane, Hydrolyzed Corn Starch, Beta Vulgaris (Beet) Root Extract, Glycerin, Lactic Acid, Glycine, Urea, Fructose, Niacin- amide, Inositol, Chelidonine, Polyquaternium-10, Sodium PCA, Sodium Lactate, PEG-14M, PEG-40, Hydrogenated Castor Oil, Butylene Glycol, Polysorbate 20, Cocamide MEA, Propylene Glycol, Citric Acid, p-Anisic Acid, Iodopro-<br\/>pynyl, Butylcarbamate, Diazolidinyl Urea, Sodium Benzoate.<\/p><p><strong>Fragrance Free:<\/strong> Aqua, Sodium Laureth Sulfate, Glycerin, Sodium Cocoamphoacetate, Propane, Glycol Distearate, Butane, Isobutane, Paeonia Lactiflora Root Extract, Sodium PCA, Sodium Lactate, Hydrolyzed Corn Starch, Beta Vulgaris Root Extract, Urea, Fructose, Niacinamide, Inositol, Sodium Levulinate, Lactic Acid, Sodium Anisate, Glycine, PEG-40 Hydrogenated Castor Oil, Polysorbate 20, Butylene Glycol,<br\/>Cocamide MEA, Chelidonine, PEG-14M, Sodium Benzoate, p-Anisic Acid, Citric Acid.<\/p><p><strong>After Shave Balm: <\/strong> <\/p><p><strong>Fresh Coconut:<\/strong> Aqua, Caprylic\/Capric Triglyceride, Butylene Glycol, Panthenyl Triacetate, Parfum, Naringanin, Chelidonine, Carbomer, Tetrasodium Glutamate Diacetate, Potassium Hydroxide, Phenoxyethanol<\/p><p><strong>Fragrance Free: <\/strong>Aqua, Caprylic\/Capric Triglyceride, Butylene Glycol, PEG-20 Methyl Glucose Sesquistearate, Panthenyl Triacetate, Methyl Glucose Sesquistearate, Glycerin, Paeonia Lactiflora Root Extract, Naringanin, Chelidonine, Phenoxyethanol, Carbomer.<\/p>",
-            "page": ""
-          }
-        },
-        "88981f17-7329-4f2e-80dc-5aa5a828dcda": {
-          "type": "collapsible_tab",
-          "settings": {
-            "icon": "none",
-            "heading": "Doft",
-            "content": "<p><strong>Fresh Coconut:<\/strong> En fräsch & söt blandning av tropisk kokosdoft<\/p><p><strong>Fragrance Free: <\/strong>Doftfri <\/p>",
+            "content": "<p>Isopropyl Myristate, Shea Butter, Ethyl Esters, PPG-11 Stearyl<br\/>Ether, Isostearyl Isostearate, Caprylyl Caprylate\/ Caprate, Coco-Caprylate, Cetearyl Ethylhexanoate, Undecane, Olus Oil, Caprylic\/Capric Triglyceride, Canola Oil, Caprylic\/Capric Glycerides, Tridecane, Butyrospermum Parkii Butter, Prunus Amygdalus Dulcis Oil, Avena Sativa Kernel Extract, Glycine Soja Oil, Calendula Ocinalis Flower Extract, Camelina Sativa Seed Oil, Chamomilla Recutita Flower Extract, Tocopherol, Citric Acid.<\/p>",
             "page": ""
           }
         },
@@ -127,18 +128,18 @@
       },
       "block_order": [
         "breadcrumb",
+        "vendor",
         "title",
         "rating",
         "price",
         "variant_picker",
         "countdown",
         "buy_buttons",
-        "e6621e5d-588f-4d08-9ecb-d22e92be9870",
+        "95073fe0-1629-48c2-ac3f-24a78353ad1e",
         "description",
         "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
         "collapsible_tab-0",
         "collapsible_tab-1",
-        "88981f17-7329-4f2e-80dc-5aa5a828dcda",
         "share",
         "related_buttons",
         "sticky_cart"
@@ -165,7 +166,7 @@
           "type": "guarantee",
           "settings": {
             "icon": "clipboard",
-            "title": "VETENSKAPLIGT BASERAT",
+            "title": "Vetenskapligt baserat",
             "title_size": "h4",
             "text": ""
           }
@@ -174,7 +175,7 @@
           "type": "guarantee",
           "settings": {
             "icon": "heart",
-            "title": "UTVECKLAT AV GYNEKOLOGER",
+            "title": "Utvecklat av gynekologer",
             "title_size": "h4",
             "text": ""
           }
@@ -183,7 +184,7 @@
           "type": "guarantee",
           "settings": {
             "icon": "globe",
-            "title": "TILLVERKAT I SVERIGE",
+            "title": "Tillverkat i Sverige",
             "title_size": "h4",
             "text": ""
           }
@@ -192,7 +193,7 @@
           "type": "guarantee",
           "settings": {
             "icon": "leaf",
-            "title": "100% VEGANSKT",
+            "title": "100% Veganskt",
             "title_size": "h4",
             "text": ""
           }
@@ -230,7 +231,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Shaving Foam läggs på ovanpå oljan och kombinationen av dessa ger ett superglid som underlättar rakningen med minsta möjliga friktion mot huden.\"<br\/><\/em><\/p><p><strong>-Dr. Hedieh Asadi, leg läkare<\/strong><\/p>",
+            "text": "<p><em>\"Vi gynekologer brukar rekommendera en oljeregim för torra och sköra slemhinnor i förklimakteriet\/klimakteriet. Växtbaserade oljor är mycket vårdande, mjukgörande samt återfuktande för slemhinnor. Denna leave-on olja ger en lätt mist och är smidig att ha med i väskan och spraya vid behov för att hålla slemhinnorna återfuktade under dagen.\"<br\/><br\/><\/em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -251,7 +252,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8052.jpg",
+        "image": "shopify:\/\/shop_images\/Doctor_Gunvor_1.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -263,6 +264,66 @@
         "mobile_image_ratio": "auto",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "title": "",
+            "title_size": "h2",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "title": "",
+            "title_size": "h2",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "title": "",
+            "title_size": "h2",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Användning",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_position": "top center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 72
       }
     },
     "product-details": {
@@ -314,93 +375,10 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/68.png",
-            "title": "Steg 1",
-            "title_size": "h3",
-            "text": "<p>Skaka väl innan användning.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/71.png",
-            "title": "Steg 2",
-            "title_size": "h3",
-            "text": "<p>Blöt huden och applicera ett lager av rakskummet.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        },
-        "column-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/74.png",
-            "title": "Steg 3",
-            "title_size": "h3",
-            "text": "<p>Raka medhårs och sköljd därefter av.<\/p>",
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "column-0",
-        "column-1",
-        "column-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "heading": "Användning",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "image_position": "top center",
-        "text_alignment": "left",
-        "show_divider": false,
-        "mobile_text_alignment": "left",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "recently-viewed-products": {
-      "type": "recently-viewed-products",
-      "disabled": true,
-      "settings": {
-        "heading": "Recently Viewed",
-        "heading_size": "h2",
-        "show_divider": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "image_ratio": "portrait",
-        "image_position": "center center",
-        "enable_image_fill": true,
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "show_quick_buy": true,
-        "enable_quick_view": true,
-        "enable_color_swatches": true,
-        "enable_countdown": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "17065374583f8f7f59": {
+    "17065389997afb4b71": {
       "type": "apps",
       "blocks": {
-        "loox_reviews_loox_dynamic_section_VUCDYX": {
+        "loox_reviews_loox_dynamic_section_Qa3yqg": {
           "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
@@ -413,7 +391,7 @@
         }
       },
       "block_order": [
-        "loox_reviews_loox_dynamic_section_VUCDYX"
+        "loox_reviews_loox_dynamic_section_Qa3yqg"
       ],
       "settings": {
         "include_margins": true,
@@ -422,27 +400,66 @@
         "padding_bottom": 36
       }
     },
-    "1c27470c-040b-43fc-a8f8-e0205aa972de": {
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Nyligen visade produkter",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ee81639f-9fd2-4557-97d2-c7ca02cffc3b": {
       "type": "faq",
       "blocks": {
-        "template--15426236711068__1c27470c-040b-43fc-a8f8-e0205aa972de-1668420458044ac659-0": {
+        "template--15541999435932__ee81639f-9fd2-4557-97d2-c7ca02cffc3b-1668430102f9102bd9-0": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DEODOCS PRODUKTER SÄKRA?",
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<br\/><br\/>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<br\/><br\/>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<br\/><br\/>- Produkterna är även dermatologiskt testade för känslig hud.<br\/><br\/>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<br\/><\/p>"
+          }
+        },
+        "template--15541999435932__ee81639f-9fd2-4557-97d2-c7ca02cffc3b-1668430102f9102bd9-1": {
+          "type": "question",
+          "settings": {
+            "title": "VARFÖR REKOMMENDERAR NI EN OLJEMIST?",
+            "text": "<p>En oljemist är ett mycket skonsamt och milt rengöringsalternativ som vi läkare rekommenderar till patienter med känsliga slemhinnor och hud. Det är fördelaktigt för kvinnor i alla åldrar men framför allt för kvinnor pre- och post klimakteriet.<\/p>"
+          }
+        },
+        "226ad0bf-96ca-4de9-8fc5-d465ee546863": {
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER VEGANSKA?",
             "text": "<p>Ja.<\/p>"
           }
         },
-        "template--15426236711068__1c27470c-040b-43fc-a8f8-e0205aa972de-1668420458044ac659-1": {
+        "dc72b786-ead2-40cf-afb1-a3848fa2009b": {
           "type": "question",
           "settings": {
-            "title": "VARFÖR HAR NI PARFYM I PRODUKTERNA?",
-            "text": "<p>Vanliga parfymer ska aldrig användas i intimområdet då de innehåller alkohol (kan verka uttorkande) och allergener (kan ge irritation).<br\/><br\/>DeoDoc använder därför dofter som kallas för allergenfria dofter. Detta är dofter som är utvecklade utan allergener och alkohol. Vi har valt både att utveckla produkter med allergenfri doft och utan doft för att erbjuda valmöjlighet.<\/p>"
+            "title": "Passar produkterna till känslig hy?",
+            "text": "<p>Ja, DeoDocs Cleansing Oil är en mild tvättolja för känslig intimhud formulerad av 100% naturliga oljor från växtriket.<\/p>"
           }
         }
       },
       "block_order": [
-        "template--15426236711068__1c27470c-040b-43fc-a8f8-e0205aa972de-1668420458044ac659-0",
-        "template--15426236711068__1c27470c-040b-43fc-a8f8-e0205aa972de-1668420458044ac659-1"
+        "template--15541999435932__ee81639f-9fd2-4557-97d2-c7ca02cffc3b-1668430102f9102bd9-0",
+        "template--15541999435932__ee81639f-9fd2-4557-97d2-c7ca02cffc3b-1668430102f9102bd9-1",
+        "226ad0bf-96ca-4de9-8fc5-d465ee546863",
+        "dc72b786-ead2-40cf-afb1-a3848fa2009b"
       ],
       "settings": {
         "heading": "FAQs",
@@ -454,17 +471,8 @@
         "padding_bottom": 36
       }
     },
-    "1668420576588f0889": {
+    "1663689957f7cccf40": {
       "type": "apps",
-      "blocks": {
-        "0838e1bd-8448-4e1e-a8e1-cf95515cc35e": {
-          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "0838e1bd-8448-4e1e-a8e1-cf95515cc35e"
-      ],
       "disabled": true,
       "settings": {
         "include_margins": true,
@@ -501,12 +509,12 @@
     "main",
     "guarantees",
     "1658133913d28abc37",
-    "product-details",
     "multicolumn",
+    "product-details",
+    "17065389997afb4b71",
     "recently-viewed-products",
-    "17065374583f8f7f59",
-    "1c27470c-040b-43fc-a8f8-e0205aa972de",
-    "1668420576588f0889",
+    "ee81639f-9fd2-4557-97d2-c7ca02cffc3b",
+    "1663689957f7cccf40",
     "product-recommendations"
   ]
 }

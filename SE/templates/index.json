@@ -6,30 +6,22 @@
       "settings": {
         "bg_color": "#f6f5f2",
         "text_color": "#000000",
-        "headline": "NYHET: MAMA CARE",
-        "content": "Produkter som vårdar din hud under graviditet och amning",
-        "sub_content": "",
+        "headline": "Vi \"tar bort\" momsen",
+        "content": "25% rabatt vid köp av 2 mensprodukter",
+        "sub_content": "*Gäller ej redan nedsatta varor",
         "button": "Köp Nu",
-        "link": "shopify:\/\/collections\/mama-care",
+        "link": "shopify:\/\/collections\/kop-efter-behov-menstruation",
         "button_bg_color": "#191818",
         "button_text_color": "#ffffff",
         "button_hover_bg_color": "#ffffff",
         "button_hover_text_color": "#000000",
-        "desktop_video": "shopify:\/\/files\/videos\/Mama launch banner.mp4",
-        "video_image": "shopify:\/\/shop_images\/Screenshot_2024-04-12_at_11.30.16.png"
+        "desktop_video": "shopify:\/\/files\/videos\/Menstruation Day.mp4",
+        "video_image": "shopify:\/\/shop_images\/Screenshot_2024-05-28_at_09.44.44.png"
       }
     },
     "e2d1c4e3-7328-48f5-8f77-d4ed4fe6c395": {
       "type": "featured-categories",
       "blocks": {
-        "template--18846109598019__e2d1c4e3-7328-48f5-8f77-d4ed4fe6c395-1682334686d1cf7353-0": {
-          "type": "category",
-          "settings": {
-            "title": "DAGLIG HYGIEN",
-            "image": "shopify:\/\/shop_images\/7_d71884e9-0183-40e3-b47f-74172b762138.jpg",
-            "link": "shopify:\/\/collections\/daglig-hygien"
-          }
-        },
         "ecf06577-b47e-4343-862e-3b2909185df3": {
           "type": "category",
           "settings": {
@@ -38,20 +30,20 @@
             "link": "shopify:\/\/collections\/shoppa-efter-behov-inatvaxande-harstran-roda-prickar"
           }
         },
+        "template--18846109598019__e2d1c4e3-7328-48f5-8f77-d4ed4fe6c395-1682334686d1cf7353-0": {
+          "type": "category",
+          "settings": {
+            "title": "DAGLIG HYGIEN",
+            "image": "shopify:\/\/shop_images\/Untitled_design_66.jpg",
+            "link": "shopify:\/\/collections\/daglig-hygien"
+          }
+        },
         "7626f5f9-4746-4287-a2ac-6782be1f0827": {
           "type": "category",
           "settings": {
-            "title": "IRRITATION",
-            "image": "shopify:\/\/shop_images\/8_e6df934b-2df5-4c6b-96d3-f067f2624d7a.jpg",
-            "link": "shopify:\/\/collections\/kategori-vulva-skin-care"
-          }
-        },
-        "40c0ab74-f6cc-4572-9c7d-c4e156258fd7": {
-          "type": "category",
-          "settings": {
-            "title": "MENS",
-            "image": "shopify:\/\/shop_images\/4._MENS_75a104cc-86bb-4927-8a7f-b5cfbcc2e82d.jpg",
-            "link": "shopify:\/\/collections\/kop-efter-behov-menstruation"
+            "title": "MAMA CARE",
+            "image": "shopify:\/\/shop_images\/15.jpg",
+            "link": "shopify:\/\/collections\/mama-care"
           }
         },
         "25eccfd1-e7db-430c-94df-f9312f54b9b6": {
@@ -62,21 +54,29 @@
             "link": "shopify:\/\/collections\/kategori-klimakteriet"
           }
         },
+        "40c0ab74-f6cc-4572-9c7d-c4e156258fd7": {
+          "type": "category",
+          "settings": {
+            "title": "MENS",
+            "image": "shopify:\/\/shop_images\/4._MENS_75a104cc-86bb-4927-8a7f-b5cfbcc2e82d.jpg",
+            "link": "shopify:\/\/collections\/kop-efter-behov-menstruation"
+          }
+        },
         "530cf127-a626-4bca-a92c-408cc0cabf7a": {
           "type": "category",
           "settings": {
-            "title": "VAGINAL TORRHET",
-            "image": "shopify:\/\/shop_images\/6._VAGINAL_TORRHET_386997e2-c37c-4c69-acaa-c6236456599e.jpg",
-            "link": "shopify:\/\/collections\/shoppa-efter-behov-vaginal-torrhet"
+            "title": "EXKLUSIVA KITS",
+            "image": "shopify:\/\/shop_images\/Untitled_design_64.jpg",
+            "link": "shopify:\/\/collections\/kategori-kit"
           }
         }
       },
       "block_order": [
-        "template--18846109598019__e2d1c4e3-7328-48f5-8f77-d4ed4fe6c395-1682334686d1cf7353-0",
         "ecf06577-b47e-4343-862e-3b2909185df3",
+        "template--18846109598019__e2d1c4e3-7328-48f5-8f77-d4ed4fe6c395-1682334686d1cf7353-0",
         "7626f5f9-4746-4287-a2ac-6782be1f0827",
-        "40c0ab74-f6cc-4572-9c7d-c4e156258fd7",
         "25eccfd1-e7db-430c-94df-f9312f54b9b6",
+        "40c0ab74-f6cc-4572-9c7d-c4e156258fd7",
         "530cf127-a626-4bca-a92c-408cc0cabf7a"
       ],
       "settings": {}
@@ -113,6 +113,7 @@
         "text_6mdNR8",
         "button_rj6LKT"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Copy_of_Untitled_4.jpg",
         "image_position": "center center",

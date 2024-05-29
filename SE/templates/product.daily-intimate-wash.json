@@ -1,1 +1,554 @@
-{"sections":{"empty-space":{"type":"empty-space","settings":{"desktop_height":8,"mobile_height":0}},"main":{"type":"main-product","blocks":{"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":true}},"vendor":{"type":"text","disabled":true,"settings":{"icon":"none","text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{"title_size":"h2"}},"rating":{"type":"rating","disabled":true,"settings":{}},"price":{"type":"price","settings":{}},"variant_picker":{"type":"variant_picker","settings":{"show_variant_labels":false,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"countdown":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#ffeeee"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":true,"show_dynamic_checkout":false}},"bc940bd8-8f0a-477b-a2ba-981b25a4dab5":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Betalsatt_SE.png","height":28,"link":""}},"description":{"type":"description","settings":{}},"b614a68f-4156-4bff-8e3c-ae66b38cb10a":{"type":"collapsible_tab","settings":{"icon":"none","heading":"PRODUKTSPECIFIKATION","content":"<p>- Utvecklad av kvinnliga läkare och gynekologer<\/p><p>- Gynekologiskt och dermatologiskt testad<\/p><p>- Fri från allergener, alkohol och parabener<\/p><p>- Tillverkad i Sverige<\/p><p>- 100% vegansk<\/p>","page":""}},"collapsible_tab-0":{"type":"collapsible_tab","settings":{"icon":"none","heading":"ANVÄNDNING","content":"<p>Använd intimtvålen vid dusch och skölj därefter av.<\/p>","page":"shaving-kit"}},"collapsible_tab-1":{"type":"collapsible_tab","settings":{"icon":"none","heading":"INGREDIENSER","content":"<p><strong>Fresh Coconut and Violet Cotton: <\/strong>Water (Aqua), Sodium Laureth Sulfate, Sodium Cocoamphoacetate, Glycerin, Glycol Distearate, Hypoallergenic Fragrance (Parfum), Sodium Chloride, PEG-40 Hydrogenated Castor Oil, Lactic Acid, Polyquaternium-10, PEG-14M, Cocamide MEA, Sodium Benzoate, Sodium Levulinate, Sodium Anisate, Citric Acid<\/p><p><strong>Jasmine Pear: <\/strong>Water (Aqua), Sodium Laureth Sulfate, Sodium Cocoamphoacetate, Glycerin, Glycol Distearate, Sodium Chloride, PEG-40 Hydrogenated Castor Oil, Sodium Levulinate, Lactic Acid, Sodium Anisate, Polyquaternium-10, Cocamide MEA, PEG-14M, Sodium Benzoate, Citric Acic, Hypoallergenic Fragrance (Parfum)<\/p><p><strong>Fragrance Free: <\/strong>﻿Water (Aqua), Sodium Laureth Sulfate, Sodium Cocoamphoacetate, Propylene Glycol, Glycerin, Glycol Distearate, Sodium Chloride, PEG-40 Hydrogenated Castor Oil, Sodium Levulinate, Lactic Acid, Polyquaternium-10, Cocamide MEA, Sodium Anisate, PEG-14M, Cucumis Melo Fruit Extract, Sodium Benzoate, Citric Acid<\/p>","page":""}},"acc8ae37-8373-4ac1-baea-e8f51906c0f5":{"type":"collapsible_tab","settings":{"icon":"none","heading":"Doft","content":"<p><strong>Jasmine Pear:<\/strong> En mjuk doft med lätta inslag av blommiga och fruktiga noter<\/p><p><strong>Fresh Coconut:<\/strong> En fräsch & söt blandning av tropisk kokosdoft<\/p><p><strong>Violet Cotton:<\/strong> En ren & frisk doft med noter av varm bomull & nytvättade lakan<\/p><p><strong>Fragrance Free: <\/strong>Doftfri <\/p>","page":""}},"share":{"type":"share","settings":{}},"related_buttons":{"type":"related_buttons","disabled":true,"settings":{"show_icons":false}},"sticky_cart":{"type":"sticky_cart","settings":{"show_quantity_selector":false}}},"block_order":["breadcrumb","vendor","title","rating","price","variant_picker","countdown","buy_buttons","bc940bd8-8f0a-477b-a2ba-981b25a4dab5","description","b614a68f-4156-4bff-8e3c-ae66b38cb10a","collapsible_tab-0","collapsible_tab-1","acc8ae37-8373-4ac1-baea-e8f51906c0f5","share","related_buttons","sticky_cart"],"settings":{"enable_sticky_info":true,"media_size":"small","gallery_layout":"thumbnail_slider","image_ratio":"adapt","show_thumbnails":true,"hide_variants":true,"enable_image_zoom":true,"enable_video_looping":false,"mobile_image_ratio":"adapt_first","show_mobile_thumbnails":true,"padding_top":0,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"Addera till din intimvård","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"guarantees":{"type":"guarantees","blocks":{"guarantee-2":{"type":"guarantee","settings":{"icon":"clipboard","title":"Vetenskapligt baserat","title_size":"h4","text":""}},"guarantee-1":{"type":"guarantee","settings":{"icon":"heart","title":"Utvecklat av gynekologer","title_size":"h4","text":""}},"guarantee-3":{"type":"guarantee","settings":{"icon":"globe","title":"Tillverkat i Sverige","title_size":"h4","text":""}},"guarantee-0":{"type":"guarantee","settings":{"icon":"leaf","title":"100% Veganskt","title_size":"h4","text":""}}},"block_order":["guarantee-2","guarantee-1","guarantee-3","guarantee-0"],"settings":{"heading":"","heading_size":"h1","layout":"default","column_alignment":"center","secondary_background":false,"full_width":false,"show_divider":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1658133913d28abc37":{"type":"image-with-text","blocks":{"1658133913405b7b25-0":{"type":"heading","settings":{"heading":"Doktorn Tipsar","heading_size":"h2"}},"1658133913405b7b25-1":{"type":"text","settings":{"text":"<p><em>\"Vaginan är självrengörande och ska aldrig tvättas eller rengöras. Den flytning som varje kvinna har är vaginans självrengöring. Vulvan (den yttre delen av ditt intima område ) är dock inte självrengörande och det många inte vet är att samma svettkörtlar som finns i armhålan även finns i vulvan (svettkörtlarna tömmer sig i hårsäckar). Således kan vulvan svettas och här kan även urin fastna.<\/em><\/p><p><em>Många upplever att enbart vatten inte är ett tillräckligt alternativ för att tvätta armhålan. Detsamma gäller för vulvan, många upplever att enbart tvätta vulvan med vatten (och ingen intimtvål) inte är tillräckligt. Då svettning och svettdoft är individuellt så finns det inget rätt eller fel för vad som passar varje individ. Däremot finns det tyvärr intimtvålar på marknaden (som säljs på apotek!) som skapar irritation och har fel formulering, vilket vi sett alltför ofta hos våra patienter. Därför utvecklade vi en säker intimtvål med korrekt pH och formulering.<\/em><\/p><p><em>Huden i vulvan är mer delikat än huden runt ögonen och kan inte behandlas som resten av huden på din kropp eftersom den dessutom har ett väldigt lättrubbat ekosystem. Alla produkter som används på vulvan bör ha ett pH på 5 (eftersom vulva har pH 5). Att tvätta vulvan med en vanlig tvål rekommenderas inte eftersom dessa innehåller en högt pH ( kring 8-10), allergener och oftast även vanliga parfymer. Detta kan torka ut vulvans hud, rubba pH balansen och leda till irritation, obehag och eventuellt infektioner.\"<\/em><br\/><br\/><strong>-Dr. Hedieh Asadi, leg läkare<\/strong><\/p>","text_size":"typeset","secondary_color":false}},"1658133913405b7b25-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1658133913405b7b25-0","1658133913405b7b25-1","1658133913405b7b25-2"],"settings":{"image":"shopify:\/\/shop_images\/IMG_8006_40affefc-9734-4e52-9d98-fb31127be425.jpg","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"650px","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"multicolumn":{"type":"multicolumn","blocks":{"column-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/step1.jpg","title":"Steg 1","title_size":"h3","text":"<p>Stig in i duschen.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/step2.jpg","title":"Steg 2","title_size":"h3","text":"<p>Häll innehållet i din hand.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/3_1ae37897-7389-4a5d-835c-fd10728e705e.jpg","title":"Steg 3","title_size":"h3","text":"<p>Applicera på vulvan och skölj därefter av noggrant.<\/p>","button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["column-0","column-1","column-2"],"disabled":true,"settings":{"heading":"Användning","heading_size":"h2","image_ratio":"square","image_position":"80% 50%","text_alignment":"left","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"product-details":{"type":"product-details","blocks":{"product-details-0":{"type":"description","disabled":true,"settings":{"heading":""}},"product-details-1":{"type":"collapsible_tab","settings":{"heading":"1. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-2":{"type":"collapsible_tab","settings":{"heading":"2. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-3":{"type":"collapsible_tab","settings":{"heading":"3. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}}},"block_order":["product-details-0","product-details-1","product-details-2","product-details-3"],"disabled":true,"settings":{"heading":"Collapsible tabs","heading_size":"h2","padding_top":36,"padding_bottom":36}},"recently-viewed-products":{"type":"recently-viewed-products","disabled":true,"settings":{"heading":"Nyligen visade produkter","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"17065356428c839b46":{"type":"apps","blocks":{"loox_reviews_loox_dynamic_section_HhTBhw":{"type":"shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"only_photos":false,"aggregated":false,"limit":20,"hide_thumbnails":false,"maxwidth":1080}}},"block_order":["loox_reviews_loox_dynamic_section_HhTBhw"],"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}},"4cf382f5-b0a6-4015-998c-5fb50d874364":{"type":"faq","blocks":{"ba05b839-be31-45ab-92bf-d5064513608a":{"type":"question","settings":{"title":"Varför är det viktigt att min intimtvätt har pH 5? ","text":"<p>Alla produkter som används på vulvan bör ha ett pH på 5 (eftersom vulva har pH 5). Att tvätta vulvan med en vanlig tvål rekommenderas inte eftersom dessa innehåller en högt pH ( kring 8-10), allergener och oftast även vanliga parfymer. Detta kan torka ut vulvans hud, rubba pH balansen och leda till irritation, obehag och eventuellt infektioner.<\/p>"}},"a9c06601-5c2a-4976-8208-f3d959c434cb":{"type":"question","settings":{"title":"Ska jag använda tvålen för att tvätta vaginan?","text":"<p>Nej, vaginan är självrengörande och ska aldrig tvättas eller rengöras.<\/p>"}},"template--15426236547228__4cf382f5-b0a6-4015-998c-5fb50d874364-16660130548115c38f-0":{"type":"question","settings":{"title":"VARFÖR HAR NI PARFYM I PRODUKTERNA?","text":"<p>Vanliga parfymer ska aldrig användas i intimområdet då de innehåller alkohol (kan verka uttorkande) och allergener (kan ge irritation).<br\/><br\/>DeoDoc använder därför dofter som kallas för allergenfria dofter. Detta är dofter som är utvecklade utan allergener och alkohol. Vi har valt både att utveckla produkter med allergenfri doft och utan doft för att erbjuda valmöjlighet.<\/p>"}},"f6c46009-ce1e-4e63-98b8-f8248ede8240":{"type":"question","settings":{"title":"ÄR DEODOCS PRODUKTER VEGANSKA?","text":"<p>Ja.<\/p>"}},"42fdd246-518d-40ab-8031-d5261e26c120":{"type":"question","settings":{"title":"Passar produkterna till känslig hy?","text":"<p>Ja, Daily Wash har en skonsam formula som ger en silkeslen känsla. Tvålen är speciellt framtagen för att bibehålla vulvans naturliga pH värde (pH 5).<\/p>"}},"d7199781-6bff-4cd4-8f7f-fe579234aa7e":{"type":"question","settings":{"title":"ÄR DEODOCS PRODUKTER SÄKRA?","text":"<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<\/p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<\/p><p>- Produkterna är även dermatologiskt testade för känslig hud.<\/p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<\/p>"}}},"block_order":["ba05b839-be31-45ab-92bf-d5064513608a","a9c06601-5c2a-4976-8208-f3d959c434cb","template--15426236547228__4cf382f5-b0a6-4015-998c-5fb50d874364-16660130548115c38f-0","f6c46009-ce1e-4e63-98b8-f8248ede8240","42fdd246-518d-40ab-8031-d5261e26c120","d7199781-6bff-4cd4-8f7f-fe579234aa7e"],"settings":{"heading":"FAQs","heading_size":"h2","narrow":true,"secondary_background":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"16636889912d74eaa8":{"type":"apps","blocks":{"056d0ed7-508d-424c-b7a3-363ce76bd923":{"type":"shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f","settings":{}}},"block_order":["056d0ed7-508d-424c-b7a3-363ce76bd923"],"disabled":true,"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}}},"order":["empty-space","main","product-recommendations","guarantees","1658133913d28abc37","multicolumn","product-details","recently-viewed-products","17065356428c839b46","4cf382f5-b0a6-4015-998c-5fb50d874364","16636889912d74eaa8"]}
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 8,
+        "mobile_height": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": true
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": false,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false
+          }
+        },
+        "bc940bd8-8f0a-477b-a2ba-981b25a4dab5": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betalsatt_SE.png",
+            "height": 28,
+            "link": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "PRODUKTSPECIFIKATION",
+            "content": "<p>- Utvecklad av kvinnliga läkare och gynekologer<\/p><p>- Gynekologiskt och dermatologiskt testad<\/p><p>- Fri från allergener, alkohol och parabener<\/p><p>- Tillverkad i Sverige<\/p><p>- 100% vegansk<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "ANVÄNDNING",
+            "content": "<p>Använd intimtvålen vid dusch och skölj därefter av.<\/p>",
+            "page": "shaving-kit"
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "INGREDIENSER",
+            "content": "<p><strong>Fresh Coconut and Violet Cotton: <\/strong>Water (Aqua), Sodium Laureth Sulfate, Sodium Cocoamphoacetate, Glycerin, Glycol Distearate, Hypoallergenic Fragrance (Parfum), Sodium Chloride, PEG-40 Hydrogenated Castor Oil, Lactic Acid, Polyquaternium-10, PEG-14M, Cocamide MEA, Sodium Benzoate, Sodium Levulinate, Sodium Anisate, Citric Acid<\/p><p><strong>Jasmine Pear: <\/strong>Water (Aqua), Sodium Laureth Sulfate, Sodium Cocoamphoacetate, Glycerin, Glycol Distearate, Sodium Chloride, PEG-40 Hydrogenated Castor Oil, Sodium Levulinate, Lactic Acid, Sodium Anisate, Polyquaternium-10, Cocamide MEA, PEG-14M, Sodium Benzoate, Citric Acic, Hypoallergenic Fragrance (Parfum)<\/p><p><strong>Fragrance Free: <\/strong>﻿Water (Aqua), Sodium Laureth Sulfate, Sodium Cocoamphoacetate, Propylene Glycol, Glycerin, Glycol Distearate, Sodium Chloride, PEG-40 Hydrogenated Castor Oil, Sodium Levulinate, Lactic Acid, Polyquaternium-10, Cocamide MEA, Sodium Anisate, PEG-14M, Cucumis Melo Fruit Extract, Sodium Benzoate, Citric Acid<\/p>",
+            "page": ""
+          }
+        },
+        "acc8ae37-8373-4ac1-baea-e8f51906c0f5": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Doft",
+            "content": "<p><strong>Jasmine Pear:<\/strong> En mjuk doft med lätta inslag av blommiga och fruktiga noter<\/p><p><strong>Fresh Coconut:<\/strong> En fräsch & söt blandning av tropisk kokosdoft<\/p><p><strong>Violet Cotton:<\/strong> En ren & frisk doft med noter av varm bomull & nytvättade lakan<\/p><p><strong>Fragrance Free: <\/strong>Doftfri <\/p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb",
+        "vendor",
+        "title",
+        "rating",
+        "price",
+        "variant_picker",
+        "countdown",
+        "buy_buttons",
+        "bc940bd8-8f0a-477b-a2ba-981b25a4dab5",
+        "description",
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "acc8ae37-8373-4ac1-baea-e8f51906c0f5",
+        "share",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "clipboard",
+            "title": "Vetenskapligt baserat",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "title": "Utvecklat av gynekologer",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "globe",
+            "title": "Tillverkat i Sverige",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "title": "100% Veganskt",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-3",
+        "guarantee-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "default",
+        "column_alignment": "center",
+        "secondary_background": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658133913d28abc37": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658133913405b7b25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doktorn Tipsar",
+            "heading_size": "h2"
+          }
+        },
+        "1658133913405b7b25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Vaginan är självrengörande och ska aldrig tvättas eller rengöras. Den flytning som varje kvinna har är vaginans självrengöring. Vulvan (den yttre delen av ditt intima område ) är dock inte självrengörande och det många inte vet är att samma svettkörtlar som finns i armhålan även finns i vulvan (svettkörtlarna tömmer sig i hårsäckar). Således kan vulvan svettas och här kan även urin fastna.<\/em><\/p><p><em>Många upplever att enbart vatten inte är ett tillräckligt alternativ för att tvätta armhålan. Detsamma gäller för vulvan, många upplever att enbart tvätta vulvan med vatten (och ingen intimtvål) inte är tillräckligt. Då svettning och svettdoft är individuellt så finns det inget rätt eller fel för vad som passar varje individ. Däremot finns det tyvärr intimtvålar på marknaden (som säljs på apotek!) som skapar irritation och har fel formulering, vilket vi sett alltför ofta hos våra patienter. Därför utvecklade vi en säker intimtvål med korrekt pH och formulering.<\/em><\/p><p><em>Huden i vulvan är mer delikat än huden runt ögonen och kan inte behandlas som resten av huden på din kropp eftersom den dessutom har ett väldigt lättrubbat ekosystem. Alla produkter som används på vulvan bör ha ett pH på 5 (eftersom vulva har pH 5). Att tvätta vulvan med en vanlig tvål rekommenderas inte eftersom dessa innehåller en högt pH ( kring 8-10), allergener och oftast även vanliga parfymer. Detta kan torka ut vulvans hud, rubba pH balansen och leda till irritation, obehag och eventuellt infektioner.\"<\/em><br\/><br\/><strong>-Dr. Hedieh Asadi, leg läkare<\/strong><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "1658133913405b7b25-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658133913405b7b25-0",
+        "1658133913405b7b25-1",
+        "1658133913405b7b25-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_8006_40affefc-9734-4e52-9d98-fb31127be425.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/step1.jpg",
+            "title": "Steg 1",
+            "title_size": "h3",
+            "text": "<p>Stig in i duschen.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/step2.jpg",
+            "title": "Steg 2",
+            "title_size": "h3",
+            "text": "<p>Häll innehållet i din hand.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_1ae37897-7389-4a5d-835c-fd10728e705e.jpg",
+            "title": "Steg 3",
+            "title_size": "h3",
+            "text": "<p>Applicera på vulvan och skölj därefter av noggrant.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Användning",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_position": "80% 50%",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-details": {
+      "type": "product-details",
+      "blocks": {
+        "product-details-0": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "product-details-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "page": ""
+          }
+        },
+        "product-details-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "page": ""
+          }
+        },
+        "product-details-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "product-details-0",
+        "product-details-1",
+        "product-details-2",
+        "product-details-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Collapsible tabs",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Nyligen visade produkter",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17065356428c839b46": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_HhTBhw": {
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_HhTBhw"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4cf382f5-b0a6-4015-998c-5fb50d874364": {
+      "type": "faq",
+      "blocks": {
+        "ba05b839-be31-45ab-92bf-d5064513608a": {
+          "type": "question",
+          "settings": {
+            "title": "Varför är det viktigt att min intimtvätt har pH 5? ",
+            "text": "<p>Alla produkter som används på vulvan bör ha ett pH på 5 (eftersom vulva har pH 5). Att tvätta vulvan med en vanlig tvål rekommenderas inte eftersom dessa innehåller en högt pH ( kring 8-10), allergener och oftast även vanliga parfymer. Detta kan torka ut vulvans hud, rubba pH balansen och leda till irritation, obehag och eventuellt infektioner.<\/p>"
+          }
+        },
+        "a9c06601-5c2a-4976-8208-f3d959c434cb": {
+          "type": "question",
+          "settings": {
+            "title": "Ska jag använda tvålen för att tvätta vaginan?",
+            "text": "<p>Nej, vaginan är självrengörande och ska aldrig tvättas eller rengöras.<\/p>"
+          }
+        },
+        "template--15426236547228__4cf382f5-b0a6-4015-998c-5fb50d874364-16660130548115c38f-0": {
+          "type": "question",
+          "settings": {
+            "title": "VARFÖR HAR NI PARFYM I PRODUKTERNA?",
+            "text": "<p>Vanliga parfymer ska aldrig användas i intimområdet då de innehåller alkohol (kan verka uttorkande) och allergener (kan ge irritation).<br\/><br\/>DeoDoc använder därför dofter som kallas för allergenfria dofter. Detta är dofter som är utvecklade utan allergener och alkohol. Vi har valt både att utveckla produkter med allergenfri doft och utan doft för att erbjuda valmöjlighet.<\/p>"
+          }
+        },
+        "f6c46009-ce1e-4e63-98b8-f8248ede8240": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DEODOCS PRODUKTER VEGANSKA?",
+            "text": "<p>Ja.<\/p>"
+          }
+        },
+        "42fdd246-518d-40ab-8031-d5261e26c120": {
+          "type": "question",
+          "settings": {
+            "title": "Passar produkterna till känslig hy?",
+            "text": "<p>Ja, Daily Wash har en skonsam formula som ger en silkeslen känsla. Tvålen är speciellt framtagen för att bibehålla vulvans naturliga pH värde (pH 5).<\/p>"
+          }
+        },
+        "d7199781-6bff-4cd4-8f7f-fe579234aa7e": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DEODOCS PRODUKTER SÄKRA?",
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<\/p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<\/p><p>- Produkterna är även dermatologiskt testade för känslig hud.<\/p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "ba05b839-be31-45ab-92bf-d5064513608a",
+        "a9c06601-5c2a-4976-8208-f3d959c434cb",
+        "template--15426236547228__4cf382f5-b0a6-4015-998c-5fb50d874364-16660130548115c38f-0",
+        "f6c46009-ce1e-4e63-98b8-f8248ede8240",
+        "42fdd246-518d-40ab-8031-d5261e26c120",
+        "d7199781-6bff-4cd4-8f7f-fe579234aa7e"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16636889912d74eaa8": {
+      "type": "apps",
+      "blocks": {
+        "056d0ed7-508d-424c-b7a3-363ce76bd923": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "056d0ed7-508d-424c-b7a3-363ce76bd923"
+      ],
+      "disabled": true,
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Addera till din intimvård",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "guarantees",
+    "1658133913d28abc37",
+    "multicolumn",
+    "product-details",
+    "recently-viewed-products",
+    "17065356428c839b46",
+    "4cf382f5-b0a6-4015-998c-5fb50d874364",
+    "16636889912d74eaa8",
+    "product-recommendations"
+  ]
+}

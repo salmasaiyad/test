@@ -216,9 +216,58 @@
                     {%- endif -%}
                   </dt>
                   <dd class="price">
-                    <price-money><bdi>{{ item.original_price | money }}</bdi></price-money>
-                  </dd>
-                </div>
+                    {%- unless item.url contains "sample" -%}
+                      <div class="cart-item__price-wrapper">
+                        {%- if item.original_price != item.final_price -%}
+                          <dl class="cart-item__discounted-prices">
+                            <dt class="visually-hidden">
+                              {{ 'products.product.price.regular_price' | t }}
+                            </dt>
+                            <dd class="price--on-sale">
+                              <s class="price price-item--regular price--end">
+                                <price-money><bdi>{{ item.original_price | money }}</bdi></price-money>
+                              </s>
+                            </dd>
+                            <dt class="visually-hidden">
+                              {{ 'products.product.price.sale_price' | t }}
+                            </dt>
+                            <dd class="price price--end">
+                              <price-money><bdi>{{ item.final_price | money }}</bdi></price-money>
+                            </dd>
+                          </dl>
+                        {%- else -%}
+                          <span class="price price--end">
+                            <price-money><bdi>{{ item.original_price | money }}</bdi></price-money>
+                          </span>
+                        {%- endif -%}
+  
+                        {%- if item.variant.available and item.unit_price_measurement -%}
+                          <div class="unit-price">
+                            <span class="visually-hidden">{{ 'products.product.price.unit_price' | t }}</span>
+                            <price-money><bdi>{{ item.variant.unit_price | money }}</bdi></price-money>
+                            <span aria-hidden="true">/</span>
+                            <span class="visually-hidden">&nbsp;{{ 'accessibility.unit_price_separator' | t }}&nbsp;</span>
+                            {%- if item.variant.unit_price_measurement.reference_value != 1 -%}
+                              {{- item.variant.unit_price_measurement.reference_value -}}
+                            {%- endif -%}
+                            {{ item.variant.unit_price_measurement.reference_unit }}
+                          </div>
+                        {%- endif -%}
+                      </div>
+                      {% endunless -%}  
+                  </dd>                  
+                </div>                    
+
+              {% assign discount_allocations = item.discount_allocations %}
+                {% if discount_allocations.size > 0 %}
+                  <div class="cart-item__discount">
+                    {% for discount in discount_allocations %}
+                      <span class="discount-name">{% render 'icon', icon: 'discount' %}{{ discount.discount_application.title }}</span>
+                      {% comment %} <span class="discount-amount">-{{ discount.amount | money }}</span> {% endcomment %}
+                    {% endfor %}
+                  </div>
+                {% endif %}
+
                   {% endif %}
                 {%- endunless -%}
               </div>

@@ -286,6 +286,25 @@ details[open].menu-opening > .cart-drawer {
 .mini-cart__navigation .product-quantity dd {
   color: var(--color-price);
 }
+
+.mini-cart__navigation .cart-item__discount{
+  margin-top: 1rem;
+}
+
+.mini-cart__navigation span.discount-name{
+  display: flex;
+  line-height: calc(1 + .5 / var(--font-body-scale));
+  font-family: var(--font-heading-family);
+  font-size: 1.2rem;
+  color: rgba(var(--color-foreground), .7);
+}
+.mini-cart__navigation svg.icon.icon-discount{
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-inline-end: .5rem;
+}
+
+
 .mini-cart__navigation .price bdi {
   font-size: 1.6rem;
 }

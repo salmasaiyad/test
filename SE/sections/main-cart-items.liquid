@@ -1,3 +1,5 @@
+{% assign cartSamples = collections['cart-samples'] %}
+
 <div id="freegifts-main-page-container" class="freegifts-main-container"></div> 
  {%- liquid
   if linklists.gift-wrapping.links.size > 0 and linklists.gift-wrapping.links.first.type == 'product_link'
@@ -35,6 +37,10 @@
 {{ 'component-price.css' | asset_url | stylesheet_tag }}
 {{ 'component-discounts.css' | asset_url | stylesheet_tag }}
 {{ 'component-loading-overlay.css' | asset_url | stylesheet_tag }}
+
+{% for product in cartSamples.products %}
+      <div class="cart-sample-product" data-product-id="{{ product.selected_or_first_available_variant.id }}" style="display: none;"></div>
+    {% endfor %}
 
 <cart-items class="page-width{% if cart == empty %} is-empty{% endif %} section-{{ section.id }}-padding">
   <div class="title-wrapper">

@@ -1,1 +1,545 @@
-{"sections":{"empty-space":{"type":"empty-space","settings":{"desktop_height":8,"mobile_height":0}},"main":{"type":"main-product","blocks":{"breadcrumb":{"type":"breadcrumb","settings":{"text_style":"uppercase","show_divider":true}},"vendor":{"type":"text","disabled":true,"settings":{"icon":"none","text":"{{ product.vendor }}","text_style":"uppercase"}},"title":{"type":"title","settings":{"title_size":"h2"}},"rating":{"type":"rating","disabled":true,"settings":{}},"variant_picker":{"type":"variant_picker","disabled":true,"settings":{"show_variant_labels":false,"picker_type":"button","enable_color_swatches":true,"swatch_type":"round","size_chart":""}},"price":{"type":"price","settings":{}},"countdown":{"type":"countdown","settings":{"heading":"Hurry up ! Sale end in:","number_size":"compact","colors_heading":"#da3f3f","colors_text":"#da3f3f","colors_background":"#ffeeee"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_quantity_selector":true,"show_dynamic_checkout":false}},"c8df9869-c421-4ed0-8598-06fc64e25806":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Betalsatt_SE.png","height":28,"link":""}},"description":{"type":"description","settings":{}},"b614a68f-4156-4bff-8e3c-ae66b38cb10a":{"type":"collapsible_tab","settings":{"icon":"none","heading":"PRODUKTSPECIFIKATION","content":"<p>- Tillverkad med högkvalitativ silikon och ett av få glidmedel godkända av FDA<\/p><p>- Skadar inte vaginalväggen eller pH-balansen<\/p><p>- Endast några droppar behövs för glid och komfort<\/p><p>- Ger en mjuk, återfuktad känsla<\/p><p>- Tillverkad i Svergie<\/p><p>- 100% vegan<\/p>","page":""}},"collapsible_tab-0":{"type":"collapsible_tab","settings":{"icon":"none","heading":"ANVÄNDNING","content":"<p>Pumpa några droppar och applicera på huden. Använd inte med andra silikonprodukter. Kompatibel med naturgummilatex, polyisopren och polyuretankondomer.<\/p>","page":""}},"collapsible_tab-1":{"type":"collapsible_tab","settings":{"icon":"none","heading":"INGREDIENSER","content":"<p>Dimeticone, Cyclopentasiloxane,<br\/>Dimethiconol, Phenyl Trimeticone.<\/p>","page":""}},"share":{"type":"share","settings":{}},"related_buttons":{"type":"related_buttons","disabled":true,"settings":{"show_icons":false}},"sticky_cart":{"type":"sticky_cart","settings":{"show_quantity_selector":false}}},"block_order":["breadcrumb","vendor","title","rating","variant_picker","price","countdown","buy_buttons","c8df9869-c421-4ed0-8598-06fc64e25806","description","b614a68f-4156-4bff-8e3c-ae66b38cb10a","collapsible_tab-0","collapsible_tab-1","share","related_buttons","sticky_cart"],"settings":{"enable_sticky_info":true,"media_size":"small","gallery_layout":"thumbnail_slider","image_ratio":"adapt","show_thumbnails":true,"hide_variants":true,"enable_image_zoom":true,"enable_video_looping":false,"mobile_image_ratio":"adapt_first","show_mobile_thumbnails":true,"padding_top":0,"padding_bottom":36}},"product-recommendations":{"type":"product-recommendations","settings":{"heading":"Addera till din intimvård","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"guarantees":{"type":"guarantees","blocks":{"guarantee-2":{"type":"guarantee","settings":{"icon":"clipboard","title":"Vetenskapligt baserat","title_size":"h4","text":""}},"guarantee-1":{"type":"guarantee","settings":{"icon":"heart","title":"Utvecklat av gynekologer","title_size":"h4","text":""}},"guarantee-3":{"type":"guarantee","settings":{"icon":"globe","title":"Tillverkat i Sverige","title_size":"h4","text":""}},"guarantee-0":{"type":"guarantee","settings":{"icon":"leaf","title":"100% Veganskt","title_size":"h4","text":""}}},"block_order":["guarantee-2","guarantee-1","guarantee-3","guarantee-0"],"settings":{"heading":"","heading_size":"h1","layout":"default","column_alignment":"center","secondary_background":false,"full_width":false,"show_divider":false,"columns_mobile":"2","padding_top":36,"padding_bottom":36}},"1658133913d28abc37":{"type":"image-with-text","blocks":{"1658133913405b7b25-0":{"type":"heading","settings":{"heading":"Doktorn Tipsar","heading_size":"h1"}},"1658133913405b7b25-1":{"type":"text","settings":{"text":"<p><em>\"Är vatten- eller silikonbaserat glidmedel det bästa alternativet för den vaginala hälsan? Baserat på studier ser vi att silikonbaserat glidmedel är det bästa alternativet. <\/em><\/p><p><em>Förklaringen är denna: Bakterier kan växa i produkter som innehåller vatten. För att förhindra en eventuell bakterietillväxt tillsätts av den anledningen konserveringsmedel i alla produkter som innehåller vatten, inklusive vattenbaserade glidmedel. <\/em><\/p><p><em>I vaginan har vi \"goda\" (Lactobacillus) bakterier som är viktiga för att upprätthålla vaginans pH-balans. När vattenbaserade glidmedel används kan däremot de goda bakterierna i vaginan förstöras, vilket kan leda till en rubbad pH-balans med infektioner som följd. Ett silikonbaserat glidmedel däremot, innehåller inget vatten och kräver heller inget konserveringsmedel. Ett silikonbaserat glidmedel har därför inte förmågan att rubba pH-balansen eftersom de \"goda\" (Lactobacillus) bakterierna inne i vaginan inte förstörs.\"<\/em><br\/><br\/><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>","text_size":"typeset2","secondary_color":false}},"1658133913405b7b25-2":{"type":"button","disabled":true,"settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["1658133913405b7b25-0","1658133913405b7b25-1","1658133913405b7b25-2"],"settings":{"image":"shopify:\/\/shop_images\/IMG_7842_decabf4a-a27b-4b26-bc58-05e3429a360d.jpg","image_position":"center center","layout":"image_first","text_box_position":"middle","text_alignment":"left","image_ratio":"650px","full_width":false,"show_divider":false,"mobile_text_alignment":"left","mobile_image_ratio":"auto","padding_top":36,"padding_bottom":36}},"multicolumn":{"type":"multicolumn","blocks":{"column-0":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Skarmavbild_2022-10-13_kl._15.21.52.png","title":"Steg 1","title_size":"h3","text":"<p>Pumpa några droppar i din hand.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-1":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Skarmavbild_2022-10-13_kl._15.22.01.png","title":"Steg 2","title_size":"h3","text":"<p>Applicera på huden.<\/p>","button_label":"","button_link":"","button_style_secondary":false}},"column-2":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/lube_on_pink.jpg","title":"Steg 3","title_size":"h3","text":"<p>Använd inte med andra silikonprodukter. Kompatibel med naturgummilatex, polyisopren och polyuretankondomer.<\/p>","button_label":"","button_link":"","button_style_secondary":false}}},"block_order":["column-0","column-1","column-2"],"disabled":true,"settings":{"heading":"Användning","heading_size":"h2","image_ratio":"square","image_position":"top center","text_alignment":"left","show_divider":false,"mobile_text_alignment":"left","columns_mobile":"1","swipe_on_mobile":true,"padding_top":36,"padding_bottom":36}},"product-details":{"type":"product-details","blocks":{"product-details-0":{"type":"description","disabled":true,"settings":{"heading":""}},"product-details-1":{"type":"collapsible_tab","settings":{"heading":"1. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-2":{"type":"collapsible_tab","settings":{"heading":"2. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}},"product-details-3":{"type":"collapsible_tab","settings":{"heading":"3. Collapsible tab","content":"<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>","page":""}}},"block_order":["product-details-0","product-details-1","product-details-2","product-details-3"],"disabled":true,"settings":{"heading":"Collapsible tabs","heading_size":"h2","padding_top":36,"padding_bottom":36}},"4c88c798-7873-434d-b2d0-5b745a31f37c":{"type":"faq","blocks":{"template--15426236579996__4c88c798-7873-434d-b2d0-5b745a31f37c-166619039393a80d2f-0":{"type":"question","settings":{"title":"Frequently asked question","text":"<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"}},"template--15426236579996__4c88c798-7873-434d-b2d0-5b745a31f37c-166619039393a80d2f-1":{"type":"question","settings":{"title":"Frequently asked question","text":"<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"}}},"block_order":["template--15426236579996__4c88c798-7873-434d-b2d0-5b745a31f37c-166619039393a80d2f-0","template--15426236579996__4c88c798-7873-434d-b2d0-5b745a31f37c-166619039393a80d2f-1"],"disabled":true,"settings":{"heading":"FAQs","heading_size":"h2","narrow":true,"secondary_background":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"170653710248639f18":{"type":"apps","blocks":{"loox_reviews_loox_dynamic_section_cmX8fj":{"type":"shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e","settings":{"only_photos":false,"aggregated":false,"limit":20,"hide_thumbnails":false,"maxwidth":1080}}},"block_order":["loox_reviews_loox_dynamic_section_cmX8fj"],"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}},"recently-viewed-products":{"type":"recently-viewed-products","disabled":true,"settings":{"heading":"Nyligen visade produkter","heading_size":"h2","show_divider":false,"columns_mobile":"2","swipe_on_mobile":true,"image_ratio":"portrait","image_position":"center center","enable_image_fill":true,"show_secondary_image":true,"show_vendor":false,"show_rating":false,"show_quick_buy":true,"enable_quick_view":true,"enable_color_swatches":true,"enable_countdown":true,"padding_top":36,"padding_bottom":36}},"99d7d42d-c7e1-4828-a2d2-68ec2d7d5620":{"type":"faq","blocks":{"template--15426236579996__99d7d42d-c7e1-4828-a2d2-68ec2d7d5620-16684199139adbd0fa-0":{"type":"question","settings":{"title":"ÄR DEODOCS PRODUKTER SÄKRA?","text":"<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter. <\/p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<\/p><p>- Produkterna är även dermatologiskt testade för känslig hud.<\/p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<\/p>"}},"template--15426236579996__99d7d42d-c7e1-4828-a2d2-68ec2d7d5620-16684199139adbd0fa-1":{"type":"question","settings":{"title":"ÄR DEODOCS PRODUKTER VEGANSKA?","text":"<p>Ja.<\/p>"}},"4b06f40a-240a-40b7-a913-ed6c1959c83e":{"type":"question","settings":{"title":"Passar produkterna till känslig hy?","text":"<p>Ja, vårt glidmedel är framtagen med vaginans välmående i fokus innehåller därför inte vatten och konserveringsmedel för att inte rubba vaginans naturliga pH-balans.<\/p>"}}},"block_order":["template--15426236579996__99d7d42d-c7e1-4828-a2d2-68ec2d7d5620-16684199139adbd0fa-0","template--15426236579996__99d7d42d-c7e1-4828-a2d2-68ec2d7d5620-16684199139adbd0fa-1","4b06f40a-240a-40b7-a913-ed6c1959c83e"],"settings":{"heading":"FAQs","heading_size":"h2","narrow":true,"secondary_background":false,"show_divider":false,"padding_top":36,"padding_bottom":36}},"166619040107cda9e6":{"type":"apps","blocks":{"13c8763d-73f1-492e-81d3-ca14b60e41ed":{"type":"shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f","settings":{}}},"block_order":["13c8763d-73f1-492e-81d3-ca14b60e41ed"],"disabled":true,"settings":{"include_margins":true,"show_divider":false,"padding_top":36,"padding_bottom":36}}},"order":["empty-space","main","product-recommendations","guarantees","1658133913d28abc37","multicolumn","product-details","4c88c798-7873-434d-b2d0-5b745a31f37c","170653710248639f18","recently-viewed-products","99d7d42d-c7e1-4828-a2d2-68ec2d7d5620","166619040107cda9e6"]}
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 8,
+        "mobile_height": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": true
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "show_variant_labels": false,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false
+          }
+        },
+        "c8df9869-c421-4ed0-8598-06fc64e25806": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betalsatt_SE.png",
+            "height": 28,
+            "link": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "PRODUKTSPECIFIKATION",
+            "content": "<p>- Tillverkad med högkvalitativ silikon och ett av få glidmedel godkända av FDA<\/p><p>- Skadar inte vaginalväggen eller pH-balansen<\/p><p>- Endast några droppar behövs för glid och komfort<\/p><p>- Ger en mjuk, återfuktad känsla<\/p><p>- 100% vegan<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "ANVÄNDNING",
+            "content": "<p>Pumpa några droppar och applicera på huden. Använd inte med andra silikonprodukter. Kompatibel med naturgummilatex, polyisopren och polyuretankondomer.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "INGREDIENSER",
+            "content": "<p>Dimeticone, Cyclopentasiloxane,<br\/>Dimethiconol, Phenyl Trimeticone.<\/p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb",
+        "vendor",
+        "title",
+        "rating",
+        "variant_picker",
+        "price",
+        "countdown",
+        "buy_buttons",
+        "c8df9869-c421-4ed0-8598-06fc64e25806",
+        "description",
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "share",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "clipboard",
+            "title": "Vetenskapligt baserat",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "title": "Utvecklat av gynekologer",
+            "title_size": "h4",
+            "text": ""
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "title": "100% Veganskt",
+            "title_size": "h4",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "default",
+        "column_alignment": "center",
+        "secondary_background": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658133913d28abc37": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658133913405b7b25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doktorn Tipsar",
+            "heading_size": "h1"
+          }
+        },
+        "1658133913405b7b25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>\"Är vatten- eller silikonbaserat glidmedel det bästa alternativet för den vaginala hälsan? Baserat på studier ser vi att silikonbaserat glidmedel är det bästa alternativet. <\/em><\/p><p><em>Förklaringen är denna: Bakterier kan växa i produkter som innehåller vatten. För att förhindra en eventuell bakterietillväxt tillsätts av den anledningen konserveringsmedel i alla produkter som innehåller vatten, inklusive vattenbaserade glidmedel. <\/em><\/p><p><em>I vaginan har vi \"goda\" (Lactobacillus) bakterier som är viktiga för att upprätthålla vaginans pH-balans. När vattenbaserade glidmedel används kan däremot de goda bakterierna i vaginan förstöras, vilket kan leda till en rubbad pH-balans med infektioner som följd. Ett silikonbaserat glidmedel däremot, innehåller inget vatten och kräver heller inget konserveringsmedel. Ett silikonbaserat glidmedel har därför inte förmågan att rubba pH-balansen eftersom de \"goda\" (Lactobacillus) bakterierna inne i vaginan inte förstörs.\"<\/em><br\/><br\/><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "1658133913405b7b25-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658133913405b7b25-0",
+        "1658133913405b7b25-1",
+        "1658133913405b7b25-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_7842_decabf4a-a27b-4b26-bc58-05e3429a360d.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-10-13_kl._15.21.52.png",
+            "title": "Steg 1",
+            "title_size": "h3",
+            "text": "<p>Pumpa några droppar i din hand.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-10-13_kl._15.22.01.png",
+            "title": "Steg 2",
+            "title_size": "h3",
+            "text": "<p>Applicera på huden.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lube_on_pink.jpg",
+            "title": "Steg 3",
+            "title_size": "h3",
+            "text": "<p>Använd inte med andra silikonprodukter. Kompatibel med naturgummilatex, polyisopren och polyuretankondomer.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Användning",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_position": "top center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-details": {
+      "type": "product-details",
+      "blocks": {
+        "product-details-0": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "product-details-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "page": ""
+          }
+        },
+        "product-details-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "page": ""
+          }
+        },
+        "product-details-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "product-details-0",
+        "product-details-1",
+        "product-details-2",
+        "product-details-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Collapsible tabs",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4c88c798-7873-434d-b2d0-5b745a31f37c": {
+      "type": "faq",
+      "blocks": {
+        "template--15426236579996__4c88c798-7873-434d-b2d0-5b745a31f37c-166619039393a80d2f-0": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        },
+        "template--15426236579996__4c88c798-7873-434d-b2d0-5b745a31f37c-166619039393a80d2f-1": {
+          "type": "question",
+          "settings": {
+            "title": "Frequently asked question",
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15426236579996__4c88c798-7873-434d-b2d0-5b745a31f37c-166619039393a80d2f-0",
+        "template--15426236579996__4c88c798-7873-434d-b2d0-5b745a31f37c-166619039393a80d2f-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "170653710248639f18": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_cmX8fj": {
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080,
+            "is_sample": true
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_cmX8fj"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Nyligen visade produkter",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "99d7d42d-c7e1-4828-a2d2-68ec2d7d5620": {
+      "type": "faq",
+      "blocks": {
+        "template--15426236579996__99d7d42d-c7e1-4828-a2d2-68ec2d7d5620-16684199139adbd0fa-0": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DEODOCS PRODUKTER SÄKRA?",
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter. <\/p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<\/p><p>- Produkterna är även dermatologiskt testade för känslig hud.<\/p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<\/p>"
+          }
+        },
+        "template--15426236579996__99d7d42d-c7e1-4828-a2d2-68ec2d7d5620-16684199139adbd0fa-1": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DEODOCS PRODUKTER VEGANSKA?",
+            "text": "<p>Ja.<\/p>"
+          }
+        },
+        "4b06f40a-240a-40b7-a913-ed6c1959c83e": {
+          "type": "question",
+          "settings": {
+            "title": "Passar produkterna till känslig hy?",
+            "text": "<p>Ja, vårt glidmedel är framtagen med vaginans välmående i fokus innehåller därför inte vatten och konserveringsmedel för att inte rubba vaginans naturliga pH-balans.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15426236579996__99d7d42d-c7e1-4828-a2d2-68ec2d7d5620-16684199139adbd0fa-0",
+        "template--15426236579996__99d7d42d-c7e1-4828-a2d2-68ec2d7d5620-16684199139adbd0fa-1",
+        "4b06f40a-240a-40b7-a913-ed6c1959c83e"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "166619040107cda9e6": {
+      "type": "apps",
+      "blocks": {
+        "13c8763d-73f1-492e-81d3-ca14b60e41ed": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "13c8763d-73f1-492e-81d3-ca14b60e41ed"
+      ],
+      "disabled": true,
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Addera till din intimvård",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "guarantees",
+    "1658133913d28abc37",
+    "multicolumn",
+    "product-details",
+    "4c88c798-7873-434d-b2d0-5b745a31f37c",
+    "170653710248639f18",
+    "recently-viewed-products",
+    "99d7d42d-c7e1-4828-a2d2-68ec2d7d5620",
+    "166619040107cda9e6",
+    "product-recommendations"
+  ]
+}

@@ -191,15 +191,6 @@
             "text": ""
           }
         },
-        "guarantee-3": {
-          "type": "guarantee",
-          "settings": {
-            "icon": "globe",
-            "title": "Tillverkat i Sverige",
-            "title_size": "h4",
-            "text": ""
-          }
-        },
         "guarantee-0": {
           "type": "guarantee",
           "settings": {
@@ -213,7 +204,6 @@
       "block_order": [
         "guarantee-2",
         "guarantee-1",
-        "guarantee-3",
         "guarantee-0"
       ],
       "settings": {
