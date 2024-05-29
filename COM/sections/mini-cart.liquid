@@ -22,14 +22,57 @@
 
 <form class="mini-cart{% if cart == empty %} is-empty{% endif %}" action="{{ routes.cart_url }}" method="post" id="cart" data-ga4-onsubmit='{{ checkoutStartedEvent }}'>
   <div class="mini-cart__inner">
-    <div class="mini-cart__header visually-hidden">
+    <div class="mini-cart__header">
       <h2 class="title h4">{{ 'sections.cart.title' | t }}</h2>
     </div>
+    {%- if settings.show_free_shipping_message and settings.free_shipping_minimum_amount != blank -%}
+        {%- liquid
+          assign free_shipping_minimum_amounts = settings.free_shipping_minimum_amount | remove: ' ' | split: ','
+          assign show_free_shipping_message = false
+
+          if free_shipping_minimum_amounts.size > 1
+            for minimum_amount in free_shipping_minimum_amounts
+              assign minimum_amount_parts = minimum_amount | split: ':'
+              assign currency_code = minimum_amount_parts | first | upcase
+              if currency_code == cart.currency.iso_code
+                assign free_shipping_minimum_amount = minimum_amount_parts | last
+                assign show_free_shipping_message = true
+                break
+              endif
+            endfor
+          else
+            assign free_shipping_minimum_amount = free_shipping_minimum_amounts | last
+            assign show_free_shipping_message = true
+          endif
+        -%}
+
+        {%- if show_free_shipping_message -%}
+          {%- assign minimum_amount_in_cents = free_shipping_minimum_amount | times: 100 -%}
+
+          <div class="free-shipping{% if cart.total_price >= minimum_amount_in_cents %} free-shipping--success{% endif %}">
+            {%- if cart.total_price >= minimum_amount_in_cents -%}
+              <span class="free-shipping__text free-shipping__text--success">{{ 'general.cart.free_shipping.congratulations_html' | t }}</span>
+            {%- else -%}
+              {%- capture remaining_amount -%}<price-money class="price"><bdi>{{ cart.total_price | minus: minimum_amount_in_cents | abs | money }}</bdi></price-money>{%- endcapture -%}
+              <span class="free-shipping__text">{{ 'general.cart.free_shipping.remaining_html' | t: remaining_amount: remaining_amount }}</span>
+              
+              {%- capture progress_percent -%}{{ cart.total_price | times: 1.0 | divided_by: minimum_amount_in_cents | at_most: 1 | times: 100 | round }}%{%- endcapture -%}
+              <div class="free-shipping__progress" style="--progress: {{ progress_percent }};">
+                <!-- <span>{{ progress_percent }}</span> -->
+              </div>
+            {%- endif -%}
+          </div>
+        {%- endif -%}
+      {%- endif -%}
     <div class="mini-cart__empty" data-animate data-animate-delay-{{ animate_count }}>
       <h3 class="mini-cart__empty-text">{{ 'sections.cart.empty' | t }}</h3>
+      {% comment %}
       <a href="{{ routes.all_products_collection_url }}" class="button button--tertiary">{{ 'general.continue_shopping' | t }}</a>
+      {% endcomment %}
+      <a href="/collections/products" class="button button--tertiary">{{ 'general.continue_shopping' | t }}</a>
+      
     </div>
-    <div class="mini-cart__main" id="main-cart-items">
+    <div class="mini-cart__main" id="main-cart-items">      
       <cart-items>
         <ul class="mini-cart__navigation" data-animate data-animate-delay-{{ animate_count }}>
           {%- for item in cart.items -%}
@@ -47,7 +90,7 @@
             <div class="product-container{% unless item.image %} no-image{% endunless %}">
               {% if item.image %}
                 <div>
-                  <a href="{%- if item.product.type != "free_gift" -%}{{ item.url }}{% else %}#{%- endif -%}" class="product-image media-wrapper media-wrapper--small">
+                  <a href="{{ item.url }}" class="product-image media-wrapper media-wrapper--small">
                     <lazy-image class="media media--adapt"
                       style="--image-ratio-percent: {{ 1 | divided_by: item.image.aspect_ratio | times: 100 }}%;"
                     >
@@ -64,7 +107,7 @@
               {% endif %}
               <div class="product-description">
                 <div class="product-content">
-                  <a href="{%- if item.product.type != "free_gift" -%}{{ item.url }}{% else %}#{%- endif -%}" class="link product-title">{{ item.product.title }}</a>
+                  <a href="{{ item.url }}" class="link product-title">{{ item.product.title }}</a>
                   <p class="cart-item__error form__message errors" id="Line-item-error-{{ item.index | plus: 1 }}">
                     <span class="cart-item__error-text"></span>
                   </p>
@@ -119,6 +162,7 @@
                     <div class="product-option">{{ item.selling_plan_allocation.selling_plan.name }}</div>
                   {%- endif -%}
                 {%- endif -%}
+                {%- unless item.url contains "sample" -%}
                 {%- if item.product.type != "free_gift" -%}
                 <div class="product-quantity">
                   <dt>
@@ -172,17 +216,57 @@
                     {%- endif -%}
                   </dt>
                   <dd class="price">
-                    <price-money><bdi>{{ item.original_price | money }}</bdi></price-money>
+                    {% comment %} <price-money><bdi>{{ item.original_price | money }}</bdi></price-money> {% endcomment %}
+                    
+                    {%- unless item.url contains "sample" -%}
+                      <div class="cart-item__price-wrapper">
+                        {%- if item.original_price != item.final_price -%}
+                          <dl class="cart-item__discounted-prices">
+                            <dt class="visually-hidden">
+                              {{ 'products.product.price.regular_price' | t }}
+                            </dt>
+                            <dd class="price--on-sale">
+                              <s class="price price-item--regular price--end">
+                                <price-money><bdi>{{ item.original_price | money }}</bdi></price-money>
+                              </s>
+                            </dd>
+                            <dt class="visually-hidden">
+                              {{ 'products.product.price.sale_price' | t }}
+                            </dt>
+                            <dd class="price price--end">
+                              <price-money><bdi>{{ item.final_price | money }}</bdi></price-money>
+                            </dd>
+                          </dl>
+                        {%- else -%}
+                          <span class="price price--end">
+                            <price-money><bdi>{{ item.original_price | money }}</bdi></price-money>
+                          </span>
+                        {%- endif -%}
+  
+                        {%- if item.variant.available and item.unit_price_measurement -%}
+                          <div class="unit-price">
+                            <span class="visually-hidden">{{ 'products.product.price.unit_price' | t }}</span>
+                            <price-money><bdi>{{ item.variant.unit_price | money }}</bdi></price-money>
+                            <span aria-hidden="true">/</span>
+                            <span class="visually-hidden">&nbsp;{{ 'accessibility.unit_price_separator' | t }}&nbsp;</span>
+                            {%- if item.variant.unit_price_measurement.reference_value != 1 -%}
+                              {{- item.variant.unit_price_measurement.reference_value -}}
+                            {%- endif -%}
+                            {{ item.variant.unit_price_measurement.reference_unit }}
+                          </div>
+                        {%- endif -%}
+                      </div>
+                      {% endunless -%} 
                   </dd>
                 </div>
-                  {%- endif -%}
+                  {% endif %}
+                {%- endunless -%}
               </div>
             </div>
           </li>
           {%- endfor -%}
         </ul>
       </cart-items>
-    </div>
 
     {%- assign animate_count = animate_count | plus: 1 -%}
     <div class="mini-cart__footer" data-animate data-animate-delay-{{ animate_count }}>      
@@ -339,46 +423,6 @@
         </div>
       {%- endif -%}
       
-      {%- if settings.show_free_shipping_message and settings.free_shipping_minimum_amount != blank -%}
-        {%- liquid
-          assign free_shipping_minimum_amounts = settings.free_shipping_minimum_amount | remove: ' ' | split: ','
-          assign show_free_shipping_message = false
-
-          if free_shipping_minimum_amounts.size > 1
-            for minimum_amount in free_shipping_minimum_amounts
-              assign minimum_amount_parts = minimum_amount | split: ':'
-              assign currency_code = minimum_amount_parts | first | upcase
-              if currency_code == cart.currency.iso_code
-                assign free_shipping_minimum_amount = minimum_amount_parts | last
-                assign show_free_shipping_message = true
-                break
-              endif
-            endfor
-          else
-            assign free_shipping_minimum_amount = free_shipping_minimum_amounts | last
-            assign show_free_shipping_message = true
-          endif
-        -%}
-
-        {%- if show_free_shipping_message -%}
-          {%- assign minimum_amount_in_cents = free_shipping_minimum_amount | times: 100 -%}
-
-          <div class="free-shipping{% if cart.total_price >= minimum_amount_in_cents %} free-shipping--success{% endif %}">
-            {%- if cart.total_price >= minimum_amount_in_cents -%}
-              <span class="free-shipping__text free-shipping__text--success">{{ 'general.cart.free_shipping.congratulations_html' | t }}</span>
-            {%- else -%}
-              {%- capture remaining_amount -%}<price-money class="price"><bdi>{{ cart.total_price | minus: minimum_amount_in_cents | abs | money }}</bdi></price-money>{%- endcapture -%}
-              <span class="free-shipping__text">{{ 'general.cart.free_shipping.remaining_html' | t: remaining_amount: remaining_amount }}</span>
-              
-              {%- capture progress_percent -%}{{ cart.total_price | times: 1.0 | divided_by: minimum_amount_in_cents | at_most: 1 | times: 100 | round }}%{%- endcapture -%}
-              <div class="free-shipping__progress" style="--progress: {{ progress_percent }};">
-                <span>{{ progress_percent }}</span>
-              </div>
-            {%- endif -%}
-          </div>
-        {%- endif -%}
-      {%- endif -%}
-
       {%- unless show_free_shipping_message and settings.disable_view_cart -%}
         <div class="subtotal">
           <h3 class="label">{{ 'sections.cart.subtotal' | t }}</h3>
@@ -399,7 +443,7 @@
           </ul>
         {%- endif -%}
 
-        <small class="tax-note caption-large rte">
+        <!-- <small class="tax-note caption-large rte">
           {%- if cart.taxes_included and shop.shipping_policy.body != blank -%}
             {{ 'sections.cart.taxes_included_and_shipping_policy_html' | t: link: shop.shipping_policy.url }}
           {%- elsif cart.taxes_included -%}
@@ -409,7 +453,7 @@
           {%- else -%}
             {{ 'sections.cart.taxes_and_shipping_at_checkout' | t }}
           {%- endif -%}
-        </small>
+        </small> -->
       </div>
       <div class="button-container">
         <button class="button" name="checkout" type="submit">
@@ -466,3 +510,7 @@
     </ul>
   </cart-recommendations>
 {%- endif -%}
+  
+    </div>
+
+    

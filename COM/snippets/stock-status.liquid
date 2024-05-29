@@ -1,6 +1,7 @@
 {% if product.selected_or_first_available_variant.inventory_quantity > 0 %}
+  {% assign count = product.selected_or_first_available_variant.inventory_quantity %}
     <div class="stock-status" {% if product.selected_or_first_available_variant.inventory_quantity > 25 %}style="display:none"{% endif %}>
-        Only <span class="stock-left">{{ product.selected_or_first_available_variant.inventory_quantity }}</span> left in stock
+      {% echo 'products.product.inventory.few_in_stock_html' | t: count: count %}      
     </div>
     <script>
         document.addEventListener("DOMContentLoaded", function(event) {

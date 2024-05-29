@@ -50,7 +50,7 @@
         "template--15679215141020__acb3ff06-5131-4d68-ad0c-f98aadbad6e3-1669131050bd0b90a6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Det finns olika faktorer till varför lukt uppkommer från intimområdet, här är några av de vanligaste orsakerna:</p>",
+            "text": "<p>Det finns olika faktorer till varför lukt uppkommer från intimområdet, här är några av de vanligaste orsakerna:<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -82,7 +82,7 @@
         "template--15679215141020__71ce5fc6-cf1e-4036-b86f-d4b317e83811-1669131050bd0b90a6-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Flytningar är helt normalt och de bidrar till att hålla slemhinnorna i vaginan fuktiga. De skyddar också mot infektioner och är det sätt som vaginan rengör sig själv på. En normal flytning är oftast vit/genomskinlig och har en lätt syrlig lukt. Om du märker att dina flytningar börjar lukta annorlunda, eller om din flytning ändrar textur eller färg kan detta tyda på en infektion. Då rekommenderar vi att du pratar med din gynekolog.</p>",
+            "text": "<p>Flytningar är helt normalt och de bidrar till att hålla slemhinnorna i vaginan fuktiga. De skyddar också mot infektioner och är det sätt som vaginan rengör sig själv på. En normal flytning är oftast vit\/genomskinlig och har en lätt syrlig lukt. Om du märker att dina flytningar börjar lukta annorlunda, eller om din flytning ändrar textur eller färg kan detta tyda på en infektion. Då rekommenderar vi att du pratar med din gynekolog.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -124,7 +124,7 @@
         "template--15679057297564__7ea2723b-61de-4a13-b362-ca5a35f0c936-16691281729783c40c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Upptäck våra Meno Care produkter <a href=\"https://se.deodoc.se/collections/kategori-klimakteriet\">här</a>!</p>",
+            "text": "<p>Upptäck våra Meno Care produkter <a href=\"https:\/\/se.deodoc.se\/collections\/kategori-klimakteriet\">här<\/a>!<\/p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -145,7 +145,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/4_183ca347-e9b0-4f62-8bb8-014f714c88f1.png",
+        "image": "shopify:\/\/shop_images\/4_183ca347-e9b0-4f62-8bb8-014f714c88f1.png",
         "image_position": "center center",
         "text_box_position": "flex-start",
         "text_alignment": "left",
@@ -167,8 +167,8 @@
       "settings": {
         "heading": "",
         "heading_size": "h2",
-        "cover_image": "shopify://shop_images/Screenshot_2022-09-06_at_13.14.38.png",
-        "video_url": "https://www.youtube.com/watch?v=38NkKVDYyuw",
+        "cover_image": "shopify:\/\/shop_images\/Screenshot_2022-09-06_at_13.14.38.png",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=38NkKVDYyuw",
         "description": "",
         "full_width": false,
         "show_divider": false,
@@ -189,7 +189,7 @@
         "template--15682498101404__918e3f60-c956-43e0-bf9f-9022e3a5b87b-1669368454c62bd19d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Visste du att exakt samma svettkörtlar som finns i armhålan också finns i vulvan? Det är således normalt att svettas från vulvan och precis som i armhålan kan en lukt uppkomma. Svettning från armhålan och vulvan är helt normalt. Precis som det finns deodoranter för armhålan har DeoDocs läkarteam utvecklat intimdeodoranter, både för kvinnor och män. Våra intimdeodoranter är utvecklade med respekt för vulvans pH och känsliga hudområde. </p>",
+            "text": "<p>Visste du att exakt samma svettkörtlar som finns i armhålan också finns i vulvan? Det är således normalt att svettas från vulvan och precis som i armhålan kan en lukt uppkomma. Svettning från armhålan och vulvan är helt normalt. Precis som det finns deodoranter för armhålan har DeoDocs läkarteam utvecklat intimdeodoranter, både för kvinnor och män. Våra intimdeodoranter är utvecklade med respekt för vulvans pH och känsliga hudområde. <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -221,7 +221,7 @@
         "template--15682498101404__9ab0e020-3163-4804-9806-34c808b1e5c9-16693686983d900afe-1": {
           "type": "text",
           "settings": {
-            "text": "<p>En skonsam intimdeodorant som motverkar svett och lämnar en fräsch känsla hela dagen.<br/></p>",
+            "text": "<p>En skonsam intimdeodorant som motverkar svett och lämnar en fräsch känsla hela dagen.<br\/><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -230,7 +230,7 @@
           "type": "button",
           "settings": {
             "button_label": "Köp nu",
-            "button_link": "shopify://products/deosprays",
+            "button_link": "shopify:\/\/products\/deosprays",
             "button_style_secondary": false
           }
         }
@@ -241,7 +241,7 @@
         "template--15682498101404__9ab0e020-3163-4804-9806-34c808b1e5c9-16693686983d900afe-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/deospray_a41890c4-d8a0-41af-a847-3f1349fea66c.jpg",
+        "image": "shopify:\/\/shop_images\/deospray_a41890c4-d8a0-41af-a847-3f1349fea66c.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -268,7 +268,7 @@
         "template--15682498101404__d05a3dd5-431d-4b43-84b4-a54430c573d8-1669368454c62bd19d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>De yttre delarna av kvinnans könsorgan kallas för vulva och ska inte förväxlas med vaginan som är den inre kanalen. Till skillnad från vaginan är vulvan inte självrengörande. Urin och de apokrina svettkörtlar som finns i området kan bidra till en bakterietillväxt som kan orsaka lukt. Om du vill tvätta vulvan, behövs speciellt utvecklade produkter som bibehåller dess pH på 5.</p>",
+            "text": "<p>De yttre delarna av kvinnans könsorgan kallas för vulva och ska inte förväxlas med vaginan som är den inre kanalen. Till skillnad från vaginan är vulvan inte självrengörande. Urin och de apokrina svettkörtlar som finns i området kan bidra till en bakterietillväxt som kan orsaka lukt. Om du vill tvätta vulvan, behövs speciellt utvecklade produkter som bibehåller dess pH på 5.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -300,7 +300,7 @@
         "template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-1": {
           "type": "text",
           "settings": {
-            "text": "<p>“Apokrina svettkörtlar finns endast på två ställen på kroppen, i armhålorna och runt vulvan där de töms via hårsäckarna. Dessa svettkörtlar är inte termoreglerande som andra svettkörtlar - istället kännetecknas de av att de orsakar lukt.\"</p><p><strong>- Dr. Gunvor Ekman-Oderberg, M.D., PH.D</strong></p>",
+            "text": "<p>“Apokrina svettkörtlar finns endast på två ställen på kroppen, i armhålorna och runt vulvan där de töms via hårsäckarna. Dessa svettkörtlar är inte termoreglerande som andra svettkörtlar - istället kännetecknas de av att de orsakar lukt.\"<\/p><p><strong>- Dr. Gunvor Ekman-Oderberg, M.D., PH.D<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -321,7 +321,7 @@
         "template--15679215141020__4fb398e1-47f9-4733-9657-0f2248a3e4db-166913146936397543-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Doctors_Corner_-_Hedieh_och_Gunvor_0bf9500e-70fd-47f2-9885-66ca47c39b52.png",
+        "image": "shopify:\/\/shop_images\/Doctors_Corner_-_Hedieh_och_Gunvor_0bf9500e-70fd-47f2-9885-66ca47c39b52.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",

@@ -47,7 +47,7 @@
           }
         },
         "ba5cd278-7250-4188-9f4c-4106e5d08914": {
-          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
           "settings": {
             "product": "{{product}}"
           }
@@ -72,7 +72,7 @@
         "ab8fb7f3-7433-4be2-b56b-689e948fac2a": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/test_4_4000_x_300_px.png",
+            "image": "shopify:\/\/shop_images\/test_4_4000_x_300_px.png",
             "height": 26,
             "link": ""
           }
@@ -86,7 +86,7 @@
           "settings": {
             "icon": "none",
             "heading": "specifications",
-            "content": "<p>-Developed by women doctors and gynecologists</p><p>-Gynecologically and dermatologically tested</p><p>-Free from allergens, alcohol and parabens</p><p>-Made in Sweden</p><p>-100% vegan</p>",
+            "content": "<p>-Developed by women doctors and gynecologists<\/p><p>-Gynecologically and dermatologically tested<\/p><p>-Free from allergens, alcohol and parabens<\/p><p>-Made in Sweden<\/p><p>-100% vegan<\/p>",
             "page": ""
           }
         },
@@ -95,7 +95,7 @@
           "settings": {
             "icon": "none",
             "heading": "How to use",
-            "content": "<p>For external use only. Remove the wipe from the foil package, unfold and gently wipe from front to back. Use each wipe only once, then throw away. Do not flush.</p>",
+            "content": "<p>For external use only. Remove the wipe from the foil package, unfold and gently wipe from front to back. Use each wipe only once, then throw away. Do not flush.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -104,7 +104,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingredients",
-            "content": "<p>Water (Aqua), Zea Mays Starch, Diethylhexyl Carbonate, Olea Europaea Fruit Oil, Aluminum Starch Octenylsuccinate, Steareth-2, Steareth-21, PPG-15 Stearyl Ether, Aloe Barbadensis Leaf Juice Powder, Tocopheryl Acetate, Allantoin, Phenoxyethanol, Fragrance (Parfum).</p>",
+            "content": "<p>Water (Aqua), Zea Mays Starch, Diethylhexyl Carbonate, Olea Europaea Fruit Oil, Aluminum Starch Octenylsuccinate, Steareth-2, Steareth-21, PPG-15 Stearyl Ether, Aloe Barbadensis Leaf Juice Powder, Tocopheryl Acetate, Allantoin, Phenoxyethanol, Fragrance (Parfum).<\/p>",
             "page": ""
           }
         },
@@ -113,7 +113,7 @@
           "settings": {
             "icon": "none",
             "heading": "Scents",
-            "content": "<p><strong>Jasmine Pear:</strong> Calming scent with hints of pear & subtle floral notes</p><p><strong>Fresh Coconut:</strong> A sweet yet tropical blend of creamy coconut</p><p><strong>Violet Cotton:</strong> Fresh & clean aroma with warm cotton notes</p>",
+            "content": "<p><strong>Jasmine Pear:<\/strong> Calming scent with hints of pear & subtle floral notes<\/p><p><strong>Fresh Coconut:<\/strong> A sweet yet tropical blend of creamy coconut<\/p><p><strong>Violet Cotton:<\/strong> Fresh & clean aroma with warm cotton notes<\/p>",
             "page": ""
           }
         },
@@ -252,7 +252,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"The intimate skin can not be treated like the rest of the skin on your body as it has such a delicate ecosystem that can easily be thrown out of balance. Our Intimate Wipes are developed to safely cleanse on-the-go with no irritants, allergens, alcohol or essential oils.\"</em><br/><br/><strong>-Dr. Gunvor Ekman-Ordeberg, OB/GYN, MD.,PhD. </strong></p>",
+            "text": "<p><em>\"The intimate skin can not be treated like the rest of the skin on your body as it has such a delicate ecosystem that can easily be thrown out of balance. Our Intimate Wipes are developed to safely cleanse on-the-go with no irritants, allergens, alcohol or essential oils.\"<\/em><br\/><br\/><strong>-Dr. Gunvor Ekman-Ordeberg, OB\/GYN, MD.,PhD. <\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -273,7 +273,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_7822.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7822.jpg",
         "image_position": "bottom center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -293,10 +293,10 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Skarmavbild_2022-10-18_kl._09.21.56.png",
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-10-18_kl._09.21.56.png",
             "title": "Step 1",
             "title_size": "h3",
-            "text": "<p>Open package.</p>",
+            "text": "<p>Open package.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -305,10 +305,10 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Skarmavbild_2022-10-18_kl._09.22.25.png",
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-10-18_kl._09.22.25.png",
             "title": "Step 2",
             "title_size": "h3",
-            "text": "<p>Remove the wipe from the foil package.</p>",
+            "text": "<p>Remove the wipe from the foil package.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -317,10 +317,10 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Skarmavbild_2022-10-18_kl._09.22.12.png",
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-10-18_kl._09.22.12.png",
             "title": "Step 3",
             "title_size": "h3",
-            "text": "<p>Gently wipe from front to back.</p>",
+            "text": "<p>Gently wipe from front to back.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -362,7 +362,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -383,7 +383,7 @@
         "template--15103162613896__d04f2ae3-df32-4d24-8576-f41bacc2f810-1674221242b05e2a2b-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Wipes_baec8889-3ba1-483b-b8f8-37680d3c4eb0.jpg",
+        "image": "shopify:\/\/shop_images\/Wipes_baec8889-3ba1-483b-b8f8-37680d3c4eb0.jpg",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -417,7 +417,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -438,7 +438,7 @@
         "template--15103162613896__c69ae050-e980-4c19-8833-2fb1b797f8cc-1674221242b05e2a2b-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/FINAL-01_911900f2-2ca9-439e-b013-b0139be60717.jpg",
+        "image": "shopify:\/\/shop_images\/FINAL-01_911900f2-2ca9-439e-b013-b0139be60717.jpg",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -471,7 +471,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -479,7 +479,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -487,7 +487,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -513,35 +513,35 @@
           "type": "question",
           "settings": {
             "title": "ARE DEODOC'S PRODUCTS SAFE TO USE?",
-            "text": "<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br/><br/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br/><br/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br/><br/>- Products are dermatologically tested for sensitive skin<br/><br/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg</p>"
+            "text": "<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br\/><br\/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br\/><br\/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br\/><br\/>- Products are dermatologically tested for sensitive skin<br\/><br\/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg<\/p>"
           }
         },
         "template--15103162613896__88556682-752e-4736-8283-1e961ce752eb-1665670847fe8604af-1": {
           "type": "question",
           "settings": {
             "title": "WHY DO YOUR PRODUCTS CONTAIN PERFUME?",
-            "text": "<p>DeoDoc only uses hypoallergenic scents/perfumes in all of our products. Hypoallergenic scents are free from alcohol, allergens and irritants, therefore, they are safe for intimate skin.<br/><br/>Regular perfume should never be used in the intimate area as it contains:<br/><br/>- alcohol which can have a dehydrating effect<br/><br/>- allergens that can cause irritation</p>"
+            "text": "<p>DeoDoc only uses hypoallergenic scents\/perfumes in all of our products. Hypoallergenic scents are free from alcohol, allergens and irritants, therefore, they are safe for intimate skin.<br\/><br\/>Regular perfume should never be used in the intimate area as it contains:<br\/><br\/>- alcohol which can have a dehydrating effect<br\/><br\/>- allergens that can cause irritation<\/p>"
           }
         },
         "ea8b55a2-89c8-448a-94a4-0716edc16118": {
           "type": "question",
           "settings": {
             "title": "HOW MANY WIPES ARE IN A BOX?",
-            "text": "<p>The box contains 10 individually wrapped wipes.</p>"
+            "text": "<p>The box contains 10 individually wrapped wipes.<\/p>"
           }
         },
         "7138a86c-bf1e-4b6d-86c7-a1601e2894de": {
           "type": "question",
           "settings": {
             "title": "ARE DEODOC'S PRODUCTS VEGAN?",
-            "text": "<p>Yes.</p>"
+            "text": "<p>Yes.<\/p>"
           }
         },
         "123452ac-6d0a-453b-956d-73e3499fb15b": {
           "type": "question",
           "settings": {
             "title": "Is it suitable for sensitive skin?",
-            "text": "<p>Our Intimate Wipes are developed to safely cleanse on-the-go with no irritants, allergens, alcohol or essential oils.</p>"
+            "text": "<p>Our Intimate Wipes are developed to safely cleanse on-the-go with no irritants, allergens, alcohol or essential oils.<\/p>"
           }
         }
       },
@@ -589,7 +589,7 @@
       "type": "apps",
       "blocks": {
         "7d74ba91-d160-47a7-b4a7-e9a394c3a901": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
             "aggregated": false,

@@ -70,7 +70,7 @@
         "24a3fc94-543b-4f8b-a621-f71062e2d503": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Betalsatt_SE.png",
+            "image": "shopify:\/\/shop_images\/Betalsatt_SE.png",
             "height": 28,
             "link": ""
           }
@@ -84,7 +84,7 @@
           "settings": {
             "icon": "none",
             "heading": "PRODUKTSPECIFIKATION",
-            "content": "<p>- Utvecklad av kvinnliga läkare och gynekologer</p><p>- Gynekologiskt och dermatologiskt testad</p><p>- Kliniskt testad, hypoallergen</p><p>- Fri från plast, parfym, färgämnen, blekningsmedel, bekämpningsmedel och syntetiska material (viskos, cellulosa fiber)</p><p>- Tillverkad av 100% nedbrytbara material</p><p>- 100% vegansk</p><p>- FDA godkänd</p><p>- ICEA certifierad</p>",
+            "content": "<p>- Utvecklad av kvinnliga läkare och gynekologer<\/p><p>- Gynekologiskt och dermatologiskt testad<\/p><p>- Kliniskt testad, hypoallergen<\/p><p>- Fri från plast, parfym, färgämnen, blekningsmedel, bekämpningsmedel och syntetiska material (viskos, cellulosa fiber)<\/p><p>- Tillverkad av 100% nedbrytbara material<\/p><p>- 100% vegansk<\/p><p>- FDA godkänd<\/p><p>- ICEA certifierad<\/p>",
             "page": ""
           }
         },
@@ -93,7 +93,7 @@
           "settings": {
             "icon": "none",
             "heading": "ANVÄNDNING",
-            "content": "<p>Tvätta händer och öppna tampongen från pappersförpackningen. Placera försiktigt tampongen i vaginamynningen i en 45° vinkel. Tryck därefter underdelen av tampongen med pekfingret så att tampongen hamnar i rätt position i din vagina. Tvätta händerna.</p>",
+            "content": "<p>Tvätta händer och öppna tampongen från pappersförpackningen. Placera försiktigt tampongen i vaginamynningen i en 45° vinkel. Tryck därefter underdelen av tampongen med pekfingret så att tampongen hamnar i rätt position i din vagina. Tvätta händerna.<\/p>",
             "page": ""
           }
         },
@@ -102,7 +102,7 @@
           "settings": {
             "icon": "none",
             "heading": "INGREDIENSER",
-            "content": "<p>100% Ekologisk Bomull (är odlad utan bekämpningsmedel).</p>",
+            "content": "<p>100% Ekologisk Bomull (är odlad utan bekämpningsmedel).<\/p>",
             "page": ""
           }
         },
@@ -251,7 +251,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Studier visar att 15% av kvinnors besök till gynekologen är pga besvär orsakade av menstruationsprodukter. Då majoriteten av vanliga tamponger är tillverkade av syntetiskt framställda fibrer kan detta orsaka irritation. Dessutom kan även dessa tamponger fälla fibrer i vaginan, vilket också kan orsaka ytterligare besvär.  </em></p><p><em>Det finns visserligen tamponger i 100% bomull på marknaden, men eftersom dessa också fäller, valde vi att ta fram våra egna som inte fäller. Tack vare ett hölje i 100% ekologisk bomull förhindras fällning av fibrer.\"</em></p><p></p><p><strong>-Dr. Hedieh Asadi, leg läkare</strong></p>",
+            "text": "<p><em>\"Studier visar att 15% av kvinnors besök till gynekologen är pga besvär orsakade av menstruationsprodukter. Då majoriteten av vanliga tamponger är tillverkade av syntetiskt framställda fibrer kan detta orsaka irritation. Dessutom kan även dessa tamponger fälla fibrer i vaginan, vilket också kan orsaka ytterligare besvär.  <\/em><\/p><p><em>Det finns visserligen tamponger i 100% bomull på marknaden, men eftersom dessa också fäller, valde vi att ta fram våra egna som inte fäller. Tack vare ett hölje i 100% ekologisk bomull förhindras fällning av fibrer.\"<\/em><\/p><p><\/p><p><strong>-Dr. Hedieh Asadi, leg läkare<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -272,7 +272,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_8041_391abb58-1946-449d-b7d1-96df6502c7fa.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8041_391abb58-1946-449d-b7d1-96df6502c7fa.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -300,7 +300,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -308,7 +308,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -316,7 +316,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -341,10 +341,10 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/17_1dfbe13e-db24-4e1c-9564-05eb4bf0175e.png",
+            "image": "shopify:\/\/shop_images\/17_1dfbe13e-db24-4e1c-9564-05eb4bf0175e.png",
             "title": "Steg 1",
             "title_size": "h3",
-            "text": "<p>Öppna tampongen från pappersförpackningen.</p>",
+            "text": "<p>Öppna tampongen från pappersförpackningen.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -353,10 +353,10 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/23_c9b9e039-c96f-4493-838f-9c8b8a63bc2a.png",
+            "image": "shopify:\/\/shop_images\/23_c9b9e039-c96f-4493-838f-9c8b8a63bc2a.png",
             "title": "Steg 2",
             "title_size": "h3",
-            "text": "<p>Placera försiktigt tampongen i vaginamynningen i en 45° vinkel.</p>",
+            "text": "<p>Placera försiktigt tampongen i vaginamynningen i en 45° vinkel.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -365,10 +365,10 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/21_052ab43a-3a78-4a99-86b2-77d089cec918.png",
+            "image": "shopify:\/\/shop_images\/21_052ab43a-3a78-4a99-86b2-77d089cec918.png",
             "title": "Steg 3",
             "title_size": "h3",
-            "text": "<p>Tryck därefter underdelen av tampongen med pekfingret så att tampongen hamnar i rätt position i din vagina.</p>",
+            "text": "<p>Tryck därefter underdelen av tampongen med pekfingret så att tampongen hamnar i rätt position i din vagina.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -402,84 +402,84 @@
           "type": "question",
           "settings": {
             "title": "INNEHÅLLER DEODOCS TAMPONGER NÅGOT SYNTETISKT MATERIAL?",
-            "text": "<p>Nej. Tampongen och det skyddande höljet är tillverkad av 100% bomull. Tampongerna är gynekologiskt testade och allergenfria.</p>"
+            "text": "<p>Nej. Tampongen och det skyddande höljet är tillverkad av 100% bomull. Tampongerna är gynekologiskt testade och allergenfria.<\/p>"
           }
         },
         "template--15575470014620__cfe03971-b97d-494c-8b17-98c179b80760-16680742798de540ee-1": {
           "type": "question",
           "settings": {
             "title": "VAD BETYDER DET ATT TAMPONGERNA ÄR ICKE-IRRITERANDE?",
-            "text": "<p>De flesta tampongerna på marknaden är tillverkade av syntetiska material som kan irritera vaginan. De syntetiska materialen kan även släppa ifrån sig fibrer och orsaka ytterligare irritation.</p><p>Våra tamponger innehåller inte något syntetiskt material och är tillverkade av 100% bomull som inte släpper ifrån sig fibrer och irriterar vaginan.</p>"
+            "text": "<p>De flesta tampongerna på marknaden är tillverkade av syntetiska material som kan irritera vaginan. De syntetiska materialen kan även släppa ifrån sig fibrer och orsaka ytterligare irritation.<\/p><p>Våra tamponger innehåller inte något syntetiskt material och är tillverkade av 100% bomull som inte släpper ifrån sig fibrer och irriterar vaginan.<\/p>"
           }
         },
         "abac8659-cd78-41c1-97e4-52f7e608eaec": {
           "type": "question",
           "settings": {
             "title": "VARFÖR FÄLLER INTE TAMPONGEN?",
-            "text": "<p>Tampongen har ett skyddande hölje, som ett nät, som förhindrar att tampongen släpper fibrer.</p>"
+            "text": "<p>Tampongen har ett skyddande hölje, som ett nät, som förhindrar att tampongen släpper fibrer.<\/p>"
           }
         },
         "7002b821-762b-435e-a49d-554e23c9d532": {
           "type": "question",
           "settings": {
             "title": "HUR OFTA BÖR JAG BYTA TAMPONG?",
-            "text": "<p>Varje 4-8 timme är rekommenderat.</p>"
+            "text": "<p>Varje 4-8 timme är rekommenderat.<\/p>"
           }
         },
         "9a71cdaa-ef9e-4084-8ec1-9cb71fd1ab2f": {
           "type": "question",
           "settings": {
             "title": "KOMPROMISSAR MAN MED ABSORPTIONSFÖRMÅGA VID ANVÄNDNINGEN AV TAMPONGER I 100 % EKOLOGISK BOMULL?",
-            "text": "<p>Nej, absorptionsförmågan äventyras inte av att använda 100% ekologisk bomull.</p>"
+            "text": "<p>Nej, absorptionsförmågan äventyras inte av att använda 100% ekologisk bomull.<\/p>"
           }
         },
         "6ba9c836-b7bd-4d82-acea-f4ab4642fea6": {
           "type": "question",
           "settings": {
             "title": "KAN JAG SPOLA NER TAMPONGEN I TOALAETTEN?",
-            "text": "<p>Även fast tampongen är tillverkad av 100% bomull så ska den aldrig spolas ned i toaletten. Det tar flera månader för en tampong att brytas ner och de kan även orsaka stopp i rören då de expanderar vid kontakt med vatten.</p>"
+            "text": "<p>Även fast tampongen är tillverkad av 100% bomull så ska den aldrig spolas ned i toaletten. Det tar flera månader för en tampong att brytas ner och de kan även orsaka stopp i rören då de expanderar vid kontakt med vatten.<\/p>"
           }
         },
         "716339bf-3995-4211-a6f6-cc2baaca729a": {
           "type": "question",
           "settings": {
             "title": "ÄR TAMPONGEN VEGANSK?",
-            "text": "<p>Ja.</p>"
+            "text": "<p>Ja.<\/p>"
           }
         },
         "02e7775b-35af-421b-8d44-465c20f1cbcb": {
           "type": "question",
           "settings": {
             "title": "VAD BETYDER 100% BOMULL?",
-            "text": "<p>Att inga syntetiska material har använts och att hela tampongen är tillverkad av ekologisk bomull, även det skyddande höljet (som ofta är syntetisk) och snöret.</p>"
+            "text": "<p>Att inga syntetiska material har använts och att hela tampongen är tillverkad av ekologisk bomull, även det skyddande höljet (som ofta är syntetisk) och snöret.<\/p>"
           }
         },
         "10c2b576-599d-4273-836c-a23ce2e28bf0": {
           "type": "question",
           "settings": {
             "title": "VILKEN STORLEK FINNS PÅ TAMPONGERNA?",
-            "text": "<p>Regular flow - för lätta till rikliga.<br/>Super flow - för rikliga blödningar.</p>"
+            "text": "<p>Regular flow - för lätta till rikliga.<br\/>Super flow - för rikliga blödningar.<\/p>"
           }
         },
         "bdb8e9a9-29d8-4a75-95fb-f75851c544a9": {
           "type": "question",
           "settings": {
             "title": "HUR MÅNGA TAMPONGER ÄR DET I EN FÖRPACKNING?",
-            "text": "<p>Regular - 16 stycken.<br/>Super - 14 stycken.</p>"
+            "text": "<p>Regular - 16 stycken.<br\/>Super - 14 stycken.<\/p>"
           }
         },
         "df10be2e-1b5b-47dc-90c4-f5f01a2dbb0e": {
           "type": "question",
           "settings": {
             "title": "VAD STÅR ICEA FÖR?",
-            "text": "<p>ICEA står för Ethical and Environmental Certification Institute. ICEA övervakar och intygar företag som bedriver verksamhet med respekt för människor och miljö, vilket skyddar både arbetarnas värdighet och konsumenternas rättigheter. </p><p>Läs mer på //icea.bio/en/</p>"
+            "text": "<p>ICEA står för Ethical and Environmental Certification Institute. ICEA övervakar och intygar företag som bedriver verksamhet med respekt för människor och miljö, vilket skyddar både arbetarnas värdighet och konsumenternas rättigheter. <\/p><p>Läs mer på \/\/icea.bio\/en\/<\/p>"
           }
         },
         "6543d444-7dce-48ee-af44-25720dde1bc7": {
           "type": "question",
           "settings": {
             "title": "VAD BETYDER DET ATT MAN ÄR GOTS-CERTIFIERAD?",
-            "text": "<p>GOTS stands for Global Organic Textile Standard. The world's leading processing standard for textiles made from organic fibres. GOTS keeps a high-level environmental criteria and requires compliance with social criteria as well.</p><p>To learn more go to https://www.global-standard.org/Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "text": "<p>GOTS stands for Global Organic Textile Standard. The world's leading processing standard for textiles made from organic fibres. GOTS keeps a high-level environmental criteria and requires compliance with social criteria as well.<\/p><p>To learn more go to https:\/\/www.global-standard.org\/Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         },
         "75f8c7c1-cddd-4b50-a610-b947dad49334": {
@@ -487,21 +487,21 @@
           "disabled": true,
           "settings": {
             "title": "ÄR TAMPONGERNA GODKÄNDA AV FDA?",
-            "text": "<p>Ja.</p>"
+            "text": "<p>Ja.<\/p>"
           }
         },
         "e5681137-40e0-4e00-bdaf-a43940fa46d7": {
           "type": "question",
           "settings": {
             "title": "VAD BETYDER DET ATT NÅGOT ÄR KLINISKT TESTAT?",
-            "text": "<p>Att våra produkter har blivit testade i labb och är klassificerade som allergivänliga.</p>"
+            "text": "<p>Att våra produkter har blivit testade i labb och är klassificerade som allergivänliga.<\/p>"
           }
         },
         "9e33f8dc-c4f0-4181-acbd-9bb0d8fdd8cb": {
           "type": "question",
           "settings": {
             "title": "ÄR TAMPONGERNA ALLERGIVÄNLIGA?",
-            "text": "<p>Ja.</p>"
+            "text": "<p>Ja.<\/p>"
           }
         }
       },
@@ -561,8 +561,8 @@
       "settings": {
         "heading": "",
         "heading_size": "h2",
-        "cover_image": "shopify://shop_images/Vagina_1x1_5e37d66b-38f3-485e-a3bd-26fe9d18e164.png",
-        "video_url": "https://www.youtube.com/watch?v=KW_88s_aYHs&list=PLg4HfZ1cbnJQoQyWzGH9kuTW44La-lDXL&index=4",
+        "cover_image": "shopify:\/\/shop_images\/Vagina_1x1_5e37d66b-38f3-485e-a3bd-26fe9d18e164.png",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=KW_88s_aYHs&list=PLg4HfZ1cbnJQoQyWzGH9kuTW44La-lDXL&index=4",
         "description": "",
         "full_width": false,
         "show_divider": false,
@@ -572,15 +572,6 @@
     },
     "16636902785380ca34": {
       "type": "apps",
-      "blocks": {
-        "463cfc0f-41f7-4c6d-865c-2a02d9a27642": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "463cfc0f-41f7-4c6d-865c-2a02d9a27642"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

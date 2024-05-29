@@ -21,7 +21,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers.</p>",
+            "text": "<p>Share information about your brand with your customers.<\/p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -34,7 +34,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Untitled-16_a36d79fe-60b1-4e9c-a5ba-c729ecb52bf3.jpg",
+        "image": "shopify:\/\/shop_images\/Untitled-16_a36d79fe-60b1-4e9c-a5ba-c729ecb52bf3.jpg",
         "image_position": "20% 50%",
         "text_box_position": "top-center",
         "text_alignment": "center",
@@ -75,7 +75,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -126,36 +126,36 @@
         "1657806368eb1a5abf-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Frame_2_3x_8243501d-b90e-4215-bfce-bcb50bac4222.png",
+            "image": "shopify:\/\/shop_images\/Frame_2_3x_8243501d-b90e-4215-bfce-bcb50bac4222.png",
             "title": "Pioneers of Intimate Skin Care",
             "title_size": "h3",
-            "text": "<p>DeoDoc highlighted as the pioneer of intimate skin care by Vogue Korea...</p>",
+            "text": "<p>DeoDoc highlighted as the pioneer of intimate skin care by Vogue Korea...<\/p>",
             "button_label": "Read more",
-            "button_link": "https://www.vogue.co.kr/2020/05/18/%ed%8e%a8%ed%85%8c%ed%81%ac%eb%a5%bc-%ec%95%84%ec%8b%9c%eb%82%98%ec%9a%94/",
+            "button_link": "https:\/\/www.vogue.co.kr\/2020\/05\/18\/%ed%8e%a8%ed%85%8c%ed%81%ac%eb%a5%bc-%ec%95%84%ec%8b%9c%eb%82%98%ec%9a%94\/",
             "button_style_secondary": false
           }
         },
         "1657806368eb1a5abf-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Frame_3_1.png",
+            "image": "shopify:\/\/shop_images\/Frame_3_1.png",
             "title": "Why your vulva deserves its own body wash",
             "title_size": "h3",
-            "text": "<p>DeoDoc’s intimate wash will change the way you think about your vulva..</p>",
+            "text": "<p>DeoDoc’s intimate wash will change the way you think about your vulva..<\/p>",
             "button_label": "Read more",
-            "button_link": "https://www.violetgrey.com/violet-files/top-flight/deodoc-daily-intimate-wash",
+            "button_link": "https:\/\/www.violetgrey.com\/violet-files\/top-flight\/deodoc-daily-intimate-wash",
             "button_style_secondary": false
           }
         },
         "1657806368eb1a5abf-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Frame_5.png",
+            "image": "shopify:\/\/shop_images\/Frame_5.png",
             "title": "Level Up: How to pack the perfect beach bag",
             "title_size": "h3",
-            "text": "<p>Feel ultra fresh even after a long day at the beach with this safe, odor-blocking....</p>",
+            "text": "<p>Feel ultra fresh even after a long day at the beach with this safe, odor-blocking....<\/p>",
             "button_label": "READ MORE",
-            "button_link": "https://www.cosmopolitan.com/style-beauty/g20074370/beach-bag-essentials/",
+            "button_link": "https:\/\/www.cosmopolitan.com\/style-beauty\/g20074370\/beach-bag-essentials\/",
             "button_style_secondary": false
           }
         },
@@ -163,10 +163,10 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Frame_6.png",
+            "image": "shopify:\/\/shop_images\/Frame_6.png",
             "title": "Why do razor bumps happen?",
             "title_size": "h3",
-            "text": "<p>Expert approved products to treat and prevent razor bumps...</p>",
+            "text": "<p>Expert approved products to treat and prevent razor bumps...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -176,10 +176,10 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Frame_7_1.png",
+            "image": "shopify:\/\/shop_images\/Frame_7_1.png",
             "title": "All the Questions You Have About How to Use a Menstrual Cup",
             "title_size": "h3",
-            "text": "<p>Find out the key to clean your menstrual cup when you are in a public restroom...</p>",
+            "text": "<p>Find out the key to clean your menstrual cup when you are in a public restroom...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -191,7 +191,7 @@
           "settings": {
             "title": "Refresh Fast!",
             "title_size": "h3",
-            "text": "<p>For the unpredictable stinky situations. Keep calm and carry on with these staples...</p>",
+            "text": "<p>For the unpredictable stinky situations. Keep calm and carry on with these staples...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -201,12 +201,12 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Frame_8.png",
+            "image": "shopify:\/\/shop_images\/Frame_8.png",
             "title": "How women entrepreneurs are disrupting the feminine market?",
             "title_size": "h3",
-            "text": "<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...</p>",
+            "text": "<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...<\/p>",
             "button_label": "Button label",
-            "button_link": "https://wwd.com/beauty-industry-news/beauty-features/vagina-products-vibrators-feminist-1202758743/",
+            "button_link": "https:\/\/wwd.com\/beauty-industry-news\/beauty-features\/vagina-products-vibrators-feminist-1202758743\/",
             "button_style_secondary": false
           }
         }
@@ -240,36 +240,36 @@
         "16583237503c8c2702-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Frame_6.png",
+            "image": "shopify:\/\/shop_images\/Frame_6.png",
             "title": "Why do razor bumps happen?",
             "title_size": "h3",
-            "text": "<p>Expert approved products to treat and prevent razor bumps...</p>",
+            "text": "<p>Expert approved products to treat and prevent razor bumps...<\/p>",
             "button_label": "READ MORE",
-            "button_link": "https://www.harpersbazaar.com/beauty/skin-care/a26347035/how-to-get-rid-of-razor-bumps/",
+            "button_link": "https:\/\/www.harpersbazaar.com\/beauty\/skin-care\/a26347035\/how-to-get-rid-of-razor-bumps\/",
             "button_style_secondary": false
           }
         },
         "16583237503c8c2702-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Frame_7_1_ca451b67-e8b8-4273-a912-29350557d6c5.png",
+            "image": "shopify:\/\/shop_images\/Frame_7_1_ca451b67-e8b8-4273-a912-29350557d6c5.png",
             "title": "All the Questions You Have About How to Use a Menstrual Cup",
             "title_size": "h3",
-            "text": "<p>Find out the key to clean your menstrual cup when you are in a public restroom...</p>",
+            "text": "<p>Find out the key to clean your menstrual cup when you are in a public restroom...<\/p>",
             "button_label": "READ MORE",
-            "button_link": "https://www.shape.com/lifestyle/mind-and-body/how-to-use-menstrual-cup",
+            "button_link": "https:\/\/www.shape.com\/lifestyle\/mind-and-body\/how-to-use-menstrual-cup",
             "button_style_secondary": false
           }
         },
         "16583237503c8c2702-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Frame_8.png",
+            "image": "shopify:\/\/shop_images\/Frame_8.png",
             "title": "How women entrepreneurs are disrupting the feminine market?",
             "title_size": "h3",
-            "text": "<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...</p>",
+            "text": "<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...<\/p>",
             "button_label": "READ MORE",
-            "button_link": "https://wwd.com/beauty-industry-news/beauty-features/vagina-products-vibrators-feminist-1202758743/",
+            "button_link": "https:\/\/wwd.com\/beauty-industry-news\/beauty-features\/vagina-products-vibrators-feminist-1202758743\/",
             "button_style_secondary": false
           }
         }
@@ -306,7 +306,7 @@
         "16575421422babb9f9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -328,7 +328,7 @@
       ],
       "disabled": true,
       "settings": {
-        "video_url": "https://www.youtube.com/watch?v=NzycSGeg7nI",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NzycSGeg7nI",
         "text_box_position": "middle-center",
         "text_alignment": "center",
         "image_ratio": "650px",

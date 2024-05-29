@@ -74,7 +74,7 @@
         "template--15321823641736__40862cbb-ba7c-4c0b-aa58-8479def55f8a-16702349373f864b87-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Menopause is the ending of the menstrual cycle and is a natural biologic process that usually occurs between the ages of 45 and 55. Menopause occurs due to a natural reduction of estrogen and a decline in the function of the ovaries.</p>",
+            "text": "<p>Menopause is the ending of the menstrual cycle and is a natural biologic process that usually occurs between the ages of 45 and 55. Menopause occurs due to a natural reduction of estrogen and a decline in the function of the ovaries.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -108,7 +108,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -129,7 +129,7 @@
         "template--15322951745672__62dcb48a-3c29-41b9-92f5-291c8a473f0a-1674554525c0055e20-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/1_a0310fcc-9b2c-48e2-95de-879d99ed5471.png",
+        "image": "shopify:\/\/shop_images\/1_a0310fcc-9b2c-48e2-95de-879d99ed5471.png",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -161,7 +161,7 @@
         "template--15321823641736__87c90ce8-76cd-43ee-a3b8-bc6fb06eeaf8-16702349373f864b87-1": {
           "type": "text",
           "settings": {
-            "text": "<p>When it comes to menopause, estrogen levels give us many answers on the symptoms we get and what is happening with the body. Menopause is the time for the woman’s last menstrual bleeding, but the symptoms can begin several years before, which is called premenopause. It is followed by perimenopause, the time around menopause. Menopause is replaced by post-menopause which lasts a lifetime.</p>",
+            "text": "<p>When it comes to menopause, estrogen levels give us many answers on the symptoms we get and what is happening with the body. Menopause is the time for the woman’s last menstrual bleeding, but the symptoms can begin several years before, which is called premenopause. It is followed by perimenopause, the time around menopause. Menopause is replaced by post-menopause which lasts a lifetime.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -195,7 +195,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -216,7 +216,7 @@
         "template--15322951745672__4bf8d431-c981-4d3b-b1b0-875219323f61-167031962796543452-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/estogenscale.jpg",
+        "image": "shopify:\/\/shop_images\/estogenscale.jpg",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -248,7 +248,7 @@
         "template--15322951745672__ac66b75c-3109-4e24-9b3e-589db44a0bfc-1670319648ca71fd0a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Due to the reduction of estrogen during menopause, the mucous membranes in the vulva and vagina become thinner as does the content of collagen and elastin. Symptoms such as irritations, dryness and tenderness in the vulva are common but can be reduced by using the DeoDoc Oil Series.</p>",
+            "text": "<p>Due to the reduction of estrogen during menopause, the mucous membranes in the vulva and vagina become thinner as does the content of collagen and elastin. Symptoms such as irritations, dryness and tenderness in the vulva are common but can be reduced by using the DeoDoc Oil Series.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -283,24 +283,24 @@
         "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Cleansing_Oil.png",
+            "image": "shopify:\/\/shop_images\/Cleansing_Oil.png",
             "title": "CLEANSING OIL",
             "title_size": "h3",
-            "text": "<p>Our Cleansing Oil is our most gentle intimate cleanser and is specifically formulated for sensitive, dry, or irritated vulva skin. Free from fragrance and allergens, this nourishing and moisturizing formula helps to restore a healthy vulva while also providing a gentle cleanse.</p>",
+            "text": "<p>Our Cleansing Oil is our most gentle intimate cleanser and is specifically formulated for sensitive, dry, or irritated vulva skin. Free from fragrance and allergens, this nourishing and moisturizing formula helps to restore a healthy vulva while also providing a gentle cleanse.<\/p>",
             "button_label": "Shop Now",
-            "button_link": "shopify://products/cleansing-oil",
+            "button_link": "shopify:\/\/products\/cleansing-oil",
             "button_style_secondary": false
           }
         },
         "template--15321823707272__95cbc348-f1cf-45c6-9125-3e47c696df97-16702463535f0e1e01-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Calming_Oil_1de109c9-ef87-4580-986b-ec878e704eb0.png",
+            "image": "shopify:\/\/shop_images\/Calming_Oil_1de109c9-ef87-4580-986b-ec878e704eb0.png",
             "title": "CALMING OIL",
             "title_size": "h3",
-            "text": "<p>Imagine a body lotion - but for your vulva. Our Calming Oil is an instant soothing oil used to alleviate discomfort and dry vulvar skin. The moisturizing formula is infused with all supernatural oils. It protects and builds up fragile skin and prevents vaginal dryness.</p>",
+            "text": "<p>Imagine a body lotion - but for your vulva. Our Calming Oil is an instant soothing oil used to alleviate discomfort and dry vulvar skin. The moisturizing formula is infused with all supernatural oils. It protects and builds up fragile skin and prevents vaginal dryness.<\/p>",
             "button_label": "Shop Now",
-            "button_link": "shopify://products/calming-oil",
+            "button_link": "shopify:\/\/products\/calming-oil",
             "button_style_secondary": false
           }
         }
@@ -336,7 +336,7 @@
         "template--15322951745672__bff16a63-c66a-4929-b23a-85c45f5370f7-16703196491448d4c8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>“Based on my experience, many women know that menopause is associated with hot flashes and the ending of menstruation.<br/><br/>However, symptoms such as depression, mood changes, vaginal dryness and vaginal irritation, are not understood by many women to be caused by menopause and therefore they get surprised by this.<br/><br/>It is very important to know that there are a lot of good treatments and medications on the market to handle menopause symptoms. If you have concerns I advise you to talk to your OB/GYN.”</p><p><strong><br/>- Dr. Gunvor Ekman-Oderberg, OB/GYN, Professor at Karolinska Institutet</strong></p>",
+            "text": "<p>“Based on my experience, many women know that menopause is associated with hot flashes and the ending of menstruation.<br\/><br\/>However, symptoms such as depression, mood changes, vaginal dryness and vaginal irritation, are not understood by many women to be caused by menopause and therefore they get surprised by this.<br\/><br\/>It is very important to know that there are a lot of good treatments and medications on the market to handle menopause symptoms. If you have concerns I advise you to talk to your OB\/GYN.”<\/p><p><strong><br\/>- Dr. Gunvor Ekman-Oderberg, OB\/GYN, Professor at Karolinska Institutet<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -357,7 +357,7 @@
         "template--15322951745672__bff16a63-c66a-4929-b23a-85c45f5370f7-16703196491448d4c8-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/191212_Deodoc14351-test_1_1_5.png",
+        "image": "shopify:\/\/shop_images\/191212_Deodoc14351-test_1_1_5.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",

@@ -75,7 +75,7 @@
         "template--15321823641736__40862cbb-ba7c-4c0b-aa58-8479def55f8a-16702349373f864b87-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Menstruation, or more commonly known as a period, is the monthly shedding of blood and uterine lining via the vagina.</p>",
+            "text": "<p>Menstruation, or more commonly known as a period, is the monthly shedding of blood and uterine lining via the vagina.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -107,7 +107,7 @@
         "template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The menstruation cycle consists of 4 phases and is a complex interaction between the female reproductive organs and the bodies’ hormones.</p><p>The menstrual cycle varies from person to person, but on average, a period occurs every 28 days. The image illustrates the interplay of the egg and uterine lining during each of the four phases.</p>",
+            "text": "<p>The menstruation cycle consists of 4 phases and is a complex interaction between the female reproductive organs and the bodies’ hormones.<\/p><p>The menstrual cycle varies from person to person, but on average, a period occurs every 28 days. The image illustrates the interplay of the egg and uterine lining during each of the four phases.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -128,7 +128,7 @@
         "template--15322984677512__f3a9ce57-6499-4a32-93bf-c55ac0d4c8d9-1670322036252af499-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/menstruation_26491c55-5338-4b0a-9bb5-1b5abf0fc139.jpg",
+        "image": "shopify:\/\/shop_images\/menstruation_26491c55-5338-4b0a-9bb5-1b5abf0fc139.jpg",
         "image_position": "center center",
         "text_box_position": "flex-start",
         "text_alignment": "left",
@@ -153,7 +153,7 @@
           "settings": {
             "title": "1. FOLLICULAR PHASE",
             "title_size": "h3",
-            "text": "<p>During this phase, the ovaries are stimulated by hormonal changes to stimulate follicular growth. Follicles contain unfertilized eggs, and each month one egg prepares to be released via the dominant follicle. During this time,  estrogen levels also begin to rise, causing the uterine lining to thicken in order to receive a fertilized egg.</p>",
+            "text": "<p>During this phase, the ovaries are stimulated by hormonal changes to stimulate follicular growth. Follicles contain unfertilized eggs, and each month one egg prepares to be released via the dominant follicle. During this time,  estrogen levels also begin to rise, causing the uterine lining to thicken in order to receive a fertilized egg.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -164,7 +164,7 @@
           "settings": {
             "title": "2. OVULATION",
             "title_size": "h3",
-            "text": "<p>Ovulation occurs approximately 14 days before menstruation. In this phase, the ovarian follicle bursts and the mature egg is released into the fallopian tube. After ovulation, the egg travels through the fallopian tube towards the uterus. At the same time, the uterine lining continues to thicken in preparation for an egg.  If the egg is not fertilized, it dissolves after 24h.</p>",
+            "text": "<p>Ovulation occurs approximately 14 days before menstruation. In this phase, the ovarian follicle bursts and the mature egg is released into the fallopian tube. After ovulation, the egg travels through the fallopian tube towards the uterus. At the same time, the uterine lining continues to thicken in preparation for an egg.  If the egg is not fertilized, it dissolves after 24h.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -175,7 +175,7 @@
           "settings": {
             "title": "3. LUTEAL PHASE",
             "title_size": "h3",
-            "text": "<p>After ovulation, the follicle that held the mature egg transforms into something called corpus luteum. Corpus luteum releases hormones, especially progesterone. This increase of hormones helps the uterine lining to maintain its thickness and get ready for a fertilized egg to be implanted.</p><p>If the egg is not fertilized, corpus luteum will start to break down and the hormone levels will drop (progesterone and estrogen). This is what starts menstruation. The hormonal changes that occur in the luteal phase are associated with PMS symptoms that many people experience. </p>",
+            "text": "<p>After ovulation, the follicle that held the mature egg transforms into something called corpus luteum. Corpus luteum releases hormones, especially progesterone. This increase of hormones helps the uterine lining to maintain its thickness and get ready for a fertilized egg to be implanted.<\/p><p>If the egg is not fertilized, corpus luteum will start to break down and the hormone levels will drop (progesterone and estrogen). This is what starts menstruation. The hormonal changes that occur in the luteal phase are associated with PMS symptoms that many people experience. <\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -186,7 +186,7 @@
           "settings": {
             "title": "4. MENSTRUATION",
             "title_size": "h3",
-            "text": "<p>The lining of the uterus starts to shed via the vagina. The menstrual fluid consists of blood and uterine tissue.</p><p>When the menstrual phase ends, the follicular phase initiates and the cycle begins again.</p>",
+            "text": "<p>The lining of the uterus starts to shed via the vagina. The menstrual fluid consists of blood and uterine tissue.<\/p><p>When the menstrual phase ends, the follicular phase initiates and the cycle begins again.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -219,36 +219,36 @@
         "template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Cotton_Day_Pad.png",
+            "image": "shopify:\/\/shop_images\/Cotton_Day_Pad.png",
             "title": "PADS",
             "title_size": "h3",
-            "text": "<p>Thin and naturally absorbent day pads made of 100% organic cotton - and nothing else!</p>",
+            "text": "<p>Thin and naturally absorbent day pads made of 100% organic cotton - and nothing else!<\/p>",
             "button_label": "Shop now",
-            "button_link": "shopify://products/cotton-day-pad",
+            "button_link": "shopify:\/\/products\/cotton-day-pad",
             "button_style_secondary": false
           }
         },
         "template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Cotton_Liners.png",
+            "image": "shopify:\/\/shop_images\/Cotton_Liners.png",
             "title": "LINERS",
             "title_size": "h3",
-            "text": "<p>Ultra-thin liners in 100% organic cotton. Made to be barely noticeable when wearing them. </p>",
+            "text": "<p>Ultra-thin liners in 100% organic cotton. Made to be barely noticeable when wearing them. <\/p>",
             "button_label": "Shop now",
-            "button_link": "shopify://products/cotton-liners",
+            "button_link": "shopify:\/\/products\/cotton-liners",
             "button_style_secondary": false
           }
         },
         "template--15322984677512__e8c1e804-2a0c-4698-91b6-bd1f391fbdd2-1670322278d1272364-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Cotton_Tampons_Applicator_-_Super.png",
+            "image": "shopify:\/\/shop_images\/Cotton_Tampons_Applicator_-_Super.png",
             "title": "TAMPONS",
             "title_size": "h3",
-            "text": "<p>Breathable and naturally absorbent tampons made of 100% organic cotton.</p>",
+            "text": "<p>Breathable and naturally absorbent tampons made of 100% organic cotton.<\/p>",
             "button_label": "Shop now",
-            "button_link": "shopify://products/tampons",
+            "button_link": "shopify:\/\/products\/tampons",
             "button_style_secondary": false
           }
         }

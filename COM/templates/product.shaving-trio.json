@@ -47,7 +47,7 @@
           }
         },
         "543ec8b9-a261-4c90-b815-d8de215edfad": {
-          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
           "settings": {
             "product": "{{product}}"
           }
@@ -72,7 +72,7 @@
         "d8eeb909-ac1e-4f77-9b19-a6633b9d9967": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/test_4_4000_x_300_px.png",
+            "image": "shopify:\/\/shop_images\/test_4_4000_x_300_px.png",
             "height": 28,
             "link": ""
           }
@@ -86,7 +86,7 @@
           "settings": {
             "icon": "none",
             "heading": "specifications",
-            "content": "<p>-Developed by female doctors</p><p>-Gynecologically and dermatologically tested</p><p>-Free from allergens, alcohol and parabens</p><p>-Made in Sweden</p><p>-100% vegan</p>",
+            "content": "<p>-Developed by female doctors<\/p><p>-Gynecologically and dermatologically tested<\/p><p>-Free from allergens, alcohol and parabens<\/p><p>-Made in Sweden<\/p><p>-100% vegan<\/p>",
             "page": ""
           }
         },
@@ -95,7 +95,7 @@
           "settings": {
             "icon": "none",
             "heading": "How to use",
-            "content": "<p><strong>Step 1, Pre-shave oil:</strong>  Apply to skin 1-2 minutes before shaving to provide a protective layer against the razor and soften skin and hair.</p><p><strong>Step 2, Shaving Foam: </strong> Apply on top of the oil so that the razor slides comfortably over the skin and gives a gentle shave that does not irritate. Shake before use.</p><p><strong>Step 3, After-shave balm: </strong> Rinse off the foam and wipe dry. Then apply after shave balm. Use immediately after shaving, morning and evening for 5 days and if necessary.</p>",
+            "content": "<p><strong>Step 1, Pre-shave oil:<\/strong>  Apply to skin 1-2 minutes before shaving to provide a protective layer against the razor and soften skin and hair.<\/p><p><strong>Step 2, Shaving Foam: <\/strong> Apply on top of the oil so that the razor slides comfortably over the skin and gives a gentle shave that does not irritate. Shake before use.<\/p><p><strong>Step 3, After-shave balm: <\/strong> Rinse off the foam and wipe dry. Then apply after shave balm. Use immediately after shaving, morning and evening for 5 days and if necessary.<\/p>",
             "page": ""
           }
         },
@@ -104,7 +104,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingredients",
-            "content": "<p><strong>Pre shave Oil: </strong></p><p><strong>Fresh Coconut:</strong> Helianthus Annuus (Sunflower) Seed Oil, Caprylic/Capric Triglyceride, Olus Oil, Simmondsia Chinensis Seed Oil, Crambe Abyssinica Seed Oil, Parfum, Glycine, Soja (Soybean) Oil, Shea Butter Ethyl Esters, Camelina Sativa Oil, Tocopherol, Calendula Officinalis Flower Extract, Citric Acid</p><p><strong>Fragrance Free: </strong>Helianthus Annuus Seed Oil, Caprylic/Capric Triglyceride, Olus Oil, Glycine SojaOil, Canola Oil, Octyldodecanol, Camelina Sativa Seed Oil, Shea Butter Ethyl Esters,Tocopherol, PPG-15 Stearyl Ether, Sorbitan Oleate, Calendula Officinalis Flower Extract, Paeonia Officinalis Flower Extract, Jasminum Officinale Flower Extract, Lavandula Angustifolia Flower Extract, Sambucus Nigra Flower Extract, Prunus Serrulata FlowerExtract, Citrus Aurantium Amara Flower Extract, Rosa Damascena Flower Oil, Chelidonine,Citric Acid</p><p><strong>Shaving Foam: </strong> </p><p><strong>Fresh Coconut: </strong>Aqua, Sodium Laureth Sulfate, Propane, Butane, Sodium Cocoamphoacetate, Glycol Distearate, Parfum, Isobutane, Hydrolyzed Corn Starch, Beta Vulgaris (Beet) Root Extract, Glycerin, Lactic Acid, Glycine, Urea, Fructose, Niacin- amide, Inositol, Chelidonine, Polyquaternium-10, Sodium PCA, Sodium Lactate, PEG-14M, PEG-40, Hydrogenated Castor Oil, Butylene Glycol, Polysorbate 20, Cocamide MEA, Propylene Glycol, Citric Acid, p-Anisic Acid, Iodopro-<br/>pynyl, Butylcarbamate, Diazolidinyl Urea, Sodium Benzoate.</p><p><strong>Fragrance Free:</strong> Aqua, Sodium Laureth Sulfate, Glycerin, Sodium Cocoamphoacetate, Propane, Glycol Distearate, Butane, Isobutane, Paeonia Lactiflora Root Extract, Sodium PCA, Sodium Lactate, Hydrolyzed Corn Starch, Beta Vulgaris Root Extract, Urea, Fructose, Niacinamide, Inositol, Sodium Levulinate, Lactic Acid, Sodium Anisate, Glycine, PEG-40 Hydrogenated Castor Oil, Polysorbate 20, Butylene Glycol,<br/>Cocamide MEA, Chelidonine, PEG-14M, Sodium Benzoate, p-Anisic Acid, Citric Acid.</p><p><strong>After Shave Balm: </strong></p><p><strong>Fresh Coconut:</strong> Aqua, Caprylic/Capric Triglyceride, Butylene Glycol, Panthenyl Triacetate, Parfum, Naringanin, Chelidonine, Carbomer, Tetrasodium Glutamate Diacetate, Potassium Hydroxide, Phenoxyethanol</p><p><strong>Fragrance Free: </strong>Aqua, Caprylic/Capric Triglyceride, Butylene Glycol, PEG-20 Methyl Glucose Sesquistearate, Panthenyl Triacetate, Methyl Glucose Sesquistearate, Glycerin, Paeonia Lactiflora Root Extract, Naringanin, Chelidonine, Phenoxyethanol, Carbomer.</p>",
+            "content": "<p><strong>Pre shave Oil: <\/strong><\/p><p><strong>Fresh Coconut:<\/strong> Helianthus Annuus (Sunflower) Seed Oil, Caprylic\/Capric Triglyceride, Olus Oil, Simmondsia Chinensis Seed Oil, Crambe Abyssinica Seed Oil, Parfum, Glycine, Soja (Soybean) Oil, Shea Butter Ethyl Esters, Camelina Sativa Oil, Tocopherol, Calendula Officinalis Flower Extract, Citric Acid<\/p><p><strong>Fragrance Free: <\/strong>Helianthus Annuus Seed Oil, Caprylic\/Capric Triglyceride, Olus Oil, Glycine SojaOil, Canola Oil, Octyldodecanol, Camelina Sativa Seed Oil, Shea Butter Ethyl Esters,Tocopherol, PPG-15 Stearyl Ether, Sorbitan Oleate, Calendula Officinalis Flower Extract, Paeonia Officinalis Flower Extract, Jasminum Officinale Flower Extract, Lavandula Angustifolia Flower Extract, Sambucus Nigra Flower Extract, Prunus Serrulata FlowerExtract, Citrus Aurantium Amara Flower Extract, Rosa Damascena Flower Oil, Chelidonine,Citric Acid<\/p><p><strong>Shaving Foam: <\/strong> <\/p><p><strong>Fresh Coconut: <\/strong>Aqua, Sodium Laureth Sulfate, Propane, Butane, Sodium Cocoamphoacetate, Glycol Distearate, Parfum, Isobutane, Hydrolyzed Corn Starch, Beta Vulgaris (Beet) Root Extract, Glycerin, Lactic Acid, Glycine, Urea, Fructose, Niacin- amide, Inositol, Chelidonine, Polyquaternium-10, Sodium PCA, Sodium Lactate, PEG-14M, PEG-40, Hydrogenated Castor Oil, Butylene Glycol, Polysorbate 20, Cocamide MEA, Propylene Glycol, Citric Acid, p-Anisic Acid, Iodopro-<br\/>pynyl, Butylcarbamate, Diazolidinyl Urea, Sodium Benzoate.<\/p><p><strong>Fragrance Free:<\/strong> Aqua, Sodium Laureth Sulfate, Glycerin, Sodium Cocoamphoacetate, Propane, Glycol Distearate, Butane, Isobutane, Paeonia Lactiflora Root Extract, Sodium PCA, Sodium Lactate, Hydrolyzed Corn Starch, Beta Vulgaris Root Extract, Urea, Fructose, Niacinamide, Inositol, Sodium Levulinate, Lactic Acid, Sodium Anisate, Glycine, PEG-40 Hydrogenated Castor Oil, Polysorbate 20, Butylene Glycol,<br\/>Cocamide MEA, Chelidonine, PEG-14M, Sodium Benzoate, p-Anisic Acid, Citric Acid.<\/p><p><strong>After Shave Balm: <\/strong><\/p><p><strong>Fresh Coconut:<\/strong> Aqua, Caprylic\/Capric Triglyceride, Butylene Glycol, Panthenyl Triacetate, Parfum, Naringanin, Chelidonine, Carbomer, Tetrasodium Glutamate Diacetate, Potassium Hydroxide, Phenoxyethanol<\/p><p><strong>Fragrance Free: <\/strong>Aqua, Caprylic\/Capric Triglyceride, Butylene Glycol, PEG-20 Methyl Glucose Sesquistearate, Panthenyl Triacetate, Methyl Glucose Sesquistearate, Glycerin, Paeonia Lactiflora Root Extract, Naringanin, Chelidonine, Phenoxyethanol, Carbomer.<\/p>",
             "page": ""
           }
         },
@@ -113,7 +113,7 @@
           "settings": {
             "icon": "none",
             "heading": "Scents",
-            "content": "<p><strong>Fresh Coconut:</strong> A sweet yet tropical blend of creamy coconut</p><p><strong>Fragrance Free: </strong>Fragrance Free</p>",
+            "content": "<p><strong>Fresh Coconut:<\/strong> A sweet yet tropical blend of creamy coconut<\/p><p><strong>Fragrance Free: <\/strong>Fragrance Free<\/p>",
             "page": ""
           }
         },
@@ -184,7 +184,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -192,7 +192,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -200,7 +200,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -291,7 +291,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Shaving is a trauma to the skin, so when not properly taken care of, it may cause irritation like ingrown hairs, razor burn and itching especially on highly sensitive vulvar skin. That is why we have developed our Intimate Shaving Trio - to not only shave but also to prepare and take care of the skin post-shave.\"</em><br/><br/><strong>-Dr. Gunvor Ekman-Ordeberg, OB/GYN, MD.,PhD. </strong></p>",
+            "text": "<p><em>\"Shaving is a trauma to the skin, so when not properly taken care of, it may cause irritation like ingrown hairs, razor burn and itching especially on highly sensitive vulvar skin. That is why we have developed our Intimate Shaving Trio - to not only shave but also to prepare and take care of the skin post-shave.\"<\/em><br\/><br\/><strong>-Dr. Gunvor Ekman-Ordeberg, OB\/GYN, MD.,PhD. <\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -312,7 +312,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_7911.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7911.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -332,10 +332,10 @@
         "16632438261e2d85ef-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/PS_oil.jpg",
+            "image": "shopify:\/\/shop_images\/PS_oil.jpg",
             "title": "Step 1",
             "title_size": "h3",
-            "text": "<p>Apply to the skin 1-2 minutes before shaving to provide a protective layer against the razor.</p>",
+            "text": "<p>Apply to the skin 1-2 minutes before shaving to provide a protective layer against the razor.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -344,10 +344,10 @@
         "16632438261e2d85ef-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/foam_11ba963b-b3f6-4d71-a7f8-0f98e8d7fef1.jpg",
+            "image": "shopify:\/\/shop_images\/foam_11ba963b-b3f6-4d71-a7f8-0f98e8d7fef1.jpg",
             "title": "Step 2",
             "title_size": "h3",
-            "text": "<p>Apply on top of the oil to allow the razor to glide seamlessly over the skin and provide a gentle, non-irritating shave.</p>",
+            "text": "<p>Apply on top of the oil to allow the razor to glide seamlessly over the skin and provide a gentle, non-irritating shave.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -356,10 +356,10 @@
         "16632438261e2d85ef-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/as_balm.jpg",
+            "image": "shopify:\/\/shop_images\/as_balm.jpg",
             "title": "Step 3",
             "title_size": "h3",
-            "text": "<p>Rinse off the foam and dry the area. Then apply after shave balm. Used immediately after shaving, as well as morning and evening for 5 days and if needed.</p>",
+            "text": "<p>Rinse off the foam and dry the area. Then apply after shave balm. Used immediately after shaving, as well as morning and evening for 5 days and if needed.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -391,7 +391,7 @@
         "1cd14695-1c81-4925-85d1-85fde2419606": {
           "type": "text",
           "settings": {
-            "text": "<p>The picture below shows the difference after 3 months of using DeoDocs Shaving Trio. The hair growth has become sparser and the hairs are thinner in diameter after 3 months.</p>",
+            "text": "<p>The picture below shows the difference after 3 months of using DeoDocs Shaving Trio. The hair growth has become sparser and the hairs are thinner in diameter after 3 months.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -408,7 +408,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -444,7 +444,7 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Skarmavbild_2022-09-15_kl._13.58.28.png",
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-09-15_kl._13.58.28.png",
             "title": "BEFORE",
             "title_size": "h3",
             "text": "",
@@ -456,7 +456,7 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Skarmavbild_2022-09-15_kl._13.58.38.png",
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-09-15_kl._13.58.38.png",
             "title": "AFTER",
             "title_size": "h3",
             "text": "",
@@ -471,7 +471,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -504,28 +504,28 @@
           "type": "question",
           "settings": {
             "title": "WHY DO YOUR PRODUCTS CONTAIN PERFUME?",
-            "text": "<p>DeoDoc only uses hypoallergenic scents/perfumes in all of our products. Hypoallergenic scents are free from alcohol, allergens and irritants, therefore, they are safe for intimate skin.<br/><br/>Regular perfume should never be used in the intimate area as it contains:<br/><br/>- alcohol which can have a dehydrating effect<br/><br/>- allergens that can cause irritation</p>"
+            "text": "<p>DeoDoc only uses hypoallergenic scents\/perfumes in all of our products. Hypoallergenic scents are free from alcohol, allergens and irritants, therefore, they are safe for intimate skin.<br\/><br\/>Regular perfume should never be used in the intimate area as it contains:<br\/><br\/>- alcohol which can have a dehydrating effect<br\/><br\/>- allergens that can cause irritation<\/p>"
           }
         },
         "e18bd4fd-1b8b-43e7-8e51-7cc2a464db75": {
           "type": "question",
           "settings": {
             "title": "ARE DEODOC'S PRODUCTS VEGAN?",
-            "text": "<p>Yes.</p>"
+            "text": "<p>Yes.<\/p>"
           }
         },
         "ca0e3493-f44b-4ccd-ade4-098592ebd0b0": {
           "type": "question",
           "settings": {
             "title": "Is it suitable for sensitive skin?",
-            "text": "<p>Yes, our revolutionary 3-step shaving solution gives the optimal preparation for sensitive skin.</p>"
+            "text": "<p>Yes, our revolutionary 3-step shaving solution gives the optimal preparation for sensitive skin.<\/p>"
           }
         },
         "template--15103162089608__969ceb7c-5e80-43f5-a278-82a4b575b4cb-166514319432f03ddf-0": {
           "type": "question",
           "settings": {
             "title": "ARE DEODOC'S PRODUCTS SAFE TO USE?",
-            "text": "<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br/><br/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br/><br/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br/><br/>- Products are dermatologically tested for sensitive skin<br/><br/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg</p>"
+            "text": "<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br\/><br\/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br\/><br\/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br\/><br\/>- Products are dermatologically tested for sensitive skin<br\/><br\/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg<\/p>"
           }
         }
       },
@@ -572,7 +572,7 @@
       "type": "apps",
       "blocks": {
         "6180da72-2476-4776-8004-f0c64c419385": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
             "aggregated": false,

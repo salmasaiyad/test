@@ -22,7 +22,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>The first intimate care brand founded and still run by female doctors and gynecologists.</p>",
+            "text": "<p>The first intimate care brand founded and still run by female doctors and gynecologists.<\/p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -55,7 +55,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>DR. GUNVOR EKMAN-ORDEBERG,</strong> DeoDoc's co-founder, has worked to improve women's health for over 50 years. Her research over the years has resulted in two new drugs. One that provides pain relief during child birth and the other is an anesthetic gel to reduce pain during interventions in the uterus and cervix (e.g. IUDs and biopsies).</p><p></p><p>“Based on my 50 years of experience as a practicing gynecologist, I’ve met countless patients that have expressed many concerns about intimate sweat and subsequent odor. In my personal opinion, safe intimate skincare products developed under the supervision of doctors should have been available on the market a long time ago.” </p><p><strong>Dr. Gunvor Ekman-Ordeberg, OB/GYN, MD.,PHD. </strong></p><p><em>Professor of OB/GYN at Karolinska Institutet</em></p>",
+            "text": "<p><strong>DR. GUNVOR EKMAN-ORDEBERG,<\/strong> DeoDoc's co-founder, has worked to improve women's health for over 50 years. Her research over the years has resulted in two new drugs. One that provides pain relief during child birth and the other is an anesthetic gel to reduce pain during interventions in the uterus and cervix (e.g. IUDs and biopsies).<\/p><p><\/p><p>“Based on my 50 years of experience as a practicing gynecologist, I’ve met countless patients that have expressed many concerns about intimate sweat and subsequent odor. In my personal opinion, safe intimate skincare products developed under the supervision of doctors should have been available on the market a long time ago.” <\/p><p><strong>Dr. Gunvor Ekman-Ordeberg, OB\/GYN, MD.,PHD. <\/strong><\/p><p><em>Professor of OB\/GYN at Karolinska Institutet<\/em><\/p>",
             "text_size": "typeset2",
             "secondary_color": true
           }
@@ -66,7 +66,7 @@
         "text"
       ],
       "settings": {
-        "image": "shopify://shop_images/Untitled-167.jpg",
+        "image": "shopify:\/\/shop_images\/Untitled-167.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -93,7 +93,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -151,7 +151,7 @@
         "16575421422babb9f9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -172,7 +172,7 @@
         "16575421422babb9f9-2"
       ],
       "settings": {
-        "video_url": "https://www.youtube.com/watch?v=NzycSGeg7nI",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NzycSGeg7nI",
         "text_box_position": "middle-center",
         "text_alignment": "center",
         "image_ratio": "650px",

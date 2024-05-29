@@ -22,7 +22,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers.</p>",
+            "text": "<p>Share information about your brand with your customers.<\/p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -34,7 +34,7 @@
         "text"
       ],
       "settings": {
-        "image": "shopify://shop_images/Vulvas_social_post_1.png",
+        "image": "shopify:\/\/shop_images\/Vulvas_social_post_1.png",
         "image_position": "20% 50%",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -75,7 +75,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -126,36 +126,36 @@
         "1657806368eb1a5abf-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/GetIntimate_IntimateOdor.png",
+            "image": "shopify:\/\/shop_images\/GetIntimate_IntimateOdor.png",
             "title": "Lukt",
             "title_size": "h2",
-            "text": "<p>Frågor om lukt från intimområdet är en av de vanligaste frågorna som vi möter från kvinnor i det kliniska arbetet. Här menar vi ut orsakerna. </p><p></p>",
+            "text": "<p>Frågor om lukt från intimområdet är en av de vanligaste frågorna som vi möter från kvinnor i det kliniska arbetet. Här menar vi ut orsakerna. <\/p><p><\/p>",
             "button_label": "Läs mer",
-            "button_link": "shopify://pages/intimate-odor",
+            "button_link": "shopify:\/\/pages\/intimate-odor",
             "button_style_secondary": false
           }
         },
         "1657806368eb1a5abf-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/GetIntimate_VulvaVsVagina.png",
+            "image": "shopify:\/\/shop_images\/GetIntimate_VulvaVsVagina.png",
             "title": "Vulva vs Vagina",
             "title_size": "h2",
-            "text": "<p>Det är hög tid att råda bot på missuppfattningarna och lära känna våra fantastiska kroppar. <br/><br/><br/></p>",
+            "text": "<p>Det är hög tid att råda bot på missuppfattningarna och lära känna våra fantastiska kroppar. <br\/><br\/><br\/><\/p>",
             "button_label": "Läs mer",
-            "button_link": "shopify://pages/vulva-vs-vagina",
+            "button_link": "shopify:\/\/pages\/vulva-vs-vagina",
             "button_style_secondary": false
           }
         },
         "1657806368eb1a5abf-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/GetIntimate_Menopause.png",
+            "image": "shopify:\/\/shop_images\/GetIntimate_Menopause.png",
             "title": "Klimakteriet",
             "title_size": "h2",
-            "text": "<p>De flesta kvinnorna känner till klimakteriet som den period i livet då mensen upphör men vet väldigt lite om symtomen som kan uppstå. På denna sidan kan du lära dig mer. </p>",
+            "text": "<p>De flesta kvinnorna känner till klimakteriet som den period i livet då mensen upphör men vet väldigt lite om symtomen som kan uppstå. På denna sidan kan du lära dig mer. <\/p>",
             "button_label": "Läs mer",
-            "button_link": "shopify://pages/menopause",
+            "button_link": "shopify:\/\/pages\/menopause",
             "button_style_secondary": false
           }
         },
@@ -165,7 +165,7 @@
           "settings": {
             "title": "Why do razor bumps happen?",
             "title_size": "h3",
-            "text": "<p>Expert approved products to treat and prevent razor bumps...</p>",
+            "text": "<p>Expert approved products to treat and prevent razor bumps...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -177,7 +177,7 @@
           "settings": {
             "title": "All the Questions You Have About How to Use a Menstrual Cup",
             "title_size": "h3",
-            "text": "<p>Find out the key to clean your menstrual cup when you are in a public restroom...</p>",
+            "text": "<p>Find out the key to clean your menstrual cup when you are in a public restroom...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -189,7 +189,7 @@
           "settings": {
             "title": "Refresh Fast!",
             "title_size": "h3",
-            "text": "<p>For the unpredictable stinky situations. Keep calm and carry on with these staples...</p>",
+            "text": "<p>For the unpredictable stinky situations. Keep calm and carry on with these staples...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -201,9 +201,9 @@
           "settings": {
             "title": "How women entrepreneurs are disrupting the feminine market?",
             "title_size": "h3",
-            "text": "<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...</p>",
+            "text": "<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...<\/p>",
             "button_label": "Button label",
-            "button_link": "https://wwd.com/beauty-industry-news/beauty-features/vagina-products-vibrators-feminist-1202758743/",
+            "button_link": "https:\/\/wwd.com\/beauty-industry-news\/beauty-features\/vagina-products-vibrators-feminist-1202758743\/",
             "button_style_secondary": false
           }
         }
@@ -237,36 +237,36 @@
         "16583237503c8c2702-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/rQ9daz9A-Correct_Ratio.png",
+            "image": "shopify:\/\/shop_images\/rQ9daz9A-Correct_Ratio.png",
             "title": "pH",
             "title_size": "h2",
-            "text": "<p>Vulvan och vaginans pH-balans är känsligt och kan lätt rubbas vilket kan leda till irritation och obehag. Läsa mer om pH-värde och intimvård här. </p>",
+            "text": "<p>Vulvan och vaginans pH-balans är känsligt och kan lätt rubbas vilket kan leda till irritation och obehag. Läsa mer om pH-värde och intimvård här. <\/p>",
             "button_label": "Läs mer",
-            "button_link": "shopify://pages/ph",
+            "button_link": "shopify:\/\/pages\/ph",
             "button_style_secondary": false
           }
         },
         "16583237503c8c2702-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/GetIntimate_FAQ.png",
+            "image": "shopify:\/\/shop_images\/GetIntimate_FAQ.png",
             "title": "FAQ",
             "title_size": "h2",
-            "text": "<p>Vi får många frågor från våra patienter och kunder och vi vill mer än gärna dela med oss av våra medicinska erfarenheter för att svara på era frågor.</p>",
+            "text": "<p>Vi får många frågor från våra patienter och kunder och vi vill mer än gärna dela med oss av våra medicinska erfarenheter för att svara på era frågor.<\/p>",
             "button_label": "läs mer",
-            "button_link": "shopify://pages/faq",
+            "button_link": "shopify:\/\/pages\/faq",
             "button_style_secondary": false
           }
         },
         "16583237503c8c2702-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Pads_590x336_4c75dfc4-811e-4147-b3a3-8bff858cae35.jpg",
+            "image": "shopify:\/\/shop_images\/Pads_590x336_4c75dfc4-811e-4147-b3a3-8bff858cae35.jpg",
             "title": "Menstruation",
             "title_size": "h2",
-            "text": "<p>Menstruationcykeln är ett fantastiskt samspel mellan dina hormoner och reproduktiva organ. Här kan du läsa mer om vad som händer i din kropp. </p>",
+            "text": "<p>Menstruationcykeln är ett fantastiskt samspel mellan dina hormoner och reproduktiva organ. Här kan du läsa mer om vad som händer i din kropp. <\/p>",
             "button_label": "Läs mer",
-            "button_link": "shopify://pages/menstruation",
+            "button_link": "shopify:\/\/pages\/menstruation",
             "button_style_secondary": false
           }
         }
@@ -303,7 +303,7 @@
         "16575421422babb9f9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -325,7 +325,7 @@
       ],
       "disabled": true,
       "settings": {
-        "video_url": "https://www.youtube.com/watch?v=NzycSGeg7nI",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NzycSGeg7nI",
         "text_box_position": "middle-center",
         "text_alignment": "center",
         "image_ratio": "650px",

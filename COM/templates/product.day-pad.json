@@ -41,7 +41,7 @@
           "settings": {}
         },
         "d55cd49f-a55f-4d49-aac9-1b9061dad62b": {
-          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
           "settings": {
             "product": "{{product}}"
           }
@@ -66,7 +66,7 @@
         "43089dc7-b069-4b86-950d-bfc29b6c137d": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/test_4_4000_x_300_px.png",
+            "image": "shopify:\/\/shop_images\/test_4_4000_x_300_px.png",
             "height": 28,
             "link": ""
           }
@@ -90,7 +90,7 @@
           "settings": {
             "icon": "none",
             "heading": "specifications",
-            "content": "<p>-Developed by women doctors and gynecologists</p><p>-Gynecologically and dermatologically tested</p><p>-Free from allergens, alcohol and parabens</p><p>-Designed in Sweden, made in Spain.</p><p>-100% vegan</p>",
+            "content": "<p>-Developed by women doctors and gynecologists<\/p><p>-Gynecologically and dermatologically tested<\/p><p>-Free from allergens, alcohol and parabens<\/p><p>-Designed in Sweden, made in Spain.<\/p><p>-100% vegan<\/p>",
             "page": ""
           }
         },
@@ -99,7 +99,7 @@
           "settings": {
             "icon": "none",
             "heading": "How to use",
-            "content": "<p>Open the pad package, remove the paper on the backside and place the pad on your underwear with the glue facing down. Wrap the wings of the pad around the underside of your underwear for a secure fit.</p>",
+            "content": "<p>Open the pad package, remove the paper on the backside and place the pad on your underwear with the glue facing down. Wrap the wings of the pad around the underside of your underwear for a secure fit.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -108,7 +108,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingredients",
-            "content": "<p>Top sheet + core made with 100 % organic cotton. Biofilm layer, wrap and adhesive; compostable and biodegradable.</p>",
+            "content": "<p>Top sheet + core made with 100 % organic cotton. Biofilm layer, wrap and adhesive; compostable and biodegradable.<\/p>",
             "page": ""
           }
         },
@@ -258,7 +258,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Studies show that 15% of women’s OB/GYN visits are due to irritation caused by menstruation care products. The primary cause being pads and panty liners produced from synthetic fibers and plastic. As doctors, we recommend to avoid plastic and synthetic fibers in contact with your most intimate skin. Therefore we recommend using menstruation care products made by 100% organic cotton.\"</em><br/><br/><strong>-Dr. Hedieh Asadi, Medical Doctor</strong></p>",
+            "text": "<p><em>\"Studies show that 15% of women’s OB\/GYN visits are due to irritation caused by menstruation care products. The primary cause being pads and panty liners produced from synthetic fibers and plastic. As doctors, we recommend to avoid plastic and synthetic fibers in contact with your most intimate skin. Therefore we recommend using menstruation care products made by 100% organic cotton.\"<\/em><br\/><br\/><strong>-Dr. Hedieh Asadi, Medical Doctor<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -279,7 +279,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_8019.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8019.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -307,7 +307,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -315,7 +315,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -323,7 +323,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -348,10 +348,10 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/28_f4afdd7d-7374-41f0-a1cd-63f5ea517535.png",
+            "image": "shopify:\/\/shop_images\/28_f4afdd7d-7374-41f0-a1cd-63f5ea517535.png",
             "title": "Step 1",
             "title_size": "h3",
-            "text": "<p>Open the box.</p>",
+            "text": "<p>Open the box.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -360,10 +360,10 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/33.png",
+            "image": "shopify:\/\/shop_images\/33.png",
             "title": "Step 2",
             "title_size": "h3",
-            "text": "<p>Remove the paper from the bottom and place the pad on your underwear with the glue facing down.</p>",
+            "text": "<p>Remove the paper from the bottom and place the pad on your underwear with the glue facing down.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -372,10 +372,10 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/38_5b3a3f0e-ef0e-4a3c-90df-0bfe2de2f8d3.png",
+            "image": "shopify:\/\/shop_images\/38_5b3a3f0e-ef0e-4a3c-90df-0bfe2de2f8d3.png",
             "title": "Step 3",
             "title_size": "h3",
-            "text": "<p>Wrap the wings of the pad around the bottom of your underwear for a secure fit.</p>",
+            "text": "<p>Wrap the wings of the pad around the bottom of your underwear for a secure fit.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -409,35 +409,35 @@
           "type": "question",
           "settings": {
             "title": "DO THE PADS CONTAIN ANY SYNTHETIC MATERIALS?",
-            "text": "<p>There are no synthetic materials used in our pads. Top sheet + core made with 100 % organic cotton and biofilm layer, wrap and adhesive; compostable and biodegradable.</p>"
+            "text": "<p>There are no synthetic materials used in our pads. Top sheet + core made with 100 % organic cotton and biofilm layer, wrap and adhesive; compostable and biodegradable.<\/p>"
           }
         },
         "template--15103161663624__17271935-d64e-4641-a9b3-b69ed4ca0cf0-16685055159c5c9d50-1": {
           "type": "question",
           "settings": {
             "title": "CAN DEODOC PADS IRRITATE THE INTIMATE AREA?",
-            "text": "<p>Synthetic materials are the most common cause of irritation from pads. DeoDoc pads are made out of 100% organic cotton.</p>"
+            "text": "<p>Synthetic materials are the most common cause of irritation from pads. DeoDoc pads are made out of 100% organic cotton.<\/p>"
           }
         },
         "6be4bf06-2bc9-48fa-9600-fe79e5d57e86": {
           "type": "question",
           "settings": {
             "title": "WHAT DOES 100% ORGANIC COTTON MEAN?",
-            "text": "<p>It means that DeoDoc pads contain zero synthetic materials.</p>"
+            "text": "<p>It means that DeoDoc pads contain zero synthetic materials.<\/p>"
           }
         },
         "2f96f0c1-212a-4998-8ce2-1bcd89664e8e": {
           "type": "question",
           "settings": {
             "title": "HOW MANY PADS ARE IN A BOX?",
-            "text": "<p>10pads/box.</p>"
+            "text": "<p>10pads\/box.<\/p>"
           }
         },
         "8a24c74b-366e-4809-bcda-7e9bf66b3d46": {
           "type": "question",
           "settings": {
             "title": "What about the planet?",
-            "text": "<p>Choosing period care products in 100% organic cotton is much better for both you and the planet.</p>"
+            "text": "<p>Choosing period care products in 100% organic cotton is much better for both you and the planet.<\/p>"
           }
         }
       },
@@ -485,7 +485,7 @@
       "type": "apps",
       "blocks": {
         "8c2c4b84-a902-40b1-a1e8-760aede433d5": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
             "aggregated": false,

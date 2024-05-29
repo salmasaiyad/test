@@ -21,7 +21,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers.</p>",
+            "text": "<p>Share information about your brand with your customers.<\/p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -33,7 +33,7 @@
         "text"
       ],
       "settings": {
-        "image": "shopify://shop_images/191212_Deodoc12985_Correct_Ratio.png",
+        "image": "shopify:\/\/shop_images\/191212_Deodoc12985_Correct_Ratio.png",
         "image_position": "20% 50%",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -74,7 +74,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -132,7 +132,7 @@
         "16575421422babb9f9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -154,7 +154,7 @@
       ],
       "disabled": true,
       "settings": {
-        "video_url": "https://www.youtube.com/watch?v=NzycSGeg7nI",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NzycSGeg7nI",
         "text_box_position": "middle-center",
         "text_alignment": "center",
         "image_ratio": "650px",
@@ -184,7 +184,7 @@
         "1658735302aec4cd9a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Klimakteriet ellerövergångsåldern är en naturlig följd av att mängden östrogen i kroppen sjunker och att äggstockarnas funktion minskar. Denna fas inträffar vanligtvis i åldern mellan 45-55 år (median 51,5 år). 12 månader utan menstruation definieras som menopaus(sista mensen). Perioden innan menopaus kallas för perimenopaus(preklimakteriet). Perioden efter menopaus kallas för postmenopaus.</p>",
+            "text": "<p>Klimakteriet ellerövergångsåldern är en naturlig följd av att mängden östrogen i kroppen sjunker och att äggstockarnas funktion minskar. Denna fas inträffar vanligtvis i åldern mellan 45-55 år (median 51,5 år). 12 månader utan menstruation definieras som menopaus(sista mensen). Perioden innan menopaus kallas för perimenopaus(preklimakteriet). Perioden efter menopaus kallas för postmenopaus.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -226,7 +226,7 @@
         "16587356020618afb3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>När det gäller klimakteriet ger östrogennivåerna oss många svar på symptomen vi får och vad som händer med kroppen. Klimakteriet innebär kvinnans sista menstruationsblödning, men symtomen kan börja flera år innan, vilket kallas premenopaus. Det följs av perimenopause, tiden runt klimakteriet. Klimakteriet ersätts av postmenopausen som varar livet ut.</p>",
+            "text": "<p>När det gäller klimakteriet ger östrogennivåerna oss många svar på symptomen vi får och vad som händer med kroppen. Klimakteriet innebär kvinnans sista menstruationsblödning, men symtomen kan börja flera år innan, vilket kallas premenopaus. Det följs av perimenopause, tiden runt klimakteriet. Klimakteriet ersätts av postmenopausen som varar livet ut.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -270,7 +270,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -291,7 +291,7 @@
         "1658735711fe6cba62-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/estogenscale.jpg",
+        "image": "shopify:\/\/shop_images\/estogenscale.jpg",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -323,7 +323,7 @@
         "1658746549dd3e2447-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Även om många av besvären associerade med klimakteriet kan klinga av, försvinner däremot inte torrheten i slemhinnorna med tiden. Din doktor kan hjälpa dig att hitta bra och effektiva läkamedel för att få hjälp med detta. Från vårt kliniska arbete som gynekolg och läkare brukar vi också rekommendera en oljeregim för skör och torr hud, då olja återfuktar effektivt. De oljor vi har utvecklat är baserade på 100% naturliga oljor från växtriket som lätt absorberas av slemhinnor och skör hud. Dessa är inga läkemedel eller en behandling, men de kan vara ett alternativ och komplement för att lindra besvär vid sköra och torra slemhinnor.</p>",
+            "text": "<p>Även om många av besvären associerade med klimakteriet kan klinga av, försvinner däremot inte torrheten i slemhinnorna med tiden. Din doktor kan hjälpa dig att hitta bra och effektiva läkamedel för att få hjälp med detta. Från vårt kliniska arbete som gynekolg och läkare brukar vi också rekommendera en oljeregim för skör och torr hud, då olja återfuktar effektivt. De oljor vi har utvecklat är baserade på 100% naturliga oljor från växtriket som lätt absorberas av slemhinnor och skör hud. Dessa är inga läkemedel eller en behandling, men de kan vara ett alternativ och komplement för att lindra besvär vid sköra och torra slemhinnor.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -358,24 +358,24 @@
         "165873922491fe9788-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Product_images_-_website_2.08.jpg",
+            "image": "shopify:\/\/shop_images\/Product_images_-_website_2.08.jpg",
             "title": "Intimate Calming Oil",
             "title_size": "h2",
-            "text": "<p>DeoDocs kvinnliga läkarteam har utvecklat en intimolja fylld med superoljor kända för sina lugnande egenskaper. Oljan fungerar som en mjukgörande body lotion för slemhinnor och inre och yttre blygdläppar (vulvan) när man upplever lindrigare besvär av klåda och irritation.</p>",
+            "text": "<p>DeoDocs kvinnliga läkarteam har utvecklat en intimolja fylld med superoljor kända för sina lugnande egenskaper. Oljan fungerar som en mjukgörande body lotion för slemhinnor och inre och yttre blygdläppar (vulvan) när man upplever lindrigare besvär av klåda och irritation.<\/p>",
             "button_label": "Se produkt",
-            "button_link": "shopify://products/calming-oil",
+            "button_link": "shopify:\/\/products\/calming-oil",
             "button_style_secondary": false
           }
         },
         "165873922491fe9788-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/gentle_cleansing_oil.jpg",
+            "image": "shopify:\/\/shop_images\/gentle_cleansing_oil.jpg",
             "title": "Intimate Cleansing Oil",
             "title_size": "h2",
-            "text": "<p>DeoDocs kvinnliga läkarteam har utvecklat en vårdande och intensivt återfuktande oljetvätt, speciellt framtagen för torra och sköra slemhinnor i menopaus. Innehåller 100% naturliga oljor från växtriket. Med avokado- och kamomillolja som bevarar hudbarriärens fuktbalans samtidigt som oljan motverkar torrhet och sprickor i vulva.</p>",
+            "text": "<p>DeoDocs kvinnliga läkarteam har utvecklat en vårdande och intensivt återfuktande oljetvätt, speciellt framtagen för torra och sköra slemhinnor i menopaus. Innehåller 100% naturliga oljor från växtriket. Med avokado- och kamomillolja som bevarar hudbarriärens fuktbalans samtidigt som oljan motverkar torrhet och sprickor i vulva.<\/p>",
             "button_label": "Se produkt",
-            "button_link": "shopify://products/cleansing-oil",
+            "button_link": "shopify:\/\/products\/cleansing-oil",
             "button_style_secondary": false
           }
         },
@@ -385,7 +385,7 @@
           "settings": {
             "title": "Column",
             "title_size": "h3",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -425,7 +425,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -434,7 +434,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop now",
-            "button_link": "shopify://collections/washes",
+            "button_link": "shopify:\/\/collections\/washes",
             "button_style_secondary": false
           }
         }
@@ -476,7 +476,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -519,7 +519,7 @@
         "16587486498cae7c36-1": {
           "type": "text",
           "settings": {
-            "text": "<p>”Baserat på min erfarenhet är den vanligaste associationen kvinnor har med klimakteriet, plötsliga svettningar och att menstruationen upphör.</p><p>Med det sagt kan symtom så som depression, humörsvängningar, vaginal torrhet och irritation också förekomma. Många kvinnor vet inte detta och kan därför bli förvånade när detta uppstår. </p><p>Det är väldigt viktigt att veta att det finns behandlingar och mediciner som behandlar symtom vid klimakteriet. Om du känner dig orolig eller har frågor så rekommenderar jag att höra av dig till din gynekolog.”<br/></p><p>- Dr. Gunvor Ekman-Oderberg, M.D., PH.D</p>",
+            "text": "<p>”Baserat på min erfarenhet är den vanligaste associationen kvinnor har med klimakteriet, plötsliga svettningar och att menstruationen upphör.<\/p><p>Med det sagt kan symtom så som depression, humörsvängningar, vaginal torrhet och irritation också förekomma. Många kvinnor vet inte detta och kan därför bli förvånade när detta uppstår. <\/p><p>Det är väldigt viktigt att veta att det finns behandlingar och mediciner som behandlar symtom vid klimakteriet. Om du känner dig orolig eller har frågor så rekommenderar jag att höra av dig till din gynekolog.”<br\/><\/p><p>- Dr. Gunvor Ekman-Oderberg, M.D., PH.D<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -540,7 +540,7 @@
         "16587486498cae7c36-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Doctors_Corner_-_Hedieh_och_Gunvor_0bf9500e-70fd-47f2-9885-66ca47c39b52.png",
+        "image": "shopify:\/\/shop_images\/Doctors_Corner_-_Hedieh_och_Gunvor_0bf9500e-70fd-47f2-9885-66ca47c39b52.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",

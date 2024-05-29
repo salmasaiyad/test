@@ -71,7 +71,7 @@
         "95073fe0-1629-48c2-ac3f-24a78353ad1e": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Betalsatt_SE.png",
+            "image": "shopify:\/\/shop_images\/Betalsatt_SE.png",
             "height": 28,
             "link": ""
           }
@@ -85,7 +85,7 @@
           "settings": {
             "icon": "none",
             "heading": "PRODUKTSPECIFIKATION",
-            "content": "<p>-Utvecklad av kvinnliga läkare och gynekologer</p><p>-Gynekologiskt och dermatologiskt testad</p><p>-Fri från allergener, alkohol och parabener</p><p>-Tillverkad i Sverige</p><p>-100% vegansk</p>",
+            "content": "<p>-Utvecklad av kvinnliga läkare och gynekologer<\/p><p>-Gynekologiskt och dermatologiskt testad<\/p><p>-Fri från allergener, alkohol och parabener<\/p><p>-Tillverkad i Sverige<\/p><p>-100% vegansk<\/p>",
             "page": ""
           }
         },
@@ -94,7 +94,7 @@
           "settings": {
             "icon": "none",
             "heading": "ANVÄNDNING",
-            "content": "<p>Häll en liten mängd i handen och tvätta varsamt. Skölj av med ljummet vatten.</p>",
+            "content": "<p>Häll en liten mängd i handen och tvätta varsamt. Skölj av med ljummet vatten.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -103,7 +103,7 @@
           "settings": {
             "icon": "none",
             "heading": "INGREDIENSER",
-            "content": "<p>Helianthus Annuus Seed Oil, Persea Gratissima Oil, Caprylic/Capric Triglyceride, Canola Oil, Glycine Soja Oil, Olea Europaea Fruit Oil, Chamomilla Recutita Flower Extract, Tocopherol.</p>",
+            "content": "<p>Helianthus Annuus Seed Oil, Persea Gratissima Oil, Caprylic\/Capric Triglyceride, Canola Oil, Glycine Soja Oil, Olea Europaea Fruit Oil, Chamomilla Recutita Flower Extract, Tocopherol.<\/p>",
             "page": ""
           }
         },
@@ -252,7 +252,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Vi rekommenderar ofta en oljeregim till perimenopausala, menopausala och postmenopausala patienter eftersom intimhuden då kan bli skörare, torrare och mer lättirriterad. Oljor kan varsamt rengöra utan att ta bort hudens naturliga fett. Vi har handplockat extremt närande superoljor som hjälper till att rengöra samtidigt som hudenbarriärens fuktbalans bibehålls och torrhet och sprickor motverkas.\"<br/><br/></em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet</strong></p>",
+            "text": "<p><em>\"Vi rekommenderar ofta en oljeregim till perimenopausala, menopausala och postmenopausala patienter eftersom intimhuden då kan bli skörare, torrare och mer lättirriterad. Oljor kan varsamt rengöra utan att ta bort hudens naturliga fett. Vi har handplockat extremt närande superoljor som hjälper till att rengöra samtidigt som hudenbarriärens fuktbalans bibehålls och torrhet och sprickor motverkas.\"<br\/><br\/><\/em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -273,7 +273,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_7851_d0f93dd1-db1a-47f6-b345-022c57ca6727.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7851_d0f93dd1-db1a-47f6-b345-022c57ca6727.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -293,7 +293,7 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/5.png",
+            "image": "shopify:\/\/shop_images\/5.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -305,7 +305,7 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/6.png",
+            "image": "shopify:\/\/shop_images\/6.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -317,7 +317,7 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/4.png",
+            "image": "shopify:\/\/shop_images\/4.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -361,7 +361,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -369,7 +369,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -377,7 +377,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -426,28 +426,28 @@
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER SÄKRA?",
-            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<br/><br/>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<br/><br/>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<br/><br/>- Produkterna är även dermatologiskt testade för känslig hud.<br/><br/>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<br/></p>"
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<br\/><br\/>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<br\/><br\/>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<br\/><br\/>- Produkterna är även dermatologiskt testade för känslig hud.<br\/><br\/>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<br\/><\/p>"
           }
         },
         "template--15541999435932__ee81639f-9fd2-4557-97d2-c7ca02cffc3b-1668430102f9102bd9-1": {
           "type": "question",
           "settings": {
             "title": "VARFÖR REKOMMENDERAR NI EN OLJETVÄTT?",
-            "text": "<p>Att tvätta med en oljetvätt är ett mycket skonsamt och milt rengöringsalternativ som vi läkare rekommenderar till patienter med känsliga slemhinnor och hud. Det är fördelaktigt för kvinnor i alla åldrar men framför allt för kvinnor pre- och post klimakteriet.</p>"
+            "text": "<p>Att tvätta med en oljetvätt är ett mycket skonsamt och milt rengöringsalternativ som vi läkare rekommenderar till patienter med känsliga slemhinnor och hud. Det är fördelaktigt för kvinnor i alla åldrar men framför allt för kvinnor pre- och post klimakteriet.<\/p>"
           }
         },
         "226ad0bf-96ca-4de9-8fc5-d465ee546863": {
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER VEGANSKA?",
-            "text": "<p>Ja.</p>"
+            "text": "<p>Ja.<\/p>"
           }
         },
         "dc72b786-ead2-40cf-afb1-a3848fa2009b": {
           "type": "question",
           "settings": {
             "title": "Passar produkterna till känslig hy?",
-            "text": "<p>Ja, DeoDocs Cleansing Oil är en mild tvättolja för känslig intimhud formulerad av 100% naturliga oljor från växtriket.</p>"
+            "text": "<p>Ja, DeoDocs Cleansing Oil är en mild tvättolja för känslig intimhud formulerad av 100% naturliga oljor från växtriket.<\/p>"
           }
         }
       },
@@ -469,15 +469,6 @@
     },
     "1663689957f7cccf40": {
       "type": "apps",
-      "blocks": {
-        "868ed4e0-4f75-4e7a-ab78-4cd5692d5dde": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "868ed4e0-4f75-4e7a-ab78-4cd5692d5dde"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

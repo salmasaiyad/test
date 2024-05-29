@@ -52,7 +52,7 @@
           "settings": {}
         },
         "d4b6f17e-c518-4e46-a091-1acc61b33f62": {
-          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
           "settings": {
             "product": "{{product}}"
           }
@@ -77,7 +77,7 @@
         "5e61aa0d-6d8f-4d86-ae83-bcf94f963e9d": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/test_4_4000_x_300_px.png",
+            "image": "shopify:\/\/shop_images\/test_4_4000_x_300_px.png",
             "height": 28,
             "link": ""
           }
@@ -91,7 +91,7 @@
           "settings": {
             "icon": "none",
             "heading": "specifications",
-            "content": "<p>-Developed by women doctors and gynecologists</p><p>-Gynecologically and dermatologically tested</p><p>-Free from allergens, alcohol and parabens</p><p>-Designed in Sweden, made in Spain.</p><p>-100% vegan</p>",
+            "content": "<p>-Developed by women doctors and gynecologists<\/p><p>-Gynecologically and dermatologically tested<\/p><p>-Free from allergens, alcohol and parabens<\/p><p>-Designed in Sweden, made in Spain.<\/p><p>-100% vegan<\/p>",
             "page": ""
           }
         },
@@ -100,7 +100,7 @@
           "settings": {
             "icon": "none",
             "heading": "How to use",
-            "content": "<p>Place your thumb and your middle finger on the ribbed part of the applicator.The index finger is placed on the base of the applicator. With the other hand,gently open the vaginal opening. Insert the applicator 1-2 centimeters (0.5 - 1 inch)into the vagina while holding the ribbed part firmly. Push the applicator base with your index finger until it stops (works as a syringe). The tampon is now in placeand you can gently remove the applicator.</p>",
+            "content": "<p>Place your thumb and your middle finger on the ribbed part of the applicator.The index finger is placed on the base of the applicator. With the other hand,gently open the vaginal opening. Insert the applicator 1-2 centimeters (0.5 - 1 inch)into the vagina while holding the ribbed part firmly. Push the applicator base with your index finger until it stops (works as a syringe). The tampon is now in placeand you can gently remove the applicator.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -109,7 +109,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingredients",
-            "content": "<p>100% Organic Cotton</p>",
+            "content": "<p>100% Organic Cotton<\/p>",
             "page": ""
           }
         },
@@ -227,7 +227,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Studies show that 15% of women’s OB/GYN visits are due to irritation caused by menstruation care products. The primary cause being tampons produced from synthetic fibers and plastic. These fibers can shed, leaving fiber residue inside of your vagina that can cause irritation. As doctors, we recommend 100% organic cotton tampons; however, many organic cotton tampons still shed, so we created our own. DeoDoc’s 100% organic cotton tampons do not shed due to a special 100% cotton netting surrounding the tampon to ensure complete safety for your vagina and an irritation-free period.\"<br/><br/></em><strong>-Dr. Hedieh Asadi, Medical Doctor</strong></p>",
+            "text": "<p><em>\"Studies show that 15% of women’s OB\/GYN visits are due to irritation caused by menstruation care products. The primary cause being tampons produced from synthetic fibers and plastic. These fibers can shed, leaving fiber residue inside of your vagina that can cause irritation. As doctors, we recommend 100% organic cotton tampons; however, many organic cotton tampons still shed, so we created our own. DeoDoc’s 100% organic cotton tampons do not shed due to a special 100% cotton netting surrounding the tampon to ensure complete safety for your vagina and an irritation-free period.\"<br\/><br\/><\/em><strong>-Dr. Hedieh Asadi, Medical Doctor<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -248,7 +248,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_8019_14757769-6ac5-4dc1-b197-f6afa0285515.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8019_14757769-6ac5-4dc1-b197-f6afa0285515.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -276,7 +276,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -284,7 +284,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -292,7 +292,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -317,10 +317,10 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/28_72daf037-eacc-47f9-989f-dab7d508ff10.png",
+            "image": "shopify:\/\/shop_images\/28_72daf037-eacc-47f9-989f-dab7d508ff10.png",
             "title": "Step 1",
             "title_size": "h3",
-            "text": "<p>Open the box.</p>",
+            "text": "<p>Open the box.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -329,10 +329,10 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/33_3052a98b-857a-4ff3-9eb4-629e8a614d74.png",
+            "image": "shopify:\/\/shop_images\/33_3052a98b-857a-4ff3-9eb4-629e8a614d74.png",
             "title": "Step 2",
             "title_size": "h3",
-            "text": "<p>Remove the paper from the bottom and place the pad on your underwear with the glue facing down.</p>",
+            "text": "<p>Remove the paper from the bottom and place the pad on your underwear with the glue facing down.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -341,10 +341,10 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/38_0cd9fd97-3326-41e3-b6aa-80c61eb7b703.png",
+            "image": "shopify:\/\/shop_images\/38_0cd9fd97-3326-41e3-b6aa-80c61eb7b703.png",
             "title": "Step 3",
             "title_size": "h3",
-            "text": "<p>Wrap the wings of the pad around the bottom of your underwear for a secure fit.</p>",
+            "text": "<p>Wrap the wings of the pad around the bottom of your underwear for a secure fit.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -401,35 +401,35 @@
           "type": "question",
           "settings": {
             "title": "DO THE PADS CONTAIN ANY SYNTHETIC MATERIALS?",
-            "text": "<p>There are no synthetic materials used in our pads. Top sheet + core made with 100 % organic cotton and biofilm layer, wrap and adhesive; compostable and biodegradable.</p>"
+            "text": "<p>There are no synthetic materials used in our pads. Top sheet + core made with 100 % organic cotton and biofilm layer, wrap and adhesive; compostable and biodegradable.<\/p>"
           }
         },
         "template--15222408511624__609ea3ad-8fbf-4474-b28b-ed482dde65bd-166850642514fd1e6b-1": {
           "type": "question",
           "settings": {
             "title": "CAN DEODOC PADS IRRITATE THE INTIMATE AREA?",
-            "text": "<p>Synthetic materials are the most common cause of irritation from pads. DeoDoc pads are made out of 100% organic cotton.</p>"
+            "text": "<p>Synthetic materials are the most common cause of irritation from pads. DeoDoc pads are made out of 100% organic cotton.<\/p>"
           }
         },
         "7862f32b-7a5b-4b33-bea6-19f70b926c11": {
           "type": "question",
           "settings": {
             "title": "WHAT DOES 100% ORGANIC COTTON MEAN?",
-            "text": "<p>It means that DeoDoc pads contain zero synthetic materials.</p>"
+            "text": "<p>It means that DeoDoc pads contain zero synthetic materials.<\/p>"
           }
         },
         "cf1f9bbd-a7ab-4b94-b964-e1c9eb62ebd6": {
           "type": "question",
           "settings": {
             "title": "HOW MANY PADS ARE IN A BOX?",
-            "text": "<p>10pads/box.</p>"
+            "text": "<p>10pads\/box.<\/p>"
           }
         },
         "928b2f98-202d-4e0c-aeed-d8252766612c": {
           "type": "question",
           "settings": {
             "title": "What about the planet?",
-            "text": "<p>Choosing period care products in 100% organic cotton is much better for both you and the planet.</p>"
+            "text": "<p>Choosing period care products in 100% organic cotton is much better for both you and the planet.<\/p>"
           }
         }
       },
@@ -454,7 +454,7 @@
       "type": "apps",
       "blocks": {
         "7e846e5b-35c4-4972-bf15-0138411af97f": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
             "aggregated": false,

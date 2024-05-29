@@ -232,19 +232,6 @@
             </div>
           </div>
         </details>
-        <search-modal class="header__search">
-        <details>
-          <summary class="header__icon header__icon--summary header__icon--search focus-inset modal__toggle" aria-haspopup="dialog" aria-label="{{ 'general.search.search' | t }}">
-            <span>
-              {%- liquid
-                render 'icon', icon: 'search', class: 'modal__toggle-open'
-                render 'icon', icon: 'close-alt', class: 'modal__toggle-close'
-              -%}
-            </span>
-          </summary>
-          {% render 'search-modal' %}
-        </details>
-      </search-modal>
       </header-drawer>
     {%- endif -%}
 
@@ -398,11 +385,6 @@
             </summary>
             <mini-cart class="cart-drawer focus-inset" id="mini-cart" data-url="{{ routes.root }}?section_id=mini-cart">
               {% render 'mini-cart' %}
-              <div class="loading-overlay">
-                <div class="loading-overlay__spinner">
-                  {% render 'icon', icon: 'spinner' %}
-                </div>
-              </div>
             </mini-cart>
           </details>
           <noscript>
@@ -507,7 +489,7 @@
       this.currentScrollTop = scrollTop;
     }
 
-      hide() {
+    hide() {
       this.header.classList.add('shopify-section-header-hidden', 'shopify-section-header-sticky');
     }
 
@@ -563,10 +545,8 @@
   </script>
 {%- endif -%}
 
-{% comment %}
 <script src="{{ 'cart.js' | asset_url }}" defer="defer"></script>
 <script src="{{ 'cart-drawer.js' | asset_url }}" defer="defer"></script>
-{% endcomment %}
 
 {% schema %}
 {

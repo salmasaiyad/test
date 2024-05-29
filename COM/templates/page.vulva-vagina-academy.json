@@ -22,7 +22,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers.</p>",
+            "text": "<p>Share information about your brand with your customers.<\/p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -34,7 +34,7 @@
         "text"
       ],
       "settings": {
-        "image": "shopify://shop_images/Vulvas_social_post_1_e06941bf-0f08-45e8-bafd-89fd8162c27a.jpg",
+        "image": "shopify:\/\/shop_images\/Vulvas_social_post_1_e06941bf-0f08-45e8-bafd-89fd8162c27a.jpg",
         "image_position": "20% 50%",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -75,7 +75,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -126,36 +126,36 @@
         "1657806368eb1a5abf-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/GetIntimate_IntimateOdor_256x256_ddb7947a-14e9-4221-8980-2679e5dec770.webp",
+            "image": "shopify:\/\/shop_images\/GetIntimate_IntimateOdor_256x256_ddb7947a-14e9-4221-8980-2679e5dec770.webp",
             "title": "Intimate Odor",
             "title_size": "h2",
-            "text": "<p>Worried about odor in your intimate area? Well you’re in luck! Here’s your full medical guide with tips on all things odor, including discharge, sweat, and urine.</p><p></p>",
+            "text": "<p>Worried about odor in your intimate area? Well you’re in luck! Here’s your full medical guide with tips on all things odor, including discharge, sweat, and urine.<\/p><p><\/p>",
             "button_label": "learn more",
-            "button_link": "shopify://pages/intimate-odor",
+            "button_link": "shopify:\/\/pages\/intimate-odor",
             "button_style_secondary": false
           }
         },
         "1657806368eb1a5abf-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/GetIntimate_VulvaVsVagina_256x256_456758b7-592e-4b79-bab4-a851ee7b0c56.webp",
+            "image": "shopify:\/\/shop_images\/GetIntimate_VulvaVsVagina_256x256_456758b7-592e-4b79-bab4-a851ee7b0c56.webp",
             "title": "Vulva vs Vagina",
             "title_size": "h2",
-            "text": "<p>It’s incredible how little we know about our own vulvas and vaginas. It’s time to dispel these misconceptions.<br/><br/><br/></p>",
+            "text": "<p>It’s incredible how little we know about our own vulvas and vaginas. It’s time to dispel these misconceptions.<br\/><br\/><br\/><\/p>",
             "button_label": "Learn more",
-            "button_link": "shopify://pages/vulva",
+            "button_link": "shopify:\/\/pages\/vulva",
             "button_style_secondary": false
           }
         },
         "1657806368eb1a5abf-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/191212_Deodoc12985_Correct_Ratio_256x256_93358e5f-6e96-4e19-b540-2ef65fdb6fd5.webp",
+            "image": "shopify:\/\/shop_images\/191212_Deodoc12985_Correct_Ratio_256x256_93358e5f-6e96-4e19-b540-2ef65fdb6fd5.webp",
             "title": "Menopause",
             "title_size": "h2",
-            "text": "<p>Most women know menopause as a time when our periods finally stop but know very little about the symptoms and side effects! Let’s talk about it with our doctors!<br/><br/></p>",
+            "text": "<p>Most women know menopause as a time when our periods finally stop but know very little about the symptoms and side effects! Let’s talk about it with our doctors!<br\/><br\/><\/p>",
             "button_label": "Learn more",
-            "button_link": "shopify://pages/menopause",
+            "button_link": "shopify:\/\/pages\/menopause",
             "button_style_secondary": false
           }
         },
@@ -163,10 +163,10 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Frame_6.png",
+            "image": "shopify:\/\/shop_images\/Frame_6.png",
             "title": "Why do razor bumps happen?",
             "title_size": "h3",
-            "text": "<p>Expert approved products to treat and prevent razor bumps...</p>",
+            "text": "<p>Expert approved products to treat and prevent razor bumps...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -176,10 +176,10 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Frame_7_1.png",
+            "image": "shopify:\/\/shop_images\/Frame_7_1.png",
             "title": "All the Questions You Have About How to Use a Menstrual Cup",
             "title_size": "h3",
-            "text": "<p>Find out the key to clean your menstrual cup when you are in a public restroom...</p>",
+            "text": "<p>Find out the key to clean your menstrual cup when you are in a public restroom...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -191,7 +191,7 @@
           "settings": {
             "title": "Refresh Fast!",
             "title_size": "h3",
-            "text": "<p>For the unpredictable stinky situations. Keep calm and carry on with these staples...</p>",
+            "text": "<p>For the unpredictable stinky situations. Keep calm and carry on with these staples...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -201,12 +201,12 @@
           "type": "column",
           "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Frame_8.png",
+            "image": "shopify:\/\/shop_images\/Frame_8.png",
             "title": "How women entrepreneurs are disrupting the feminine market?",
             "title_size": "h3",
-            "text": "<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...</p>",
+            "text": "<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...<\/p>",
             "button_label": "Button label",
-            "button_link": "https://wwd.com/beauty-industry-news/beauty-features/vagina-products-vibrators-feminist-1202758743/",
+            "button_link": "https:\/\/wwd.com\/beauty-industry-news\/beauty-features\/vagina-products-vibrators-feminist-1202758743\/",
             "button_style_secondary": false
           }
         }
@@ -240,36 +240,36 @@
         "16583237503c8c2702-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/rQ9daz9A-Correct_Ratio_256x256_1cc8681a-7ddd-4670-ac3d-55ca878ed1e0.webp",
+            "image": "shopify:\/\/shop_images\/rQ9daz9A-Correct_Ratio_256x256_1cc8681a-7ddd-4670-ac3d-55ca878ed1e0.webp",
             "title": "pH",
             "title_size": "h2",
-            "text": "<p>The vulva has a delicate pH ecosystem that should not be disrupted to avoid irritation and discomfort. Learn about pH levels and intimate care from our doctors!<br/><br/></p>",
+            "text": "<p>The vulva has a delicate pH ecosystem that should not be disrupted to avoid irritation and discomfort. Learn about pH levels and intimate care from our doctors!<br\/><br\/><\/p>",
             "button_label": "learn more",
-            "button_link": "shopify://pages/ph",
+            "button_link": "shopify:\/\/pages\/ph",
             "button_style_secondary": false
           }
         },
         "16583237503c8c2702-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/GetIntimate_FAQ_256x256_005c6cff-18d1-4bc9-aa35-9e3a9486ca64.webp",
+            "image": "shopify:\/\/shop_images\/GetIntimate_FAQ_256x256_005c6cff-18d1-4bc9-aa35-9e3a9486ca64.webp",
             "title": "FAQ",
             "title_size": "h2",
-            "text": "<p>We receive many questions from our patients and community and want to share our medical expertise with women everywhere.<br/><br/><br/></p>",
+            "text": "<p>We receive many questions from our patients and community and want to share our medical expertise with women everywhere.<br\/><br\/><br\/><\/p>",
             "button_label": "LEARN MORE",
-            "button_link": "shopify://pages/faq",
+            "button_link": "shopify:\/\/pages\/faq",
             "button_style_secondary": false
           }
         },
         "16583237503c8c2702-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Pads_590x336_256x256_914db8c5-e5af-4e41-bc36-b31575cecaf3.webp",
+            "image": "shopify:\/\/shop_images\/Pads_590x336_256x256_914db8c5-e5af-4e41-bc36-b31575cecaf3.webp",
             "title": "Periods",
             "title_size": "h2",
-            "text": "<p>Menstruation, or more commonly known as a period, is the monthly shedding of blood and uterine lining via the vagina. Here you can learn more about what is happening in your body during the four phases of the menstrual cycle.</p>",
+            "text": "<p>Menstruation, or more commonly known as a period, is the monthly shedding of blood and uterine lining via the vagina. Here you can learn more about what is happening in your body during the four phases of the menstrual cycle.<\/p>",
             "button_label": "learn more",
-            "button_link": "shopify://pages/menstruation",
+            "button_link": "shopify:\/\/pages\/menstruation",
             "button_style_secondary": false
           }
         }
@@ -306,7 +306,7 @@
         "16575421422babb9f9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -328,7 +328,7 @@
       ],
       "disabled": true,
       "settings": {
-        "video_url": "https://www.youtube.com/watch?v=NzycSGeg7nI",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NzycSGeg7nI",
         "text_box_position": "middle-center",
         "text_alignment": "center",
         "image_ratio": "650px",

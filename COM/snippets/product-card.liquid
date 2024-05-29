@@ -47,23 +47,23 @@
 
       <a href="{{ card_product.url | within: collection }}" class="card__media media-wrapper" tabindex="-1">
         <lazy-image class="image-animate media media--{{ media_size }} media--hover-effect{% unless enable_image_fill %} media--image-contain{% endunless %}"
-                {%- if media_size == 'adapt' %} style="--image-ratio-percent: {{ 1 | divided_by: featured_media_aspect_ratio | times: 100 }}%;"{% endif -%}
+          {%- if media_size == 'adapt' %} style="--image-ratio-percent: {{ 1 | divided_by: featured_media_aspect_ratio | times: 100 }}%;"{% endif -%}
         >
           {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
           <img
-                  srcset="{%- if card_product.featured_media.width >= 165 -%}{{ card_product.featured_media | image_url: width: 165 }} 165w{%- endif -%}
+            srcset="{%- if card_product.featured_media.width >= 165 -%}{{ card_product.featured_media | image_url: width: 165 }} 165w{%- endif -%}
               {%- if card_product.featured_media.width >= 375 -%},{{ card_product.featured_media | image_url: width: 375 }} 375w{%- endif -%}
               {%- if card_product.featured_media.width >= 550 -%},{{ card_product.featured_media | image_url: width: 550 }} 550w{%- endif -%}
               {%- if card_product.featured_media.width >= 750 -%},{{ card_product.featured_media | image_url: width: 750 }} 750w{%- endif -%}
               {%- if card_product.featured_media.width >= 1100 -%},{{ card_product.featured_media | image_url: width: 1100 }} 1100w{%- endif -%},
               {{ card_product.featured_media | image_url }} {{ card_product.featured_media.width }}w"
-                  src="{{ card_product.featured_media | image_url: width: 550 }}"
-                  sizes="(min-width: 2000px) {{ 2000 | minus: 130 | divided_by: 4 }}px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
-                  alt="{{ card_product.featured_media.alt | escape | split: '#' | first }}"
-                  loading="{% if lazy_load == false %}auto{% else %}lazy{% endif %}"
-                  class="motion-reduce"
-                  width="{{ card_product.featured_media.width }}"
-                  height="{{ card_product.featured_media.height }}"
+            src="{{ card_product.featured_media | image_url: width: 550 }}"
+            sizes="(min-width: 2000px) {{ 2000 | minus: 130 | divided_by: 4 }}px, (min-width: 990px) calc((100vw - 130px) / 4), (min-width: 750px) calc((100vw - 120px) / 3), calc((100vw - 35px) / 2)"
+            alt="{{ card_product.featured_media.alt | escape | split: '#' | first }}"
+            loading="{% if lazy_load == false %}auto{% else %}lazy{% endif %}"
+            class="motion-reduce"
+            width="{{ card_product.featured_media.width }}"
+            height="{{ card_product.featured_media.height }}"
           />
           {% comment %}theme-check-enable ImgLazyLoading{% endcomment %}
 
@@ -84,11 +84,11 @@
                       width="{{ card_product.media[1].width }}"
                       height="{{ card_product.media[1].height }}"
               />
-            {% else %}
+              {% else %}
               <div class="video-wrapper motion-reduce" style="display:none">
                 {{ card_product.media[1] | video_tag: image_size: '550x', autoplay: true, controls: false, loop: true, muted: true, playsinline: true, loading:'lazy' }}
               </div>
-            {% endif %}
+              {% endif %}
           {%- endif -%}
         </lazy-image>
       </a>
@@ -144,7 +144,7 @@
           assign swatch_file_extension = 'png'
           assign color_count = 0
         -%}
-
+    
         {%- for option in card_product.options_with_values -%}
           {%- liquid
             assign option_name = option.name | downcase
@@ -164,33 +164,33 @@
                 {%- unless values contains value -%}
                   {%- liquid
                     assign values = values | join: ',' | append: ',' | append: value | split: ','
-
+    
                     assign color_image = value | handle | append: '.' | append: swatch_file_extension | file_img_url: '50x50' | prepend: 'https:' | split: '?' | first
                     assign color_swatch_fallback = value | split: ' ' | last | handle
                     assign color_count = color_count | plus: 1
                   -%}
                   <a
-                          href="{{ variant.url }}"
-                          class="color-swatch{% if card_product.featured_media == variant.image %} active{% endif %}"
-                          style="background-image: url({{ color_image }}); background-color: {{ color_swatch_fallback }};"
-                          data-title="{{ value | escape }}"
-                          tabindex="-1"
+                    href="{{ variant.url }}"
+                    class="color-swatch{% if card_product.featured_media == variant.image %} active{% endif %}"
+                    style="background-image: url({{ color_image }}); background-color: {{ color_swatch_fallback }};"
+                    data-title="{{ value | escape }}"
+                    tabindex="-1"
                   >
                     {%- if variant.image -%}
                       <color-swatch
-                              data-srcset="{%- if variant.image.width >= 165 -%}{{ variant.image | image_url: width: 165 }} 165w{%- endif -%}
+                        data-srcset="{%- if variant.image.width >= 165 -%}{{ variant.image | image_url: width: 165 }} 165w{%- endif -%}
                           {%- if variant.image.width >= 375 -%},{{ variant.image | image_url: width: 375 }} 375w{%- endif -%}
                           {%- if variant.image.width >= 550 -%},{{ variant.image | image_url: width: 550 }} 550w{%- endif -%}
                           {%- if variant.image.width >= 750 -%},{{ variant.image | image_url: width: 750 }} 750w{%- endif -%}
                           {%- if variant.image.width >= 1100 -%},{{ variant.image | image_url: width: 1100 }} 1100w{%- endif -%},
                           {{ variant.image | image_url }} {{ variant.image.width }}w"
-                              data-src="{{ variant.image | image_url: width: 550 }}"
+                        data-src="{{ variant.image | image_url: width: 550 }}"
                       ></color-swatch>
                     {%- endif -%}
                     <span class="visually-hidden">{{ value }}</span>
                   </a>
                 {%- endunless -%}
-              {%- endfor -%}
+               {%- endfor -%}
             </div>
             {%- if color_count < 2 -%}
               <style type="text/css">
@@ -231,7 +231,7 @@
     {%- else -%}
       <button class="button button--small button--soldout" type="button" disabled="disabled">{{ 'products.product.sold_out' | t }}</button>
     {%- endif -%}
-
+    
     <div class="card-information__wrapper">
       {%- if show_vendor -%}
         <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
@@ -242,12 +242,12 @@
         <a href="{{ card_product.url | within: collection }}" class="card-information__text h4" tabindex="-1">
           {{ card_product.title | escape }}
         </a>
-      {%- endif -%}
+      {%- endif -%}  
 
-      <p> {{ card_product.metafields.custom_design.product_subtitle }}
+     <p> {{ card_product.metafields.custom_design.product_subtitle }}
       </p>
 
-
+      
       {% comment %} TODO: metafield {% endcomment %}
       <span class="caption-large light">{{ block.settings.text | escape }}</span>
 
@@ -255,13 +255,13 @@
 
       {%- if show_rating and card_product.metafields.reviews.rating.value != blank -%}
         {% liquid
-          assign rating_decimal = 0
-          assign decimal = card_product.metafields.reviews.rating.value.rating | modulo: 1
+          assign rating_decimal = 0 
+          assign decimal = card_product.metafields.reviews.rating.value.rating | modulo: 1 
           if decimal >= 0.3 and decimal <= 0.7
             assign rating_decimal = 0.5
           elsif decimal > 0.7
             assign rating_decimal = 1
-          endif
+          endif 
         %}
         <div class="rating" role="img" aria-label="{{ 'accessibility.star_reviews_info' | t: rating_value: card_product.metafields.reviews.rating.value, rating_max: card_product.metafields.reviews.rating.value.scale_max }}">
           <span aria-hidden="true" class="rating-star" style="--rating: {{ card_product.metafields.reviews.rating.value.rating | floor }}; --rating-max: {{ card_product.metafields.reviews.rating.value.scale_max }}; --rating-decimal: {{ rating_decimal }};"></span>

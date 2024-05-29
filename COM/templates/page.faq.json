@@ -24,7 +24,7 @@
         "image-banner-0"
       ],
       "settings": {
-        "image": "shopify://shop_images/Untitled-133.jpg",
+        "image": "shopify:\/\/shop_images\/Untitled-133.jpg",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -57,35 +57,35 @@
           "type": "question",
           "settings": {
             "title": "How long will it take to get my order?",
-            "text": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "text": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
           }
         },
         "question-1": {
           "type": "question",
           "settings": {
             "title": "What shipping carriers do you use?",
-            "text": "<p>We use all major carriers, and local courier partners. You’ll be asked to select a delivery method during checkout.</p>"
+            "text": "<p>We use all major carriers, and local courier partners. You’ll be asked to select a delivery method during checkout.<\/p>"
           }
         },
         "question-2": {
           "type": "question",
           "settings": {
             "title": "Can I return my product?",
-            "text": "<p>We always aim to ensure our customers love our products, but if you do need to return an order, we’re happy to help. Just email us directly and we’ll take you through the process.</p>"
+            "text": "<p>We always aim to ensure our customers love our products, but if you do need to return an order, we’re happy to help. Just email us directly and we’ll take you through the process.<\/p>"
           }
         },
         "cfded3e6-421a-4cde-8c2c-cd6c6d2b5c92": {
           "type": "question",
           "settings": {
             "title": "Do you ship to P.O boxes?",
-            "text": "<p>Yes, our shipping carrier USPS delivers to PO boxes.</p>"
+            "text": "<p>Yes, our shipping carrier USPS delivers to PO boxes.<\/p>"
           }
         },
         "question_KpPip7": {
           "type": "question",
           "settings": {
             "title": "Duties and Taxes for Orders Shipped to Canada",
-            "text": "<p>Please be aware that Duties and Taxes may be applied to orders sent to Canada. While we strive to provide accurate information about potential additional charges, these fees are determined by Canadian customs authorities and may vary based on various factors. Customers are advised to familiarize themselves with Canadian customs regulations regarding duties and taxes. DeoDoc is not liable for any additional charges beyond the purchase price and shipping fees.</p><p>Please see more information <a href=\"https://www.cbsa-asfc.gc.ca/services/cusma-aceum/lvs-efv-eng.html\" target=\"_blank\">here</a>.</p>"
+            "text": "<p>Please be aware that Duties and Taxes may be applied to orders sent to Canada. While we strive to provide accurate information about potential additional charges, these fees are determined by Canadian customs authorities and may vary based on various factors. Customers are advised to familiarize themselves with Canadian customs regulations regarding duties and taxes. DeoDoc is not liable for any additional charges beyond the purchase price and shipping fees.<\/p><p>Please see more information <a href=\"https:\/\/www.cbsa-asfc.gc.ca\/services\/cusma-aceum\/lvs-efv-eng.html\" target=\"_blank\">here<\/a>.<\/p>"
           }
         },
         "8796116e-76ae-47bf-8ac8-1e10575a44a0": {
@@ -99,7 +99,7 @@
           "type": "question",
           "settings": {
             "title": "WHAT IS THE VIOLET CODE?",
-            "text": "<p>The VIOLET CODE is a testing process and set of standards by which Violet Grey's community of top makeup artists, hairstylists, estheticians, dermatologists, and celebrity influencers distinguish the finest beauty products in the world from the tens of thousands on the market. The result is a curation that is truly the best in beauty from those who know best.</p>"
+            "text": "<p>The VIOLET CODE is a testing process and set of standards by which Violet Grey's community of top makeup artists, hairstylists, estheticians, dermatologists, and celebrity influencers distinguish the finest beauty products in the world from the tens of thousands on the market. The result is a curation that is truly the best in beauty from those who know best.<\/p>"
           }
         },
         "c1ae819b-6696-4769-9bc4-428bb07c7a1e": {
@@ -113,7 +113,7 @@
           "type": "question",
           "settings": {
             "title": "Are DeoDoc's products safe to use?",
-            "text": "<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products</p><p>- DeoDoc ingredients and products fulfils the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products</p><p>- Each products are gynaecologically tested which means they are tested on women outside of a lab environment</p><p>- Products are dermatologically tested for sensitive skin</p><p>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg</p>"
+            "text": "<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<\/p><p>- DeoDoc ingredients and products fulfils the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<\/p><p>- Each products are gynaecologically tested which means they are tested on women outside of a lab environment<\/p><p>- Products are dermatologically tested for sensitive skin<\/p><p>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg<\/p>"
           }
         },
         "36abd39d-ab07-4572-a847-67d4f866e72e": {
@@ -127,7 +127,7 @@
           "type": "question",
           "settings": {
             "title": "Why do your products contain perfume?",
-            "text": "<p>DeoDoc only uses hypoallergenic scents/perfume in all of our products. Hypoallergenic scents are free from alcohol, allergens and irritants, therefore, they are safe for intimate skin.</p><p>Regular perfume should never be used in the intimate area as it contains:</p><p>- alcohol which can have a dehydrating effect</p><p>- allergens which can cause irritation</p>"
+            "text": "<p>DeoDoc only uses hypoallergenic scents\/perfume in all of our products. Hypoallergenic scents are free from alcohol, allergens and irritants, therefore, they are safe for intimate skin.<\/p><p>Regular perfume should never be used in the intimate area as it contains:<\/p><p>- alcohol which can have a dehydrating effect<\/p><p>- allergens which can cause irritation<\/p>"
           }
         },
         "a1404cee-811d-4cac-8e40-c5db7d391032": {
@@ -141,42 +141,42 @@
           "type": "question",
           "settings": {
             "title": "How and where should I spray the DeoSpray?",
-            "text": "<p>Shake the can and spray 15cm away from the vulva or groin area. The vulva has apocrine sweat glands which empty into hair follicles, so the DeoSpray should only be used where ever hair can grow. Do not use or spray within the inner labia, mucosa or inside of the vagina.</p>"
+            "text": "<p>Shake the can and spray 15cm away from the vulva or groin area. The vulva has apocrine sweat glands which empty into hair follicles, so the DeoSpray should only be used where ever hair can grow. Do not use or spray within the inner labia, mucosa or inside of the vagina.<\/p>"
           }
         },
         "3236f7b8-ed3e-4bad-9290-37edc534824b": {
           "type": "question",
           "settings": {
             "title": "Should I see a doctor if I experience odor from my intimate area?",
-            "text": "<p>Discharge has a naturally sour smell. If your discharge has an irregular smell, please consult a doctor as this may be a vaginal infection. If you are experiencing smell from vulvar sweat, the DeoSpray may be used. It is formulated with corn starch to absorb moisture from vulvar sweat.</p>"
+            "text": "<p>Discharge has a naturally sour smell. If your discharge has an irregular smell, please consult a doctor as this may be a vaginal infection. If you are experiencing smell from vulvar sweat, the DeoSpray may be used. It is formulated with corn starch to absorb moisture from vulvar sweat.<\/p>"
           }
         },
         "9d0765a8-ca03-4288-ba1c-11e499a34db5": {
           "type": "question",
           "settings": {
             "title": "Can I use the DeoSpray to cover up or help the smell of a vaginal disease or infection?",
-            "text": "<p>The DeoSpray is formulated to absorb moisture and sweat on the vulva. The spray does not cover up smells from vaginal diseases or infections. If you believe you have a vaginal disease or infection, please visit your doctor.</p><p></p>"
+            "text": "<p>The DeoSpray is formulated to absorb moisture and sweat on the vulva. The spray does not cover up smells from vaginal diseases or infections. If you believe you have a vaginal disease or infection, please visit your doctor.<\/p><p><\/p>"
           }
         },
         "e6cd875d-b89f-4fd3-9ff4-38b3ab44a265": {
           "type": "question",
           "settings": {
             "title": "Should I use the DeoSpray if my discharge smells bad?",
-            "text": "<p>Discharge has a naturally sour smell and is milky white in color. If that smell, color or texture changes, please see your doctor. The DeoSpray is formulated with corn starch to to absorb moisture from vulvar sweat. It does not mask or alter smell from discharge, STIs or vaginal infections.</p>"
+            "text": "<p>Discharge has a naturally sour smell and is milky white in color. If that smell, color or texture changes, please see your doctor. The DeoSpray is formulated with corn starch to to absorb moisture from vulvar sweat. It does not mask or alter smell from discharge, STIs or vaginal infections.<\/p>"
           }
         },
         "e927b79a-afd8-46ea-92b7-e8ad369d0644": {
           "type": "question",
           "settings": {
             "title": "Why did you develop an intimate deodorant?",
-            "text": "<p>The sweat glands that exist in  the armpits and the intimate area are the same.  They are called apocrine sweat glands and they empty into hair follicles. So wherever there is hair in those areas, there may also be sweat. Sweating is natural and there are many deodorants for armpits available on the market for those who chose to use it. The same goes for the intimate/groin area for both men and women, however this area is highly sensitive and cannot be treated with the same products formulated for the armpits. We created a safe and doctor-developed product for those that would like to use it. </p><p>As doctors, we have seen patients with sweat concerns that over wash or use incorrectly formulated products which can give them infections. It was our responsibility to give them a safe and effective solution to prevent them from unsafe habits. That is why we chose to develop an intimate deodorant that we as doctors can actually recommend.</p><p></p>"
+            "text": "<p>The sweat glands that exist in  the armpits and the intimate area are the same.  They are called apocrine sweat glands and they empty into hair follicles. So wherever there is hair in those areas, there may also be sweat. Sweating is natural and there are many deodorants for armpits available on the market for those who chose to use it. The same goes for the intimate\/groin area for both men and women, however this area is highly sensitive and cannot be treated with the same products formulated for the armpits. We created a safe and doctor-developed product for those that would like to use it. <\/p><p>As doctors, we have seen patients with sweat concerns that over wash or use incorrectly formulated products which can give them infections. It was our responsibility to give them a safe and effective solution to prevent them from unsafe habits. That is why we chose to develop an intimate deodorant that we as doctors can actually recommend.<\/p><p><\/p>"
           }
         },
         "e8182e39-9dd3-42b7-9dd2-e5058366385d": {
           "type": "question",
           "settings": {
             "title": "Does the product contain any dangerous ingredients?",
-            "text": "<p>All of our products are approved by the Medical Products Agency and follow European Union guidelines for the manufacturing of cosmetic products. The products are also reviewed and approved by Swedish pharmacies that are known for their strict regulation of products. There is nothing in the products that is dangerous for women or we would not be approved to sell them.</p>"
+            "text": "<p>All of our products are approved by the Medical Products Agency and follow European Union guidelines for the manufacturing of cosmetic products. The products are also reviewed and approved by Swedish pharmacies that are known for their strict regulation of products. There is nothing in the products that is dangerous for women or we would not be approved to sell them.<\/p>"
           }
         },
         "6574d330-4f50-46e2-bec8-66a382d8f136": {
@@ -190,105 +190,105 @@
           "type": "question",
           "settings": {
             "title": "Do the tampons contain any synthetic materials?",
-            "text": "<p>There are no synthetic materials used in our tampons. The entire tampon, including the protective outer netting, is made out of 100% organic cotton. The applicator is made out of biodegradable cardboard.</p>"
+            "text": "<p>There are no synthetic materials used in our tampons. The entire tampon, including the protective outer netting, is made out of 100% organic cotton. The applicator is made out of biodegradable cardboard.<\/p>"
           }
         },
         "ae6324a3-42d7-405b-8e19-2ed13fb10822": {
           "type": "question",
           "settings": {
             "title": "Can DeoDoc tampons irritate the intimate area?",
-            "text": "<p>Synthetic materials are the most common cause of irritation from tampons. DeoDoc tampons are solely made out of 100% organic cotton and have been clinically tested as hypoallergenic and non-irritating.</p>"
+            "text": "<p>Synthetic materials are the most common cause of irritation from tampons. DeoDoc tampons are solely made out of 100% organic cotton and have been clinically tested as hypoallergenic and non-irritating.<\/p>"
           }
         },
         "e618bdf6-e81b-4f62-9480-c8c3e6521489": {
           "type": "question",
           "settings": {
             "title": "How do DeoDoc tampons prevent shedding?",
-            "text": "<p>Our tampons have a protective outer netting that covers the whole tampon which prevents the release of any fiber residues.</p><p></p>"
+            "text": "<p>Our tampons have a protective outer netting that covers the whole tampon which prevents the release of any fiber residues.<\/p><p><\/p>"
           }
         },
         "5bfeaf93-0c2f-447d-9351-16948f11192a": {
           "type": "question",
           "settings": {
             "title": "How often should I change my tampon?",
-            "text": "<p>Every 4-8 hours is recommended.</p>"
+            "text": "<p>Every 4-8 hours is recommended.<\/p>"
           }
         },
         "9370aeb8-d3af-4648-b05d-a795252a2eb2": {
           "type": "question",
           "settings": {
             "title": "Does using 100% organic cotton compromise tampon absorbency?",
-            "text": "<p>No, the absorbency is not compromised from using 100% organic cotton.</p>"
+            "text": "<p>No, the absorbency is not compromised from using 100% organic cotton.<\/p>"
           }
         },
         "e3454ff9-a824-4979-8e91-904684b57801": {
           "type": "question",
           "settings": {
             "title": "Can the tampons be flushed down the toilet?",
-            "text": "<p>Tampons should never be flushed down the toilet. They take too long to break down in the water waste systems, even biodegradable ones (like DeoDoc's) can take months to break down. Tampons can also clog up plumbing systems as they are absorbent and therefore expand when flushed.</p><p></p>"
+            "text": "<p>Tampons should never be flushed down the toilet. They take too long to break down in the water waste systems, even biodegradable ones (like DeoDoc's) can take months to break down. Tampons can also clog up plumbing systems as they are absorbent and therefore expand when flushed.<\/p><p><\/p>"
           }
         },
         "9f33e6c0-5b66-4c8b-b9d0-b00368f72a3d": {
           "type": "question",
           "settings": {
             "title": "Are DeoDoc tampons vegan?",
-            "text": "<p>Yes. </p>"
+            "text": "<p>Yes. <\/p>"
           }
         },
         "bd594974-e8cf-493a-8979-b65880f4ea2e": {
           "type": "question",
           "settings": {
             "title": "What does 100% organic cotton mean?",
-            "text": "<p>It means that DeoDoc tampons contain zero synthetic materials. The entire tampon including the protective outer netting and string is made from 100% organic cotton. The applicator is made out of biodegradable cardboard.</p><p></p>"
+            "text": "<p>It means that DeoDoc tampons contain zero synthetic materials. The entire tampon including the protective outer netting and string is made from 100% organic cotton. The applicator is made out of biodegradable cardboard.<\/p><p><\/p>"
           }
         },
         "0418d891-b114-4aa8-b02c-32b1d83bf822": {
           "type": "question",
           "settings": {
             "title": "What sizes are available for DeoDoc tampons?",
-            "text": "<p>Regular flow  for a normal flow.<br/>Super flow for a heavier flow.</p>"
+            "text": "<p>Regular flow  for a normal flow.<br\/>Super flow for a heavier flow.<\/p>"
           }
         },
         "3768a854-9d4b-47dc-870a-821fa6c2dfda": {
           "type": "question",
           "settings": {
             "title": "How many tampons are in a box?",
-            "text": "<p>Regular flow - 16 pcs.<br/>Super flow - 14 pcs.</p>"
+            "text": "<p>Regular flow - 16 pcs.<br\/>Super flow - 14 pcs.<\/p>"
           }
         },
         "4932cca4-13f7-489c-ad04-f29151ee391e": {
           "type": "question",
           "settings": {
             "title": "Why is there an applicator?",
-            "text": "<p>Applicators allow for easier and more hygienic tampon insertion.</p>"
+            "text": "<p>Applicators allow for easier and more hygienic tampon insertion.<\/p>"
           }
         },
         "225d13d7-dee9-461d-81c3-5f4b6b51f709": {
           "type": "question",
           "settings": {
             "title": "What is the applicator made out of?",
-            "text": "<p>Biodegradable cardboard.</p>"
+            "text": "<p>Biodegradable cardboard.<\/p>"
           }
         },
         "9981b852-ae59-44a2-9149-53d0bb599971": {
           "type": "question",
           "settings": {
             "title": "How do I use the applicator?",
-            "text": "<p>First, twist the base to break the sealed piece. Place your thumb and your middle finger on the ribbed part of the applicator and the index finger on the base of the applicator.</p><p>With the other hand, open the vaginal opening gently. Insert the applicator 1-2 centimeters into the vagina and hold the ribbed part firmly. Push the applicator base with your index finger until it stops. The tampon is now in place and you can gently remove the applicator.</p>"
+            "text": "<p>First, twist the base to break the sealed piece. Place your thumb and your middle finger on the ribbed part of the applicator and the index finger on the base of the applicator.<\/p><p>With the other hand, open the vaginal opening gently. Insert the applicator 1-2 centimeters into the vagina and hold the ribbed part firmly. Push the applicator base with your index finger until it stops. The tampon is now in place and you can gently remove the applicator.<\/p>"
           }
         },
         "fb861a0a-a9b7-4681-bca9-6574e35bba8f": {
           "type": "question",
           "settings": {
             "title": "What does ICEA certified mean?",
-            "text": "<p>ICEA stands for Ethical and Environmental Certification Institute. ICEA works towards a sustainable development of organic farming through ethical and environmental standards.</p><p>To learn more go to https://icea.bio/en/</p>"
+            "text": "<p>ICEA stands for Ethical and Environmental Certification Institute. ICEA works towards a sustainable development of organic farming through ethical and environmental standards.<\/p><p>To learn more go to https:\/\/icea.bio\/en\/<\/p>"
           }
         },
         "349f1dca-b956-438a-9bb3-bd4d818cf9ef": {
           "type": "question",
           "settings": {
             "title": "What does GOTS certified mean?",
-            "text": "<p>GOTS stands for Global Organic Textile Standard. The world's leading processing standard for textiles made from organic fibres. GOTS keeps a high-level environmental criteria and requires compliance with social criteria as well.</p><p>To learn more go to https://www.global-standard.org/</p>"
+            "text": "<p>GOTS stands for Global Organic Textile Standard. The world's leading processing standard for textiles made from organic fibres. GOTS keeps a high-level environmental criteria and requires compliance with social criteria as well.<\/p><p>To learn more go to https:\/\/www.global-standard.org\/<\/p>"
           }
         },
         "10df62e1-328b-431e-ba76-1a1c7f8274e0": {
@@ -296,21 +296,21 @@
           "disabled": true,
           "settings": {
             "title": "Are the tampons FDA approved?",
-            "text": "<p>Yes.</p>"
+            "text": "<p>Yes.<\/p>"
           }
         },
         "dc4c5c0d-5141-467e-bc95-600f2e9c6d20": {
           "type": "question",
           "settings": {
             "title": "What does clinically tested mean?",
-            "text": "<p>Our tampons have been tested by external labs to be determined as hypoallergenic non-irritants.</p><p></p>"
+            "text": "<p>Our tampons have been tested by external labs to be determined as hypoallergenic non-irritants.<\/p><p><\/p>"
           }
         },
         "e7037da3-32d5-47cc-9c4c-cf7c7081e790": {
           "type": "question",
           "settings": {
             "title": "Are the tampons hypoallergenic?",
-            "text": "<p>Yes.</p>"
+            "text": "<p>Yes.<\/p>"
           }
         }
       },
@@ -377,7 +377,7 @@
         "rich-text-0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Please email us on askdeodoc@deodoc.com and we’ll do our best to guide you! </p><p>DeoDoc, Doctors Team</p>",
+            "text": "<p>Please email us on askdeodoc@deodoc.com and we’ll do our best to guide you! <\/p><p>DeoDoc, Doctors Team<\/p>",
             "text_size": "typeset",
             "secondary_color": false
           }
@@ -409,7 +409,7 @@
         "rich-text-1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Please email us at <a href=\"mailto:info@yourstore.com\" title=\"shop@yourstore.com\">shop@yourstore.com</a></p>",
+            "text": "<p>Please email us at <a href=\"mailto:info@yourstore.com\" title=\"shop@yourstore.com\">shop@yourstore.com<\/a><\/p>",
             "text_size": "typeset",
             "secondary_color": false
           }
@@ -453,7 +453,7 @@
         "1657720117a35fb36d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Please email us at myorder@deodoc.se and we'll get back to you! </p>",
+            "text": "<p>Please email us at myorder@deodoc.se and we'll get back to you! <\/p>",
             "text_size": "typeset",
             "secondary_color": false
           }

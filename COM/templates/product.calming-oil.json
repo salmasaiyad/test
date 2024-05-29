@@ -53,7 +53,7 @@
           "settings": {}
         },
         "17a4011f-de51-42b3-8a12-7f00325f5aa3": {
-          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
           "settings": {
             "product": "{{product}}"
           }
@@ -78,7 +78,7 @@
         "f661d09c-e282-44cc-82c1-c6775744aabf": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/test_4_4000_x_300_px.png",
+            "image": "shopify:\/\/shop_images\/test_4_4000_x_300_px.png",
             "height": 28,
             "link": ""
           }
@@ -92,7 +92,7 @@
           "settings": {
             "icon": "none",
             "heading": "specifications",
-            "content": "<p>-Developed by women doctors and gynecologists</p><p>-Gynecologically and dermatologically tested</p><p>-Free from allergens, alcohol and parabens</p><p>-Made in Sweden</p><p>-100% vegan</p>",
+            "content": "<p>-Developed by women doctors and gynecologists<\/p><p>-Gynecologically and dermatologically tested<\/p><p>-Free from allergens, alcohol and parabens<\/p><p>-Made in Sweden<\/p><p>-100% vegan<\/p>",
             "page": ""
           }
         },
@@ -101,7 +101,7 @@
           "settings": {
             "icon": "none",
             "heading": "How to use",
-            "content": "<p>Apply a pea sized amount to fingers and rub gently on affected areas. Use when necessary. For external use only, not for use inside the vaginal canal. Discontinue use if skin irritation persists. Avoid contact with eyes.</p>",
+            "content": "<p>Apply a pea sized amount to fingers and rub gently on affected areas. Use when necessary. For external use only, not for use inside the vaginal canal. Discontinue use if skin irritation persists. Avoid contact with eyes.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -110,7 +110,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingredients",
-            "content": "<p>Helianthus Annuus (Sunflower) Seed Oil, Cocos Nucifera Oil, Olus Oil, Prunus Amygdalus Dulcis Oil, Caprylic/Capric Triglyceride, Simmondsia Chinensis Seed Oil, Glycine Soja (Soybean) Oil, Shea Butter Ethyl Esters, Tocopherol, Calendula Officinalis Flower Extract, Camelina Sativa Oil, Chamomilla Recutita (Matricaria) Flower Extract</p>",
+            "content": "<p>Helianthus Annuus (Sunflower) Seed Oil, Cocos Nucifera Oil, Olus Oil, Prunus Amygdalus Dulcis Oil, Caprylic\/Capric Triglyceride, Simmondsia Chinensis Seed Oil, Glycine Soja (Soybean) Oil, Shea Butter Ethyl Esters, Tocopherol, Calendula Officinalis Flower Extract, Camelina Sativa Oil, Chamomilla Recutita (Matricaria) Flower Extract<\/p>",
             "page": ""
           }
         },
@@ -238,7 +238,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Vulvar dryness, irritation and itchiness is very common among women of any age. Just as the skin on your body can sometimes become dry, so can also the sensitive vulva skin. As doctors, we felt that there was a lack of good products to recommend and this is how our Intimate Calming Oil came to be. Every oil is carefully selected and tested to safely protect, calm and moisturize the sensitive intimate skin. This oil is especially beneficial for women in menopause that experience vulvar dryness.\"<br/><br/></em><strong>-Dr. Gunvor Ekman-Ordeberg, OB/GYN, MD.,PhD. </strong></p>",
+            "text": "<p><em>\"Vulvar dryness, irritation and itchiness is very common among women of any age. Just as the skin on your body can sometimes become dry, so can also the sensitive vulva skin. As doctors, we felt that there was a lack of good products to recommend and this is how our Intimate Calming Oil came to be. Every oil is carefully selected and tested to safely protect, calm and moisturize the sensitive intimate skin. This oil is especially beneficial for women in menopause that experience vulvar dryness.\"<br\/><br\/><\/em><strong>-Dr. Gunvor Ekman-Ordeberg, OB\/GYN, MD.,PhD. <\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -259,7 +259,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_7835.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7835.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -287,7 +287,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -295,7 +295,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -303,7 +303,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -328,7 +328,7 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/2_6c05eab9-41e2-4d47-92f7-4fdf9a089268.png",
+            "image": "shopify:\/\/shop_images\/2_6c05eab9-41e2-4d47-92f7-4fdf9a089268.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -340,7 +340,7 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/3_137f43c8-c0c6-4aa3-a2e3-b7dfbda45ac2.png",
+            "image": "shopify:\/\/shop_images\/3_137f43c8-c0c6-4aa3-a2e3-b7dfbda45ac2.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -352,7 +352,7 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/1_4b2ffd1c-71b1-44a9-bd2c-5938b901c3c9.png",
+            "image": "shopify:\/\/shop_images\/1_4b2ffd1c-71b1-44a9-bd2c-5938b901c3c9.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -389,28 +389,28 @@
           "type": "question",
           "settings": {
             "title": "Where should Calming Oil be applied?",
-            "text": "<p>Calming Oil is for external use only, not for use inside the vaginal canal.</p>"
+            "text": "<p>Calming Oil is for external use only, not for use inside the vaginal canal.<\/p>"
           }
         },
         "template--15103162318984__adf31275-bbe7-4b0a-8756-10e946298304-166850085395f83ff5-1": {
           "type": "question",
           "settings": {
             "title": "Is it suitable for sensitive skin?",
-            "text": "<p>Yes, every oil is carefully selected and tested to safely protect, calm and moisturize sensitive intimate skin.</p>"
+            "text": "<p>Yes, every oil is carefully selected and tested to safely protect, calm and moisturize sensitive intimate skin.<\/p>"
           }
         },
         "86480ba5-fe30-4413-b0c8-55880589c7e2": {
           "type": "question",
           "settings": {
             "title": "ARE DEODOC'S PRODUCTS VEGAN?",
-            "text": "<p>Yes.</p>"
+            "text": "<p>Yes.<\/p>"
           }
         },
         "055bf6a4-ebc7-4f2e-9165-7cf0f324c104": {
           "type": "question",
           "settings": {
             "title": "ARE DEODOC'S PRODUCTS SAFE TO USE?",
-            "text": "<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br/><br/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br/><br/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br/><br/>- Products are dermatologically tested for sensitive skin<br/><br/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg</p>"
+            "text": "<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br\/><br\/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br\/><br\/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br\/><br\/>- Products are dermatologically tested for sensitive skin<br\/><br\/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg<\/p>"
           }
         }
       },
@@ -457,7 +457,7 @@
       "type": "apps",
       "blocks": {
         "8558672e-8be4-41b3-b600-67441ddce888": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
             "aggregated": false,

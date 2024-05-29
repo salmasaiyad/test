@@ -77,7 +77,7 @@
           "settings": {
             "icon": "none",
             "heading": "PRODUKTSPECIFIKATION",
-            "content": "<p>-Utvecklad av kvinnliga läkare och gynekologer</p><p>-Tillverkad i Sverige</p><p>-100% vegansk</p>",
+            "content": "<p>-Utvecklad av kvinnliga läkare och gynekologer<\/p><p>-Tillverkad i Sverige<\/p><p>-100% vegansk<\/p>",
             "page": ""
           }
         },
@@ -86,7 +86,7 @@
           "settings": {
             "icon": "none",
             "heading": "ANVÄNDNING",
-            "content": "<p><strong>Meno Care Oil Wash:</strong> Häll en liten mängd i handen och tvätta varsamt. Skölj av med ljummet vatten.<br/><strong><br/>Lubricant Drops:</strong> Pumpa några droppar och applicera på huden. Använd inte med andra silikonprodukter. Kompatibel med naturgummilatex, polyisopren och polyuretankondomer.</p>",
+            "content": "<p><strong>Meno Care Oil Wash:<\/strong> Häll en liten mängd i handen och tvätta varsamt. Skölj av med ljummet vatten.<br\/><strong><br\/>Lubricant Drops:<\/strong> Pumpa några droppar och applicera på huden. Använd inte med andra silikonprodukter. Kompatibel med naturgummilatex, polyisopren och polyuretankondomer.<\/p>",
             "page": ""
           }
         },
@@ -95,7 +95,7 @@
           "settings": {
             "icon": "none",
             "heading": "INGREDIENSER",
-            "content": "<p><strong>Meno Care Oil Wash:</strong> Helianthus Annuus Seed Oil, Persea Gratissima Oil, Caprylic/Capric Triglyceride, Canola Oil, Glycine Soja Oil, Olea Europaea Fruit Oil, Chamomilla Recutita Flower Extract, Tocopherol.<br/><strong><br/>Lubricant Drops:</strong> Dimeticone, Cyclopentasiloxane,<br/>Dimethiconol, Phenyl Trimeticone.</p>",
+            "content": "<p><strong>Meno Care Oil Wash:<\/strong> Helianthus Annuus Seed Oil, Persea Gratissima Oil, Caprylic\/Capric Triglyceride, Canola Oil, Glycine Soja Oil, Olea Europaea Fruit Oil, Chamomilla Recutita Flower Extract, Tocopherol.<br\/><strong><br\/>Lubricant Drops:<\/strong> Dimeticone, Cyclopentasiloxane,<br\/>Dimethiconol, Phenyl Trimeticone.<\/p>",
             "page": ""
           }
         },
@@ -243,7 +243,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Jag har sett ett behov av en skyddande och återfuktande produkt hos mina patienter med torra och sköra slemhinnor i klimakteriet. Som gynekolog har jag inte kunnat rekommendera några bra alternativ som komplement till hormonbehandling och därför bestämde vi oss för att utveckla produkter som vi skulle kunna rekommendera.\"</em><br/><br/><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet </strong></p>",
+            "text": "<p><em>\"Jag har sett ett behov av en skyddande och återfuktande produkt hos mina patienter med torra och sköra slemhinnor i klimakteriet. Som gynekolog har jag inte kunnat rekommendera några bra alternativ som komplement till hormonbehandling och därför bestämde vi oss för att utveckla produkter som vi skulle kunna rekommendera.\"<\/em><br\/><br\/><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet <\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -264,7 +264,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_7851_af9db4b6-4aa9-4d18-bb11-e5ee4932e6ca.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7851_af9db4b6-4aa9-4d18-bb11-e5ee4932e6ca.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -292,7 +292,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -300,7 +300,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -308,7 +308,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -333,10 +333,10 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/3_4b4f9036-6966-4c03-9530-70ee0b2165c6.png",
+            "image": "shopify:\/\/shop_images\/3_4b4f9036-6966-4c03-9530-70ee0b2165c6.png",
             "title": "Meno Care Oil Wash",
             "title_size": "h3",
-            "text": "<p>En vårdande och intensivt återfuktande oljetvätt.</p>",
+            "text": "<p>En vårdande och intensivt återfuktande oljetvätt.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -345,10 +345,10 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/5_28bd9dc4-e018-43db-a8d4-e5c44bf81edd.png",
+            "image": "shopify:\/\/shop_images\/5_28bd9dc4-e018-43db-a8d4-e5c44bf81edd.png",
             "title": "Lubricant Drops",
             "title_size": "h3",
-            "text": "<p>Silkeslent glidmedel för ett långvarigt glid som är extra vårdande för känsliga och torra slemhinnor.</p>",
+            "text": "<p>Silkeslent glidmedel för ett långvarigt glid som är extra vårdande för känsliga och torra slemhinnor.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -403,28 +403,28 @@
           "type": "question",
           "settings": {
             "title": "VARFÖR REKOMMENDERAR NI EN OLJETVÄTT?",
-            "text": "<p>Att tvätta med en oljetvätt är ett mycket skonsamt och milt rengöringsalternativ som vi läkare rekommenderar till patienter med känsliga slemhinnor och hud. Det är fördelaktigt för kvinnor i alla åldrar men framför allt för kvinnor pre- och post klimakteriet.</p>"
+            "text": "<p>Att tvätta med en oljetvätt är ett mycket skonsamt och milt rengöringsalternativ som vi läkare rekommenderar till patienter med känsliga slemhinnor och hud. Det är fördelaktigt för kvinnor i alla åldrar men framför allt för kvinnor pre- och post klimakteriet.<\/p>"
           }
         },
         "template--15576329552028__f1ec52a6-985d-4f03-8109-1d45e2e2baed-1668429549a98c496f-0": {
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER SÄKRA?",
-            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<br/><br/>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<br/><br/>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<br/><br/>- Produkterna är även dermatologiskt testade för känslig hud.<br/><br/>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<br/></p>"
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<br\/><br\/>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<br\/><br\/>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<br\/><br\/>- Produkterna är även dermatologiskt testade för känslig hud.<br\/><br\/>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<br\/><\/p>"
           }
         },
         "26134846-4dd3-4ca5-9514-bdbf7675301c": {
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER VEGANSKA?",
-            "text": "<p>Ja.</p>"
+            "text": "<p>Ja.<\/p>"
           }
         },
         "804b3663-5b37-4d74-879c-d86d2adb813b": {
           "type": "question",
           "settings": {
             "title": "Passar produkterna till känslig hy?",
-            "text": "<p>Ja, DeoDocs Meno Care Oil Wash är speciellt framtagen för torra och sköra slemhinnor som kan uppstå i klimakteriet.</p>"
+            "text": "<p>Ja, DeoDocs Meno Care Oil Wash är speciellt framtagen för torra och sköra slemhinnor som kan uppstå i klimakteriet.<\/p>"
           }
         },
         "bcdd9940-0fcb-440b-be58-18fdfb20dfb2": {
@@ -432,7 +432,7 @@
           "disabled": true,
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         }
       },
@@ -455,15 +455,6 @@
     },
     "1663692411b42e7cb1": {
       "type": "apps",
-      "blocks": {
-        "7e542478-5bb4-4ea8-8c41-e23c80b2a37f": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "7e542478-5bb4-4ea8-8c41-e23c80b2a37f"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

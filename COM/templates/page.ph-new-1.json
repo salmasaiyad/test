@@ -14,7 +14,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers.</p>",
+            "text": "<p>Share information about your brand with your customers.<\/p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -25,7 +25,7 @@
         "text"
       ],
       "settings": {
-        "image": "shopify://shop_images/pH_banner.jpg",
+        "image": "shopify:\/\/shop_images\/pH_banner.jpg",
         "image_position": "20% 50%",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -66,7 +66,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -124,7 +124,7 @@
         "16575421422babb9f9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -146,7 +146,7 @@
       ],
       "disabled": true,
       "settings": {
-        "video_url": "https://www.youtube.com/watch?v=NzycSGeg7nI",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NzycSGeg7nI",
         "text_box_position": "middle-center",
         "text_alignment": "center",
         "image_ratio": "650px",

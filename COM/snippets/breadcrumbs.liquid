@@ -11,7 +11,7 @@
 
 {%- unless template.name == 'index' or template.name == 'cart' -%}
   <nav class="breadcrumb{% if text_style == 'uppercase' %} caption-with-letter-spacing{% elsif text_style == 'subtitle' %} subtitle{% endif %}{% if show_divider %} breadcrumb--divider{% endif %}" role="navigation" aria-label="breadcrumbs">
-    <a href="{{ routes.root_url }}" class="link" title="{{ 'general.breadcrumbs.home_link_title' | t }}">{{ 'general.breadcrumbs.home' | t }}</a>
+    <a href="{{ routes.root_url }}" class="link" title="{{ 'general.breadcrumbs.home_link_title' | t }}">{{ 'DeoDoc' }}</a>
 
     {%- if template.name == 'product' -%}
       {%- if collection and collection.handle %}

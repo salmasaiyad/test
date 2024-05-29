@@ -1,0 +1,538 @@
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 8,
+        "mobile_height": 0
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": true
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "disabled": true,
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": false,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "countdown": {
+          "type": "countdown",
+          "settings": {
+            "heading": "Hurry up ! Sale end in:",
+            "number_size": "compact",
+            "colors_heading": "#da3f3f",
+            "colors_text": "#da3f3f",
+            "colors_background": "#ffeeee"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false
+          }
+        },
+        "c1bb48e9-80f5-4fff-87b6-fa674af4e942": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Betalsatt_SE.png",
+            "height": 28,
+            "link": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "PRODUKTSPECIFIKATION",
+            "content": "<p>-2 fläkthastigheter<\/p><p>-Laddas med USB-kabel<\/p><p>-Liten och nätt design<\/p><p>-Väger endast 90 g<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "ANVÄNDNING",
+            "content": "<ol><li>Vrid fläktskyddet 90° (skrivbordsläge) eller 180° (handhållet läge) åt vänster eller höger.<\/li><li>Tryck på strömbrytaren en gång för att starta enheten.<\/li><li>Fläkten växlar mellan tre lägen: Hastighet 1, Hastighet 2 och Av.<\/li><\/ol>",
+            "page": "shaving-kit"
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "INNEHÅLL",
+            "content": "<ul><li>x1 Fläkt<\/li><li>x1 USB-kabel<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "c274b7ed-8614-493a-9085-371d23e2345d": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "heading": "Doft",
+            "content": "<p>Parfymfri<\/p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {}
+        },
+        "related_buttons": {
+          "type": "related_buttons",
+          "disabled": true,
+          "settings": {
+            "show_icons": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        }
+      },
+      "block_order": [
+        "breadcrumb",
+        "vendor",
+        "title",
+        "rating",
+        "price",
+        "variant_picker",
+        "countdown",
+        "buy_buttons",
+        "c1bb48e9-80f5-4fff-87b6-fa674af4e942",
+        "description",
+        "b614a68f-4156-4bff-8e3c-ae66b38cb10a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "c274b7ed-8614-493a-9085-371d23e2345d",
+        "share",
+        "related_buttons",
+        "sticky_cart"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": false,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "clipboard",
+            "title": "Vetenskapligt baserat",
+            "title_size": "h4",
+            "text": "<p><\/p>"
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "heart",
+            "title": "Utvecklat av gynekologer",
+            "title_size": "h4",
+            "text": "<p><\/p>"
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "globe",
+            "title": "Tillverkat i Sverige",
+            "title_size": "h4",
+            "text": "<p><\/p>"
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "title": "100% Veganskt",
+            "title_size": "h4",
+            "text": "<p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-3",
+        "guarantee-0"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "layout": "default",
+        "column_alignment": "center",
+        "secondary_background": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1658133913d28abc37": {
+      "type": "image-with-text",
+      "blocks": {
+        "1658133913405b7b25-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doktorn Tipsar",
+            "heading_size": "h1"
+          }
+        },
+        "1658133913405b7b25-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Värmevallningar och svettningar är ett av de vanligaste symptomen  under förklimakteriet och klimakteriet. Eftersom detta är ett stort besvär hos många av våra patienter har vi valt att utveckla denna smidiga fläkt som är lätt att ha i handväskan eller till och med ställa på skrivbordet när man jobbar. Vi hoppas den kan underlätta när de plötsliga vallningarna och svettningarna gör sig påminda.\"<\/p><p><br\/><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "1658133913405b7b25-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1658133913405b7b25-0",
+        "1658133913405b7b25-1",
+        "1658133913405b7b25-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Doctor_Gunvor_1.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/How_to_use.png",
+            "title": "Steg 1",
+            "title_size": "h3",
+            "text": "<p>Stig in i duschen.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/How_to_use.png",
+            "title": "Steg 2",
+            "title_size": "h3",
+            "text": "<p>Häll innehållet i din hand.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/How_to_use.png",
+            "title": "Steg 3",
+            "title_size": "h3",
+            "text": "<p>Applicera på vulvan och skölj därefter av noggrant.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "column-0",
+        "column-1",
+        "column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Användning",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "image_position": "top center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    },
+    "product-details": {
+      "type": "product-details",
+      "blocks": {
+        "product-details-0": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "heading": ""
+          }
+        },
+        "product-details-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "1. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "page": ""
+          }
+        },
+        "product-details-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "2. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "page": ""
+          }
+        },
+        "product-details-3": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "3. Collapsible tab",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "product-details-0",
+        "product-details-1",
+        "product-details-2",
+        "product-details-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "Collapsible tabs",
+        "heading_size": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "disabled": true,
+      "settings": {
+        "heading": "Nyligen visade produkter",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17065392095c737b07": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_section_UinLtQ": {
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_section_UinLtQ"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "01786f47-c386-4757-9118-67f980255382": {
+      "type": "faq",
+      "blocks": {
+        "f720b208-7a3b-46b2-9e57-42c5e8e1dd8d": {
+          "type": "question",
+          "settings": {
+            "title": "HUR ANVÄNDS DEOSPRAYEN?",
+            "text": "<p>Sprayas på ljumskar och yttre delen av skrotum som är hårbeklätt. Där det finns hår, där finns även svettkörtlar (apokrina svettkörtlar tömmer sig i hårsäckar).<\/p>"
+          }
+        },
+        "e04e3f80-7e9b-422c-91f8-b3679edbc89f": {
+          "type": "question",
+          "settings": {
+            "title": "SKA JAG INTE UPPSÖKA LÄKARE VID LUKT FRÅN UNDERLIVET?",
+            "text": "<p>Om du har en flytning som ändrat karaktär eller lukt ska en läkare uppsökas då detta kan vara en indikation på vaginal åkomma. Om flytningen är normal, kan det handla om normal svettlukt och DeoDocs deospray kan provas.<\/p>"
+          }
+        },
+        "c0a24658-e828-4c61-ac25-f12227c08cfc": {
+          "type": "question",
+          "settings": {
+            "title": "SKA JAG ANVÄNDA DEOSPRAY VID ILLALUKTANDE FLYTNINGAR?",
+            "text": "<p>Nej, sprayen ska ej användas vid illaluktande flytningar. Istället ska en läkare konsulteras då detta kan vara en vaginal åkomma. Sprayen är endast avsedd för ljumskar och det hårbeklädda området i vulvan.<\/p>"
+          }
+        },
+        "d8993099-4a94-426e-9ef3-d158a15e5441": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DET FARLIGA INGREDIENSER I PRODUKTEN?",
+            "text": "<p>Ingredienserna är noggrant säkerhetsbedömda för användningsområdet enligt EU:s lagstiftning för kosmetiska produkter.<\/p>"
+          }
+        },
+        "91d58434-23b1-498a-a48e-57fa0007c0a7": {
+          "type": "question",
+          "settings": {
+            "title": "ÄR DEODOCS PRODUKTER SÄKRA?",
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<\/p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<\/p><p>- Produkterna är även dermatologiskt testade för känslig hud.<\/p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "f720b208-7a3b-46b2-9e57-42c5e8e1dd8d",
+        "e04e3f80-7e9b-422c-91f8-b3679edbc89f",
+        "c0a24658-e828-4c61-ac25-f12227c08cfc",
+        "d8993099-4a94-426e-9ef3-d158a15e5441",
+        "91d58434-23b1-498a-a48e-57fa0007c0a7"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "FAQs",
+        "heading_size": "h2",
+        "narrow": true,
+        "secondary_background": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1659359337855b4176": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "Addera till din intimvård",
+        "heading_size": "h2",
+        "show_divider": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "guarantees",
+    "1658133913d28abc37",
+    "multicolumn",
+    "product-details",
+    "recently-viewed-products",
+    "17065392095c737b07",
+    "01786f47-c386-4757-9118-67f980255382",
+    "1659359337855b4176",
+    "product-recommendations"
+  ]
+}

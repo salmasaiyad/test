@@ -101,7 +101,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -123,7 +123,7 @@
       ],
       "disabled": true,
       "settings": {
-        "video_url": "https://www.youtube.com/watch?v=KW_88s_aYHs&feature=emb_imp_woyt",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=KW_88s_aYHs&feature=emb_imp_woyt",
         "text_box_position": "middle-center",
         "text_alignment": "center",
         "image_ratio": "750px",
@@ -146,7 +146,7 @@
         "template--19026424758595__27ace090-0147-4781-a30e-12a938b0b709-16854534018b3763b0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Sommarvärmen, rakning och fuktiga badkläder innebär utmaningar för underlivshälsan. Här kommer läkarens bästa tips för en god underlivshälsa utan irritation.</p><p><strong>Låt underlivet andas!</strong></p><p>Sov utan trosor - att skippa trosorna låter underlivet andas och minskar risken för svampinfektioner.</p><p><strong>Använd skonsamma intimprodukter</strong>:</p><p>Vaginan är självrengörande, men inte vulvan. Däremot kan du inte använda en vanlig tvål, eftersom de inte är anpassade till underlivets pH. Dessutom kan de innehålla vanliga parfymer och allergener som kan ge irritation. Välj istället en intimtvål som är speciellt framtagen för att bibehålla vulvans naturliga pH värde (pH värde 5), som <a href=\"https://se.deodoc.se/collections/products/products/daily-intimate-wash\"><span style=\"text-decoration:underline\">DeoDocs Daily Intimate Wash</span></a>.</p><p><strong>Använd bomull och luftiga kläder:</strong></p><p>Din vulva och ljumskar svettas och har svettkörtlar, precis som armhålorna. Särskilt på sommaren kan värmen och fukten bidra till att lättare få svamp. Undvik därför att ha tajta kläder, och välj trosor gjorda av minst 95% bomull då det andas. För den som svettas mycket finns speciellt formulerade intimdeodoranter som <a href=\"https://se.deodoc.se/collections/deospray-wipes\"><span style=\"text-decoration:underline\">DeoDocs DeoSpray</span></a>. Den är svetthämmande och ger en fräsch känsla hela dagen.</p><p><strong>Olja för torra slemhinnor:</strong></p><p>Tajta kläder, cykling och mycket bad kan lätt irritera vulvans känsliga slemhinnor. Skav mot underlivet, till exempel av samlag eller cykling, kan också ge svamp. Svampen får nämligen lättare fäste om man har små sår eller sprickor. Som läkare brukar vi ofta förespråka användningen av olja för vulvan eftersom det förebygger torrhet och sprickbildning. Denna vårdande <a href=\"https://se.deodoc.se/collections/products/products/calming-oil\"><span style=\"text-decoration:underline\">Calming Oil</span></a> från DeoDoc består av enbart naturliga oljor från växtriket och lugnar och återfuktar torra slemhinnor.</p><p><strong>Byt blöta underkläder och badkläder:</strong></p><p>Varmt väder och blöta badkläder ökar risken för svamp eftersom dessa trivs i varma och fuktiga förhållanden. Undvik att sitta i våta badkläder och ha gärna med dig ombyte. Om du upplever en klåda, kesoliknande flytningar och irritation från underlivet och misstänker en svampinfektion kan du prova DeoDocs <a href=\"https://se.deodoc.se/collections/products/products/vagiquick-sjalvtest-for-vaginal-svamp\"><span style=\"text-decoration:underline\">Vagiquick-test</span></a> som upptäcker vaginal svampinfektion. Inom 10 minuter fås ett svar och receptfri behandling på apoteket kan köpas om du behöver.</p><p>Får du klåda för första gången ska du dock boka tid hos din doktor.</p>",
+            "text": "<p>Sommarvärmen, rakning och fuktiga badkläder innebär utmaningar för underlivshälsan. Här kommer läkarens bästa tips för en god underlivshälsa utan irritation.<\/p><p><strong>Låt underlivet andas!<\/strong><\/p><p>Sov utan trosor - att skippa trosorna låter underlivet andas och minskar risken för svampinfektioner.<\/p><p><strong>Använd skonsamma intimprodukter<\/strong>:<\/p><p>Vaginan är självrengörande, men inte vulvan. Däremot kan du inte använda en vanlig tvål, eftersom de inte är anpassade till underlivets pH. Dessutom kan de innehålla vanliga parfymer och allergener som kan ge irritation. Välj istället en intimtvål som är speciellt framtagen för att bibehålla vulvans naturliga pH värde (pH värde 5), som <a href=\"https:\/\/se.deodoc.se\/collections\/products\/products\/daily-intimate-wash\"><span style=\"text-decoration:underline\">DeoDocs Daily Intimate Wash<\/span><\/a>.<\/p><p><strong>Använd bomull och luftiga kläder:<\/strong><\/p><p>Din vulva och ljumskar svettas och har svettkörtlar, precis som armhålorna. Särskilt på sommaren kan värmen och fukten bidra till att lättare få svamp. Undvik därför att ha tajta kläder, och välj trosor gjorda av minst 95% bomull då det andas. För den som svettas mycket finns speciellt formulerade intimdeodoranter som <a href=\"https:\/\/se.deodoc.se\/collections\/deospray-wipes\"><span style=\"text-decoration:underline\">DeoDocs DeoSpray<\/span><\/a>. Den är svetthämmande och ger en fräsch känsla hela dagen.<\/p><p><strong>Olja för torra slemhinnor:<\/strong><\/p><p>Tajta kläder, cykling och mycket bad kan lätt irritera vulvans känsliga slemhinnor. Skav mot underlivet, till exempel av samlag eller cykling, kan också ge svamp. Svampen får nämligen lättare fäste om man har små sår eller sprickor. Som läkare brukar vi ofta förespråka användningen av olja för vulvan eftersom det förebygger torrhet och sprickbildning. Denna vårdande <a href=\"https:\/\/se.deodoc.se\/collections\/products\/products\/calming-oil\"><span style=\"text-decoration:underline\">Calming Oil<\/span><\/a> från DeoDoc består av enbart naturliga oljor från växtriket och lugnar och återfuktar torra slemhinnor.<\/p><p><strong>Byt blöta underkläder och badkläder:<\/strong><\/p><p>Varmt väder och blöta badkläder ökar risken för svamp eftersom dessa trivs i varma och fuktiga förhållanden. Undvik att sitta i våta badkläder och ha gärna med dig ombyte. Om du upplever en klåda, kesoliknande flytningar och irritation från underlivet och misstänker en svampinfektion kan du prova DeoDocs <a href=\"https:\/\/se.deodoc.se\/collections\/products\/products\/vagiquick-sjalvtest-for-vaginal-svamp\"><span style=\"text-decoration:underline\">Vagiquick-test<\/span><\/a> som upptäcker vaginal svampinfektion. Inom 10 minuter fås ett svar och receptfri behandling på apoteket kan köpas om du behöver.<\/p><p>Får du klåda för första gången ska du dock boka tid hos din doktor.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -163,7 +163,7 @@
           "type": "button",
           "settings": {
             "button_label": "Handla intim hudvård utvecklad av kvinnliga läkare",
-            "button_link": "shopify://collections/products",
+            "button_link": "shopify:\/\/collections\/products",
             "button_style_secondary": false
           }
         }
@@ -188,48 +188,48 @@
         "template--19026424758595__4510431b-7470-4b57-b4a9-bc01944b0a7b-16854536591c968cca-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/FC-stamp.jpg",
+            "image": "shopify:\/\/shop_images\/FC-stamp.jpg",
             "title": "DAILY INTIMATE WASH",
             "title_size": "h3",
-            "text": "<p>Flerfaldigt prisbelönt intimtvål med skonsam formula som ger en silkeslen känsla. Speciellt framtagen för att bibehålla vulvans naturliga pH värde (pH 5).</p>",
+            "text": "<p>Flerfaldigt prisbelönt intimtvål med skonsam formula som ger en silkeslen känsla. Speciellt framtagen för att bibehålla vulvans naturliga pH värde (pH 5).<\/p>",
             "button_label": "KÖP NU",
-            "button_link": "shopify://products/daily-intimate-wash",
+            "button_link": "shopify:\/\/products\/daily-intimate-wash",
             "button_style_secondary": false
           }
         },
         "template--19026424758595__4510431b-7470-4b57-b4a9-bc01944b0a7b-16854536591c968cca-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Jasminepesr_98e05655-6938-4457-a957-a426e7780c6f.jpg",
+            "image": "shopify:\/\/shop_images\/Jasminepesr_98e05655-6938-4457-a957-a426e7780c6f.jpg",
             "title": "DEOSPRAY",
             "title_size": "h3",
-            "text": "<p>En skonsam intimdeodorant som motverkar svett och lämnar en fräsch känsla hela dagen. Intimområdet har apokrina svettkörtlar, vilket är samma svettkörtlar som finns under armarna. Speciellt utvecklad för ljumskar och vulva-området.</p>",
+            "text": "<p>En skonsam intimdeodorant som motverkar svett och lämnar en fräsch känsla hela dagen. Intimområdet har apokrina svettkörtlar, vilket är samma svettkörtlar som finns under armarna. Speciellt utvecklad för ljumskar och vulva-området.<\/p>",
             "button_label": "KÖP NU",
-            "button_link": "shopify://products/deosprays",
+            "button_link": "shopify:\/\/products\/deosprays",
             "button_style_secondary": false
           }
         },
         "template--19026424758595__4510431b-7470-4b57-b4a9-bc01944b0a7b-16854536591c968cca-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/CalmingOil.png",
+            "image": "shopify:\/\/shop_images\/CalmingOil.png",
             "title": "CALMING OIL",
             "title_size": "h3",
-            "text": "<p>En leave-on intimolja som lugnar irriterade slemhinnor och minskar obehag, torrhet och skav. Denna intimolja är som en bodylotion men för vulvan (inre- och yttre blygdläppar samt slemhinnor). </p>",
+            "text": "<p>En leave-on intimolja som lugnar irriterade slemhinnor och minskar obehag, torrhet och skav. Denna intimolja är som en bodylotion men för vulvan (inre- och yttre blygdläppar samt slemhinnor). <\/p>",
             "button_label": "köp nu",
-            "button_link": "shopify://products/calming-oil",
+            "button_link": "shopify:\/\/products\/calming-oil",
             "button_style_secondary": false
           }
         },
         "65bf0946-0b66-4eb0-ad91-899c202e062e": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/9_2612c598-89d8-41b2-bcc7-5cc9f4f95bf8.jpg",
+            "image": "shopify:\/\/shop_images\/9_2612c598-89d8-41b2-bcc7-5cc9f4f95bf8.jpg",
             "title": "VAGIQUICK TEST",
             "title_size": "h3",
-            "text": "<p>Vagiquick är ett snabbtest för hemmabruk som upptäcker vaginal svampinfektion, svar fås inom 10 minuter.</p>",
+            "text": "<p>Vagiquick är ett snabbtest för hemmabruk som upptäcker vaginal svampinfektion, svar fås inom 10 minuter.<\/p>",
             "button_label": "Button label",
-            "button_link": "shopify://products/vagiquick-sjalvtest-for-vaginal-svamp",
+            "button_link": "shopify:\/\/products\/vagiquick-sjalvtest-for-vaginal-svamp",
             "button_style_secondary": false
           }
         }

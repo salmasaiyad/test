@@ -1,5 +1,5 @@
 <cart-sample-products class="cart-sample-products-wrapper">
-    <span>Choose your 2 complimentary samples.</span>
+    <span>{{ 'sections.cart.cart_samples_header' | t }}</span>
     {% assign cartSamples = collections['cart-samples'] %}
 
         <span data-prev class="hide prev">
@@ -71,10 +71,10 @@
         top: 50%;
         position: absolute;
         z-index: 1;
-        right: -15px;
+        right: 0px;
     }
     .cart-sample-products-wrapper span.prev {
-      left: -15px;
+      left: 0px;
     }
 
     .cart-sample-products {
@@ -87,7 +87,7 @@
    }
 
     .cart-sample-products .cart-sample-product{
-        width: 33.333%;
+        width: calc(33.333% - 7px);
         flex-shrink: 0;
         scroll-snap-align: start;
         position: relative;

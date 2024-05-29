@@ -13,7 +13,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Questions? Comments? Let your customers get in touch with you by filling out the email form below.</p>",
+            "text": "<p>Questions? Comments? Let your customers get in touch with you by filling out the email form below.<\/p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -77,7 +77,7 @@
         "16583222766dc3feb6-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Tampon_banner_USmobile-1800x1200_copy_2_671a6757-ba96-4a04-8a94-9616005134ec.jpg",
+        "image": "shopify:\/\/shop_images\/Tampon_banner_USmobile-1800x1200_copy_2_671a6757-ba96-4a04-8a94-9616005134ec.jpg",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -167,7 +167,7 @@
         "map-1": {
           "type": "text",
           "settings": {
-            "text": "<p>620 King Street West<br/>Toronto, ON M5V 1M7, Canada</p><p>Mon - Fri, 8:30am - 10:30pm<br/>Saturday, 8:30am - 10:30pm<br/>Sunday, 8:30am - 10:30pm</p>",
+            "text": "<p>620 King Street West<br\/>Toronto, ON M5V 1M7, Canada<\/p><p>Mon - Fri, 8:30am - 10:30pm<br\/>Saturday, 8:30am - 10:30pm<br\/>Sunday, 8:30am - 10:30pm<\/p>",
             "text_size": "typeset",
             "secondary_color": false
           }
@@ -216,7 +216,7 @@
           "settings": {
             "title": "Your Order",
             "title_size": "h3",
-            "text": "<p>myorder@deodoc.se</p>",
+            "text": "<p>myorder@deodoc.se<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -227,7 +227,7 @@
           "settings": {
             "title": "Press",
             "title_size": "h3",
-            "text": "<p>press@deodoc.se</p>",
+            "text": "<p>press@deodoc.se<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -238,7 +238,7 @@
           "settings": {
             "title": "Other Questions",
             "title_size": "h3",
-            "text": "<p>askdeodoc@deodoc.se</p>",
+            "text": "<p>askdeodoc@deodoc.se<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -249,7 +249,7 @@
           "settings": {
             "title": "collaborations",
             "title_size": "h3",
-            "text": "<p>askdeodoc@deodoc.se</p>",
+            "text": "<p>askdeodoc@deodoc.se<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false

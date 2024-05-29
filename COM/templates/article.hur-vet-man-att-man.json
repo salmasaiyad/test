@@ -101,7 +101,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -123,7 +123,7 @@
       ],
       "disabled": true,
       "settings": {
-        "video_url": "https://www.youtube.com/watch?v=KW_88s_aYHs&feature=emb_imp_woyt",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=KW_88s_aYHs&feature=emb_imp_woyt",
         "text_box_position": "middle-center",
         "text_alignment": "center",
         "image_ratio": "750px",
@@ -146,7 +146,7 @@
         "template--19026424758595__27ace090-0147-4781-a30e-12a938b0b709-16854534018b3763b0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Under förklimakteriet/klimakteriet förändras hormonnivåerna i kroppen - det produceras mindre östrogen och som ett resultat av detta ökar produktionen av follikelstimulerande hormonet, FSH. Ökningen av FSH kan mätas, antingen via ett blodprov eller via ett urinprov, för att påvisa om för förklimakteriet/klimakteriet har nåtts.</p><p>Vanligtvis tas sällan några prover, utan det har räckt med de klassiska symtomen på förklimakteriet/klimakteriet (såsom värmevallningar, oregelbundna blödningar och torra slemhinnor) för att de flesta kvinnor och läkare ska förstå att den menopausala övergången har påbörjat.</p><p>I mitt kliniska arbete som läkare och gynekolog möter jag dock alltför många kvinnor som blir felaktigt diagnostiserade med depression och utbrändhet när grundorsaken egentligen handlar om att man nått förklimakteriet/klimakteriet. Av den anledningen har vi utvecklat detta snabbtest, så du enkelt själv kan upptäcka om du har nått förklimakteriet/klimakteriet - och därmed få rätt hjälp hos din doktor. </p><p><strong>Dr. Gunvor Ekman Ordeberg -  gynekolog, professor Karolinska Institutet</strong></p>",
+            "text": "<p>Under förklimakteriet\/klimakteriet förändras hormonnivåerna i kroppen - det produceras mindre östrogen och som ett resultat av detta ökar produktionen av follikelstimulerande hormonet, FSH. Ökningen av FSH kan mätas, antingen via ett blodprov eller via ett urinprov, för att påvisa om för förklimakteriet\/klimakteriet har nåtts.<\/p><p>Vanligtvis tas sällan några prover, utan det har räckt med de klassiska symtomen på förklimakteriet\/klimakteriet (såsom värmevallningar, oregelbundna blödningar och torra slemhinnor) för att de flesta kvinnor och läkare ska förstå att den menopausala övergången har påbörjat.<\/p><p>I mitt kliniska arbete som läkare och gynekolog möter jag dock alltför många kvinnor som blir felaktigt diagnostiserade med depression och utbrändhet när grundorsaken egentligen handlar om att man nått förklimakteriet\/klimakteriet. Av den anledningen har vi utvecklat detta snabbtest, så du enkelt själv kan upptäcka om du har nått förklimakteriet\/klimakteriet - och därmed få rätt hjälp hos din doktor. <\/p><p><strong>Dr. Gunvor Ekman Ordeberg -  gynekolog, professor Karolinska Institutet<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -189,36 +189,36 @@
         "template--19026424758595__4510431b-7470-4b57-b4a9-bc01944b0a7b-16854536591c968cca-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/MALL_3.png",
+            "image": "shopify:\/\/shop_images\/MALL_3.png",
             "title": "KLIMAKTERIET TEST",
             "title_size": "h3",
-            "text": "<p>Klimakteriet? Sluta fundera, nu finns ett enkelt snabbtest som ger dig svar direkt om du är i förklimakteriet eller klimakteriet. Snabbtestet upptäcker förhöjda nivåer av det follikelstimulerande hormonet (FSH) i urin, som är förknippat med förklimakteriet/klimakteriet.</p>",
+            "text": "<p>Klimakteriet? Sluta fundera, nu finns ett enkelt snabbtest som ger dig svar direkt om du är i förklimakteriet eller klimakteriet. Snabbtestet upptäcker förhöjda nivåer av det follikelstimulerande hormonet (FSH) i urin, som är förknippat med förklimakteriet\/klimakteriet.<\/p>",
             "button_label": "KÖP NU",
-            "button_link": "shopify://products/menoqiucktest",
+            "button_link": "shopify:\/\/products\/menoqiucktest",
             "button_style_secondary": false
           }
         },
         "template--19026424758595__4510431b-7470-4b57-b4a9-bc01944b0a7b-16854536591c968cca-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/MenoCareOilWash.png",
+            "image": "shopify:\/\/shop_images\/MenoCareOilWash.png",
             "title": "KLIMAKTERIET TVÄTTOLJA",
             "title_size": "h3",
-            "text": "<p>En vårdande och intensivt återfuktande oljetvätt. Speciellt framtagen för torra och sköra slemhinnor som kan uppstå i klimakteriet. Innehåller enbart oljor från växtriket som handplockats för att bevara hudbarriärens fuktbalans och samtidigt motverka torrhet.</p>",
+            "text": "<p>En vårdande och intensivt återfuktande oljetvätt. Speciellt framtagen för torra och sköra slemhinnor som kan uppstå i klimakteriet. Innehåller enbart oljor från växtriket som handplockats för att bevara hudbarriärens fuktbalans och samtidigt motverka torrhet.<\/p>",
             "button_label": "KÖP NU",
-            "button_link": "shopify://products/meno-care-oil-wash",
+            "button_link": "shopify:\/\/products\/meno-care-oil-wash",
             "button_style_secondary": false
           }
         },
         "template--19026424758595__4510431b-7470-4b57-b4a9-bc01944b0a7b-16854536591c968cca-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/MenoCareHydratingBalm.png",
+            "image": "shopify:\/\/shop_images\/MenoCareHydratingBalm.png",
             "title": "KLIMAKTERIET INTIMKRÄM",
             "title_size": "h3",
-            "text": "<p>Hormonella förändringar under klimakteriet kan bidra till att hudbarriären och slemhinnor blir torra och sköra. Den krämiga formulan är berikad med mjukgörande squalane och fuktbevarande ingredienser som motverkar torrhet. </p>",
+            "text": "<p>Hormonella förändringar under klimakteriet kan bidra till att hudbarriären och slemhinnor blir torra och sköra. Den krämiga formulan är berikad med mjukgörande squalane och fuktbevarande ingredienser som motverkar torrhet. <\/p>",
             "button_label": "köp nu",
-            "button_link": "shopify://products/meno-care-hydrating-balm",
+            "button_link": "shopify:\/\/products\/meno-care-hydrating-balm",
             "button_style_secondary": false
           }
         }

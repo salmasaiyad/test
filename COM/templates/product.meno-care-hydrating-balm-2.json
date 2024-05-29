@@ -75,7 +75,7 @@
           "settings": {
             "icon": "none",
             "heading": "specifications",
-            "content": "<p>- Specially developed for menopausal vulvar skin<br/>• Hydration boost<br/>• Fragrance and allergen-free<br/>• Developed by Women Doctors<br/>• 100% vegan<br/>• Made in Sweden</p>",
+            "content": "<p>- Specially developed for menopausal vulvar skin<br\/>• Hydration boost<br\/>• Fragrance and allergen-free<br\/>• Developed by Women Doctors<br\/>• 100% vegan<br\/>• Made in Sweden<\/p>",
             "page": ""
           }
         },
@@ -84,7 +84,7 @@
           "settings": {
             "icon": "none",
             "heading": "How to use",
-            "content": "<p>Apply a pea-sized amount onto the fingers and gently rub on the inner and outer labia. Use as needed.</p>",
+            "content": "<p>Apply a pea-sized amount onto the fingers and gently rub on the inner and outer labia. Use as needed.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -93,7 +93,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingredients",
-            "content": "<p>Aqua (Water), Paraffinum Liquidum, Cetearyl Ethylhexanoate, Isopropyl Myristate, Squalane, Petrolatum, Glycerin, Paran, Propanediol, Cera Microcristallina, Glyceryl Isostearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Levulinate, Ozokerite, Hydrogenated Castor Oil, Sodium Anisate, Polyglyceryl-3 Oleate, Cannabis Sativa Seed Oil, Polysorbate 60, Sorbitan Isostearate, Cannabidiol.</p>",
+            "content": "<p>Aqua (Water), Paraffinum Liquidum, Cetearyl Ethylhexanoate, Isopropyl Myristate, Squalane, Petrolatum, Glycerin, Paran, Propanediol, Cera Microcristallina, Glyceryl Isostearate, Hydroxyethyl Acrylate\/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Levulinate, Ozokerite, Hydrogenated Castor Oil, Sodium Anisate, Polyglyceryl-3 Oleate, Cannabis Sativa Seed Oil, Polysorbate 60, Sorbitan Isostearate, Cannabidiol.<\/p>",
             "page": ""
           }
         },
@@ -242,7 +242,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><em>– SUBHEADING</em></p>",
+            "text": "<p><em>– SUBHEADING<\/em><\/p>",
             "text_size": "typeset",
             "secondary_color": true
           }
@@ -275,7 +275,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p>“As the vulvar skin barrier in menopause becomes drier and fragile, I have seen that many of my menopausal patients have been looking for a protective and hydrating product. As an OB/GYN I have not been able to recommend any good alternative, which is why we decided to formulate a product that we could recommend. The feedback from our patients has resulted in this nourishing balm with intense hydrating properties.”</p><p><strong>-Dr. Gunvor Ekman-Ordeberg, OB/GYN, MD.,PhD</strong></p>",
+            "text": "<p>“As the vulvar skin barrier in menopause becomes drier and fragile, I have seen that many of my menopausal patients have been looking for a protective and hydrating product. As an OB\/GYN I have not been able to recommend any good alternative, which is why we decided to formulate a product that we could recommend. The feedback from our patients has resulted in this nourishing balm with intense hydrating properties.”<\/p><p><strong>-Dr. Gunvor Ekman-Ordeberg, OB\/GYN, MD.,PhD<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -296,7 +296,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_7891.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7891.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -324,7 +324,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -332,7 +332,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -340,7 +340,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -365,7 +365,7 @@
         "look-0": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/Before_256x256_91d8acae-3c88-49ce-bca1-d347e258c82e.webp",
+            "image": "shopify:\/\/shop_images\/Before_256x256_91d8acae-3c88-49ce-bca1-d347e258c82e.webp",
             "title": "before",
             "title_size": "small",
             "title_position": "start"
@@ -374,7 +374,7 @@
         "look-1": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/After_256x256_546b8fc8-e668-4cf2-bd5e-befac9e3d042.webp",
+            "image": "shopify:\/\/shop_images\/After_256x256_546b8fc8-e668-4cf2-bd5e-befac9e3d042.webp",
             "title": "After",
             "title_size": "small",
             "title_position": "start"
@@ -432,7 +432,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -468,7 +468,7 @@
           "type": "image",
           "settings": {
             "heading": "1. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -478,7 +478,7 @@
           "type": "image",
           "settings": {
             "heading": "2. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -488,7 +488,7 @@
           "type": "image",
           "settings": {
             "heading": "3. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -498,7 +498,7 @@
           "type": "image",
           "settings": {
             "heading": "4. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -538,7 +538,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -546,7 +546,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -554,7 +554,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -562,7 +562,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -570,7 +570,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         }
@@ -601,7 +601,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -612,7 +612,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -623,7 +623,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -657,7 +657,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -665,7 +665,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -673,7 +673,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -681,7 +681,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -689,7 +689,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         }
@@ -719,28 +719,28 @@
           "type": "question",
           "settings": {
             "title": "Where should the balm be applied?",
-            "text": "<p>Meno Care Hydrating Balm should be applied to the intimate area, inner and outer labia and mucous membranes.</p>"
+            "text": "<p>Meno Care Hydrating Balm should be applied to the intimate area, inner and outer labia and mucous membranes.<\/p>"
           }
         },
         "template--15103162777736__e5fa209f-098f-4c65-864c-6cd202d0e791-1685093086011a587d-1": {
           "type": "question",
           "settings": {
             "title": "ARE DEODOC'S PRODUCTS SAFE?",
-            "text": "<p>- DeoDoc complies with EU legislation for cosmetic products.<br/><br/>- All ingredients and products are safety assessed for the area of ​​use according to EU legislation for cosmetic products.<br/><br/>- The products are tested on real women by an independent laboratory, whereby they may be called gynecologically tested.<br/><br/>- The products are also dermatologically tested for sensitive skin.<br/><br/>- All products are developed in consultation with Dr. Gunvor Ekman Ordeberg, professor of Obstetrics and Gynecology at Karolinska Institutet.</p>"
+            "text": "<p>- DeoDoc complies with EU legislation for cosmetic products.<br\/><br\/>- All ingredients and products are safety assessed for the area of ​​use according to EU legislation for cosmetic products.<br\/><br\/>- The products are tested on real women by an independent laboratory, whereby they may be called gynecologically tested.<br\/><br\/>- The products are also dermatologically tested for sensitive skin.<br\/><br\/>- All products are developed in consultation with Dr. Gunvor Ekman Ordeberg, professor of Obstetrics and Gynecology at Karolinska Institutet.<\/p>"
           }
         },
         "d52d38a5-94dc-4d35-acce-d0ca4f95cb78": {
           "type": "question",
           "settings": {
             "title": "Are DeoDoc's products vegan?",
-            "text": "<p>Yes. </p>"
+            "text": "<p>Yes. <\/p>"
           }
         },
         "0f41baf5-2ec5-4648-8375-582460ec3757": {
           "type": "question",
           "settings": {
             "title": "ARE THE PRODUCTS SUITABLE FOR SENSITIVE SKIN?",
-            "text": "<p>Yes, DeoDoc's Meno Care Hydrating Balm is specially formulated for dry and fragile mucous membranes that can occur during menopause.</p>"
+            "text": "<p>Yes, DeoDoc's Meno Care Hydrating Balm is specially formulated for dry and fragile mucous membranes that can occur during menopause.<\/p>"
           }
         }
       },
@@ -762,15 +762,6 @@
     },
     "1659359337855b4176": {
       "type": "apps",
-      "blocks": {
-        "afb29d1c-263c-415f-ac89-668e87c1428a": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "afb29d1c-263c-415f-ac89-668e87c1428a"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

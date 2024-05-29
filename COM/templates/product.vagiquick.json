@@ -51,7 +51,7 @@
           }
         },
         "2fa1cb5e-e63e-46e0-9386-52aefc5a634b": {
-          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
           "settings": {
             "product": "{{product}}"
           }
@@ -76,7 +76,7 @@
         "213d97b3-e4c7-4094-9f6d-633aeeb7d818": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Betalsatt_SE.png",
+            "image": "shopify:\/\/shop_images\/Betalsatt_SE.png",
             "height": 28,
             "link": ""
           }
@@ -91,7 +91,7 @@
           "settings": {
             "icon": "none",
             "heading": "PRODUKTSPECIFIKATIONER",
-            "content": "<p>- Utvecklad av kvinnliga läkare</p><p></p><p>- Fri från allergener, alkohol och parabener</p><p>- Tillverkad i Sverige</p><p>- 100% vegansk</p>",
+            "content": "<p>- Utvecklad av kvinnliga läkare<\/p><p><\/p><p>- Fri från allergener, alkohol och parabener<\/p><p>- Tillverkad i Sverige<\/p><p>- 100% vegansk<\/p>",
             "page": ""
           }
         },
@@ -100,7 +100,7 @@
           "settings": {
             "icon": "none",
             "heading": "Användning",
-            "content": "<p>Öppna inte testkitet förrän du är redo att använda det. Använd inte testet om påsen är skadad. Se till att du har en klocka tillgänglig. Testet ska utföras på en ren yta och du måste</p><p>tvätta händerna först! Testet kan utföras när som helst på dagen.</p><p><strong>1. </strong>Ta ut enheten ur den förseglade påsen och placera den på en plan horisontell yta.</p><p><strong>2.</strong> Håll enheten stadig med en hand. Ta försiktigt bort aluminiumskyddet från det lila locket med andra handen. Obs! Det lila locket innehåller vätska.</p><p><strong>3.</strong> Ta ut provtagningspinnen från förpackningen.</p><p><strong>4.</strong> För in provtagningspinnen 2 cm in i slidan och vrid runt den i 20 sekunder. Dra försiktigt ut provtagningspinnen!</p><p><strong>5.</strong> Snurra provtagningspinnen i vätskan i det lila locket i 20 sekunder.</p><p><strong>6</strong>. Dra försiktigt ut provtagningspinnen medan du trycker den mot det lila lockets innervägg. Kasta provtagningspinnen.</p><p><strong>7.</strong> Håll enheten stadig med en hand. Vrid det lila locket moturs tills det tar stopp (b) och vrid det sedan tillbaka till start-punkten (a).</p><p><strong>8.</strong> Upprepa steg 7 två gånger till. I det slutliga läget måste skårorna på det lila locket och</p><p>den vita basen vara i linje med varandra (b).</p><p><strong>9.</strong> Läs av resultaten efter 10 minuter. Ett blått streck ska visas vid kontrollmärket</p><p>(C). Om resultatet är positivt ska ytterligare ett blått streck visas vid testmärket (T).</p><p>Om resultatet är negativt eller oklart, läs av igen efter ytterligare 10 minuter. Läs av resultatet efter högst 20 minuter, eftersom det annars kan leda till falskt positiva resultat.</p>",
+            "content": "<p>Öppna inte testkitet förrän du är redo att använda det. Använd inte testet om påsen är skadad. Se till att du har en klocka tillgänglig. Testet ska utföras på en ren yta och du måste<\/p><p>tvätta händerna först! Testet kan utföras när som helst på dagen.<\/p><p><strong>1. <\/strong>Ta ut enheten ur den förseglade påsen och placera den på en plan horisontell yta.<\/p><p><strong>2.<\/strong> Håll enheten stadig med en hand. Ta försiktigt bort aluminiumskyddet från det lila locket med andra handen. Obs! Det lila locket innehåller vätska.<\/p><p><strong>3.<\/strong> Ta ut provtagningspinnen från förpackningen.<\/p><p><strong>4.<\/strong> För in provtagningspinnen 2 cm in i slidan och vrid runt den i 20 sekunder. Dra försiktigt ut provtagningspinnen!<\/p><p><strong>5.<\/strong> Snurra provtagningspinnen i vätskan i det lila locket i 20 sekunder.<\/p><p><strong>6<\/strong>. Dra försiktigt ut provtagningspinnen medan du trycker den mot det lila lockets innervägg. Kasta provtagningspinnen.<\/p><p><strong>7.<\/strong> Håll enheten stadig med en hand. Vrid det lila locket moturs tills det tar stopp (b) och vrid det sedan tillbaka till start-punkten (a).<\/p><p><strong>8.<\/strong> Upprepa steg 7 två gånger till. I det slutliga läget måste skårorna på det lila locket och<\/p><p>den vita basen vara i linje med varandra (b).<\/p><p><strong>9.<\/strong> Läs av resultaten efter 10 minuter. Ett blått streck ska visas vid kontrollmärket<\/p><p>(C). Om resultatet är positivt ska ytterligare ett blått streck visas vid testmärket (T).<\/p><p>Om resultatet är negativt eller oklart, läs av igen efter ytterligare 10 minuter. Läs av resultatet efter högst 20 minuter, eftersom det annars kan leda till falskt positiva resultat.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -109,7 +109,7 @@
           "settings": {
             "icon": "none",
             "heading": "INNEHÅLL",
-            "content": "<p>- 1 testkassett (i en förseglad påse)</p><p>- 1 steril provtagningspinne</p><p>- 1 bruksanvisning</p>",
+            "content": "<p>- 1 testkassett (i en förseglad påse)<\/p><p>- 1 steril provtagningspinne<\/p><p>- 1 bruksanvisning<\/p>",
             "page": ""
           }
         },
@@ -119,7 +119,7 @@
           "settings": {
             "icon": "none",
             "heading": "Doft",
-            "content": "<p><strong>Fresh Coconut:</strong> En fräsch & söt blandning av tropisk kokosdoft</p><p><strong>Fragrance Free: </strong>Doftfri </p>",
+            "content": "<p><strong>Fresh Coconut:<\/strong> En fräsch & söt blandning av tropisk kokosdoft<\/p><p><strong>Fragrance Free: <\/strong>Doftfri <\/p>",
             "page": ""
           }
         },
@@ -270,7 +270,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p>3 av 4 kvinnor får svamp en gång i livet. Många kvinnor feldiagnostiserar dock och använder svampmedicin i onödan vilket kan leda till besvär av svampmedicinen men också resistensutveckling. Därför har DeoDocs team av kvinnliga läkare och gynekolog tagit fram ett revolutionerande test som inom några få minuter ger svar inom 10 minuter om vaginal svampinfektion föreligger.\"<em><br/><br/></em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet</strong></p>",
+            "text": "<p>3 av 4 kvinnor får svamp en gång i livet. Många kvinnor feldiagnostiserar dock och använder svampmedicin i onödan vilket kan leda till besvär av svampmedicinen men också resistensutveckling. Därför har DeoDocs team av kvinnliga läkare och gynekolog tagit fram ett revolutionerande test som inom några få minuter ger svar inom 10 minuter om vaginal svampinfektion föreligger.\"<em><br\/><br\/><\/em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -291,7 +291,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Doctor_Gunvor_1.png",
+        "image": "shopify:\/\/shop_images\/Doctor_Gunvor_1.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -319,7 +319,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -327,7 +327,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -335,7 +335,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -360,7 +360,7 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/34.png",
+            "image": "shopify:\/\/shop_images\/34.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -372,7 +372,7 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/35.png",
+            "image": "shopify:\/\/shop_images\/35.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -384,7 +384,7 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/36.png",
+            "image": "shopify:\/\/shop_images\/36.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -445,14 +445,14 @@
           "disabled": true,
           "settings": {
             "title": "VARFÖR HAR NI PARFYM I PRODUKTERNA?",
-            "text": "<p>Vanliga parfymer ska aldrig användas i intimområdet då de innehåller alkohol (kan verka uttorkande) och allergener (kan ge irritation).<br/><br/>DeoDoc använder därför dofter som kallas för allergenfria dofter. Detta är dofter som är utvecklade utan allergener och alkohol. Vi har valt både att utveckla produkter med allergenfri doft och utan doft för att erbjuda valmöjlighet.</p>"
+            "text": "<p>Vanliga parfymer ska aldrig användas i intimområdet då de innehåller alkohol (kan verka uttorkande) och allergener (kan ge irritation).<br\/><br\/>DeoDoc använder därför dofter som kallas för allergenfria dofter. Detta är dofter som är utvecklade utan allergener och alkohol. Vi har valt både att utveckla produkter med allergenfri doft och utan doft för att erbjuda valmöjlighet.<\/p>"
           }
         },
         "template--15426238054556__c862784d-1ec3-4b3a-ac69-4aa23dbca192-16684196867f9b76a7-1": {
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER VEGANSKA?",
-            "text": "<p>Ja.</p>"
+            "text": "<p>Ja.<\/p>"
           }
         }
       },
@@ -472,15 +472,6 @@
     },
     "1663687488c747991e": {
       "type": "apps",
-      "blocks": {
-        "65d96968-718f-4152-afcf-bb27c26f57bb": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "65d96968-718f-4152-afcf-bb27c26f57bb"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

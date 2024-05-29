@@ -13,7 +13,7 @@
         "16582309516e5e2342-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Reklamation</strong></p><p>Vi följer Konsumentverkets rekommendationer för e-handel. Kundtjänst måste alltid kontaktas via e-post (myorder@deodoc.se) inom skälig tid. Du som konsument har enligt svensk lag möjlighet att reklamera en vara i upp till 3 år efter köpet, dock inom skälig tid från att ett fel upptäckts. Reklamationsrätten gäller fel som kan härledas till produktionen av varan och gäller alltså inte normalt slitage eller åldrande av produkt. DEODOC AB förbehåller sig rätten att i första hand avhjälpa felet, i andra hand omleverans av varan och i sista hand återköp. Observera att den trasiga produkten samt emballaget måste sparas tills dess att ärendet är löst. Om varan ej finns i lager eller har utgått så kontaktar vi dig innan vidare hantering. Vi hanterar reklamationsärenden normalt sett inom 3-14 arbetsdagar. Vid godkänd reklamation av köp så återbetalar vi summan för din beställning inom 30 dagar.</p><p><strong>Ångerrätt</strong></p><p>Vid köp av produkter hos DEODOC AB har du som kund 14 dagars ångerrätt som gäller från det att du har tagit emot en vara som du har beställt. Du är ansvarig för att kontrollera att leveransen och produkterna är oskadda i samband med mottagande av paketet. Du har 14 dagars öppet köp från det att du mottagit paketet, förutsatt att produkten returneras oanvänd i oskadad originalförpackning och i de fall där varan är plomberad skall denna vara obruten. Vid retur betalar du själv returkostnaden och ombeds höra av dig till vår kundtjänst på <a href=\"mailto:myorder@deodoc.se\">myorder@deodoc.se</a> för vidare instruktioner. Returhanteringen tar ca 1-3 veckor. Tänk på att spara kvittot på din retur och skicka spårbart så att vi kan ersätta dig även i de fall paketet försvinner under leveransen. </p><p><strong>Undantag från ångerrätt</strong></p><p>Produkten måste vara obruten och oanvänd men enligt lag har du rätt att säkerställa dess egenskaper och funktioner. Vid nyttjande av ångerrätten har vi rätt att göra ett värdeminskningsavdrag i de fall då varan hanterats i större omfattning än nödvändigt. Värdeminskning bedöms från fall till fall. Öppnade och/eller använda produkter återtas inte på grund utav hälso- och hygienskäl. Vid godkänd hävning av köp så återbetalar vi summan för din beställning inom 21 dagar.</p>",
+            "text": "<p><strong>Reklamation<\/strong><\/p><p>Vi följer Konsumentverkets rekommendationer för e-handel. Kundtjänst måste alltid kontaktas via e-post (myorder@deodoc.se) inom skälig tid. Du som konsument har enligt svensk lag möjlighet att reklamera en vara i upp till 3 år efter köpet, dock inom skälig tid från att ett fel upptäckts. Reklamationsrätten gäller fel som kan härledas till produktionen av varan och gäller alltså inte normalt slitage eller åldrande av produkt. DEODOC AB förbehåller sig rätten att i första hand avhjälpa felet, i andra hand omleverans av varan och i sista hand återköp. Observera att den trasiga produkten samt emballaget måste sparas tills dess att ärendet är löst. Om varan ej finns i lager eller har utgått så kontaktar vi dig innan vidare hantering. Vi hanterar reklamationsärenden normalt sett inom 3-14 arbetsdagar. Vid godkänd reklamation av köp så återbetalar vi summan för din beställning inom 30 dagar.<\/p><p><strong>Ångerrätt<\/strong><\/p><p>Vid köp av produkter hos DEODOC AB har du som kund 14 dagars ångerrätt som gäller från det att du har tagit emot en vara som du har beställt. Du är ansvarig för att kontrollera att leveransen och produkterna är oskadda i samband med mottagande av paketet. Du har 14 dagars öppet köp från det att du mottagit paketet, förutsatt att produkten returneras oanvänd i oskadad originalförpackning och i de fall där varan är plomberad skall denna vara obruten. Vid retur betalar du själv returkostnaden och ombeds höra av dig till vår kundtjänst på <a href=\"mailto:myorder@deodoc.se\">myorder@deodoc.se<\/a> för vidare instruktioner. Returhanteringen tar ca 1-3 veckor. Tänk på att spara kvittot på din retur och skicka spårbart så att vi kan ersätta dig även i de fall paketet försvinner under leveransen. <\/p><p><strong>Undantag från ångerrätt<\/strong><\/p><p>Produkten måste vara obruten och oanvänd men enligt lag har du rätt att säkerställa dess egenskaper och funktioner. Vid nyttjande av ångerrätten har vi rätt att göra ett värdeminskningsavdrag i de fall då varan hanterats i större omfattning än nödvändigt. Värdeminskning bedöms från fall till fall. Öppnade och\/eller använda produkter återtas inte på grund utav hälso- och hygienskäl. Vid godkänd hävning av köp så återbetalar vi summan för din beställning inom 21 dagar.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -58,9 +58,9 @@
           "settings": {
             "title": "Vulva vs Vagina",
             "title_size": "h2",
-            "text": "<p>It’s time that we once and for all dispel the misconception between vulva and vagina. </p>",
+            "text": "<p>It’s time that we once and for all dispel the misconception between vulva and vagina. <\/p>",
             "button_label": "Learn more",
-            "button_link": "shopify://pages/vulva-vs-vagina",
+            "button_link": "shopify:\/\/pages\/vulva-vs-vagina",
             "button_style_secondary": false
           }
         },
@@ -69,9 +69,9 @@
           "settings": {
             "title": "pH",
             "title_size": "h2",
-            "text": "<p>What is pH? And why does pH matter for the vulva and vagina?</p>",
+            "text": "<p>What is pH? And why does pH matter for the vulva and vagina?<\/p>",
             "button_label": "Learn More",
-            "button_link": "shopify://pages/ph",
+            "button_link": "shopify:\/\/pages\/ph",
             "button_style_secondary": false
           }
         },
@@ -80,21 +80,21 @@
           "settings": {
             "title": "Menstruation",
             "title_size": "h2",
-            "text": "<p>Here you can learn more about what is happening in your body during the four phases of the menstrual cycle.</p>",
+            "text": "<p>Here you can learn more about what is happening in your body during the four phases of the menstrual cycle.<\/p>",
             "button_label": "Learn More",
-            "button_link": "shopify://pages/menstruation",
+            "button_link": "shopify:\/\/pages\/menstruation",
             "button_style_secondary": false
           }
         },
         "967e363e-99b2-4470-9340-46f6684b65c4": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/final4.jpg",
+            "image": "shopify:\/\/shop_images\/final4.jpg",
             "title": "Intimate odors",
             "title_size": "h3",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Learn more",
-            "button_link": "shopify://pages/intimate-odor",
+            "button_link": "shopify:\/\/pages\/intimate-odor",
             "button_style_secondary": false
           }
         }

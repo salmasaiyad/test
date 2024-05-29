@@ -21,7 +21,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers.</p>",
+            "text": "<p>Share information about your brand with your customers.<\/p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -33,7 +33,7 @@
         "text"
       ],
       "settings": {
-        "image": "shopify://shop_images/Namnlos_design_68.png",
+        "image": "shopify:\/\/shop_images\/Namnlos_design_68.png",
         "image_position": "20% 50%",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -74,7 +74,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -132,7 +132,7 @@
         "16575421422babb9f9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -154,7 +154,7 @@
       ],
       "disabled": true,
       "settings": {
-        "video_url": "https://www.youtube.com/watch?v=NzycSGeg7nI",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NzycSGeg7nI",
         "text_box_position": "middle-center",
         "text_alignment": "center",
         "image_ratio": "650px",
@@ -184,7 +184,7 @@
         "1658735302aec4cd9a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Här är några av de vanligaste orsakerna varför:</p>",
+            "text": "<p>Här är några av de vanligaste orsakerna varför:<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -339,7 +339,7 @@
         "16587356020618afb3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>\"Flytningar är helt normalt och de bidrar till att hålla slemhinnorna i vaginan fuktiga. De skyddar också mot infektioner och är det sätt som vaginan rengör sig själv på. En normal flytning är oftast vit/genomskinlig och har en lätt syrlig lukt. Om du märker att dina flytningar börjar lukta annorlunda, eller om din flytning ändrar textur eller färg kan detta tyda på en infektion. Då rekommenderar jag att prata med din gynekolog\"</p><p></p><p>- Dr. Gunvor Ekman-Oderberg, M.D., PH.D</p>",
+            "text": "<p>\"Flytningar är helt normalt och de bidrar till att hålla slemhinnorna i vaginan fuktiga. De skyddar också mot infektioner och är det sätt som vaginan rengör sig själv på. En normal flytning är oftast vit\/genomskinlig och har en lätt syrlig lukt. Om du märker att dina flytningar börjar lukta annorlunda, eller om din flytning ändrar textur eller färg kan detta tyda på en infektion. Då rekommenderar jag att prata med din gynekolog\"<\/p><p><\/p><p>- Dr. Gunvor Ekman-Oderberg, M.D., PH.D<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -373,8 +373,8 @@
       "settings": {
         "heading": "",
         "heading_size": "h2",
-        "cover_image": "shopify://shop_images/Screenshot_2022-09-06_at_13.14.38.png",
-        "video_url": "https://www.youtube.com/watch?v=38NkKVDYyuw",
+        "cover_image": "shopify:\/\/shop_images\/Screenshot_2022-09-06_at_13.14.38.png",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=38NkKVDYyuw",
         "description": "",
         "full_width": false,
         "show_divider": false,
@@ -395,7 +395,7 @@
         "16587486498cae7c36-1": {
           "type": "text",
           "settings": {
-            "text": "<p></p><p>Visste du att exakt samma svettkörtlar som finns i armhålan också finns i vulvan? Det är således normalt att svettas från vulvan och precis som i armhålan kan en lukt uppkomma. Svettning från armhålan och vulvan är helt normalt. Precis som det finns deodoranter för under armarna har DeoDocs läkarteam utvecklat intimdeodoranter, både för kvinnor och män. Våra intimdeodoranter är utvecklade med respekt för vulvans pH och känsliga hudområde. </p><p></p>",
+            "text": "<p><\/p><p>Visste du att exakt samma svettkörtlar som finns i armhålan också finns i vulvan? Det är således normalt att svettas från vulvan och precis som i armhålan kan en lukt uppkomma. Svettning från armhålan och vulvan är helt normalt. Precis som det finns deodoranter för under armarna har DeoDocs läkarteam utvecklat intimdeodoranter, både för kvinnor och män. Våra intimdeodoranter är utvecklade med respekt för vulvans pH och känsliga hudområde. <\/p><p><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -404,7 +404,7 @@
           "type": "button",
           "settings": {
             "button_label": "köp nu",
-            "button_link": "shopify://products/deosprays",
+            "button_link": "shopify:\/\/products\/deosprays",
             "button_style_secondary": false
           }
         }
@@ -415,7 +415,7 @@
         "16587486498cae7c36-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/deospray_a41890c4-d8a0-41af-a847-3f1349fea66c.jpg",
+        "image": "shopify:\/\/shop_images\/deospray_a41890c4-d8a0-41af-a847-3f1349fea66c.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -442,7 +442,7 @@
         "1658746549dd3e2447-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Vaginan ska aldrig tvättas!</p><p>Att tvätta vaginan kommer att störa pH-balansen i slidan och orsaka mycket mer skada än du tror. Genom att störa pH-nivån kan du orsaka intim lukt, irritation och många andra problem.</p>",
+            "text": "<p>Vaginan ska aldrig tvättas!<\/p><p>Att tvätta vaginan kommer att störa pH-balansen i slidan och orsaka mycket mer skada än du tror. Genom att störa pH-nivån kan du orsaka intim lukt, irritation och många andra problem.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -485,7 +485,7 @@
         "1658746827b6617a81-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Apocrine Sweat Glands“Apocrine sweat glands exist in only two parts of the body - the armpits and the vulva. They empty in hair follicles. These sweat glands are not thermo-regulatory like other sweat glands - instead they are characterised by causing odor.”</p><p>- Dr. Hedieh Asadi, M.D.</p>",
+            "text": "<p>Apocrine Sweat Glands“Apocrine sweat glands exist in only two parts of the body - the armpits and the vulva. They empty in hair follicles. These sweat glands are not thermo-regulatory like other sweat glands - instead they are characterised by causing odor.”<\/p><p>- Dr. Hedieh Asadi, M.D.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -495,7 +495,7 @@
           "disabled": true,
           "settings": {
             "button_label": "Shop now",
-            "button_link": "shopify://collections/washes",
+            "button_link": "shopify:\/\/collections\/washes",
             "button_style_secondary": false
           }
         }
@@ -506,7 +506,7 @@
         "1658746827b6617a81-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/3.jpg",
+        "image": "shopify:\/\/shop_images\/3.jpg",
         "image_position": "center center",
         "text_box_position": "flex-start",
         "text_alignment": "left",
@@ -536,7 +536,7 @@
         "16587605088fce42cb-1": {
           "type": "text",
           "settings": {
-            "text": "<p>This is a vulva - not to mix up with a vagina. The Vulva is not self-cleansing and urine easily clings to the area which can cause bacterial growth. The Vulva also has sweat glands that contribute to bacterial growth causing odor. To wash this intimate area - You need a gentle intimate wash with a pH-level of 5.</p>",
+            "text": "<p>This is a vulva - not to mix up with a vagina. The Vulva is not self-cleansing and urine easily clings to the area which can cause bacterial growth. The Vulva also has sweat glands that contribute to bacterial growth causing odor. To wash this intimate area - You need a gentle intimate wash with a pH-level of 5.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -557,7 +557,7 @@
         "16587605088fce42cb-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Uretha_2.jpg",
+        "image": "shopify:\/\/shop_images\/Uretha_2.jpg",
         "image_position": "center center",
         "text_box_position": "flex-end",
         "text_alignment": "left",

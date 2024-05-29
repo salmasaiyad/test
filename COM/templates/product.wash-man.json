@@ -60,7 +60,7 @@
         "e304e4d6-f8cd-4ce8-abfb-281b21e20069": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Betalsatt_SE.png",
+            "image": "shopify:\/\/shop_images\/Betalsatt_SE.png",
             "height": 28,
             "link": ""
           }
@@ -84,7 +84,7 @@
           "settings": {
             "icon": "none",
             "heading": "Produktspecifikation",
-            "content": "<p>-Utvecklad av läkare</p><p>-Dermatologiskt testad</p><p>-Fri från allergener, alkohol och parabener</p><p>-Tillverkad i Sverige</p><p>-100% vegansk</p>",
+            "content": "<p>-Utvecklad av läkare<\/p><p>-Dermatologiskt testad<\/p><p>-Fri från allergener, alkohol och parabener<\/p><p>-Tillverkad i Sverige<\/p><p>-100% vegansk<\/p>",
             "page": ""
           }
         },
@@ -93,7 +93,7 @@
           "settings": {
             "icon": "none",
             "heading": "ANVÄNDNING",
-            "content": "<p>Använd intimtvålen vid dusch och skölj därefter av.</p>",
+            "content": "<p>Använd intimtvålen vid dusch och skölj därefter av.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -102,7 +102,7 @@
           "settings": {
             "icon": "none",
             "heading": "INGREDIENSER",
-            "content": "<p>Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Cocoamphoacetate, Sodium Chloride, PEG-40 Hydrogenated Castor Oil, Glycerin, Cocamide MEA, Polyquaternium-10, PEG -14 M, Propylene Glycol, Diazolidinyl Urea, Iodopropynyl Butylcarbamate, Benzoic Acid, Lactic Acid, Parfum</p>",
+            "content": "<p>Aqua, Sodium Laureth Sulfate, Glycol Distearate, Sodium Cocoamphoacetate, Sodium Chloride, PEG-40 Hydrogenated Castor Oil, Glycerin, Cocamide MEA, Polyquaternium-10, PEG -14 M, Propylene Glycol, Diazolidinyl Urea, Iodopropynyl Butylcarbamate, Benzoic Acid, Lactic Acid, Parfum<\/p>",
             "page": ""
           }
         },
@@ -251,7 +251,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Baserat på vår kliniska erfarenhet som läkare har vi sett hur vanliga tvålar och duschgeléer har en tendens att vara för starka och torka ut den känsliga huden i intimområdet hos män. Därför har vi skapat en mild och skonsam tvål som är anpassad för intimområdet, men den passar även för hela kroppen.\"<br/><br/></em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet</strong></p>",
+            "text": "<p><em>\"Baserat på vår kliniska erfarenhet som läkare har vi sett hur vanliga tvålar och duschgeléer har en tendens att vara för starka och torka ut den känsliga huden i intimområdet hos män. Därför har vi skapat en mild och skonsam tvål som är anpassad för intimområdet, men den passar även för hela kroppen.\"<br\/><br\/><\/em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -272,7 +272,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_7863_6a058217-50a4-4b67-9af2-1d1a66b56f6c.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7863_6a058217-50a4-4b67-9af2-1d1a66b56f6c.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -300,7 +300,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -308,7 +308,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -316,7 +316,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -341,7 +341,7 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/13_60210d55-2e96-41a3-be37-1d79857f080c.png",
+            "image": "shopify:\/\/shop_images\/13_60210d55-2e96-41a3-be37-1d79857f080c.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -353,7 +353,7 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/14_a1cc5375-fd45-4802-90cb-8ba94785b78a.png",
+            "image": "shopify:\/\/shop_images\/14_a1cc5375-fd45-4802-90cb-8ba94785b78a.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -365,7 +365,7 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/15_df926d1e-731c-46a0-984c-35f33ba02146.png",
+            "image": "shopify:\/\/shop_images\/15_df926d1e-731c-46a0-984c-35f33ba02146.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -425,28 +425,28 @@
           "type": "question",
           "settings": {
             "title": "VARFÖR HAR NI PARFYM I PRODUKTERNA?",
-            "text": "<p>Vanliga parfymer ska aldrig användas i intimområdet då de innehåller alkohol (kan verka uttorkande) och allergener (kan ge irritation).<br/><br/>DeoDoc använder därför dofter som kallas för allergenfria dofter. Detta är dofter som är utvecklade utan allergener och alkohol. Vi har valt både att utveckla produkter med allergenfri doft och utan doft för att erbjuda valmöjlighet.</p>"
+            "text": "<p>Vanliga parfymer ska aldrig användas i intimområdet då de innehåller alkohol (kan verka uttorkande) och allergener (kan ge irritation).<br\/><br\/>DeoDoc använder därför dofter som kallas för allergenfria dofter. Detta är dofter som är utvecklade utan allergener och alkohol. Vi har valt både att utveckla produkter med allergenfri doft och utan doft för att erbjuda valmöjlighet.<\/p>"
           }
         },
         "template--15541964046492__a30dd8f3-f35e-4fde-ad41-8a929fddba68-1668418487b416c12f-1": {
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER SÄKRA?",
-            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.</p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.</p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.</p><p>- Produkterna är även dermatologiskt testade för känslig hud.</p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.</p>"
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<\/p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<\/p><p>- Produkterna är även dermatologiskt testade för känslig hud.<\/p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<\/p>"
           }
         },
         "22f1fe99-5908-4477-9d25-e66ce34bcf32": {
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER VEGANSKA?",
-            "text": "<p>Ja.</p>"
+            "text": "<p>Ja.<\/p>"
           }
         },
         "330b97b2-eb7f-4272-bb7c-e1cf6619c677": {
           "type": "question",
           "settings": {
             "title": "Passar produkterna till känslig hy?",
-            "text": "<p>Ja, vår Daily Wash är speciellt framtagen för intimområdet med egenskaper för att inte torka ut och irritera den känsliga huden i intimområdet.</p>"
+            "text": "<p>Ja, vår Daily Wash är speciellt framtagen för intimområdet med egenskaper för att inte torka ut och irritera den känsliga huden i intimområdet.<\/p>"
           }
         }
       },
@@ -468,15 +468,6 @@
     },
     "166369197441460eac": {
       "type": "apps",
-      "blocks": {
-        "11fd0d42-7293-4c05-b0d1-c51cd45064b6": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "11fd0d42-7293-4c05-b0d1-c51cd45064b6"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

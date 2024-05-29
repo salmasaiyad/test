@@ -45,7 +45,8 @@
               <li>
                 {%- case block.type -%}
                   {%- when 'image' -%}
-                    <h3 data-block-id="{{ block.id }}" class="tab-collage__heading{% if forloop.first %} active{% endif %} h2">{{ block.settings.heading | escape }}</h3>
+
+                    <h3 data-block-id="{{ block.id }}" class="tab-collage__heading{% if forloop.first %} active{% endif %} h2" data-link="{{ block.settings.button_link }}">{{ block.settings.heading | escape }}</h3>
                   {%- when 'product' -%}
                     <h3 data-block-id="{{ block.id }}" class="tab-collage__heading{% if forloop.first %} active{% endif %} h2">
                       {%- liquid
@@ -333,6 +334,15 @@
   {%- endif -%}
 </div>
 
+<script>
+  const tabHeading = document.querySelectorAll('.tab-collage__heading');
+    tabHeading.forEach((heading) => {
+        heading.addEventListener('click', () => {
+          const dataLink = heading.getAttribute('data-link');
+          window.location.href = dataLink;
+        });
+    });
+</script>
 {% schema %}
 {
   "name": "t:sections.tab-collage.name",

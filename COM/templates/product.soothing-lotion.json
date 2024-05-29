@@ -75,7 +75,7 @@
           "settings": {
             "icon": "none",
             "heading": "specifications",
-            "content": "<p>-Specially developed for vulvar skin</p><p>-Fragrance and allergen-free</p><p>-Developed by Women Doctors</p><p>-100% vegan</p><p>-Made in Sweden </p>",
+            "content": "<p>-Specially developed for vulvar skin<\/p><p>-Fragrance and allergen-free<\/p><p>-Developed by Women Doctors<\/p><p>-100% vegan<\/p><p>-Made in Sweden <\/p>",
             "page": ""
           }
         },
@@ -84,7 +84,7 @@
           "settings": {
             "icon": "none",
             "heading": "How to use",
-            "content": "<p>Rich formula. Apply a pea-sized amount onto the fingers and gently rub on the inner and outer labia. Use as needed. </p>",
+            "content": "<p>Rich formula. Apply a pea-sized amount onto the fingers and gently rub on the inner and outer labia. Use as needed. <\/p>",
             "page": "shaving-kit"
           }
         },
@@ -93,7 +93,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingredients",
-            "content": "<p>Aqua (Water), Paranum Liquidum, Cetearyl Ethylhexanoate, Isopropyl Myristate, Squalane, Petrolatum,<br/>Glycerin, Paran, Propanediol, Cera Microcristallina, Glyceryl<br/>Isostearate, Cannabis Sativa Seed Oil, Cannabidiol, Polysorbate<br/>60, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate<br/>Copolymer, Sodium Levulinate, Sodium Anisate, Polyglyceryl-3<br/>Oleate, Ozokerite, Sorbitan Isostearate, Hydrogenated Castor<br/>Oil.<br/></p>",
+            "content": "<p>Aqua (Water), Paranum Liquidum, Cetearyl Ethylhexanoate, Isopropyl Myristate, Squalane, Petrolatum,<br\/>Glycerin, Paran, Propanediol, Cera Microcristallina, Glyceryl<br\/>Isostearate, Cannabis Sativa Seed Oil, Cannabidiol, Polysorbate<br\/>60, Hydroxyethyl Acrylate\/Sodium Acryloyldimethyl Taurate<br\/>Copolymer, Sodium Levulinate, Sodium Anisate, Polyglyceryl-3<br\/>Oleate, Ozokerite, Sorbitan Isostearate, Hydrogenated Castor<br\/>Oil.<br\/><\/p>",
             "page": ""
           }
         },
@@ -241,7 +241,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><em>– SUBHEADING</em></p>",
+            "text": "<p><em>– SUBHEADING<\/em><\/p>",
             "text_size": "typeset",
             "secondary_color": true
           }
@@ -274,7 +274,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p>“The vulvar skin barrier and the surrounding tissues can easily become dry and irritated, just like the skin barrier on the rest of our body. Based on my clinical experience as an OB/GYN I have seen that dry vulvar skin and the discomfort it causes, can too often be confused as a yeast infection. And instead of just using hydrating the vulvar skin, yeast medication is used instead which is not only unnecessary, but also creates a vicious cycle of discomfort. That is why we have formulated a product specifically to instantly soothe and moisturize vulvar skin.”</p><p><strong>-Dr. Gunvor Ekman-Ordeberg, OB/GYN, MD.,PhD</strong></p>",
+            "text": "<p>“The vulvar skin barrier and the surrounding tissues can easily become dry and irritated, just like the skin barrier on the rest of our body. Based on my clinical experience as an OB\/GYN I have seen that dry vulvar skin and the discomfort it causes, can too often be confused as a yeast infection. And instead of just using hydrating the vulvar skin, yeast medication is used instead which is not only unnecessary, but also creates a vicious cycle of discomfort. That is why we have formulated a product specifically to instantly soothe and moisturize vulvar skin.”<\/p><p><strong>-Dr. Gunvor Ekman-Ordeberg, OB\/GYN, MD.,PhD<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -295,7 +295,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_7883_1.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7883_1.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -323,7 +323,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -331,7 +331,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -339,7 +339,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -364,7 +364,7 @@
         "look-0": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/Before_256x256_91d8acae-3c88-49ce-bca1-d347e258c82e.webp",
+            "image": "shopify:\/\/shop_images\/Before_256x256_91d8acae-3c88-49ce-bca1-d347e258c82e.webp",
             "title": "before",
             "title_size": "small",
             "title_position": "start"
@@ -373,7 +373,7 @@
         "look-1": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/After_256x256_546b8fc8-e668-4cf2-bd5e-befac9e3d042.webp",
+            "image": "shopify:\/\/shop_images\/After_256x256_546b8fc8-e668-4cf2-bd5e-befac9e3d042.webp",
             "title": "After",
             "title_size": "small",
             "title_position": "start"
@@ -431,7 +431,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -467,7 +467,7 @@
           "type": "image",
           "settings": {
             "heading": "1. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -477,7 +477,7 @@
           "type": "image",
           "settings": {
             "heading": "2. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -487,7 +487,7 @@
           "type": "image",
           "settings": {
             "heading": "3. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -497,7 +497,7 @@
           "type": "image",
           "settings": {
             "heading": "4. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -537,7 +537,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -545,7 +545,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -553,7 +553,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -561,7 +561,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -569,7 +569,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         }
@@ -600,7 +600,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -611,7 +611,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -622,7 +622,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -656,7 +656,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -664,7 +664,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -672,7 +672,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -680,7 +680,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -688,7 +688,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         }
@@ -718,14 +718,14 @@
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         },
         "template--15103162777736__e5fa209f-098f-4c65-864c-6cd202d0e791-1685093086011a587d-1": {
           "type": "question",
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         }
       },
@@ -746,15 +746,6 @@
     },
     "1659359337855b4176": {
       "type": "apps",
-      "blocks": {
-        "afb29d1c-263c-415f-ac89-668e87c1428a": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "afb29d1c-263c-415f-ac89-668e87c1428a"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

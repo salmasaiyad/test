@@ -67,7 +67,7 @@
         "template--15321823510664__328bc461-64d1-4fc0-ad5d-83a0e9349b8c-16702339100fa60514-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>As the first and only intimate skincare brand founded by women doctors, we are here to educate, empower, and uplift women every day in everything they do. Our blog posts are researched and vetted by our highly trained team of female doctors. Should you have immediate medical concerns, please contact your personal medical provider. </em></p><p><strong>WELCOME TO DEODOC’S BLOG!</strong></p><p>Whether you’re here because you love our products and want to know more or you are interested in learning about the female anatomy, we are here to help! Because ladies, let’s face it, we have never been properly educated on our personal anatomy. Our vagina and vulva received its 15 minutes of fame in 9th-grade biology and then it was forgotten. </p>",
+            "text": "<p><em>As the first and only intimate skincare brand founded by women doctors, we are here to educate, empower, and uplift women every day in everything they do. Our blog posts are researched and vetted by our highly trained team of female doctors. Should you have immediate medical concerns, please contact your personal medical provider. <\/em><\/p><p><strong>WELCOME TO DEODOC’S BLOG!<\/strong><\/p><p>Whether you’re here because you love our products and want to know more or you are interested in learning about the female anatomy, we are here to help! Because ladies, let’s face it, we have never been properly educated on our personal anatomy. Our vagina and vulva received its 15 minutes of fame in 9th-grade biology and then it was forgotten. <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -88,7 +88,7 @@
     "5a6edc1e-2ef0-4d26-a6b3-aac449087754": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify://shop_images/Skarmavbild_2022-12-05_kl._13.07.09.png",
+        "image": "shopify:\/\/shop_images\/Skarmavbild_2022-12-05_kl._13.07.09.png",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -113,7 +113,7 @@
         "template--15321823576200__44134357-1e69-4e1f-ae33-025ed97208e4-1670234553989a1b2e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>No one ever told us that a bar soap contains a harmful pH or that sexy all-lace thongs are suffocating our vulvas. Our intimate areas consist of one of the most delicate ecosystems on our body; therefore it needs its own products. Yet, no one ever told us that a bar soap contains a harmful pH or that sexy all-lace thongs are suffocating our vulvas.</p><p>As the first and only intimate skincare brand founded by WOMEN doctors (yes you heard that correctly, first and only!), we are dedicated to not only creating safe products that care for your most intimate needs, but we also want to educate women like never before. </p><p>Today, more women know how to contour their faces like a Kardashian, but have little to no knowledge about their own female anatomy. At DeoDoc, we do not want to see yet another generation of young women growing up without acknowledging their own female anatomy and how to properly and safely take care of it!</p><p>We love the female body and its amazing functions, and we want to share our knowledge with women all around the world. It is about time to break taboos, clear away confusion, and dispel myths about feminine hygiene and intimate skin care products. It is about time for every woman to become a certified vagina and vulva pro.</p><p>Sure, our blog posts will have everything you need to know about our products, but more importantly, they can become your go-to source for medically backed knowledge of female biology.* </p><p>While we are here to empower, we still know that there are some questions that we still have trouble asking our friends, sisters, mothers, and even doctors about. Have an inquiry about a specific topic - let us know! We are happy to incorporate posts that YOU want to read about. </p>",
+            "text": "<p>No one ever told us that a bar soap contains a harmful pH or that sexy all-lace thongs are suffocating our vulvas. Our intimate areas consist of one of the most delicate ecosystems on our body; therefore it needs its own products. Yet, no one ever told us that a bar soap contains a harmful pH or that sexy all-lace thongs are suffocating our vulvas.<\/p><p>As the first and only intimate skincare brand founded by WOMEN doctors (yes you heard that correctly, first and only!), we are dedicated to not only creating safe products that care for your most intimate needs, but we also want to educate women like never before. <\/p><p>Today, more women know how to contour their faces like a Kardashian, but have little to no knowledge about their own female anatomy. At DeoDoc, we do not want to see yet another generation of young women growing up without acknowledging their own female anatomy and how to properly and safely take care of it!<\/p><p>We love the female body and its amazing functions, and we want to share our knowledge with women all around the world. It is about time to break taboos, clear away confusion, and dispel myths about feminine hygiene and intimate skin care products. It is about time for every woman to become a certified vagina and vulva pro.<\/p><p>Sure, our blog posts will have everything you need to know about our products, but more importantly, they can become your go-to source for medically backed knowledge of female biology.* <\/p><p>While we are here to empower, we still know that there are some questions that we still have trouble asking our friends, sisters, mothers, and even doctors about. Have an inquiry about a specific topic - let us know! We are happy to incorporate posts that YOU want to read about. <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -137,7 +137,7 @@
         "template--15321823576200__cbe122d5-38b5-4516-9234-8bbb08a56435-1670234615eb06e9a3-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>XO<br/>DR. HEDIEH AND DR. GUNVOR</strong><br/><em><br/>*That said, Should you have any medicalconcern that needs immediate attention, please contact your personal medical provider. </em></p>",
+            "text": "<p><strong>XO<br\/>DR. HEDIEH AND DR. GUNVOR<\/strong><br\/><em><br\/>*That said, Should you have any medicalconcern that needs immediate attention, please contact your personal medical provider. <\/em><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }

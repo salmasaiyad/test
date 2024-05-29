@@ -77,7 +77,7 @@
           "settings": {
             "icon": "none",
             "heading": "PRODUKTSPECIFIKATIONER",
-            "content": "<p>- Tillverkad i Sverige</p><p>- 100% vegansk</p>",
+            "content": "<p>- Tillverkad i Sverige<\/p><p>- 100% vegansk<\/p>",
             "page": ""
           }
         },
@@ -86,7 +86,7 @@
           "settings": {
             "icon": "none",
             "heading": "ANVÄNDNING",
-            "content": "<p>Kan användas som prydnad eller tändas. Placera aldrig ljuset i närheten av några lättantändliga material, vi rekommenderar att du ställer ljuset på ett fat när du tänder det för att förhindra att stearin droppar på möbler. Lämna aldrig ett brinnande ljus utan uppsikt. </p>",
+            "content": "<p>Kan användas som prydnad eller tändas. Placera aldrig ljuset i närheten av några lättantändliga material, vi rekommenderar att du ställer ljuset på ett fat när du tänder det för att förhindra att stearin droppar på möbler. Lämna aldrig ett brinnande ljus utan uppsikt. <\/p>",
             "page": "shaving-kit"
           }
         },
@@ -95,7 +95,7 @@
           "settings": {
             "icon": "none",
             "heading": "INGREDIENSER",
-            "content": "<p>Olive candlewax, paraffin</p>",
+            "content": "<p>Olive candlewax, paraffin<\/p>",
             "page": ""
           }
         },
@@ -188,7 +188,7 @@
             "icon": "clipboard",
             "title": "VETENSKAPLIGT BASERAT",
             "title_size": "h4",
-            "text": "<p></p>"
+            "text": "<p><\/p>"
           }
         },
         "guarantee-1": {
@@ -197,7 +197,7 @@
             "icon": "heart",
             "title": "UTVECKLAT AV GYNEKOLOGER",
             "title_size": "h4",
-            "text": "<p></p>"
+            "text": "<p><\/p>"
           }
         },
         "guarantee-3": {
@@ -206,7 +206,7 @@
             "icon": "globe",
             "title": "TILLVERKAT I SVERIGE",
             "title_size": "h4",
-            "text": "<p></p>"
+            "text": "<p><\/p>"
           }
         },
         "guarantee-0": {
@@ -215,7 +215,7 @@
             "icon": "leaf",
             "title": "100% VEGANSKT",
             "title_size": "h4",
-            "text": "<p></p>"
+            "text": "<p><\/p>"
           }
         }
       },
@@ -251,7 +251,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Användandet av vanliga badskum och badbomber kan ge irritation och obehag i underlivet. Som läkare vet vi att det kan orsakas av att produkterna har för högt pH. De innehåller dessutom allergener, vanliga parfymer och färgämnen, vilket inte är anpassat för den känsliga huden i vulva. </p><p>Därför har vi utvecklat ett vulva-vänligt badskum med pH 5. Det är dessutom formulerat utan vanlig parfym och allergener.</p>",
+            "text": "<p>Användandet av vanliga badskum och badbomber kan ge irritation och obehag i underlivet. Som läkare vet vi att det kan orsakas av att produkterna har för högt pH. De innehåller dessutom allergener, vanliga parfymer och färgämnen, vilket inte är anpassat för den känsliga huden i vulva. <\/p><p>Därför har vi utvecklat ett vulva-vänligt badskum med pH 5. Det är dessutom formulerat utan vanlig parfym och allergener.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -273,7 +273,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/IMG_7857_ef02998c-f79d-4907-b759-39943a195162.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7857_ef02998c-f79d-4907-b759-39943a195162.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -293,10 +293,10 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/191212_Deodoc12985.jpg",
+            "image": "shopify:\/\/shop_images\/191212_Deodoc12985.jpg",
             "title": "Steg 1",
             "title_size": "h4",
-            "text": "<p>Applicera oljan på huden 1-2 minuter före rakning för att ge ett skyddande lager mot rakhyveln samt mjukgöra hud och hårstrån.</p>",
+            "text": "<p>Applicera oljan på huden 1-2 minuter före rakning för att ge ett skyddande lager mot rakhyveln samt mjukgöra hud och hårstrån.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -305,10 +305,10 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Shaving_Foam_4.png",
+            "image": "shopify:\/\/shop_images\/Shaving_Foam_4.png",
             "title": "Steg 2",
             "title_size": "h4",
-            "text": "<p>Applicera rakskummet ovanpå oljan för att rakhyveln bekvämt ska glida över huden och ge en skonsam rakning som inte irriterar.</p>",
+            "text": "<p>Applicera rakskummet ovanpå oljan för att rakhyveln bekvämt ska glida över huden och ge en skonsam rakning som inte irriterar.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -317,10 +317,10 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/After_Shave_Balm_1.png",
+            "image": "shopify:\/\/shop_images\/After_Shave_Balm_1.png",
             "title": "Steg 3",
             "title_size": "h4",
-            "text": "<p>Skölj av skummet och torka torrt. Applicera därefter After Shave Balm. Används direkt efter rakning, samt morgon och kväll i 5 dagar och vid behov.</p>",
+            "text": "<p>Skölj av skummet och torka torrt. Applicera därefter After Shave Balm. Används direkt efter rakning, samt morgon och kväll i 5 dagar och vid behov.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -362,7 +362,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p><em>– SUBHEADING</em></p>",
+            "text": "<p><em>– SUBHEADING<\/em><\/p>",
             "text_size": "typeset",
             "secondary_color": true
           }
@@ -370,7 +370,7 @@
         "007a0827-5798-4122-a68b-90a674bd08f5": {
           "type": "text",
           "settings": {
-            "text": "<p>Nedan bild visar skillnad efter 3 månaders användning av DeoDocs Shaving Trio. Hårväxten har blivit glesare och hårstråna är tunnare i diameter efter 3 månader.</p>",
+            "text": "<p>Nedan bild visar skillnad efter 3 månaders användning av DeoDocs Shaving Trio. Hårväxten har blivit glesare och hårstråna är tunnare i diameter efter 3 månader.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -397,10 +397,10 @@
         "166376200566666817-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Skarmavbild_2022-09-15_kl._13.58.28.png",
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-09-15_kl._13.58.28.png",
             "title": "FÖRE",
             "title_size": "h3",
-            "text": "<p></p>",
+            "text": "<p><\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -409,10 +409,10 @@
         "166376200566666817-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Skarmavbild_2022-09-15_kl._13.58.38.png",
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-09-15_kl._13.58.38.png",
             "title": "EFTER",
             "title_size": "h3",
-            "text": "<p></p>",
+            "text": "<p><\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -452,7 +452,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -460,7 +460,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -468,7 +468,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -517,28 +517,28 @@
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER SÄKRA?",
-            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.</p><p>- Produkterna är godkända av Läkemedelsverket.  </p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.</p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.</p><p>- Produkterna är även dermatologiskt testade för känslig hud.</p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.</p>"
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är godkända av Läkemedelsverket.  <\/p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<\/p><p>- Produkterna är även dermatologiskt testade för känslig hud.<\/p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<\/p>"
           }
         },
         "c6cb059f-a185-4219-b48c-314a6f258bb1": {
           "type": "question",
           "settings": {
             "title": "PASSAR PRODUKTERNA TILL KÄNSLIG HY?",
-            "text": "<p>Ja, Daily Wash har en skonsam formula som ger en silkeslen känsla. Tvålen är speciellt framtagen för att bibehålla vulvans naturliga pH värde (pH 5).</p>"
+            "text": "<p>Ja, Daily Wash har en skonsam formula som ger en silkeslen känsla. Tvålen är speciellt framtagen för att bibehålla vulvans naturliga pH värde (pH 5).<\/p>"
           }
         },
         "b18a48a2-2707-4e28-bc9f-395c4b117bff": {
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER VEGANSKA?",
-            "text": "<p>Ja.</p>"
+            "text": "<p>Ja.<\/p>"
           }
         },
         "4b745714-446b-4141-bc45-b7c6173819d6": {
           "type": "question",
           "settings": {
             "title": "VARFÖR HAR NI PARFYM I PRODUKTERNA?",
-            "text": "<p>Vanliga parfymer ska aldrig användas i intimområdet då de innehåller alkohol (kan verka uttorkande) och allergener (kan ge irritation).<br/><br/>DeoDoc använder därför dofter som kallas för allergenfria dofter. Detta är dofter som är utvecklade utan allergener och alkohol. Vi har valt både att utveckla produkter med allergenfri doft och utan doft för att erbjuda valmöjlighet.</p>"
+            "text": "<p>Vanliga parfymer ska aldrig användas i intimområdet då de innehåller alkohol (kan verka uttorkande) och allergener (kan ge irritation).<br\/><br\/>DeoDoc använder därför dofter som kallas för allergenfria dofter. Detta är dofter som är utvecklade utan allergener och alkohol. Vi har valt både att utveckla produkter med allergenfri doft och utan doft för att erbjuda valmöjlighet.<\/p>"
           }
         }
       },
@@ -560,15 +560,6 @@
     },
     "1666774378063ffd49": {
       "type": "apps",
-      "blocks": {
-        "1c743500-bcd1-4f8d-bdfb-23a4ac215a65": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "1c743500-bcd1-4f8d-bdfb-23a4ac215a65"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

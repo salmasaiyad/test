@@ -52,7 +52,7 @@
           }
         },
         "d4b6f17e-c518-4e46-a091-1acc61b33f62": {
-          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
           "settings": {
             "product": "{{product}}"
           }
@@ -83,7 +83,7 @@
           "settings": {
             "icon": "none",
             "heading": "specifications",
-            "content": "<p>-Developed by women doctors and gynecologists</p><p>-Gynecologically and dermatologically tested</p><p>-Free from allergens, alcohol and parabens</p><p>-Designed in Sweden, made in Spain.</p><p>-100% vegan</p>",
+            "content": "<p>-Developed by women doctors and gynecologists<\/p><p>-Gynecologically and dermatologically tested<\/p><p>-Free from allergens, alcohol and parabens<\/p><p>-Designed in Sweden, made in Spain.<\/p><p>-100% vegan<\/p>",
             "page": ""
           }
         },
@@ -92,7 +92,7 @@
           "settings": {
             "icon": "none",
             "heading": "How to use",
-            "content": "<p>Place your thumb and your middle finger on the ribbed part of the applicator.The index finger is placed on the base of the applicator. With the other hand,gently open the vaginal opening. Insert the applicator 1-2 centimeters (0.5 - 1 inch)into the vagina while holding the ribbed part firmly. Push the applicator base with your index finger until it stops (works as a syringe). The tampon is now in placeand you can gently remove the applicator.</p>",
+            "content": "<p>Place your thumb and your middle finger on the ribbed part of the applicator.The index finger is placed on the base of the applicator. With the other hand,gently open the vaginal opening. Insert the applicator 1-2 centimeters (0.5 - 1 inch)into the vagina while holding the ribbed part firmly. Push the applicator base with your index finger until it stops (works as a syringe). The tampon is now in placeand you can gently remove the applicator.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -101,7 +101,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingredients",
-            "content": "<p>100% Organic Cotton</p>",
+            "content": "<p>100% Organic Cotton<\/p>",
             "page": ""
           }
         },
@@ -218,7 +218,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Studies show that 15% of women’s OB/GYN visits are due to irritation caused by menstruation care products. The primary cause being tampons produced from synthetic fibers and plastic. These fibers can shed, leaving fiber residue inside of your vagina that can cause irritation. As doctors, we recommend 100% organic cotton tampons; however, many organic cotton tampons still shed, so we created our own. DeoDoc’s 100% organic cotton tampons do not shed due to a special 100% cotton netting surrounding the tampon to ensure complete safety for your vagina and an irritation-free period.\"</em><br/><br/><strong>-Dr. Hedieh Asadi, Medical Doctor</strong></p>",
+            "text": "<p><em>\"Studies show that 15% of women’s OB\/GYN visits are due to irritation caused by menstruation care products. The primary cause being tampons produced from synthetic fibers and plastic. These fibers can shed, leaving fiber residue inside of your vagina that can cause irritation. As doctors, we recommend 100% organic cotton tampons; however, many organic cotton tampons still shed, so we created our own. DeoDoc’s 100% organic cotton tampons do not shed due to a special 100% cotton netting surrounding the tampon to ensure complete safety for your vagina and an irritation-free period.\"<\/em><br\/><br\/><strong>-Dr. Hedieh Asadi, Medical Doctor<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -239,7 +239,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_8037_eae4e3ee-fa9a-4d49-b312-ab05a6f195a5.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8037_eae4e3ee-fa9a-4d49-b312-ab05a6f195a5.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -267,7 +267,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -275,7 +275,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -283,7 +283,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -308,10 +308,10 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/41_d7cba526-979b-4910-b8c6-1c9997192a12.png",
+            "image": "shopify:\/\/shop_images\/41_d7cba526-979b-4910-b8c6-1c9997192a12.png",
             "title": "Step 1",
             "title_size": "h3",
-            "text": "<p>Place your thumb and your middle finger on the ribbed part of the applicator.</p>",
+            "text": "<p>Place your thumb and your middle finger on the ribbed part of the applicator.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -320,10 +320,10 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/44_679cfb37-63d5-4b9f-8755-5e2b0bee8113.png",
+            "image": "shopify:\/\/shop_images\/44_679cfb37-63d5-4b9f-8755-5e2b0bee8113.png",
             "title": "Step 2",
             "title_size": "h3",
-            "text": "<p>Place the index finger on the base of the applicator. With the other hand, gently open the vaginal opening. Insert the applicator 1-2 centimeters (0.5 - 1 inch) into the vagina while firmly holding the ribbed part.</p>",
+            "text": "<p>Place the index finger on the base of the applicator. With the other hand, gently open the vaginal opening. Insert the applicator 1-2 centimeters (0.5 - 1 inch) into the vagina while firmly holding the ribbed part.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -332,10 +332,10 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/47_7fac82b6-dec5-41d9-871e-c7445d93e95a.png",
+            "image": "shopify:\/\/shop_images\/47_7fac82b6-dec5-41d9-871e-c7445d93e95a.png",
             "title": "Step 3",
             "title_size": "h3",
-            "text": "<p>Push the applicator base with your index finger until it stops (works as a syringe). The tampon is now in place and you can gently remove the applicator.</p>",
+            "text": "<p>Push the applicator base with your index finger until it stops (works as a syringe). The tampon is now in place and you can gently remove the applicator.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -369,105 +369,105 @@
           "type": "question",
           "settings": {
             "title": "DO THE TAMPONS CONTAIN ANY SYNTHETIC MATERIALS?",
-            "text": "<p>There are no synthetic materials used in our tampons. The entire tampon, including the protective outer netting, is made out of 100% organic cotton. The applicator is made out of biodegradable cardboard.</p>"
+            "text": "<p>There are no synthetic materials used in our tampons. The entire tampon, including the protective outer netting, is made out of 100% organic cotton. The applicator is made out of biodegradable cardboard.<\/p>"
           }
         },
         "template--15222428369032__ee634d54-b10c-4452-be8d-70570deabb39-16680774959507ff91-1": {
           "type": "question",
           "settings": {
             "title": "CAN DEODOC TAMPONS IRRITATE THE INTIMATE AREA?",
-            "text": "<p>Synthetic materials are the most common cause of irritation from tampons. DeoDoc tampons are solely made out of 100% organic cotton and have been clinically tested as hypoallergenic and non-irritating.</p>"
+            "text": "<p>Synthetic materials are the most common cause of irritation from tampons. DeoDoc tampons are solely made out of 100% organic cotton and have been clinically tested as hypoallergenic and non-irritating.<\/p>"
           }
         },
         "00c44a12-1f54-49d3-8069-bf0bba1c140a": {
           "type": "question",
           "settings": {
             "title": "HOW DO DEODOC TAMPONS PREVENT SHEDDING?",
-            "text": "<p>Our tampons have a protective outer netting that covers the whole tampon which prevents the release of any fiber residues.</p>"
+            "text": "<p>Our tampons have a protective outer netting that covers the whole tampon which prevents the release of any fiber residues.<\/p>"
           }
         },
         "4f4f00a6-8e76-4a94-8ade-d18a99752667": {
           "type": "question",
           "settings": {
             "title": "HOW OFTEN SHOULD I CHANGE MY TAMPON?",
-            "text": "<p>Every 4-8 hours is recommended.</p>"
+            "text": "<p>Every 4-8 hours is recommended.<\/p>"
           }
         },
         "91bb8370-16cc-4fd7-87fb-cfbd6bfadfd1": {
           "type": "question",
           "settings": {
             "title": "DOES USING 100% ORGANIC COTTON COMPROMISE TAMPON ABSORBENCY?",
-            "text": "<p>No, the absorbency is not compromised from using 100% organic cotton.</p>"
+            "text": "<p>No, the absorbency is not compromised from using 100% organic cotton.<\/p>"
           }
         },
         "d77d0876-bccb-43f0-aaa7-b4dd55296329": {
           "type": "question",
           "settings": {
             "title": "CAN THE TAMPONS BE FLUSHED DOWN THE TOILET?",
-            "text": "<p>Tampons should never be flushed down the toilet. They take too long to break down in the water waste systems, even biodegradable ones (like DeoDoc's) can take months to break down. Tampons can also clog up plumbing systems as they are absorbent and therefore expand when flushed.</p>"
+            "text": "<p>Tampons should never be flushed down the toilet. They take too long to break down in the water waste systems, even biodegradable ones (like DeoDoc's) can take months to break down. Tampons can also clog up plumbing systems as they are absorbent and therefore expand when flushed.<\/p>"
           }
         },
         "f9a7c0f8-a44e-4aba-a30d-c9ca1d74081d": {
           "type": "question",
           "settings": {
             "title": "ARE DEODOC TAMPONS VEGAN?",
-            "text": "<p>Yes.</p>"
+            "text": "<p>Yes.<\/p>"
           }
         },
         "0018a570-0c28-49fe-b465-eb547c2e7513": {
           "type": "question",
           "settings": {
             "title": "WHAT DOES 100% ORGANIC COTTON MEAN?",
-            "text": "<p>It means that DeoDoc tampons contain zero synthetic materials. The entire tampon including the protective outer netting and string is made from 100% organic cotton. The applicator is made out of biodegradable cardboard.</p>"
+            "text": "<p>It means that DeoDoc tampons contain zero synthetic materials. The entire tampon including the protective outer netting and string is made from 100% organic cotton. The applicator is made out of biodegradable cardboard.<\/p>"
           }
         },
         "9f3f6929-9226-4382-8bd7-ecfc4dc0a613": {
           "type": "question",
           "settings": {
             "title": "WHAT SIZES ARE AVAILABLE FOR DEODOC TAMPONS?",
-            "text": "<p>Regular flow for a normal flow.<br/>Super flow for a heavier flow.</p>"
+            "text": "<p>Regular flow for a normal flow.<br\/>Super flow for a heavier flow.<\/p>"
           }
         },
         "4f758c0d-2d1c-43a3-881d-29354a5de661": {
           "type": "question",
           "settings": {
             "title": "HOW MANY TAMPONS ARE IN A BOX?",
-            "text": "<p>Regular flow - 16 pcs.<br/>Super flow - 14 pcs.</p>"
+            "text": "<p>Regular flow - 16 pcs.<br\/>Super flow - 14 pcs.<\/p>"
           }
         },
         "a8c519f1-91bc-4ab8-ba1c-9226808940f2": {
           "type": "question",
           "settings": {
             "title": "WHY IS THERE AN APPLICATOR?",
-            "text": "<p>Applicators allow for easier and more hygienic tampon insertion.</p>"
+            "text": "<p>Applicators allow for easier and more hygienic tampon insertion.<\/p>"
           }
         },
         "ad718fde-21d3-4e1b-8c42-bef2f7140f4a": {
           "type": "question",
           "settings": {
             "title": "WHAT IS THE APPLICATOR MADE OUT OF?",
-            "text": "<p>Biodegradable cardboard.</p>"
+            "text": "<p>Biodegradable cardboard.<\/p>"
           }
         },
         "906bd8bf-77ce-4bc7-8817-fb745fba3758": {
           "type": "question",
           "settings": {
             "title": "HOW DO I USE THE APPLICATOR?",
-            "text": "<p>First, twist the base to break the sealed piece. Place your thumb and your middle finger on the ribbed part of the applicator and the index finger on the base of the applicator.</p><p>With the other hand, open the vaginal opening gently. Insert the applicator 1-2 centimeters into the vagina and hold the ribbed part firmly. Push the applicator base with your index finger until it stops. The tampon is now in place and you can gently remove the applicator.</p>"
+            "text": "<p>First, twist the base to break the sealed piece. Place your thumb and your middle finger on the ribbed part of the applicator and the index finger on the base of the applicator.<\/p><p>With the other hand, open the vaginal opening gently. Insert the applicator 1-2 centimeters into the vagina and hold the ribbed part firmly. Push the applicator base with your index finger until it stops. The tampon is now in place and you can gently remove the applicator.<\/p>"
           }
         },
         "52412777-c64b-4ed5-8b24-8c77e55ea34d": {
           "type": "question",
           "settings": {
             "title": "WHAT DOES ICEA CERTIFIED MEAN?",
-            "text": "<p>ICEA stands for Ethical and Environmental Certification Institute. ICEA works towards a sustainable development of organic farming through ethical and environmental standards.</p><p>To learn more go to https://icea.bio/en/</p>"
+            "text": "<p>ICEA stands for Ethical and Environmental Certification Institute. ICEA works towards a sustainable development of organic farming through ethical and environmental standards.<\/p><p>To learn more go to https:\/\/icea.bio\/en\/<\/p>"
           }
         },
         "74f7f09e-fddf-48be-bcb6-c999367ca30d": {
           "type": "question",
           "settings": {
             "title": "WHAT DOES GOTS CERTIFIED MEAN?",
-            "text": "<p>GOTS stands for Global Organic Textile Standard. The world's leading processing standard for textiles made from organic fibres. GOTS keeps a high-level environmental criteria and requires compliance with social criteria as well.</p><p>To learn more go to https://www.global-standard.org/</p>"
+            "text": "<p>GOTS stands for Global Organic Textile Standard. The world's leading processing standard for textiles made from organic fibres. GOTS keeps a high-level environmental criteria and requires compliance with social criteria as well.<\/p><p>To learn more go to https:\/\/www.global-standard.org\/<\/p>"
           }
         },
         "1f12d5df-23d7-47a3-a794-69dc8aa4f2d4": {
@@ -475,21 +475,21 @@
           "disabled": true,
           "settings": {
             "title": "ARE THE TAMPONS FDA APPROVED?",
-            "text": "<p>Yes.</p>"
+            "text": "<p>Yes.<\/p>"
           }
         },
         "ebca2502-3488-4a82-af86-94d2aabbe63f": {
           "type": "question",
           "settings": {
             "title": "WHAT DOES CLINICALLY TESTED MEAN?",
-            "text": "<p>Our tampons have been tested by external labs to be determined as hypoallergenic non-irritants.</p>"
+            "text": "<p>Our tampons have been tested by external labs to be determined as hypoallergenic non-irritants.<\/p>"
           }
         },
         "bde3ed42-f232-4afa-9f30-598d68972687": {
           "type": "question",
           "settings": {
             "title": "ARE THE TAMPONS HYPOALLERGENIC?",
-            "text": "<p>Yes.</p>"
+            "text": "<p>Yes.<\/p>"
           }
         }
       },
@@ -552,8 +552,8 @@
       "settings": {
         "heading": "",
         "heading_size": "h2",
-        "cover_image": "shopify://shop_images/Vagina_1x1_fbbd6529-7d30-437d-9cad-a60a89c9cee3.png",
-        "video_url": "https://www.youtube.com/watch?v=KW_88s_aYHs&list=PLg4HfZ1cbnJQoQyWzGH9kuTW44La-lDXL&index=4",
+        "cover_image": "shopify:\/\/shop_images\/Vagina_1x1_fbbd6529-7d30-437d-9cad-a60a89c9cee3.png",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=KW_88s_aYHs&list=PLg4HfZ1cbnJQoQyWzGH9kuTW44La-lDXL&index=4",
         "description": "",
         "full_width": false,
         "show_divider": false,
@@ -565,7 +565,7 @@
       "type": "apps",
       "blocks": {
         "7e846e5b-35c4-4972-bf15-0138411af97f": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
             "aggregated": false,

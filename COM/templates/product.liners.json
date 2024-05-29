@@ -52,7 +52,7 @@
           "settings": {}
         },
         "b6db1f22-5356-4f04-bd6d-0d807365ee17": {
-          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
           "settings": {
             "product": "{{product}}"
           }
@@ -77,7 +77,7 @@
         "235737e0-1218-4ca0-ad6a-06805d980fc0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/test_4_4000_x_300_px.png",
+            "image": "shopify:\/\/shop_images\/test_4_4000_x_300_px.png",
             "height": 28,
             "link": ""
           }
@@ -91,7 +91,7 @@
           "settings": {
             "icon": "none",
             "heading": "specifications",
-            "content": "<p>-Developed by women doctors and gynecologists</p><p>-Gynecologically and dermatologically tested</p><p>-Free from allergens, alcohol and parabens</p><p>-Designed in Sweden, made in Spain.</p><p>-100% vegan</p>",
+            "content": "<p>-Developed by women doctors and gynecologists<\/p><p>-Gynecologically and dermatologically tested<\/p><p>-Free from allergens, alcohol and parabens<\/p><p>-Designed in Sweden, made in Spain.<\/p><p>-100% vegan<\/p>",
             "page": ""
           }
         },
@@ -100,7 +100,7 @@
           "settings": {
             "icon": "none",
             "heading": "How to use",
-            "content": "<p>Open the liner package, remove the paper on the backside and place the liner on your underwear with the glue facing down. </p>",
+            "content": "<p>Open the liner package, remove the paper on the backside and place the liner on your underwear with the glue facing down. <\/p>",
             "page": "shaving-kit"
           }
         },
@@ -109,7 +109,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingredients",
-            "content": "<p>Top sheet + core made with 100 % organic cotton. Biofilm layer, wrap and adhesive; compostable and biodegradable.</p>",
+            "content": "<p>Top sheet + core made with 100 % organic cotton. Biofilm layer, wrap and adhesive; compostable and biodegradable.<\/p>",
             "page": ""
           }
         },
@@ -227,7 +227,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Studies show that 15% of women’s OB/GYN visits are due to irritation caused by menstruation care products. The primary cause being pads and panty liners produced from synthetic fibers and plastic. As doctors, we recommend to avoid plastic and synthetic fibers in contact with your most intimate skin. Therefore we recommend using menstruation care products made by 100% organic cotton.\"</em><br/><br/><strong>-Dr. Hedieh Asadi, Medical Doctor</strong></p>",
+            "text": "<p><em>\"Studies show that 15% of women’s OB\/GYN visits are due to irritation caused by menstruation care products. The primary cause being pads and panty liners produced from synthetic fibers and plastic. As doctors, we recommend to avoid plastic and synthetic fibers in contact with your most intimate skin. Therefore we recommend using menstruation care products made by 100% organic cotton.\"<\/em><br\/><br\/><strong>-Dr. Hedieh Asadi, Medical Doctor<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -248,7 +248,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_8027.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8027.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -276,7 +276,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -284,7 +284,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -292,7 +292,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -317,10 +317,10 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/19_9ecece34-a738-44dc-a9b8-0b29eb38f8ef.png",
+            "image": "shopify:\/\/shop_images\/19_9ecece34-a738-44dc-a9b8-0b29eb38f8ef.png",
             "title": "Step 1",
             "title_size": "h3",
-            "text": "<p>Open the box.</p>",
+            "text": "<p>Open the box.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -329,10 +329,10 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/22_36c299e2-58b2-48f4-835b-bb40529e03b4.png",
+            "image": "shopify:\/\/shop_images\/22_36c299e2-58b2-48f4-835b-bb40529e03b4.png",
             "title": "Step 2",
             "title_size": "h3",
-            "text": "<p>Remove the paper sticker from the bottom of the liner.</p>",
+            "text": "<p>Remove the paper sticker from the bottom of the liner.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -341,10 +341,10 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/25_64964aa0-c89c-464f-ad57-f1b8cfe70cde.png",
+            "image": "shopify:\/\/shop_images\/25_64964aa0-c89c-464f-ad57-f1b8cfe70cde.png",
             "title": "Step 3",
             "title_size": "h3",
-            "text": "<p>Place the liner on your underwear with the glue facing down.</p>",
+            "text": "<p>Place the liner on your underwear with the glue facing down.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -378,35 +378,35 @@
           "type": "question",
           "settings": {
             "title": "DO THE LINERS CONTAIN ANY SYNTHETIC MATERIALS?",
-            "text": "<p>There are no synthetic materials used in our liners. Top sheet + core made with 100 % organic cotton and biofilm layer, wrap and adhesive; compostable and biodegradable.</p>"
+            "text": "<p>There are no synthetic materials used in our liners. Top sheet + core made with 100 % organic cotton and biofilm layer, wrap and adhesive; compostable and biodegradable.<\/p>"
           }
         },
         "template--15103162187912__81b9f0c7-b941-452d-b2e6-4ab79e5fe01f-1668504669a1d30c18-1": {
           "type": "question",
           "settings": {
             "title": "CAN DEODOC LINERS IRRITATE THE INTIMATE AREA?",
-            "text": "<p>Synthetic materials are the most common cause of irritation from liners. DeoDoc liners are made out of 100% organic cotton.</p>"
+            "text": "<p>Synthetic materials are the most common cause of irritation from liners. DeoDoc liners are made out of 100% organic cotton.<\/p>"
           }
         },
         "36f639ee-edaf-4418-b392-f3fa6a399718": {
           "type": "question",
           "settings": {
             "title": "WHAT DOES 100% ORGANIC COTTON MEAN?",
-            "text": "<p>It means that DeoDoc liners contain zero synthetic materials.</p>"
+            "text": "<p>It means that DeoDoc liners contain zero synthetic materials.<\/p>"
           }
         },
         "664944de-26ce-4742-9b85-49b6a3349546": {
           "type": "question",
           "settings": {
             "title": "HOW MANY LINERS ARE IN A BOX?",
-            "text": "<p>24 individually packed liners/box.</p>"
+            "text": "<p>24 individually packed liners\/box.<\/p>"
           }
         },
         "2e6f219e-8214-4fc3-a67b-d86fb68fe9a6": {
           "type": "question",
           "settings": {
             "title": "What about the planet?",
-            "text": "<p>Choosing period care products in 100% organic cotton is much better both for you and the planet.</p>"
+            "text": "<p>Choosing period care products in 100% organic cotton is much better both for you and the planet.<\/p>"
           }
         }
       },
@@ -454,7 +454,7 @@
       "type": "apps",
       "blocks": {
         "8a0b6813-7c03-4ba9-8457-91b51e7c5100": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
             "aggregated": false,

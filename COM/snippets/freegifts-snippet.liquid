@@ -292,7 +292,7 @@
 
     // appearance & settings
     if (typeof fgData === "undefined") window.fgData = {};
-    fgData.settings={"gift_format":"same_as_original_products","auto_add_gift":true,"sync_quantity":false,"cal_gift_discount":"compare_at_price","using_draft_order":false,"select_one_gift_price":false,"admin_api_access_token":null,"manual_input_inventory":false,"compare_gift_price_with_product":false,"delete_gift_after_turn_off_offer":true,"not_show_gift_if_already_on_cart":false}; fgData.appearance={"gift_icon":{"product_page":{"gift_icon":{"size":"50","status":false},"gift_thumbnail":{"size":"100","title":"Free Gift","status":false}},"gift_icon_path":"images\/fg-icons\/fg-icon-red.png","collection_page":{"size":"50","status":false}},"gift_slider":{"color":{"add_to_cart_color":"#FFFFFF","product_title_color":"#000000","original_price_color":"#121212","add_to_cart_btn_color":"#000000","discounted_price_color":"#000000","gift_slider_title_color":"#121212"},"others":{"hidden_brand_mark":true},"general":{"running_text":"","select_gift_btn":"Select variants","show_pagination":true,"gift_popup_title":"Choose your 2 complimentary samples","show_product_title":true,"show_variant_title":true,"add_to_cart_btn_title":"Add to cart","number_product_slider":3,"show_gift_for_customer":"by_variants"}},"promotion_message":{"text_color":"#000000","background_color":"#FEF7DA","show_on_cart_page":true}};
+    fgData.settings={"gift_format":"same_as_original_products","auto_add_gift":true,"sync_quantity":false,"cal_gift_discount":"compare_at_price","using_draft_order":false,"select_one_gift_price":false,"manual_input_inventory":false,"compare_gift_price_with_product":false,"delete_gift_after_turn_off_offer":true,"not_show_gift_if_already_on_cart":false}; fgData.appearance={"gift_icon":{"product_page":{"gift_icon":{"size":"50","status":false},"gift_thumbnail":{"size":"160","title":"Free Gift","status":false}},"gift_icon_path":"images\/fg-icons\/fg-icon-red.png","collection_page":{"size":"50","status":true}},"gift_slider":{"color":{"add_to_cart_color":"#FFFFFF","product_title_color":"#000000","original_price_color":"#121212","add_to_cart_btn_color":"#000000","discounted_price_color":"#000000","gift_slider_title_color":"#121212"},"others":{"hidden_brand_mark":false},"general":{"running_text":"","select_gift_btn":"Select variants","show_pagination":true,"gift_popup_title":"H\u00e4r \u00e4r din gratis g\u00e5va","show_product_title":true,"show_variant_title":true,"add_to_cart_btn_title":"L\u00c4GG I VARUKORG","number_product_slider":4,"show_gift_for_customer":"by_variants"}},"promotion_message":{"text_color":"#000000","background_color":"#FEF7DA","show_on_cart_page":true}};
 
     // fg-icons
     
@@ -306,14 +306,3 @@
 {% unless the_snippet_content contains "Liquid error" %}
     {% render 'freegifts-snippet-change' %}
 {% endunless %}
-<script>
-	const {fetch: scaFetch} = window;
-    window.fetch = async (...args) => {
-        let responseFetch = await scaFetch(...args);
-        if (args[0].includes('/cart/add.js') || args[0].includes('/cart/change.js')) {
-            await Shopify.getCart();
-            location.reload();
-        }
-        return responseFetch;
-    }
-</script>

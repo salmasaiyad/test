@@ -67,7 +67,7 @@
         "template--15321823608968__942d1293-7db2-4a98-8436-c97ec8db697c-1670236423eaf5a5dd-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>As the first and only intimate skincare brand founded by women doctors, we are here to educate, empower and uplift women everyday in everything they do. Our blog posts are researched and vetted by our team of female doctors. Should you have immediate medical concerns, please contact your personal medical provider. </em></p>",
+            "text": "<p><em>As the first and only intimate skincare brand founded by women doctors, we are here to educate, empower and uplift women everyday in everything they do. Our blog posts are researched and vetted by our team of female doctors. Should you have immediate medical concerns, please contact your personal medical provider. <\/em><\/p>",
             "text_size": "typeset",
             "secondary_color": false
           }
@@ -91,7 +91,7 @@
         "template--15321823510664__328bc461-64d1-4fc0-ad5d-83a0e9349b8c-16702339100fa60514-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The short answer is that the pH of the intimate area, both external and internal, plays a huge role in optimal vaginal and vulvar health. Our internal (vagina) and external (vulva) regions contain different natural pH balances and a very delicate ecosystem that must be maintained to avoid potential discomfort or infection. </p><p>The pH of our skin is 5. Our vulva, inner labia and outer labia are all externally made up of skin which explains why our external intimate area has a pH 5. The internal intimate area has a pH of 3.5 - 4.4 which is highly acidic (like a lemon!) and an ecosystem all on its own. </p><p>The biggest way to cause disruption is using products in or on the intimate area that are formulated with a different pH level than that of the area. Basically, any spray, wash, soap, etc used on the vulva should match its pH with a pH of 5. If any products are used in these areas with different pH than that of the area, the probability for disruption, irritation, discomfort and more are high. Be wary of using foam washes, body gels, bath bombs, normal perfumes, regular deodorants and more on the vulva. </p><p>DeoDoc’s products are pH-balanced and pH-neutral so nothing will disrupt that delicate ecosystem. Bonus - all products are good for all skin, not just intimate skin. So, if you want to wash your entire body with our Daily Intimate Wash, be our guest. It is even great for sensitive and eczema-prone skin - yes, it’s THAT gentle. </p><p><br/></p><p>XO, <br/>Dr. Hedieh and Dr. Gunvor</p>",
+            "text": "<p>The short answer is that the pH of the intimate area, both external and internal, plays a huge role in optimal vaginal and vulvar health. Our internal (vagina) and external (vulva) regions contain different natural pH balances and a very delicate ecosystem that must be maintained to avoid potential discomfort or infection. <\/p><p>The pH of our skin is 5. Our vulva, inner labia and outer labia are all externally made up of skin which explains why our external intimate area has a pH 5. The internal intimate area has a pH of 3.5 - 4.4 which is highly acidic (like a lemon!) and an ecosystem all on its own. <\/p><p>The biggest way to cause disruption is using products in or on the intimate area that are formulated with a different pH level than that of the area. Basically, any spray, wash, soap, etc used on the vulva should match its pH with a pH of 5. If any products are used in these areas with different pH than that of the area, the probability for disruption, irritation, discomfort and more are high. Be wary of using foam washes, body gels, bath bombs, normal perfumes, regular deodorants and more on the vulva. <\/p><p>DeoDoc’s products are pH-balanced and pH-neutral so nothing will disrupt that delicate ecosystem. Bonus - all products are good for all skin, not just intimate skin. So, if you want to wash your entire body with our Daily Intimate Wash, be our guest. It is even great for sensitive and eczema-prone skin - yes, it’s THAT gentle. <\/p><p><br\/><\/p><p>XO, <br\/>Dr. Hedieh and Dr. Gunvor<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -122,7 +122,7 @@
         "template--15321823608968__7036fb3e-b8a4-4fa4-8347-68929321b5c0-1670250239e156294f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>- Bestseller<br/>- Developed by women doctors and gynecologists<br/>- 100% vegan<br/><strong><br/>$22.00</strong></p>",
+            "text": "<p>- Bestseller<br\/>- Developed by women doctors and gynecologists<br\/>- 100% vegan<br\/><strong><br\/>$22.00<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -131,7 +131,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop now",
-            "button_link": "shopify://products/daily-intimate-wash",
+            "button_link": "shopify:\/\/products\/daily-intimate-wash",
             "button_style_secondary": false
           }
         }
@@ -142,7 +142,7 @@
         "template--15321823608968__7036fb3e-b8a4-4fa4-8347-68929321b5c0-1670250239e156294f-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Daily_Wash_-_Jasmine_Pear_49ca6013-591d-48a1-8d40-0801dde2e22a.png",
+        "image": "shopify:\/\/shop_images\/Daily_Wash_-_Jasmine_Pear_49ca6013-591d-48a1-8d40-0801dde2e22a.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",

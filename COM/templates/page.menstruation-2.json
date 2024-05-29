@@ -23,7 +23,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -44,7 +44,7 @@
         "165882403007b41154-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Menstrua_family.jpg",
+        "image": "shopify:\/\/shop_images\/Menstrua_family.jpg",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -76,7 +76,7 @@
         "16582309516e5e2342-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Menstruation eller mens är en normal blödning som uppstår som en del av kvinnans månatliga menstruationscykel.</p>",
+            "text": "<p>Menstruation eller mens är en normal blödning som uppstår som en del av kvinnans månatliga menstruationscykel.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -117,7 +117,7 @@
         "1658824723c4d9d8a7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Menstruationscykeln består av 4 olika faser och är ett sofistikerat samspel av hormoner och kvinnans reproduktiva organ. Menstruationscykeln är i genomsnitt 28 dagar. Detta kan dock variera från person till person då alla kroppar är unika.</p><p>Bilden visar samspelet mellan ägg och livmoderslemhinnan under de fyra faserna.</p><p></p>",
+            "text": "<p>Menstruationscykeln består av 4 olika faser och är ett sofistikerat samspel av hormoner och kvinnans reproduktiva organ. Menstruationscykeln är i genomsnitt 28 dagar. Detta kan dock variera från person till person då alla kroppar är unika.<\/p><p>Bilden visar samspelet mellan ägg och livmoderslemhinnan under de fyra faserna.<\/p><p><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -138,7 +138,7 @@
         "1658824723c4d9d8a7-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/menstruation.jpg",
+        "image": "shopify:\/\/shop_images\/menstruation.jpg",
         "image_position": "center center",
         "text_box_position": "flex-start",
         "text_alignment": "left",
@@ -163,7 +163,7 @@
           "settings": {
             "title": "1. Follikulära fasen",
             "title_size": "h2",
-            "text": "<p>Under denna fas stimuleras äggstockarna att producera folliklar. Folliklar är äggblåsor som innehåller omogna ägg. Varje månad blir ett ägg moget för befruktning. Samtidigt ökar östrogenproduktionen och livmoderslemhinnan växer och utvecklas så att den kanta emot ett befruktat ägg.</p>",
+            "text": "<p>Under denna fas stimuleras äggstockarna att producera folliklar. Folliklar är äggblåsor som innehåller omogna ägg. Varje månad blir ett ägg moget för befruktning. Samtidigt ökar östrogenproduktionen och livmoderslemhinnan växer och utvecklas så att den kanta emot ett befruktat ägg.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -174,7 +174,7 @@
           "settings": {
             "title": "2. Ägglossing",
             "title_size": "h2",
-            "text": "<p>Ovulation betyder att en äggfollikel spricker och att det mogna ägget slungas ut för att fångas upp av den äggledare som ligger närmast. Efter ägglossningen vandrar ägget ned genom äggledaren mot livmodern. Livmoderslemhinnan har under tiden fortsatt att växa och bli tjockare för att förbereda sig för att ta emot ett ägg. Ägget lever i ca 24 timmar och det är endast under denna tid som ägget kan bli befruktat. Ägglossning sker ca 14 dagar innan menstruationen infaller.</p>",
+            "text": "<p>Ovulation betyder att en äggfollikel spricker och att det mogna ägget slungas ut för att fångas upp av den äggledare som ligger närmast. Efter ägglossningen vandrar ägget ned genom äggledaren mot livmodern. Livmoderslemhinnan har under tiden fortsatt att växa och bli tjockare för att förbereda sig för att ta emot ett ägg. Ägget lever i ca 24 timmar och det är endast under denna tid som ägget kan bli befruktat. Ägglossning sker ca 14 dagar innan menstruationen infaller.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -185,7 +185,7 @@
           "settings": {
             "title": "3. Luteala fasen",
             "title_size": "h2",
-            "text": "<p>Efter att follikeln släppt ut sitt mogna ägg ändras äggblåsans hölje till corpus luteum. Corpus luteum frigör hormoner, främst frigörs progesteron. Denna ökningen av hormoner håller livmoderns slemhinna tjockoch redo för att ett befruktat ägg ska implanteras.</p><p>Om ägget inte blir befruktat kommer corpus luteum att krympa och leda till minskade hormonnivåer. Detta är vad som gör att din menstruation påbörjas. De PMS symptom som kan upplevas under denna fas tros höra ihop med de ämnen som bildas när hormonet progesteron bryts ner.</p><p></p>",
+            "text": "<p>Efter att follikeln släppt ut sitt mogna ägg ändras äggblåsans hölje till corpus luteum. Corpus luteum frigör hormoner, främst frigörs progesteron. Denna ökningen av hormoner håller livmoderns slemhinna tjockoch redo för att ett befruktat ägg ska implanteras.<\/p><p>Om ägget inte blir befruktat kommer corpus luteum att krympa och leda till minskade hormonnivåer. Detta är vad som gör att din menstruation påbörjas. De PMS symptom som kan upplevas under denna fas tros höra ihop med de ämnen som bildas när hormonet progesteron bryts ner.<\/p><p><\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -196,7 +196,7 @@
           "settings": {
             "title": "4. Menstruation",
             "title_size": "h2",
-            "text": "<p>Menstruationen startar och den tjocka livmoderslemhinnan stöts ut. Menstruationsblodet består bland annat av blod samt vävnad från livmodern. </p><p>När mensen är över börjar follikelfasen igen och cykeln börjar om.</p>",
+            "text": "<p>Menstruationen startar och den tjocka livmoderslemhinnan stöts ut. Menstruationsblodet består bland annat av blod samt vävnad från livmodern. <\/p><p>När mensen är över börjar follikelfasen igen och cykeln börjar om.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false

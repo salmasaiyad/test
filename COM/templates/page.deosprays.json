@@ -26,7 +26,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify://shop_images/Vulvas_social_post_1.jpg",
+        "image": "shopify:\/\/shop_images\/Vulvas_social_post_1.jpg",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -58,7 +58,7 @@
         "16582309516e5e2342-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The DeoDoc founders, Dr Gunvor and Dr Hedieh, will guide you through the female anatomy and its amazing functions. Get to know your body better, pick a subject and dive in!</p>",
+            "text": "<p>The DeoDoc founders, Dr Gunvor and Dr Hedieh, will guide you through the female anatomy and its amazing functions. Get to know your body better, pick a subject and dive in!<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }

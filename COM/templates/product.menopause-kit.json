@@ -75,7 +75,7 @@
           "settings": {
             "icon": "none",
             "heading": "specifications",
-            "content": "<p>-Developed by female doctors and gynecologists</p><p>-Made in Sweden</p><p>-100% vegan</p>",
+            "content": "<p>-Developed by female doctors and gynecologists<\/p><p>-Made in Sweden<\/p><p>-100% vegan<\/p>",
             "page": ""
           }
         },
@@ -84,7 +84,7 @@
           "settings": {
             "icon": "none",
             "heading": "How to use",
-            "content": "<p><strong>Meno Care Oil Wash:</strong> Pour a small amount into the hand and wash gently. Rinse off with lukewarm water.<br/><strong><br/>Meno Care Hydrating Balm:</strong> Apply a small amount to your fingers and gently lubricate the dry vulva skin (inner labia and around the vulva area). Repeat throughout the day as needed.</p><p><strong>Lubricant Drops:</strong> Pump a few drops and apply to the skin. Do not use with other silicone products. Compatible with natural rubber latex, polyisoprene and polyurethane condoms.</p>",
+            "content": "<p><strong>Meno Care Oil Wash:<\/strong> Pour a small amount into the hand and wash gently. Rinse off with lukewarm water.<br\/><strong><br\/>Meno Care Hydrating Balm:<\/strong> Apply a small amount to your fingers and gently lubricate the dry vulva skin (inner labia and around the vulva area). Repeat throughout the day as needed.<\/p><p><strong>Lubricant Drops:<\/strong> Pump a few drops and apply to the skin. Do not use with other silicone products. Compatible with natural rubber latex, polyisoprene and polyurethane condoms.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -93,7 +93,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingredients",
-            "content": "<p><strong>Meno Care Oil Wash:</strong> Helianthus Annuus Seed Oil, Persea Gratissima Oil, Caprylic/Capric Triglyceride, Canola Oil, Glycine Soja Oil, Olea Europaea Fruit Oil, Chamomilla Recutita Flower Extract, Tocopherol.<br/><strong><br/>Meno Care Hydrating Balm: </strong>Aqua (Water), Paranum Liquidum, Cetearyl Ethylhexanoate, Isopropyl Myristate, Squalane, Petrolatum, Glycerin, Paran, Propanediol, Cera Microcristallina, Glyceryl Isostearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Levulinate, Ozokerite, Hydrogenated Castor Oil, Sodium Anisate, Polyglyceryl-3 Oleate, Cannabis Sativa Seed Oil, Polysorbate 60, Sorbitan Isostearate, Cannabidiol.</p><p><strong>Lubricant Drops:</strong> Dimeticone, Cyclopentasiloxane,<br/>Dimethiconol, Phenyl Trimeticone.</p>",
+            "content": "<p><strong>Meno Care Oil Wash:<\/strong> Helianthus Annuus Seed Oil, Persea Gratissima Oil, Caprylic\/Capric Triglyceride, Canola Oil, Glycine Soja Oil, Olea Europaea Fruit Oil, Chamomilla Recutita Flower Extract, Tocopherol.<br\/><strong><br\/>Meno Care Hydrating Balm: <\/strong>Aqua (Water), Paranum Liquidum, Cetearyl Ethylhexanoate, Isopropyl Myristate, Squalane, Petrolatum, Glycerin, Paran, Propanediol, Cera Microcristallina, Glyceryl Isostearate, Hydroxyethyl Acrylate\/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Levulinate, Ozokerite, Hydrogenated Castor Oil, Sodium Anisate, Polyglyceryl-3 Oleate, Cannabis Sativa Seed Oil, Polysorbate 60, Sorbitan Isostearate, Cannabidiol.<\/p><p><strong>Lubricant Drops:<\/strong> Dimeticone, Cyclopentasiloxane,<br\/>Dimethiconol, Phenyl Trimeticone.<\/p>",
             "page": ""
           }
         },
@@ -242,7 +242,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><em>– SUBHEADING</em></p>",
+            "text": "<p><em>– SUBHEADING<\/em><\/p>",
             "text_size": "typeset",
             "secondary_color": true
           }
@@ -275,7 +275,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p>“As doctors, women in menopause have been coming to us for years with issues caused by fluctuating hormones. They desperately want relief from dry, itchy skin, but the products on the market did not help. These skin changes require moisture and hydration that can penetrate the skin barrier to soothe irritation from within. Formulated specifically for the intimate area, this bundle offers products that help alleviate common concerns during the menopausal transition like vaginal dryness and dehydrated intimate skin.  \"</p><p><strong>-Dr. Gunvor Ekman-Ordeberg, OB/GYN, MD.,PhD</strong></p>",
+            "text": "<p>“As doctors, women in menopause have been coming to us for years with issues caused by fluctuating hormones. They desperately want relief from dry, itchy skin, but the products on the market did not help. These skin changes require moisture and hydration that can penetrate the skin barrier to soothe irritation from within. Formulated specifically for the intimate area, this bundle offers products that help alleviate common concerns during the menopausal transition like vaginal dryness and dehydrated intimate skin.  \"<\/p><p><strong>-Dr. Gunvor Ekman-Ordeberg, OB\/GYN, MD.,PhD<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -296,7 +296,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_7816.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7816.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -324,7 +324,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -332,7 +332,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -340,7 +340,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -365,10 +365,10 @@
         "template--15535266234504__1c060f95-8e44-46b1-af6d-19cac1ce59ef-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/3_71a42684-be34-47c9-b309-5ee9cbb4c7a3.jpg",
+            "image": "shopify:\/\/shop_images\/3_71a42684-be34-47c9-b309-5ee9cbb4c7a3.jpg",
             "title": "MENO CARE OIL WASH",
             "title_size": "h3",
-            "text": "<p>AN intensively moisturizing oil wash.</p>",
+            "text": "<p>AN intensively moisturizing oil wash.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -377,10 +377,10 @@
         "template--15535266234504__1c060f95-8e44-46b1-af6d-19cac1ce59ef-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/2_af341788-282f-4ee9-bdeb-717a8a977567.jpg",
+            "image": "shopify:\/\/shop_images\/2_af341788-282f-4ee9-bdeb-717a8a977567.jpg",
             "title": "MENO CARE HYDRATING BALM",
             "title_size": "h3",
-            "text": "<p>Moisturizing balm for dry vulvar skin. </p>",
+            "text": "<p>Moisturizing balm for dry vulvar skin. <\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -389,10 +389,10 @@
         "template--15535266234504__1c060f95-8e44-46b1-af6d-19cac1ce59ef-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/4_45655dc4-fbfa-4955-bcac-3a3ca11fb7ab.jpg",
+            "image": "shopify:\/\/shop_images\/4_45655dc4-fbfa-4955-bcac-3a3ca11fb7ab.jpg",
             "title": "Lubricant drops",
             "title_size": "h3",
-            "text": "<p>Silky smooth lube specially made for vaginal health.</p>",
+            "text": "<p>Silky smooth lube specially made for vaginal health.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -424,7 +424,7 @@
         "look-0": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/Before_256x256_91d8acae-3c88-49ce-bca1-d347e258c82e.webp",
+            "image": "shopify:\/\/shop_images\/Before_256x256_91d8acae-3c88-49ce-bca1-d347e258c82e.webp",
             "title": "before",
             "title_size": "small",
             "title_position": "start"
@@ -433,7 +433,7 @@
         "look-1": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/After_256x256_546b8fc8-e668-4cf2-bd5e-befac9e3d042.webp",
+            "image": "shopify:\/\/shop_images\/After_256x256_546b8fc8-e668-4cf2-bd5e-befac9e3d042.webp",
             "title": "After",
             "title_size": "small",
             "title_position": "start"
@@ -491,7 +491,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -527,7 +527,7 @@
           "type": "image",
           "settings": {
             "heading": "1. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -537,7 +537,7 @@
           "type": "image",
           "settings": {
             "heading": "2. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -547,7 +547,7 @@
           "type": "image",
           "settings": {
             "heading": "3. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -557,7 +557,7 @@
           "type": "image",
           "settings": {
             "heading": "4. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -597,7 +597,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -605,7 +605,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -613,7 +613,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -621,7 +621,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -629,7 +629,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         }
@@ -660,7 +660,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -671,7 +671,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -682,7 +682,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -716,7 +716,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -724,7 +724,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -732,7 +732,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -740,7 +740,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -748,7 +748,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         }
@@ -778,35 +778,35 @@
           "type": "question",
           "settings": {
             "title": "Where should the balm be applied?",
-            "text": "<p>Meno Care Hydrating Balm should be applied to the intimate area, inner and outer labia and mucous membranes.</p>"
+            "text": "<p>Meno Care Hydrating Balm should be applied to the intimate area, inner and outer labia and mucous membranes.<\/p>"
           }
         },
         "2a84d600-0560-46c3-9478-21486bbf5dca": {
           "type": "question",
           "settings": {
             "title": "WHY DO YOU RECOMMEND AN OIL WASH?",
-            "text": "<p>Washing with an oil wash is a very gentle and mild cleaning option that we doctors recommend to patients with sensitive mucous membranes and skin.It is beneficial for women of all ages but above all for pre- and post-menopausal women.</p>"
+            "text": "<p>Washing with an oil wash is a very gentle and mild cleaning option that we doctors recommend to patients with sensitive mucous membranes and skin.It is beneficial for women of all ages but above all for pre- and post-menopausal women.<\/p>"
           }
         },
         "template--15103162777736__e5fa209f-098f-4c65-864c-6cd202d0e791-1685093086011a587d-1": {
           "type": "question",
           "settings": {
             "title": "ARE DEODOC'S PRODUCTS SAFE?",
-            "text": "<p>- DeoDoc complies with EU legislation for cosmetic products.<br/><br/>- All ingredients and products are safety assessed for the area of ​​use according to EU legislation for cosmetic products.<br/><br/>- The products are tested on real women by an independent laboratory, whereby they may be called gynecologically tested.<br/><br/>- The products are also dermatologically tested for sensitive skin.<br/><br/>- All products are developed in consultation with Dr. Gunvor Ekman Ordeberg, professor of Obstetrics and Gynecology at Karolinska Institutet.</p>"
+            "text": "<p>- DeoDoc complies with EU legislation for cosmetic products.<br\/><br\/>- All ingredients and products are safety assessed for the area of ​​use according to EU legislation for cosmetic products.<br\/><br\/>- The products are tested on real women by an independent laboratory, whereby they may be called gynecologically tested.<br\/><br\/>- The products are also dermatologically tested for sensitive skin.<br\/><br\/>- All products are developed in consultation with Dr. Gunvor Ekman Ordeberg, professor of Obstetrics and Gynecology at Karolinska Institutet.<\/p>"
           }
         },
         "d52d38a5-94dc-4d35-acce-d0ca4f95cb78": {
           "type": "question",
           "settings": {
             "title": "Are DeoDoc's products vegan?",
-            "text": "<p>Yes. </p>"
+            "text": "<p>Yes. <\/p>"
           }
         },
         "0f41baf5-2ec5-4648-8375-582460ec3757": {
           "type": "question",
           "settings": {
             "title": "ARE THE PRODUCTS SUITABLE FOR SENSITIVE SKIN?",
-            "text": "<p>Yes, DeoDoc's Meno Care Hydrating Balm is specially formulated for dry and fragile mucous membranes that can occur during menopause.</p>"
+            "text": "<p>Yes, DeoDoc's Meno Care Hydrating Balm is specially formulated for dry and fragile mucous membranes that can occur during menopause.<\/p>"
           }
         }
       },
@@ -829,15 +829,6 @@
     },
     "1659359337855b4176": {
       "type": "apps",
-      "blocks": {
-        "afb29d1c-263c-415f-ac89-668e87c1428a": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "afb29d1c-263c-415f-ac89-668e87c1428a"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

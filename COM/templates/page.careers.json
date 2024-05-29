@@ -21,7 +21,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers.</p>",
+            "text": "<p>Share information about your brand with your customers.<\/p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -74,7 +74,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -125,24 +125,24 @@
         "1657806368eb1a5abf-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/22.jpg",
-            "title": "E-commerce/ Digital marketing Intern",
+            "image": "shopify:\/\/shop_images\/22.jpg",
+            "title": "E-commerce\/ Digital marketing Intern",
             "title_size": "h2",
             "text": "",
             "button_label": "READ MORE",
-            "button_link": "shopify://pages/e-com-intern-info",
+            "button_link": "shopify:\/\/pages\/e-com-intern-info",
             "button_style_secondary": false
           }
         },
         "1657806368eb1a5abf-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/23.jpg",
+            "image": "shopify:\/\/shop_images\/23.jpg",
             "title": "Content Creator Intern",
             "title_size": "h2",
             "text": "",
             "button_label": "READ MORE",
-            "button_link": "shopify://pages/content-intern-info",
+            "button_link": "shopify:\/\/pages\/content-intern-info",
             "button_style_secondary": false
           }
         },
@@ -152,7 +152,7 @@
           "settings": {
             "title": "Why do razor bumps happen?",
             "title_size": "h3",
-            "text": "<p>Expert approved products to treat and prevent razor bumps...</p>",
+            "text": "<p>Expert approved products to treat and prevent razor bumps...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -164,7 +164,7 @@
           "settings": {
             "title": "All the Questions You Have About How to Use a Menstrual Cup",
             "title_size": "h3",
-            "text": "<p>Find out the key to clean your menstrual cup when you are in a public restroom...</p>",
+            "text": "<p>Find out the key to clean your menstrual cup when you are in a public restroom...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -176,7 +176,7 @@
           "settings": {
             "title": "Refresh Fast!",
             "title_size": "h3",
-            "text": "<p>For the unpredictable stinky situations. Keep calm and carry on with these staples...</p>",
+            "text": "<p>For the unpredictable stinky situations. Keep calm and carry on with these staples...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -188,9 +188,9 @@
           "settings": {
             "title": "How women entrepreneurs are disrupting the feminine market?",
             "title_size": "h3",
-            "text": "<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...</p>",
+            "text": "<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...<\/p>",
             "button_label": "Button label",
-            "button_link": "https://wwd.com/beauty-industry-news/beauty-features/vagina-products-vibrators-feminist-1202758743/",
+            "button_link": "https:\/\/wwd.com\/beauty-industry-news\/beauty-features\/vagina-products-vibrators-feminist-1202758743\/",
             "button_style_secondary": false
           }
         }
@@ -204,7 +204,7 @@
         "59382a53-55aa-4364-9f6d-53314aad62dd"
       ],
       "settings": {
-        "heading": "Work with us / Jobba med oss",
+        "heading": "Work with us \/ Jobba med oss",
         "heading_size": "h1",
         "image_ratio": "adapt",
         "image_position": "center center",
@@ -246,7 +246,7 @@
         "16575421422babb9f9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -268,7 +268,7 @@
       ],
       "disabled": true,
       "settings": {
-        "video_url": "https://www.youtube.com/watch?v=NzycSGeg7nI",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NzycSGeg7nI",
         "text_box_position": "middle-center",
         "text_alignment": "center",
         "image_ratio": "650px",

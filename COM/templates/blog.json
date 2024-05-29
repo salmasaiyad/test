@@ -33,7 +33,7 @@
         "165824646320ebbfa9-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/doctor_s_corner_e256b0cf-ab7d-40a8-beb7-928d6cbdaaea.jpg",
+        "image": "shopify:\/\/shop_images\/doctor_s_corner_e256b0cf-ab7d-40a8-beb7-928d6cbdaaea.jpg",
         "image_position": "center center",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -66,7 +66,7 @@
         "16582350353b7f214d-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Whether you’re here because you love our products and want to know more or you are interested in learning about the female anatomy, we are here to help! With more than 50 years of clinical experience within gynecology and womens health, Dr Gunvor and Dr Hedieh (the DeoDoc founders) share their insights and knowledge about any intimate concerns.</p>",
+            "text": "<p>Whether you’re here because you love our products and want to know more or you are interested in learning about the female anatomy, we are here to help! With more than 50 years of clinical experience within gynecology and womens health, Dr Gunvor and Dr Hedieh (the DeoDoc founders) share their insights and knowledge about any intimate concerns.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }

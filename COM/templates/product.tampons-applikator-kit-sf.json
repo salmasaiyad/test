@@ -75,7 +75,7 @@
           "settings": {
             "icon": "none",
             "heading": "PRODUKTSPECIFIKATION",
-            "content": "<p>-Utvecklad av kvinnliga läkare och gynekolog</p><p>-100% vegansk</p><p>-3st individuellt förpackade värmeplåster</p>",
+            "content": "<p>-Utvecklad av kvinnliga läkare och gynekolog<\/p><p>-100% vegansk<\/p><p>-3st individuellt förpackade värmeplåster<\/p>",
             "page": ""
           }
         },
@@ -84,7 +84,7 @@
           "settings": {
             "icon": "none",
             "heading": "ANVÄNDNING",
-            "content": "<p>1. Ta ut plåstret från från förpackningen.</p><p>2. Avlägsna skyddsfilmen som täcker den självhäftande delen av plåstret.</p><p>3. Fäst plåstret direkt på underkläder på nedre delen av ryggen eller magen (beroende på vart du har ont). Exempelvis fungerar även leggings, strumpbyxor eller linne också bra, undvik dock att sätta direkt på huden.</p><p>4. Låt plåstret sitta kvar, dock inte mer än 8 timmar i sträck.</p><p>5. Plåstret avlägsnas genom att försiktigt dra bort det från kläderna. </p><p><strong>OBS! - undvik direkt kontakt med hud. Fäst plåstret på trosor, linne, T-shirt eller byxor/leggings. Bör ej appliceras på spetstrosor då dessa ej är heltäckande och kontakt kan fås mot huden.</strong></p>",
+            "content": "<p>1. Ta ut plåstret från från förpackningen.<\/p><p>2. Avlägsna skyddsfilmen som täcker den självhäftande delen av plåstret.<\/p><p>3. Fäst plåstret direkt på underkläder på nedre delen av ryggen eller magen (beroende på vart du har ont). Exempelvis fungerar även leggings, strumpbyxor eller linne också bra, undvik dock att sätta direkt på huden.<\/p><p>4. Låt plåstret sitta kvar, dock inte mer än 8 timmar i sträck.<\/p><p>5. Plåstret avlägsnas genom att försiktigt dra bort det från kläderna. <\/p><p><strong>OBS! - undvik direkt kontakt med hud. Fäst plåstret på trosor, linne, T-shirt eller byxor\/leggings. Bör ej appliceras på spetstrosor då dessa ej är heltäckande och kontakt kan fås mot huden.<\/strong><\/p>",
             "page": "shaving-kit"
           }
         },
@@ -93,7 +93,7 @@
           "settings": {
             "icon": "none",
             "heading": "INGREDIENSER",
-            "content": "<p>Iron powder, activated carbon, aqua (water), vermiculit, salt.</p><p>Innehåller en blanding av naturliga ämnen som vid kontakt med syret i luften utvecklar värme. Doftfri. </p>",
+            "content": "<p>Iron powder, activated carbon, aqua (water), vermiculit, salt.<\/p><p>Innehåller en blanding av naturliga ämnen som vid kontakt med syret i luften utvecklar värme. Doftfri. <\/p>",
             "page": ""
           }
         },
@@ -241,7 +241,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><em>– SUBHEADING</em></p>",
+            "text": "<p><em>– SUBHEADING<\/em><\/p>",
             "text_size": "typeset",
             "secondary_color": true
           }
@@ -274,7 +274,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Rakning är ett trauma för huden, så när det inte tas om hand om kan det orsaka irritation som inåtväxande hårstrån och klåda, särskilt på den mycket känsliga vulvahuden. Det är därför vi har utvecklat vår Intimate Shaving Trio - för att inte bara raka utan för att även förbereda och ta hand om huden efter rakningen.</p>",
+            "text": "<p>Rakning är ett trauma för huden, så när det inte tas om hand om kan det orsaka irritation som inåtväxande hårstrån och klåda, särskilt på den mycket känsliga vulvahuden. Det är därför vi har utvecklat vår Intimate Shaving Trio - för att inte bara raka utan för att även förbereda och ta hand om huden efter rakningen.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -295,7 +295,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Namnlos_design_70.png",
+        "image": "shopify:\/\/shop_images\/Namnlos_design_70.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -323,7 +323,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -331,7 +331,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -339,7 +339,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -429,7 +429,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -465,7 +465,7 @@
           "type": "image",
           "settings": {
             "heading": "1. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -475,7 +475,7 @@
           "type": "image",
           "settings": {
             "heading": "2. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -485,7 +485,7 @@
           "type": "image",
           "settings": {
             "heading": "3. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -495,7 +495,7 @@
           "type": "image",
           "settings": {
             "heading": "4. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -535,7 +535,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -543,7 +543,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -551,7 +551,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -559,7 +559,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -567,7 +567,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         }
@@ -598,7 +598,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -609,7 +609,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -620,7 +620,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -654,7 +654,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -662,7 +662,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -670,7 +670,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -678,7 +678,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -686,7 +686,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         }
@@ -711,15 +711,6 @@
     },
     "1659359337855b4176": {
       "type": "apps",
-      "blocks": {
-        "afb29d1c-263c-415f-ac89-668e87c1428a": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "afb29d1c-263c-415f-ac89-668e87c1428a"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

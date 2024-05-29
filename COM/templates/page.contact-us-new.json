@@ -15,7 +15,7 @@
         "969277fe-ea70-4d5e-b339-312d2d886ffe"
       ],
       "settings": {
-        "image": "shopify://shop_images/Tampon_banner_USmobile-1800x1200_copy_2.jpg",
+        "image": "shopify:\/\/shop_images\/Tampon_banner_USmobile-1800x1200_copy_2.jpg",
         "image_position": "20% 50%",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -51,7 +51,7 @@
           "settings": {
             "title": "Your order",
             "title_size": "h2",
-            "text": "<p>myorder@deodoc.se</p>",
+            "text": "<p>myorder@deodoc.se<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -62,7 +62,7 @@
           "settings": {
             "title": "Press",
             "title_size": "h2",
-            "text": "<p>press@deodoc.se</p>",
+            "text": "<p>press@deodoc.se<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -73,7 +73,7 @@
           "settings": {
             "title": "Other questions",
             "title_size": "h2",
-            "text": "<p>askdeodoc@deodoc.se</p>",
+            "text": "<p>askdeodoc@deodoc.se<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -119,7 +119,7 @@
         "16575421422babb9f9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -141,7 +141,7 @@
       ],
       "disabled": true,
       "settings": {
-        "video_url": "https://www.youtube.com/watch?v=NzycSGeg7nI",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NzycSGeg7nI",
         "text_box_position": "middle-center",
         "text_alignment": "center",
         "image_ratio": "650px",

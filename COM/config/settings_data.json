@@ -58,12 +58,12 @@
     "share_pinterest": false,
     "share_email": false,
     "social_facebook_link": "",
-    "social_instagram_link": "https://www.instagram.com/deodocwellness/",
-    "social_tiktok_link": "https://www.tiktok.com/@deodocwellness",
+    "social_instagram_link": "https:\/\/www.instagram.com\/deodocwellness\/",
+    "social_tiktok_link": "https:\/\/www.tiktok.com\/@deodocwellness",
     "social_linkedin_link": "",
-    "favicon": "shopify://shop_images/logo_dd_gron_791007b7-1d55-438e-a08c-063978933554.jpg",
+    "favicon": "shopify:\/\/shop_images\/logo_dd_gron_791007b7-1d55-438e-a08c-063978933554.jpg",
     "gift_card_logo_height": 70,
-    "checkout_logo_image": "shopify://shop_images/deodoc_black_4558820b-b2df-4cd1-8ff3-f69967ee35b8.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/deodoc_black_4558820b-b2df-4cd1-8ff3-f69967ee35b8.jpg",
     "checkout_logo_position": "center",
     "checkout_sidebar_background_color": "#f6f5f2",
     "checkout_accent_color": "#212326",
@@ -76,21 +76,22 @@
             "type": "announcement",
             "settings": {
               "text": "FREE SHIPPING ON ORDERS OVER $45",
-              "link": "shopify://collections/all"
+              "link": "shopify:\/\/collections\/all"
             }
           },
           "5bdc8393-7283-4017-bc45-0754332873a6": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "2-3 DAYS SHIPPING",
-              "link": "shopify://collections/all"
+              "link": "shopify:\/\/collections\/all"
             }
           },
           "755174bb-a0da-49b0-9429-bba02e03981d": {
             "type": "announcement",
             "settings": {
               "text": "2 COMPLIMENTARY SAMPLES WITH EVERY ORDER",
-              "link": "shopify://collections/all"
+              "link": "shopify:\/\/collections\/all"
             }
           }
         },
@@ -118,13 +119,13 @@
               "menu_title": "sho",
               "narrow": false,
               "show_menu_image": true,
-              "promo_image_1": "shopify://shop_images/menstrualfamjpg.jpg",
+              "promo_image_1": "shopify:\/\/shop_images\/menstrualfamjpg.jpg",
               "promo_image_ratio_1": "adapt",
               "promo_image_position_1": "center center",
               "promo_heading_1": "Bundles & Kits",
               "promo_text_1": "",
               "promo_overlay_content_1": false,
-              "promo_link_1": "shopify://collections/kits",
+              "promo_link_1": "shopify:\/\/collections\/kits",
               "promo_image_ratio_2": "adapt",
               "promo_image_position_2": "center center",
               "promo_heading_2": "",
@@ -138,8 +139,8 @@
           "00aab584-5fae-4287-bd9d-c8660d2411ff"
         ],
         "settings": {
-          "logo": "shopify://shop_images/deodoc_black_large__1___1_-removebg-preview.png",
-          "mobile_logo": "shopify://shop_images/deodoc_black_large__1___1_-removebg-preview.png",
+          "logo": "shopify:\/\/shop_images\/deodoc_black_large__1___1_-removebg-preview.png",
+          "mobile_logo": "shopify:\/\/shop_images\/deodoc_black_large__1___1_-removebg-preview.png",
           "logo_height": 52,
           "mobile_logo_height": 48,
           "logo_position": "top-center",
@@ -148,8 +149,8 @@
           "show_line_separator": true,
           "enable_sticky_header": true,
           "icon_weight": "1.7",
-          "transparent_logo": "shopify://shop_images/deodoc_white_a0ee8f6f-03c0-4961-9dfc-5d0a85bd5081.png",
-          "mobile_transparent_logo": "shopify://shop_images/deodoc_white_a0ee8f6f-03c0-4961-9dfc-5d0a85bd5081.png",
+          "transparent_logo": "shopify:\/\/shop_images\/deodoc_white_a0ee8f6f-03c0-4961-9dfc-5d0a85bd5081.png",
+          "mobile_transparent_logo": "shopify:\/\/shop_images\/deodoc_white_a0ee8f6f-03c0-4961-9dfc-5d0a85bd5081.png",
           "enable_transparent_header": false,
           "enable_transparent_header_collection": true,
           "enable_transparent_header_custom": "",
@@ -167,7 +168,7 @@
             "type": "text",
             "settings": {
               "heading": "Company information",
-              "subtext": "<p>Deodoc inc. </p><p>South Buckhout st. </p><p>Irvington</p><p>New York 10533</p><p>USA</p>"
+              "subtext": "<p>Deodoc inc. <\/p><p>South Buckhout st. <\/p><p>Irvington<\/p><p>New York 10533<\/p><p>USA<\/p>"
             }
           },
           "footer-0": {
@@ -201,7 +202,7 @@
         "settings": {
           "newsletter_enable": false,
           "newsletter_heading": "Sign up to our newsletter",
-          "newsletter_text": "<p>Subscribe to receive exclusive offers, educational content and tips from our team of women doctors and gynecologists. </p>",
+          "newsletter_text": "<p>Subscribe to receive exclusive offers, educational content and tips from our team of women doctors and gynecologists. <\/p>",
           "show_social": true,
           "social_heading": "Follow us",
           "enable_country_selector": true,
@@ -228,7 +229,7 @@
           "text": {
             "type": "text",
             "settings": {
-              "text": "<p>Sign up and get expert intimate care tips <strong>and 10% off your first order</strong></p>",
+              "text": "<p>Sign up and get expert intimate care tips <strong>and 10% off your first order<\/strong><\/p>",
               "text_size": "typeset3",
               "secondary_color": false
             }
@@ -236,7 +237,7 @@
           "newsletter": {
             "type": "newsletter",
             "settings": {
-              "text": "<p>Subscribe to receive exclusive offers, educational content and tips from our team of women doctors and gynecologists.</p>",
+              "text": "<p>Subscribe to receive exclusive offers, educational content and tips from our team of women doctors and gynecologists.<\/p>",
               "button_style_secondary": true,
               "button_full_width": false
             }
@@ -300,7 +301,7 @@
           "cookie-banner-0": {
             "type": "text",
             "settings": {
-              "text": "<p>We use cookies and similar technologies to provide the best experience on our website. <a href=\"/policies/privacy-policy\">Privacy Policy</a></p>",
+              "text": "<p>We use cookies and similar technologies to provide the best experience on our website. <a href=\"\/policies\/privacy-policy\">Privacy Policy<\/a><\/p>",
               "text_size": "typeset",
               "secondary_color": false
             }
@@ -327,17 +328,57 @@
           "colors_background": "#ffffff",
           "colors_shadow": "#a8e8e2"
         }
+      },
+      "announcement-slider": {
+        "type": "announcement-slider",
+        "blocks": {
+          "announcement-slider-0": {
+            "type": "announcement",
+            "settings": {
+              "text": "FREE SHIPPING ON ORDERS OVER $45",
+              "link": ""
+            }
+          },
+          "announcement_fmEXPH": {
+            "type": "announcement",
+            "settings": {
+              "text": "2-3 DAYS SHIPPING",
+              "link": ""
+            }
+          },
+          "announcement_dyhL9L": {
+            "type": "announcement",
+            "settings": {
+              "text": "2 COMPLIMENTARY SAMPLES WITH EVERY ORDER",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "announcement-slider-0",
+          "announcement_fmEXPH",
+          "announcement_dyhL9L"
+        ],
+        "settings": {
+          "only_homepage": false,
+          "enable_compact": false,
+          "autorotate": false,
+          "autorotate_speed": 5,
+          "show_navigation": false,
+          "colors_text": "#ffffff",
+          "colors_background": "#1a1b18"
+        }
       }
     },
     "content_for_index": [],
     "blocks": {
       "855628211100114053": {
-        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {}
       },
       "5182753405494462628": {
-        "type": "shopify://apps/inveterate/blocks/app-embed/fc24aab3-e6d2-461b-961d-9ebb32143cf2",
+        "type": "shopify:\/\/apps\/inveterate\/blocks\/app-embed\/fc24aab3-e6d2-461b-961d-9ebb32143cf2",
         "disabled": false,
         "settings": {
           "product": "",
@@ -365,27 +406,8 @@
           "exclusive_access_additional_tags": ""
         }
       },
-      "6810535121229352664": {
-        "type": "shopify://apps/monster-cart-upsell-free-gifts/blocks/app-embed/a1b8e58a-bf1d-4e0f-8768-a387c3f643c0",
-        "disabled": true,
-        "settings": {
-          "markets_rounding": false,
-          "send_gtag_atc": false,
-          "disable_tiktok_tracking": false,
-          "disable_klaviyo_tracking": false,
-          "stop_cart_page": true,
-          "apply_discount_before_checkout": false,
-          "bag_selector": ".cart-count-bubble span",
-          "hide_when_opened": "",
-          "show_item_properties": false,
-          "stop_shopify_rate": false,
-          "dev_mode": false,
-          "beta_version": false,
-          "custom_code": "<script>\n  document.addEventListener(\"cart:updated\", ({detail: { items } }) => {\n      let cart_icon_count = document.querySelector('.cart-count-bubble span');\n      if (!cart_icon_count) {\n          let cart_count_container = document.querySelector('#cart-icon-bubble');\n          let cart_bubble = document.createElement('div');\n          cart_bubble.setAttribute('class', 'cart-count-bubble');\n          cart_bubble.innerHTML = `<span aria-hidden=\"true\">${items.length}</span><span class=\"visually-hidden\">${items.length} items</span>`;\n          cart_count_container.appendChild(cart_bubble);\n      }\n  });\n</script>"
-        }
-      },
       "17151115064775110295": {
-        "type": "shopify://apps/recharge-subscriptions/blocks/recharge-theme/371eed76-0b44-4869-9813-730372ea378e",
+        "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/recharge-theme\/371eed76-0b44-4869-9813-730372ea378e",
         "disabled": false,
         "settings": {
           "color_brand": "#212326",
@@ -399,6 +421,11 @@
           "cards_background": "#ffffff",
           "cards_border_color": "rgba(0,0,0,0)"
         }
+      },
+      "8605505498557855500": {
+        "type": "shopify:\/\/apps\/bogos-io-free-gift\/blocks\/app-embed\/0432bba6-720a-4e95-be5a-b868386f7aa6",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
@@ -527,7 +554,7 @@
           "settings": {
             "newsletter_enable": true,
             "newsletter_heading": "Exclusive benefits",
-            "newsletter_text": "<p>Apply for our free membership to receive exclusive deals, news, and events.</p>",
+            "newsletter_text": "<p>Apply for our free membership to receive exclusive deals, news, and events.<\/p>",
             "show_social": true,
             "social_heading": "",
             "enable_country_selector": true,
@@ -554,7 +581,7 @@
             "text": {
               "type": "text",
               "settings": {
-                "text": "<p>Sign up and get 10% off your first order</p>",
+                "text": "<p>Sign up and get 10% off your first order<\/p>",
                 "text_size": "typeset3",
                 "secondary_color": false
               }
@@ -562,7 +589,7 @@
             "newsletter": {
               "type": "newsletter",
               "settings": {
-                "text": "<p>Subscribe to our newsletter and be the first to hear about our new arrivals, special promotions and online exclusives.</p>",
+                "text": "<p>Subscribe to our newsletter and be the first to hear about our new arrivals, special promotions and online exclusives.<\/p>",
                 "button_style_secondary": true,
                 "button_full_width": false
               }
@@ -761,7 +788,7 @@
           "settings": {
             "newsletter_enable": true,
             "newsletter_heading": "Exclusive benefits",
-            "newsletter_text": "<p>Apply for our free membership to receive exclusive deals, news, and events.</p>",
+            "newsletter_text": "<p>Apply for our free membership to receive exclusive deals, news, and events.<\/p>",
             "show_social": true,
             "social_heading": "",
             "enable_country_selector": true,
@@ -788,7 +815,7 @@
             "text": {
               "type": "text",
               "settings": {
-                "text": "<p>Sign up and get 10% off your first order</p>",
+                "text": "<p>Sign up and get 10% off your first order<\/p>",
                 "text_size": "typeset3",
                 "secondary_color": false
               }
@@ -796,7 +823,7 @@
             "newsletter": {
               "type": "newsletter",
               "settings": {
-                "text": "<p>Subscribe to our newsletter and be the first to hear about our new arrivals, special promotions and online exclusives.</p>",
+                "text": "<p>Subscribe to our newsletter and be the first to hear about our new arrivals, special promotions and online exclusives.<\/p>",
                 "button_style_secondary": true,
                 "button_full_width": false
               }
@@ -953,7 +980,7 @@
               "type": "text",
               "settings": {
                 "heading": "About your brand",
-                "subtext": "<p>Share information about your brand with your customers.</p>"
+                "subtext": "<p>Share information about your brand with your customers.<\/p>"
               }
             },
             "footer-1": {
@@ -979,7 +1006,7 @@
           "settings": {
             "newsletter_enable": true,
             "newsletter_heading": "Exclusive benefits",
-            "newsletter_text": "<p>Apply for our free membership to receive exclusive deals, news, and events.</p>",
+            "newsletter_text": "<p>Apply for our free membership to receive exclusive deals, news, and events.<\/p>",
             "show_social": true,
             "social_heading": "",
             "enable_country_selector": true,
@@ -1006,7 +1033,7 @@
             "text": {
               "type": "text",
               "settings": {
-                "text": "<p>Sign up and get 10% off your first order</p>",
+                "text": "<p>Sign up and get 10% off your first order<\/p>",
                 "text_size": "typeset3",
                 "secondary_color": false
               }
@@ -1014,7 +1041,7 @@
             "newsletter": {
               "type": "newsletter",
               "settings": {
-                "text": "<p>Subscribe to our newsletter and be the first to hear about our new arrivals, special promotions and online exclusives.</p>",
+                "text": "<p>Subscribe to our newsletter and be the first to hear about our new arrivals, special promotions and online exclusives.<\/p>",
                 "button_style_secondary": false,
                 "button_full_width": true
               }
@@ -1187,7 +1214,7 @@
           "settings": {
             "newsletter_enable": false,
             "newsletter_heading": "Exclusive benefits",
-            "newsletter_text": "<p>Apply for our free membership to receive exclusive deals, news, and events.</p>",
+            "newsletter_text": "<p>Apply for our free membership to receive exclusive deals, news, and events.<\/p>",
             "show_social": true,
             "social_heading": "Follow Us",
             "enable_country_selector": true,
@@ -1214,7 +1241,7 @@
             "text": {
               "type": "text",
               "settings": {
-                "text": "<p>Sign up and get 10% off your first order</p>",
+                "text": "<p>Sign up and get 10% off your first order<\/p>",
                 "text_size": "typeset",
                 "secondary_color": false
               }
@@ -1222,7 +1249,7 @@
             "newsletter": {
               "type": "newsletter",
               "settings": {
-                "text": "<p>Be the first to know about new collections and exclusive offers.</p>",
+                "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>",
                 "button_style_secondary": true,
                 "button_full_width": true
               }

@@ -42,7 +42,7 @@
           "settings": {}
         },
         "bf6c231b-94ef-4113-a935-1f981d9866ac": {
-          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
           "disabled": true,
           "settings": {
             "product": "{{product}}"
@@ -68,7 +68,7 @@
         "4e06cbde-824a-46c2-8c84-c41e304f229e": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/test_4_4000_x_300_px.png",
+            "image": "shopify:\/\/shop_images\/test_4_4000_x_300_px.png",
             "height": 28,
             "link": ""
           }
@@ -93,7 +93,7 @@
           "settings": {
             "icon": "none",
             "heading": "SPECIFICATIONS",
-            "content": "<p>-Developed by women doctors and gynecologists</p><p>-Gynecologically and dermatologically tested</p><p>-Free from allergens, alcohol and parabens</p><p>-Made in Sweden</p><p>-100% vegan</p>",
+            "content": "<p>-Developed by women doctors and gynecologists<\/p><p>-Gynecologically and dermatologically tested<\/p><p>-Free from allergens, alcohol and parabens<\/p><p>-Made in Sweden<\/p><p>-100% vegan<\/p>",
             "page": ""
           }
         },
@@ -102,7 +102,7 @@
           "settings": {
             "icon": "none",
             "heading": "How to use",
-            "content": "<p><strong>Bubble Bath: </strong>Pour the desired amount of bath foam into warm running water for maximum foaming effect.<br/><br/><strong>Candle: </strong>The candle can be used as a decoration or lit. Do not place the candle near any flammable materials, when lighting the candle place it on a plate to avoid wax dripping on furniture. Never leave a burning candle out of sight. </p>",
+            "content": "<p><strong>Bubble Bath: <\/strong>Pour the desired amount of bath foam into warm running water for maximum foaming effect.<br\/><br\/><strong>Candle: <\/strong>The candle can be used as a decoration or lit. Do not place the candle near any flammable materials, when lighting the candle place it on a plate to avoid wax dripping on furniture. Never leave a burning candle out of sight. <\/p>",
             "page": ""
           }
         },
@@ -111,7 +111,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingredients",
-            "content": "<p><strong>Bubble Bath: </strong>Water (Aqua), Sodium Laureth Sulfate, Sodium Cocoamphoacetate, Glycerin, Glycol Distearate, Fragrance (Parfum), Sodium Chloride, PEG-40 Hydrogenated Castor Oil, Lactic Acid, Polyquaternium-10, PEG-14M, Cocamide MEA, Sodium Benzoat.<br/><br/><strong>Candle: </strong>Olive candlewax, paraffin.</p>",
+            "content": "<p><strong>Bubble Bath: <\/strong>Water (Aqua), Sodium Laureth Sulfate, Sodium Cocoamphoacetate, Glycerin, Glycol Distearate, Fragrance (Parfum), Sodium Chloride, PEG-40 Hydrogenated Castor Oil, Lactic Acid, Polyquaternium-10, PEG-14M, Cocamide MEA, Sodium Benzoat.<br\/><br\/><strong>Candle: <\/strong>Olive candlewax, paraffin.<\/p>",
             "page": ""
           }
         },
@@ -176,7 +176,7 @@
             "icon": "clipboard",
             "title": "Science based",
             "title_size": "h4",
-            "text": "<p></p>"
+            "text": "<p><\/p>"
           }
         },
         "guarantee-1": {
@@ -185,7 +185,7 @@
             "icon": "heart",
             "title": "Made by gynecologists",
             "title_size": "h4",
-            "text": "<p></p>"
+            "text": "<p><\/p>"
           }
         },
         "guarantee-3": {
@@ -194,7 +194,7 @@
             "icon": "globe",
             "title": "Made in Sweden",
             "title_size": "h4",
-            "text": "<p></p>"
+            "text": "<p><\/p>"
           }
         },
         "guarantee-0": {
@@ -203,7 +203,7 @@
             "icon": "leaf",
             "title": "Vegan",
             "title_size": "h4",
-            "text": "<p></p>"
+            "text": "<p><\/p>"
           }
         }
       },
@@ -239,7 +239,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"As doctor’s, we’ve seen countless women get irritated skin from using normal bubble baths or bath bombs as these products are formulated with the incorrect pH for the vulva. Usually these products also contain dyes, allergens, normal perfume (or perfumes with alcohol) and essential oils which can lead to further irritation and even infection. Our Gentle Bubble Bath is formulated at the correct pH of  5 and is free from irritative ingredients and allergens.\" <br/></em><br/><strong>-Dr. Gunvor Ekman-Ordeberg, OB/GYN, MD.,PhD. </strong></p>",
+            "text": "<p><em>\"As doctor’s, we’ve seen countless women get irritated skin from using normal bubble baths or bath bombs as these products are formulated with the incorrect pH for the vulva. Usually these products also contain dyes, allergens, normal perfume (or perfumes with alcohol) and essential oils which can lead to further irritation and even infection. Our Gentle Bubble Bath is formulated at the correct pH of  5 and is free from irritative ingredients and allergens.\" <br\/><\/em><br\/><strong>-Dr. Gunvor Ekman-Ordeberg, OB\/GYN, MD.,PhD. <\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -260,7 +260,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_7857.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7857.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -288,7 +288,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -296,7 +296,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -304,7 +304,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -329,10 +329,10 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/191212_Deodoc12985_aef2cda2-50ad-45ea-949e-0471008d3f11.jpg",
+            "image": "shopify:\/\/shop_images\/191212_Deodoc12985_aef2cda2-50ad-45ea-949e-0471008d3f11.jpg",
             "title": "Step 1",
             "title_size": "h3",
-            "text": "<p>Apply to the skin 1-2 minutes before shaving to provide a protective layer against the razor.</p>",
+            "text": "<p>Apply to the skin 1-2 minutes before shaving to provide a protective layer against the razor.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -341,10 +341,10 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Shaving_Foam_4.png",
+            "image": "shopify:\/\/shop_images\/Shaving_Foam_4.png",
             "title": "Step 2",
             "title_size": "h3",
-            "text": "<p>Apply on top of the oil to allow the razor to glide seamlessly over the skin and provide a gentle, non-irritating shave.</p>",
+            "text": "<p>Apply on top of the oil to allow the razor to glide seamlessly over the skin and provide a gentle, non-irritating shave.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -353,10 +353,10 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/After_Shave_Balm_1.png",
+            "image": "shopify:\/\/shop_images\/After_Shave_Balm_1.png",
             "title": "Step 3",
             "title_size": "h3",
-            "text": "<p>Rinse off the foam and dry the area. Then apply after shave balm. Used immediately after shaving, as well as morning and evening for 5 days and if needed.</p>",
+            "text": "<p>Rinse off the foam and dry the area. Then apply after shave balm. Used immediately after shaving, as well as morning and evening for 5 days and if needed.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -413,28 +413,28 @@
           "type": "question",
           "settings": {
             "title": "WHY DO YOUR PRODUCTS CONTAIN PERFUME?",
-            "text": "<p>DeoDoc only uses hypoallergenic scents/perfumes in all of our products. Hypoallergenic scents are free from alcohol, allergens and irritants, therefore, they are safe for intimate skin.<br/><br/>Regular perfume should never be used in the intimate area as it contains:<br/><br/>- alcohol which can have a dehydrating effect<br/><br/>- allergens that can cause irritation</p>"
+            "text": "<p>DeoDoc only uses hypoallergenic scents\/perfumes in all of our products. Hypoallergenic scents are free from alcohol, allergens and irritants, therefore, they are safe for intimate skin.<br\/><br\/>Regular perfume should never be used in the intimate area as it contains:<br\/><br\/>- alcohol which can have a dehydrating effect<br\/><br\/>- allergens that can cause irritation<\/p>"
           }
         },
         "template--15298614231176__a43c45c9-adbd-4504-aec0-af088773460b-166902588667a44920-1": {
           "type": "question",
           "settings": {
             "title": "ARE DEODOC'S PRODUCTS VEGAN?",
-            "text": "<p>Yes.</p>"
+            "text": "<p>Yes.<\/p>"
           }
         },
         "ec54a732-4f85-4200-82a3-c9ac827efeb7": {
           "type": "question",
           "settings": {
             "title": "IS IT SUITABLE FOR SENSITIVE SKIN?",
-            "text": "<p>Yes, our revolutionary 3-step shaving solution gives the optimal preparation for sensitive skin.</p>"
+            "text": "<p>Yes, our revolutionary 3-step shaving solution gives the optimal preparation for sensitive skin.<\/p>"
           }
         },
         "98658be7-ba9c-411e-864b-6818cbd7cff4": {
           "type": "question",
           "settings": {
             "title": "ARE DEODOC'S PRODUCTS SAFE TO USE?",
-            "text": "<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br/><br/>- All products are approved by the Swedish Medical Products Agency<br/><br/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br/><br/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br/><br/>- Products are dermatologically tested for sensitive skin<br/><br/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg</p>"
+            "text": "<p>DeoDoc follows European Union regulations for the manufacturing of cosmetic products<br\/><br\/>- All products are approved by the Swedish Medical Products Agency<br\/><br\/>- DeoDoc ingredients and products fulfills the safety standards for area of use (i.e. Vulva-safe & vagina-safe dependent on product) according to EU regulations for cosmetic products<br\/><br\/>- Each product is gynaecologically tested which means they are tested on women outside of a lab environment<br\/><br\/>- Products are dermatologically tested for sensitive skin<br\/><br\/>- All of our products are developed together with DeoDoc's co-founder and Professor of Obstetrics and Gynecology, Dr. Gunvor Ekman Ordeberg<\/p>"
           }
         },
         "afc71a43-24dd-4ed7-bf74-f451fdb9c9d3": {
@@ -442,7 +442,7 @@
           "disabled": true,
           "settings": {
             "title": "HOW AND WHERE SHOULD I SPRAY THE DEOSPRAY?",
-            "text": "<p>Shake the can and spray 15cm away from the vulva or groin area. The vulva has apocrine sweat glands which empty into hair follicles, so the DeoSpray should only be used where ever hair can grow. Do not use or spray within the inner labia, mucosa or inside of the vagina.</p>"
+            "text": "<p>Shake the can and spray 15cm away from the vulva or groin area. The vulva has apocrine sweat glands which empty into hair follicles, so the DeoSpray should only be used where ever hair can grow. Do not use or spray within the inner labia, mucosa or inside of the vagina.<\/p>"
           }
         }
       },
@@ -467,7 +467,7 @@
       "type": "apps",
       "blocks": {
         "43b2e66e-f777-4236-b344-1589189a04d8": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
             "aggregated": false,

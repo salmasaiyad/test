@@ -77,7 +77,7 @@
           "settings": {
             "icon": "none",
             "heading": "PRODUKTSPECIFIKATION",
-            "content": "<p>- Enkelt hemmatest som genomförs med ett urinprov </p><p>- Svar inom 5 minuter</p><p>- Känslighet &gt;99.9% </p><p>- Träffsäkerhet &gt; 99.9% </p><p>- Tillförlitlighet &gt; 99.9% </p><p>- Noggrannhet &gt; 99.9%</p><p>- Innehåller två tester</p><p>- CE-märkt</p><p>-Mäter follikelstimulerande hormonet (FSH) i urin och påvisar FSH-värden över 25 mlU/ml.</p><p><strong>-Ersätter inte medicinsk konsultation.</strong></p><p><strong>- Utför inte testet om du har hormonbehandling (p-piller / hormonspiral) då detta kan ge ett falskt negativt resultat.</strong></p>",
+            "content": "<p>- Enkelt hemmatest som genomförs med ett urinprov <\/p><p>- Svar inom 5 minuter<\/p><p>- Känslighet &gt;99.9% <\/p><p>- Träffsäkerhet &gt; 99.9% <\/p><p>- Tillförlitlighet &gt; 99.9% <\/p><p>- Noggrannhet &gt; 99.9%<\/p><p>- Innehåller två tester<\/p><p>- CE-märkt<\/p><p>-Mäter follikelstimulerande hormonet (FSH) i urin och påvisar FSH-värden över 25 mlU\/ml.<\/p><p><strong>-Ersätter inte medicinsk konsultation.<\/strong><\/p><p><strong>- Utför inte testet om du har hormonbehandling (p-piller \/ hormonspiral) då detta kan ge ett falskt negativt resultat.<\/strong><\/p>",
             "page": ""
           }
         },
@@ -86,7 +86,7 @@
           "settings": {
             "icon": "none",
             "heading": "ANVÄNDNING",
-            "content": "<p>1.<strong> </strong>Samla upp urin i en ren och torr behållare.</p><p>2. Öppna inte foliepåsen med testkassetten förrän du ska använda den. Ta ut testkassetten och lägg den på en plan yta.</p><p>3. Sug upp några droppar av urinprovet med hjälp av pipetten. Håll pipetten med urinprovet rakt ovanför provfördjupningen (S) och tryck ut 3-4 droppar. </p><p><strong>Se till att ingen vätska hamnar i resultatrutan - som är märkt med (T) och (C).</strong> Undvik att röra eller flytta testkassetten när du har tryckt ut dropparna.</p><p><strong>Vänta 5 minuter efter att du tryckt ut 3-4 droppar och läs sedan av resultatet. Efter mer än 10 minuter kan du få ett falskt positivt resultat. </strong></p>",
+            "content": "<p>1.<strong> <\/strong>Samla upp urin i en ren och torr behållare.<\/p><p>2. Öppna inte foliepåsen med testkassetten förrän du ska använda den. Ta ut testkassetten och lägg den på en plan yta.<\/p><p>3. Sug upp några droppar av urinprovet med hjälp av pipetten. Håll pipetten med urinprovet rakt ovanför provfördjupningen (S) och tryck ut 3-4 droppar. <\/p><p><strong>Se till att ingen vätska hamnar i resultatrutan - som är märkt med (T) och (C).<\/strong> Undvik att röra eller flytta testkassetten när du har tryckt ut dropparna.<\/p><p><strong>Vänta 5 minuter efter att du tryckt ut 3-4 droppar och läs sedan av resultatet. Efter mer än 10 minuter kan du få ett falskt positivt resultat. <\/strong><\/p>",
             "page": ""
           }
         },
@@ -211,7 +211,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Klimakteriet är en naturlig fas i livet när hormonbalansen förändras och mensen upphör. Denna process börjar vanligtvis i 45-55 årsåldern med förklimakteriet (perimenopaus) där följande besvär och symptom kan uppstå:</em></p><ul><li><em>värmevallningar</em></li><li><em>oregelbunden mens</em></li><li><em>sömnsvårigheter </em></li><li><em>oro/nedstämdhet</em></li><li><em>sköra och torra slemhinnor i underlivet  </em></li></ul><p><em>I mitt kliniska arbete möter jag alltför många kvinnor som blir felaktigt diagnostiserade med depression och utbrändhet när grundorsaken egentligen handlar om att man nått förklimakteriet. </em></p><p><em>Av den anledningen har vi utvecklat detta snabbtest så du enkelt själv kan upptäcka om du har nått förklimakteriet/klimakteriet - och därmed få rätt hjälp hos din doktor.\"</em></p><p><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet</strong></p>",
+            "text": "<p><em>\"Klimakteriet är en naturlig fas i livet när hormonbalansen förändras och mensen upphör. Denna process börjar vanligtvis i 45-55 årsåldern med förklimakteriet (perimenopaus) där följande besvär och symptom kan uppstå:<\/em><\/p><ul><li><em>värmevallningar<\/em><\/li><li><em>oregelbunden mens<\/em><\/li><li><em>sömnsvårigheter <\/em><\/li><li><em>oro\/nedstämdhet<\/em><\/li><li><em>sköra och torra slemhinnor i underlivet  <\/em><\/li><\/ul><p><em>I mitt kliniska arbete möter jag alltför många kvinnor som blir felaktigt diagnostiserade med depression och utbrändhet när grundorsaken egentligen handlar om att man nått förklimakteriet. <\/em><\/p><p><em>Av den anledningen har vi utvecklat detta snabbtest så du enkelt själv kan upptäcka om du har nått förklimakteriet\/klimakteriet - och därmed få rätt hjälp hos din doktor.\"<\/em><\/p><p><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -232,7 +232,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Skarmbild_2023-01-04_161646.png",
+        "image": "shopify:\/\/shop_images\/Skarmbild_2023-01-04_161646.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -260,7 +260,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -268,7 +268,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -276,7 +276,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -326,63 +326,63 @@
           "disabled": true,
           "settings": {
             "title": "VARFÖR REKOMMENDERAR NI EN OLJETVÄTT?",
-            "text": "<p>Att tvätta med en oljetvätt är ett mycket skonsamt och milt rengöringsalternativ som vi läkare rekommenderar till patienter med känsliga slemhinnor och hud. Det är fördelaktigt för kvinnor i alla åldrar men framför allt för kvinnor pre- och post klimakteriet.</p>"
+            "text": "<p>Att tvätta med en oljetvätt är ett mycket skonsamt och milt rengöringsalternativ som vi läkare rekommenderar till patienter med känsliga slemhinnor och hud. Det är fördelaktigt för kvinnor i alla åldrar men framför allt för kvinnor pre- och post klimakteriet.<\/p>"
           }
         },
         "template--15576329552028__f1ec52a6-985d-4f03-8109-1d45e2e2baed-1668429549a98c496f-0": {
           "type": "question",
           "settings": {
             "title": "KAN MAN VETA OM MAN ÄR I KLIMAKTERIET?",
-            "text": "<p>Ja - under klimakteriet förändras hormonnivåerna i kroppen. När kroppen producerar mindre östrogen ökar istället produktionen av follikelstimulerande hormonet FSH. Vårt test mäter således FSH-koncentrationen i kroppen, och överstiger den 25 mlU/ml - då har man nått förklimakteriet eller klimakteriet.</p>"
+            "text": "<p>Ja - under klimakteriet förändras hormonnivåerna i kroppen. När kroppen producerar mindre östrogen ökar istället produktionen av follikelstimulerande hormonet FSH. Vårt test mäter således FSH-koncentrationen i kroppen, och överstiger den 25 mlU\/ml - då har man nått förklimakteriet eller klimakteriet.<\/p>"
           }
         },
         "acfc0355-9603-49a0-a12e-13e488cf9789": {
           "type": "question",
           "settings": {
             "title": "HUR UTFÖRS TESTET?",
-            "text": "<p>Vårt MenoQuick test utförs genom ett enkelt urinprov. </p><p>1. Använd den första morgonurinen.</p><p>2.<strong> </strong>Samla upp urin i en ren och torr behållare.</p><p>3. Öppna inte foliepåsen med testkassetten förrän du ska använda den. Ta ut testkassetten och lägg den på en plan yta.</p><p>4. Sug upp några droppar av urinprovet med hjälp av pipetten. Håll pipetten med urinprovet rakt ovanför provfördjupningen (S) och tryck ut 3-4 droppar. </p><p></p>"
+            "text": "<p>Vårt MenoQuick test utförs genom ett enkelt urinprov. <\/p><p>1. Använd den första morgonurinen.<\/p><p>2.<strong> <\/strong>Samla upp urin i en ren och torr behållare.<\/p><p>3. Öppna inte foliepåsen med testkassetten förrän du ska använda den. Ta ut testkassetten och lägg den på en plan yta.<\/p><p>4. Sug upp några droppar av urinprovet med hjälp av pipetten. Håll pipetten med urinprovet rakt ovanför provfördjupningen (S) och tryck ut 3-4 droppar. <\/p><p><\/p>"
           }
         },
         "ebd649f7-24d5-4c91-892d-cd2a297fdedc": {
           "type": "question",
           "settings": {
             "title": "Kan jag utföra testet om jag har hormonbehandling (östrogenbehandling) eller tar östrogentillskott?",
-            "text": "<p>Nej, utför inte testet om du har hormonbehandling då detta kan ge ett falskt negativt resultat.</p>"
+            "text": "<p>Nej, utför inte testet om du har hormonbehandling då detta kan ge ett falskt negativt resultat.<\/p>"
           }
         },
         "65a49ab4-58a5-4ba1-8ca8-df2440869c39": {
           "type": "question",
           "settings": {
-            "title": "Kan preventivmedel (t.ex. p-piller/hormonspiral) påverka testresultatet?",
-            "text": "<p>Orala preventivmedel, hormonbehandling eller östrogentillskott kan påverka testresultatet och ge falskt negativa resultat</p>"
+            "title": "Kan preventivmedel (t.ex. p-piller\/hormonspiral) påverka testresultatet?",
+            "text": "<p>Orala preventivmedel, hormonbehandling eller östrogentillskott kan påverka testresultatet och ge falskt negativa resultat<\/p>"
           }
         },
         "5f06714b-b602-4c8c-ac1d-44ec53b2c711": {
           "type": "question",
           "settings": {
             "title": "Kan testet visa fel resultat?",
-            "text": "<p>Testet visar ett korrekt resultat så länge anvisningarna följs noggrant. Se därför till att läsa igenom bruksanvisningen noga och att du förstår alla detaljer innan du utför testet. </p><p>Känslighet &gt;99,9%</p><p>Träffsäkehet &gt;99,9%</p><p>Tillförlitlighet &gt;99,9%</p><p>Noggrannhet &gt;99,9%</p>"
+            "text": "<p>Testet visar ett korrekt resultat så länge anvisningarna följs noggrant. Se därför till att läsa igenom bruksanvisningen noga och att du förstår alla detaljer innan du utför testet. <\/p><p>Känslighet &gt;99,9%<\/p><p>Träffsäkehet &gt;99,9%<\/p><p>Tillförlitlighet &gt;99,9%<\/p><p>Noggrannhet &gt;99,9%<\/p>"
           }
         },
         "514f4f1d-57b3-4b1c-a722-0c643be17f89": {
           "type": "question",
           "settings": {
             "title": "Testet visade positivt men min menstruationscykel är som vanligt - varför är det så?",
-            "text": "<p>Den kliniska definitionen för klimakteiret (menopaus) är att mensen uteblivit under 12 månader i sträck. Testresultatet kan således visa positivt trots att din menstruationscykel pågår som vanligt. I detta fall befinner du dig i förklimakteriet, även kallat perimenopaus.</p>"
+            "text": "<p>Den kliniska definitionen för klimakteiret (menopaus) är att mensen uteblivit under 12 månader i sträck. Testresultatet kan således visa positivt trots att din menstruationscykel pågår som vanligt. I detta fall befinner du dig i förklimakteriet, även kallat perimenopaus.<\/p>"
           }
         },
         "4e8979a4-99bb-4de0-841d-0c69670dddca": {
           "type": "question",
           "settings": {
             "title": "Vad är provets noggrannhet?",
-            "text": "<p>Känslighet &gt;99,9%</p><p>Träffsäkehet &gt;99,9%</p><p>Tillförlitlighet &gt;99,9%</p><p>Noggrannhet &gt;99,9%</p>"
+            "text": "<p>Känslighet &gt;99,9%<\/p><p>Träffsäkehet &gt;99,9%<\/p><p>Tillförlitlighet &gt;99,9%<\/p><p>Noggrannhet &gt;99,9%<\/p>"
           }
         },
         "26134846-4dd3-4ca5-9514-bdbf7675301c": {
           "type": "question",
           "settings": {
             "title": "Vart och hur förvarar man testet?",
-            "text": "<p>Förvara testet utom räckhåll för barn och utsätt inte testet för direkt solljus eller frost. Förvara det på en torr plats mellan 4 och 30 grader celsius. </p>"
+            "text": "<p>Förvara testet utom räckhåll för barn och utsätt inte testet för direkt solljus eller frost. Förvara det på en torr plats mellan 4 och 30 grader celsius. <\/p>"
           }
         },
         "804b3663-5b37-4d74-879c-d86d2adb813b": {
@@ -390,7 +390,7 @@
           "disabled": true,
           "settings": {
             "title": "Passar produkterna till känslig hy?",
-            "text": "<p>Ja, DeoDocs Meno Care Oil Wash är speciellt framtagen för torra och sköra slemhinnor som kan uppstå i klimakteriet.</p>"
+            "text": "<p>Ja, DeoDocs Meno Care Oil Wash är speciellt framtagen för torra och sköra slemhinnor som kan uppstå i klimakteriet.<\/p>"
           }
         },
         "bcdd9940-0fcb-440b-be58-18fdfb20dfb2": {
@@ -398,21 +398,21 @@
           "disabled": true,
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         },
         "d834f3ac-68ca-4712-a42e-fd608949e26c": {
           "type": "question",
           "settings": {
             "title": "Vad ingår i förpackningen?",
-            "text": "<p>När du köper MenoQuick Test ingår två testkassetter med två pipetter och torkmedel i en foliepåse. Bruksanvisning medföljer.</p>"
+            "text": "<p>När du köper MenoQuick Test ingår två testkassetter med två pipetter och torkmedel i en foliepåse. Bruksanvisning medföljer.<\/p>"
           }
         },
         "415a310f-e1d1-459e-8df1-a7dc568111a7": {
           "type": "question",
           "settings": {
             "title": "Är det inte svårt att mäta detta - FSH är ju beroende på vart i cykeln man är?",
-            "text": "<p>Detta prov mäter förhöjda nivåer av FSH (follikelstimulerande hormon) i urinen. Det är ett immunokromatografiskt snabbtest som påvisar FSH-värden över 25mlU/ml. FSH varierar under menstruationscykeln och når sitt högsta värde 25mlU/ml i mitten av menstruationscykeln. När kroppen producerar allt mindre östrogen ökar produktionen av FSH för att få igång östrogenproduktionen i äggstockarna igen och det är denna ökning som man kan mäta. Det är svårare att mäta FSH i perimenopausen då det är en process. Därför innehåller testet 2 prov. För den som inte menstruerar längre rekommenderas att provet ska tas med 1 veckas mellanrum. För den som fortfarande menstruerar ska provet tas under första veckan på menstruationscykeln och det andra testet en vecka senare. Att mäta FSH via ett blodprov ger en noggrannare nivå, men som screening/indikation är detta prov tillräckligt.</p>"
+            "text": "<p>Detta prov mäter förhöjda nivåer av FSH (follikelstimulerande hormon) i urinen. Det är ett immunokromatografiskt snabbtest som påvisar FSH-värden över 25mlU\/ml. FSH varierar under menstruationscykeln och når sitt högsta värde 25mlU\/ml i mitten av menstruationscykeln. När kroppen producerar allt mindre östrogen ökar produktionen av FSH för att få igång östrogenproduktionen i äggstockarna igen och det är denna ökning som man kan mäta. Det är svårare att mäta FSH i perimenopausen då det är en process. Därför innehåller testet 2 prov. För den som inte menstruerar längre rekommenderas att provet ska tas med 1 veckas mellanrum. För den som fortfarande menstruerar ska provet tas under första veckan på menstruationscykeln och det andra testet en vecka senare. Att mäta FSH via ett blodprov ger en noggrannare nivå, men som screening\/indikation är detta prov tillräckligt.<\/p>"
           }
         }
       },
@@ -443,15 +443,6 @@
     },
     "1663692411b42e7cb1": {
       "type": "apps",
-      "blocks": {
-        "7e542478-5bb4-4ea8-8c41-e23c80b2a37f": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "7e542478-5bb4-4ea8-8c41-e23c80b2a37f"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

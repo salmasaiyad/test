@@ -21,7 +21,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers.</p>",
+            "text": "<p>Share information about your brand with your customers.<\/p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -74,7 +74,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -125,24 +125,24 @@
         "1657806368eb1a5abf-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/22.jpg",
-            "title": "E-commerce/ Digital marketing Intern",
+            "image": "shopify:\/\/shop_images\/22.jpg",
+            "title": "E-commerce\/ Digital marketing Intern",
             "title_size": "h2",
             "text": "",
             "button_label": "READ MORE",
-            "button_link": "https://www.vogue.co.kr/2020/05/18/%ed%8e%a8%ed%85%8c%ed%81%ac%eb%a5%bc-%ec%95%84%ec%8b%9c%eb%82%98%ec%9a%94/",
+            "button_link": "https:\/\/www.vogue.co.kr\/2020\/05\/18\/%ed%8e%a8%ed%85%8c%ed%81%ac%eb%a5%bc-%ec%95%84%ec%8b%9c%eb%82%98%ec%9a%94\/",
             "button_style_secondary": false
           }
         },
         "1657806368eb1a5abf-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/23.jpg",
+            "image": "shopify:\/\/shop_images\/23.jpg",
             "title": "Content Creator Intern",
             "title_size": "h2",
             "text": "",
             "button_label": "READ MORE",
-            "button_link": "https://www.violetgrey.com/violet-files/top-flight/deodoc-daily-intimate-wash",
+            "button_link": "https:\/\/www.violetgrey.com\/violet-files\/top-flight\/deodoc-daily-intimate-wash",
             "button_style_secondary": false
           }
         },
@@ -152,7 +152,7 @@
           "settings": {
             "title": "Why do razor bumps happen?",
             "title_size": "h3",
-            "text": "<p>Expert approved products to treat and prevent razor bumps...</p>",
+            "text": "<p>Expert approved products to treat and prevent razor bumps...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -164,7 +164,7 @@
           "settings": {
             "title": "All the Questions You Have About How to Use a Menstrual Cup",
             "title_size": "h3",
-            "text": "<p>Find out the key to clean your menstrual cup when you are in a public restroom...</p>",
+            "text": "<p>Find out the key to clean your menstrual cup when you are in a public restroom...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -176,7 +176,7 @@
           "settings": {
             "title": "Refresh Fast!",
             "title_size": "h3",
-            "text": "<p>For the unpredictable stinky situations. Keep calm and carry on with these staples...</p>",
+            "text": "<p>For the unpredictable stinky situations. Keep calm and carry on with these staples...<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -188,9 +188,9 @@
           "settings": {
             "title": "How women entrepreneurs are disrupting the feminine market?",
             "title_size": "h3",
-            "text": "<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...</p>",
+            "text": "<p>Female (and sisters) founders Dr. Hedieh Asadi and Hasti Asadi weren’t happy with...<\/p>",
             "button_label": "Button label",
-            "button_link": "https://wwd.com/beauty-industry-news/beauty-features/vagina-products-vibrators-feminist-1202758743/",
+            "button_link": "https:\/\/wwd.com\/beauty-industry-news\/beauty-features\/vagina-products-vibrators-feminist-1202758743\/",
             "button_style_secondary": false
           }
         }
@@ -247,7 +247,7 @@
         "16575421422babb9f9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -269,7 +269,7 @@
       ],
       "disabled": true,
       "settings": {
-        "video_url": "https://www.youtube.com/watch?v=NzycSGeg7nI",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NzycSGeg7nI",
         "text_box_position": "middle-center",
         "text_alignment": "center",
         "image_ratio": "650px",
@@ -292,14 +292,14 @@
         "template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-0": {
           "type": "heading",
           "settings": {
-            "heading": "E-commerce/ Digital marketing Intern",
+            "heading": "E-commerce\/ Digital marketing Intern",
             "heading_size": "h2"
           }
         },
         "template--15762744803484__d04f6775-d6c2-4a9d-9b61-a8839f3dce59-1680622603fbf159a1-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Based in Stockholm</p><p>With our E-commerce platform growing rapidly, we are seeking a highly motivated and enthusiastic individual to join our team as an E-commerce/digital marketing Intern. This is a fantastic opportunity for someone who is interested in gaining hands-on experience in E-commerce, digital marketing, digital design and brand communication.</p><p><strong>Responsibilities:</strong></p><ul><li>Assist in the development and execution of email marketing campaigns</li><li>Support the E-commerce team in managing the website and optimizing the customer experience</li><li>Assist in the creation of digital assets, including graphics, images, and other visual content</li><li>Collaborate with the social media team to develop and execute campaigns that drive traffic and sales</li><li>Assist in analyzing data and creating reports to track the success of marketing initiatives</li><li>Assist the creative team with photoshoots</li></ul><p><strong>Requirements:</strong></p><ul><li>Currently pursuing or recently completed a degree in marketing, communications, digital media, or a related field</li><li>Strong interest in brand communication, email marketing, digital design, and other aspects of E-commerce</li><li>Good written and verbal communication skills in English (Swedish is a plus too)</li><li>Ability to multitask</li><li>Some knowledge in Adobe Creative Suite (Photoshop, Illustrator, etc.) and other digital design tools</li><li>Familiarity with E-commerce platforms (Shopify, WooCommerce, etc.) is a plus</li></ul><p>This is a part-time or full- time internship with a duration of at least 3-6 months. The position is based in Stockholm at our office in Östermalm. This is an exciting opportunity to gain hands-on experience in the world of E-commerce and digital marketing, while working with women's health and a very fun team. If you are passionate about digital media, design, marketing and vulvas we want to hear from you!</p>",
+            "text": "<p>Based in Stockholm<\/p><p>With our E-commerce platform growing rapidly, we are seeking a highly motivated and enthusiastic individual to join our team as an E-commerce\/digital marketing Intern. This is a fantastic opportunity for someone who is interested in gaining hands-on experience in E-commerce, digital marketing, digital design and brand communication.<\/p><p><strong>Responsibilities:<\/strong><\/p><ul><li>Assist in the development and execution of email marketing campaigns<\/li><li>Support the E-commerce team in managing the website and optimizing the customer experience<\/li><li>Assist in the creation of digital assets, including graphics, images, and other visual content<\/li><li>Collaborate with the social media team to develop and execute campaigns that drive traffic and sales<\/li><li>Assist in analyzing data and creating reports to track the success of marketing initiatives<\/li><li>Assist the creative team with photoshoots<\/li><\/ul><p><strong>Requirements:<\/strong><\/p><ul><li>Currently pursuing or recently completed a degree in marketing, communications, digital media, or a related field<\/li><li>Strong interest in brand communication, email marketing, digital design, and other aspects of E-commerce<\/li><li>Good written and verbal communication skills in English (Swedish is a plus too)<\/li><li>Ability to multitask<\/li><li>Some knowledge in Adobe Creative Suite (Photoshop, Illustrator, etc.) and other digital design tools<\/li><li>Familiarity with E-commerce platforms (Shopify, WooCommerce, etc.) is a plus<\/li><\/ul><p>This is a part-time or full- time internship with a duration of at least 3-6 months. The position is based in Stockholm at our office in Östermalm. This is an exciting opportunity to gain hands-on experience in the world of E-commerce and digital marketing, while working with women's health and a very fun team. If you are passionate about digital media, design, marketing and vulvas we want to hear from you!<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -308,7 +308,7 @@
           "type": "button",
           "settings": {
             "button_label": "Apply now",
-            "button_link": "shopify://pages/interns-contact-form",
+            "button_link": "shopify:\/\/pages\/interns-contact-form",
             "button_style_secondary": false
           }
         }

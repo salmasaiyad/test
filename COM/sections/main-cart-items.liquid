@@ -1,3 +1,5 @@
+{% assign cartSamples = collections['cart-samples'] %}
+
 <div id="freegifts-main-page-container" class="freegifts-main-container"></div> 
  {%- liquid
   if linklists.gift-wrapping.links.size > 0 and linklists.gift-wrapping.links.first.type == 'product_link'
@@ -35,6 +37,10 @@
 {{ 'component-price.css' | asset_url | stylesheet_tag }}
 {{ 'component-discounts.css' | asset_url | stylesheet_tag }}
 {{ 'component-loading-overlay.css' | asset_url | stylesheet_tag }}
+
+    {% for product in cartSamples.products %}
+      <div class="cart-sample-product" data-product-id="{{ product.selected_or_first_available_variant.id }}" style="display: none;"></div>
+    {% endfor %}
 
 <cart-items class="page-width{% if cart == empty %} is-empty{% endif %} section-{{ section.id }}-padding">
   <div class="title-wrapper">
@@ -147,6 +153,7 @@
                   </td>
 
                   <td class="cart-item__prices small-hide right">
+                    {%- unless item.url contains "sample" -%}
                     <div class="cart-item__price-wrapper">
                       {%- if item.original_price != item.final_price -%}
                         <dl class="cart-item__discounted-prices">
@@ -184,9 +191,11 @@
                         </div>
                       {%- endif -%}
                     </div>
+                    {% endunless -%}  
                   </td>
 
                   <td class="medium-hide large-up-hide right">
+                    {%- unless item.url contains "sample" -%}
                     <div class="cart-item__price-wrapper">
                       {%- if item.original_line_price != item.final_line_price -%}
                         <dl class="cart-item__discounted-prices">
@@ -216,17 +225,19 @@
                         </div>
                       {%- endif -%}
                     </div>
+                    {% endunless -%}  
                   </td>
 
                   <td class="cart-item__quantity">
+                    {%- unless item.url contains "sample" -%}
                     <label class="visually-hidden" for="Quantity-{{ item.index | plus: 1 }}">{{ 'products.product.quantity.label' | t }}</label>
                     {%- if gift_wrap_id == nil or item.id != gift_wrap_id -%}
                       <quantity-input class="quantity">
-                        <button {% if item.url contains "sca_clone_freegift" %} style="display: none;" {% endif %} class="quantity__button no-js-hidden" name="minus" type="button">
+                        <button class="quantity__button no-js-hidden" name="minus" type="button">
                           <span class="visually-hidden">{{ 'products.product.quantity.decrease' | t: product: item.product.title | escape }}</span>
                           {% render 'icon', icon: 'minus' %}
                         </button>
-                        <input {% if item.url contains "sca_clone_freegift" %} readonly {% endif %} class="quantity__input"
+                        <input class="quantity__input"
                           type="number"
                           name="updates[]"
                           value="{{ item.quantity }}"
@@ -235,7 +246,7 @@
                           id="Quantity-{{ item.index | plus: 1 }}"
                           data-index="{{ item.index | plus: 1 }}"
                         />
-                        <button {% if item.url contains "sca_clone_freegift" %} style="display: none;" {% endif %} class="quantity__button no-js-hidden" name="plus" type="button">
+                        <button class="quantity__button no-js-hidden" name="plus" type="button">
                           <span class="visually-hidden">{{ 'products.product.quantity.increase' | t: product: item.product.title | escape }}</span>
                           {% render 'icon', icon: 'plus' %}
                         </button>
@@ -266,6 +277,7 @@
                         </button>
                       </gift-quantity>
                     {%- endif -%}
+                    {% endunless -%}  
                   </td>
 
                   <td class="cart-item__totals right">
@@ -276,6 +288,7 @@
                     </div>
 
                     <div class="cart-item__price-wrapper medium-up">
+                      {%- unless item.url contains "sample" -%}
                       {%- if item.original_line_price != item.final_line_price -%}
                         <dl class="cart-item__discounted-prices">
                           <dt class="visually-hidden">
@@ -290,6 +303,7 @@
                           <price-money><bdi>{{ item.original_line_price | money }}</bdi></price-money>
                         </span>
                       {%- endif -%}
+                      {% endunless -%} 
                     </div>
 
                     {%- if gift_wrap_id == nil or item.id != gift_wrap_id -%}

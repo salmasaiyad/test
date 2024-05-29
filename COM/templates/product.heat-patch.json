@@ -60,7 +60,7 @@
         "048b8677-9423-4197-a3d3-514d86a5e625": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Betalsatt_SE.png",
+            "image": "shopify:\/\/shop_images\/Betalsatt_SE.png",
             "height": 28,
             "link": ""
           }
@@ -84,7 +84,7 @@
           "settings": {
             "icon": "none",
             "heading": "PRODUKTSPECIFIKATION",
-            "content": "<p>- Utvecklad av kvinnliga läkare och gynekologer</p><p>- 100% vegansk</p><p>- 3st individuellt förpackade värmeplåster</p>",
+            "content": "<p>- Utvecklad av kvinnliga läkare och gynekologer<\/p><p>- 100% vegansk<\/p><p>- 3st individuellt förpackade värmeplåster<\/p>",
             "page": ""
           }
         },
@@ -93,7 +93,7 @@
           "settings": {
             "icon": "none",
             "heading": "Användning",
-            "content": "<p>1. Ta ut plåstret från från förpackningen.</p><p>2. Avlägsna skyddsfilmen som täcker den självhäftande delen av plåstret.</p><p>3. Fäst plåstret direkt på underkläder på nedre delen av ryggen eller magen (beroende på vart du har ont). Exempelvis fungerar även leggings, strumpbyxor eller linne också bra, undvik dock att sätta direkt på huden.</p><p>4. Låt plåstret sitta kvar, dock inte mer än 8 timmar i sträck.</p><p>5. Plåstret avlägsnas genom att försiktigt dra bort det från kläderna.</p><p>Använd ej vid graviditet. </p><p></p>",
+            "content": "<p>1. Ta ut plåstret från från förpackningen.<\/p><p>2. Avlägsna skyddsfilmen som täcker den självhäftande delen av plåstret.<\/p><p>3. Fäst plåstret direkt på underkläder på nedre delen av ryggen eller magen (beroende på vart du har ont). Exempelvis fungerar även leggings, strumpbyxor eller linne också bra, undvik dock att sätta direkt på huden.<\/p><p>4. Låt plåstret sitta kvar, dock inte mer än 8 timmar i sträck.<\/p><p>5. Plåstret avlägsnas genom att försiktigt dra bort det från kläderna.<\/p><p>Använd ej vid graviditet. <\/p><p><\/p>",
             "page": "shaving-kit"
           }
         },
@@ -102,7 +102,7 @@
           "settings": {
             "icon": "none",
             "heading": "INGREDIENSER",
-            "content": "<p>Iron powder, activated carbon, aqua (water), vermiculit, salt.</p><p>Innehåller en blanding av naturliga ämnen som vid kontakt med syret i luften utvecklar värme. Doftfri. </p>",
+            "content": "<p>Iron powder, activated carbon, aqua (water), vermiculit, salt.<\/p><p>Innehåller en blanding av naturliga ämnen som vid kontakt med syret i luften utvecklar värme. Doftfri. <\/p>",
             "page": ""
           }
         },
@@ -251,7 +251,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Menstruation är en inflammatorisk process som kan orsaka smärta och obehag. Antiinflammatoriska läkemedel är ett väldokumenterat förstahandsval som ofta rekommenderas till de individer som behöver smärtlindring. För vissa räcker behandling med receptfria alternativ, andra behöver receptbelagda läkemedel medan några föredrar lokal värme. Studier visar att värme temporärt kan lindra värk eftersom det ökar blodcirkulationen till området. Dessutom bidrar värme över 40 °C till att smärtreceptorer blockeras av hudens värmereceptorer.</em></p><p><em>Av den anledningen har vi utvecklat ett smidigt och mobilt alternativ som avger ett konstant värmeflöde i 8 timmar.\"</em></p><p></p><p><strong>-Dr. Hedieh Asadi, leg läkare</strong></p>",
+            "text": "<p><em>\"Menstruation är en inflammatorisk process som kan orsaka smärta och obehag. Antiinflammatoriska läkemedel är ett väldokumenterat förstahandsval som ofta rekommenderas till de individer som behöver smärtlindring. För vissa räcker behandling med receptfria alternativ, andra behöver receptbelagda läkemedel medan några föredrar lokal värme. Studier visar att värme temporärt kan lindra värk eftersom det ökar blodcirkulationen till området. Dessutom bidrar värme över 40 °C till att smärtreceptorer blockeras av hudens värmereceptorer.<\/em><\/p><p><em>Av den anledningen har vi utvecklat ett smidigt och mobilt alternativ som avger ett konstant värmeflöde i 8 timmar.\"<\/em><\/p><p><\/p><p><strong>-Dr. Hedieh Asadi, leg läkare<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -272,7 +272,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_8012_c139ccf9-3026-4c89-b8a3-39d04e94c6f2.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8012_c139ccf9-3026-4c89-b8a3-39d04e94c6f2.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -292,10 +292,10 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Skarmavbild_2022-10-17_kl._17.24.20.png",
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-10-17_kl._17.24.20.png",
             "title": "Steg 1",
             "title_size": "h3",
-            "text": "<p>Avlägsna skyddsfilmen som täcker den självhäftande delen av plåstret.</p>",
+            "text": "<p>Avlägsna skyddsfilmen som täcker den självhäftande delen av plåstret.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -304,10 +304,10 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Skarmavbild_2022-10-17_kl._17.25.08.png",
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-10-17_kl._17.25.08.png",
             "title": "Steg 2",
             "title_size": "h3",
-            "text": "<p>Fäst plåstret direkt på underkläder på nedre delen av ryggen eller magen (beroende på vart du har ont). Undvik att sätta direkt på huden.</p>",
+            "text": "<p>Fäst plåstret direkt på underkläder på nedre delen av ryggen eller magen (beroende på vart du har ont). Undvik att sätta direkt på huden.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -316,10 +316,10 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Skarmavbild_2022-10-17_kl._17.25.28.png",
+            "image": "shopify:\/\/shop_images\/Skarmavbild_2022-10-17_kl._17.25.28.png",
             "title": "Steg 3",
             "title_size": "h3",
-            "text": "<p>Du känner värmen efter ca 10 minuter. Låt plåstret sitta kvar i upp till 8 timmar.</p>",
+            "text": "<p>Du känner värmen efter ca 10 minuter. Låt plåstret sitta kvar i upp till 8 timmar.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -359,7 +359,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -367,7 +367,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -375,7 +375,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -424,14 +424,14 @@
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER SÄKRA?",
-            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.</p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.</p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.</p><p>- Produkterna är även dermatologiskt testade för känslig hud.</p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.</p>"
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter.<\/p><p>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<\/p><p>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<\/p><p>- Produkterna är även dermatologiskt testade för känslig hud.<\/p><p>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<\/p>"
           }
         },
         "647701d9-57f2-4cdc-9542-9a26d12d7d41": {
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER VEGANSKA?",
-            "text": "<p>Ja.</p>"
+            "text": "<p>Ja.<\/p>"
           }
         },
         "e5b05ff1-faa6-4b30-bc25-e09a801b4c0c": {
@@ -439,14 +439,14 @@
           "disabled": true,
           "settings": {
             "title": "Frequently asked question",
-            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "text": "<p>Use this text to answer questions in as much detail as possible for your customers.<\/p>"
           }
         },
         "e6c52669-c044-4fa7-aa95-0da95c7a8c11": {
           "type": "question",
           "settings": {
             "title": "Kan gravida använda denna?",
-            "text": "<p>Produkten är inte testad på gravida. Därför ska produkten ej användas vid graviditet.</p>"
+            "text": "<p>Produkten är inte testad på gravida. Därför ska produkten ej användas vid graviditet.<\/p>"
           }
         }
       },
@@ -468,15 +468,6 @@
     },
     "1663688262d107b837": {
       "type": "apps",
-      "blocks": {
-        "aa9723d3-014b-44bd-8df4-1fb34001ab7e": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "aa9723d3-014b-44bd-8df4-1fb34001ab7e"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

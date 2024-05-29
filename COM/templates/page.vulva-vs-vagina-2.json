@@ -21,7 +21,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers.</p>",
+            "text": "<p>Share information about your brand with your customers.<\/p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -33,7 +33,7 @@
         "text"
       ],
       "settings": {
-        "image": "shopify://shop_images/762d3a22-v-day_vulva-illustration_blog.png",
+        "image": "shopify:\/\/shop_images\/762d3a22-v-day_vulva-illustration_blog.png",
         "image_position": "20% 50%",
         "text_box_position": "middle-center",
         "text_alignment": "center",
@@ -74,7 +74,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -132,7 +132,7 @@
         "16575421422babb9f9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>-DeoDoc Founders </p>",
+            "text": "<p>-DeoDoc Founders <\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -154,7 +154,7 @@
       ],
       "disabled": true,
       "settings": {
-        "video_url": "https://www.youtube.com/watch?v=NzycSGeg7nI",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=NzycSGeg7nI",
         "text_box_position": "middle-center",
         "text_alignment": "center",
         "image_ratio": "650px",
@@ -184,7 +184,7 @@
         "1658735302aec4cd9a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Som doktorer har vi sett alldeles för många kvinnor som inte vet skillnaden på vulva och vagina. Vi vill inte se ytterligare en generation unga kvinnor växa upp utan att kunna sin kvinnliga anatomi. Att kunna namnge sina kroppsdelar är en förutsättning för att kunna lära sig om sin kropp och dess fantastiska funktioner.</p>",
+            "text": "<p>Som doktorer har vi sett alldeles för många kvinnor som inte vet skillnaden på vulva och vagina. Vi vill inte se ytterligare en generation unga kvinnor växa upp utan att kunna sin kvinnliga anatomi. Att kunna namnge sina kroppsdelar är en förutsättning för att kunna lära sig om sin kropp och dess fantastiska funktioner.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -226,7 +226,7 @@
         "16587356020618afb3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>”Det är viktigt att påpeka att alla vulvor ser annorlunda ut. Under mina 50 år som gynekolog har jag träffat tusentals kvinnor och ingen vulva ser likadan ut. Den kvinnliga kroppen är fantastisk på så många sätt, och vulvan är inget undantag.”</p><p></p><p>- Dr. Gunvor Ekman-Oderberg, M.D., PH.D</p>",
+            "text": "<p>”Det är viktigt att påpeka att alla vulvor ser annorlunda ut. Under mina 50 år som gynekolog har jag träffat tusentals kvinnor och ingen vulva ser likadan ut. Den kvinnliga kroppen är fantastisk på så många sätt, och vulvan är inget undantag.”<\/p><p><\/p><p>- Dr. Gunvor Ekman-Oderberg, M.D., PH.D<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -270,7 +270,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -324,7 +324,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -370,10 +370,10 @@
         "165873922491fe9788-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/vulva.png",
+            "image": "shopify:\/\/shop_images\/vulva.png",
             "title": "Vulva",
             "title_size": "h2",
-            "text": "<p><strong>Kan tvättas. </strong></p><p>Vulvahuden är vår ömtåligaste hud i hela kroppen och är inte självrengörande. Området skulle därför kunna tvättas med en intimtvätt, eftersom både urin och bakterier kan klänga fast vid detta område. Vulvan har också svettkörtlar som kan orsaka lukt.</p>",
+            "text": "<p><strong>Kan tvättas. <\/strong><\/p><p>Vulvahuden är vår ömtåligaste hud i hela kroppen och är inte självrengörande. Området skulle därför kunna tvättas med en intimtvätt, eftersom både urin och bakterier kan klänga fast vid detta område. Vulvan har också svettkörtlar som kan orsaka lukt.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -382,10 +382,10 @@
         "165873922491fe9788-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/vagina.png",
+            "image": "shopify:\/\/shop_images\/vagina.png",
             "title": "Vagina",
             "title_size": "h2",
-            "text": "<p><strong>Bör aldrig tvättas. </strong></p><p></p><p>Slidan är självrengörande genom flytningen och ska aldrig tvättas. Här har du den sura pH-nivån på 3,5 för att undvika tillväxt av \"dåliga\" bakterier.</p><p></p><p></p>",
+            "text": "<p><strong>Bör aldrig tvättas. <\/strong><\/p><p><\/p><p>Slidan är självrengörande genom flytningen och ska aldrig tvättas. Här har du den sura pH-nivån på 3,5 för att undvika tillväxt av \"dåliga\" bakterier.<\/p><p><\/p><p><\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -397,7 +397,7 @@
           "settings": {
             "title": "Column",
             "title_size": "h3",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -436,7 +436,7 @@
         "1658746549dd3e2447-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Never ever douche!</p><p>Douching will disturb the pH balance in the vagina and will cause much more harm than you think. By disrupting the pH level, you can cause intimate odor, irritation, and many other problems.</p>",
+            "text": "<p>Never ever douche!<\/p><p>Douching will disturb the pH balance in the vagina and will cause much more harm than you think. By disrupting the pH level, you can cause intimate odor, irritation, and many other problems.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -479,7 +479,7 @@
         "1658746827b6617a81-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Börja med vår Daily Intimate Wash!<br/></strong><br/>Att upprätthålla vulvans pH-balans är viktigt för att hålla den frisk. Vulvan behöver en intim tvätt med ett pH på 5 för att bibehålla pH-nivån i den känsliga och känsliga vulvahuden. En normal tvål kommer att störa pH och skapa intimt obehag</p>",
+            "text": "<p><strong>Börja med vår Daily Intimate Wash!<br\/><\/strong><br\/>Att upprätthålla vulvans pH-balans är viktigt för att hålla den frisk. Vulvan behöver en intim tvätt med ett pH på 5 för att bibehålla pH-nivån i den känsliga och känsliga vulvahuden. En normal tvål kommer att störa pH och skapa intimt obehag<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -488,7 +488,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop now",
-            "button_link": "shopify://collections/washes",
+            "button_link": "shopify:\/\/collections\/washes",
             "button_style_secondary": false
           }
         }
@@ -499,7 +499,7 @@
         "1658746827b6617a81-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Untitled-19_8b9eabe7-7279-4d52-8e6b-e3550621bb17.jpg",
+        "image": "shopify:\/\/shop_images\/Untitled-19_8b9eabe7-7279-4d52-8e6b-e3550621bb17.jpg",
         "image_position": "center center",
         "text_box_position": "flex-start",
         "text_alignment": "center",
@@ -530,7 +530,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -574,7 +574,7 @@
         "16587486498cae7c36-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Very good question! First of all, you’re not alone.<br/><br/>The vagina’s pH system is very delicate and can be disrupted by many natural circumstances. For example, your pH can be disrupted by menstruation, since the menstrual blood has a pH of 7.4. Similarly, sexual intercourse can also disrupt the pH balance since semen is slightly alkaline with a pH of 8.<br/><br/>However, if you experience ongoing problems, I suggest you meet your OB/GYN</p><p>- Dr. Gunvor Ekman-Oderberg, M.D., PH.D</p>",
+            "text": "<p>Very good question! First of all, you’re not alone.<br\/><br\/>The vagina’s pH system is very delicate and can be disrupted by many natural circumstances. For example, your pH can be disrupted by menstruation, since the menstrual blood has a pH of 7.4. Similarly, sexual intercourse can also disrupt the pH balance since semen is slightly alkaline with a pH of 8.<br\/><br\/>However, if you experience ongoing problems, I suggest you meet your OB\/GYN<\/p><p>- Dr. Gunvor Ekman-Oderberg, M.D., PH.D<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }

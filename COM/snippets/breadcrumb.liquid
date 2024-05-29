@@ -25,6 +25,12 @@
     #breadcrumb nav span[aria-hidden="true"]{
         opacity:0.5;
     }
+
+    @media screen and (max-width: 768px) {
+        #breadcrumb{
+            display:none
+        }
+    }
 </style>
 
 {% unless template == 'index' or template == 'cart' %}

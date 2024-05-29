@@ -67,6 +67,11 @@
     <div class="grid__item product__media-wrapper">
       {% render 'breadcrumb' %}
       <span id="ProductImages"></span>
+
+        {% render 'product-gallery' %}
+
+
+        {% comment %}
       <media-gallery id="MediaGallery-{{ section.id }}" role="region"{% if section.settings.enable_sticky_info %} class="product__media-gallery"{% endif %} aria-label="{{ 'products.product.media.gallery_viewer' | t }}" data-desktop-layout="{{ section.settings.gallery_layout }}">
         <div id="GalleryStatus-{{ section.id }}" class="visually-hidden" role="status"></div>
         <use-animate data-animate="zoom-fade" class="gallery">
@@ -513,6 +518,7 @@
           <script src="{{ 'product-thumbnails.js' | asset_url }}" defer="defer"></script>
         {%- endif -%}
       </media-gallery>
+      {% endcomment %}
     </div>
 
     {%- assign product_form_id = 'product-form-' | append: section.id -%}

@@ -70,7 +70,7 @@
         "43da2d76-d77c-4e04-93ea-c2ce6da04e25": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Betalsatt_SE.png",
+            "image": "shopify:\/\/shop_images\/Betalsatt_SE.png",
             "height": 28,
             "link": ""
           }
@@ -91,7 +91,7 @@
           "settings": {
             "icon": "none",
             "heading": "PRODUKTSPECIFIKATION",
-            "content": "<p>- Utvecklad av kvinnliga läkare och gynekologer</p><p>- Gynekologiskt och dermatologiskt testad</p><p>- Kliniskt testad, hypoallergen </p><p>- Fri från parfym, färgämnen, blekningsmedel, bekämpningsmedel och syntetiska material (viskos, cellulosafibrer)</p><p>- Tillverkade av 100% nedbrytbara material</p><p>- 100% vegansk</p><p>- 10st individuellt förpackade bindor</p>",
+            "content": "<p>- Utvecklad av kvinnliga läkare och gynekologer<\/p><p>- Gynekologiskt och dermatologiskt testad<\/p><p>- Kliniskt testad, hypoallergen <\/p><p>- Fri från parfym, färgämnen, blekningsmedel, bekämpningsmedel och syntetiska material (viskos, cellulosafibrer)<\/p><p>- Tillverkade av 100% nedbrytbara material<\/p><p>- 100% vegansk<\/p><p>- 10st individuellt förpackade bindor<\/p>",
             "page": ""
           }
         },
@@ -100,7 +100,7 @@
           "settings": {
             "icon": "none",
             "heading": "ANVÄNDNING",
-            "content": "<p>Öppna förpackningen till bindan, ta bort det skyddande pappret på baksidan och placera bindan i underkläderna med limmet nedåt. Vik vingarna runt kanten och klistra fast dem på undersidan. </p>",
+            "content": "<p>Öppna förpackningen till bindan, ta bort det skyddande pappret på baksidan och placera bindan i underkläderna med limmet nedåt. Vik vingarna runt kanten och klistra fast dem på undersidan. <\/p>",
             "page": ""
           }
         },
@@ -109,7 +109,7 @@
           "settings": {
             "icon": "none",
             "heading": "INGREDIENSER",
-            "content": "<p>Topplagret och kärnan är tillverkad i 100% ekologisk bomull. Limmet samt förpackningen för varje binda är nedbrytbart och komposterbart.</p>",
+            "content": "<p>Topplagret och kärnan är tillverkad i 100% ekologisk bomull. Limmet samt förpackningen för varje binda är nedbrytbart och komposterbart.<\/p>",
             "page": ""
           }
         },
@@ -259,7 +259,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Intimområdet har kroppens känsligaste och tunnaste hud. Användning av bindor som är tillverkade av plast och syntetiska material kan orsaka irritation i detta känsliga hudområde. Menstruationsprodukter i 100% bomull är ett skonsamt material att föredra i nära kontakt med intimhuden.\"</em></p><p></p><p><strong>-Dr. Hedieh Asadi, leg läkare</strong></p>",
+            "text": "<p><em>\"Intimområdet har kroppens känsligaste och tunnaste hud. Användning av bindor som är tillverkade av plast och syntetiska material kan orsaka irritation i detta känsliga hudområde. Menstruationsprodukter i 100% bomull är ett skonsamt material att föredra i nära kontakt med intimhuden.\"<\/em><\/p><p><\/p><p><strong>-Dr. Hedieh Asadi, leg läkare<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -280,7 +280,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_8019_5d3665ec-ef95-4d64-99af-03ea44988262.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8019_5d3665ec-ef95-4d64-99af-03ea44988262.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -308,7 +308,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -316,7 +316,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -324,7 +324,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -349,10 +349,10 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/28_5008a22d-fc6a-4012-923b-e6ff9e8a06ca.png",
+            "image": "shopify:\/\/shop_images\/28_5008a22d-fc6a-4012-923b-e6ff9e8a06ca.png",
             "title": "Steg 1",
             "title_size": "h3",
-            "text": "<p>Öppna förpackningen till bindan.</p>",
+            "text": "<p>Öppna förpackningen till bindan.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -361,10 +361,10 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/33_30fcebc8-de1f-473d-afb2-6046cd5696e1.png",
+            "image": "shopify:\/\/shop_images\/33_30fcebc8-de1f-473d-afb2-6046cd5696e1.png",
             "title": "Steg 2",
             "title_size": "h3",
-            "text": "<p>Ta bort det skyddande pappret på baksidan och placera bindan i underkläderna med limmet nedåt.</p>",
+            "text": "<p>Ta bort det skyddande pappret på baksidan och placera bindan i underkläderna med limmet nedåt.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -373,10 +373,10 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/38_b9432a67-891f-4126-bc24-afb3398c96e7.png",
+            "image": "shopify:\/\/shop_images\/38_b9432a67-891f-4126-bc24-afb3398c96e7.png",
             "title": "Steg 3",
             "title_size": "h3",
-            "text": "<p>Vik vingarna runt kanten och klistra fast dem på undersidan.</p>",
+            "text": "<p>Vik vingarna runt kanten och klistra fast dem på undersidan.<\/p>",
             "button_label": "",
             "button_link": "",
             "button_style_secondary": false
@@ -433,21 +433,21 @@
           "type": "question",
           "settings": {
             "title": "INNEHÅLLER DEODOCS BINDOR NÅGOT SYNTETISKT MATERIAL?",
-            "text": "<p>Nej. Topplagret och kärnan är tillverkad i 100% ekologisk bomull. Limmet samt förpackningen för varje binda är nedbrytbart och komposterbart.</p>"
+            "text": "<p>Nej. Topplagret och kärnan är tillverkad i 100% ekologisk bomull. Limmet samt förpackningen för varje binda är nedbrytbart och komposterbart.<\/p>"
           }
         },
         "template--15575469916316__c4a95d15-da35-46ff-9078-d1e0a2e03e67-1668421659862a3ff5-1": {
           "type": "question",
           "settings": {
             "title": "VAD BETYDER 100% BOMULL?",
-            "text": "<p>Att inga syntetiska material har använts och att hela bindan är tillverkad av ekologisk bomull.</p>"
+            "text": "<p>Att inga syntetiska material har använts och att hela bindan är tillverkad av ekologisk bomull.<\/p>"
           }
         },
         "ed039a02-1643-4a9b-836c-569e210d9e76": {
           "type": "question",
           "settings": {
             "title": "HUR MÅNGA BINDOR ÄR DET I EN FÖRPACKNING?",
-            "text": "<p>Det innehåller 10 bindor/box.</p>"
+            "text": "<p>Det innehåller 10 bindor\/box.<\/p>"
           }
         }
       },
@@ -468,15 +468,6 @@
     },
     "16636902785380ca34": {
       "type": "apps",
-      "blocks": {
-        "463cfc0f-41f7-4c6d-865c-2a02d9a27642": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "463cfc0f-41f7-4c6d-865c-2a02d9a27642"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

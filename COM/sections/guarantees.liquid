@@ -4,6 +4,11 @@
     padding-bottom: calc({{ section.settings.padding_bottom }}px  * 0.75);
   }
 
+  .guarantees{
+    max-width:1200px;
+    margin:auto;
+  }
+
   @media screen and (min-width: 750px) {
     .section-{{ section.id }}-padding {
       padding-top: {{ section.settings.padding_top }}px;
@@ -14,7 +19,7 @@
 
 {{ 'section-guarantees.css' | asset_url | stylesheet_tag }}
 
-<div class="page-width{% if section.settings.full_width %} page-width--full-width{% endif %}">
+<div class="{% if section.settings.full_width %} page-width--full-width{% endif %}">
   <div class="guarantees{% if section.settings.secondary_background %} guarantees--colored{% endif %} section-{{ section.id }}-padding{% if section.settings.show_divider %} section--divider{% endif %}">
     {%- if section.settings.heading != blank and section.settings.layout == 'default' -%}
       <div class="title-wrapper{% if section.settings.heading == blank %} title-wrapper--no-heading{% endif %} {{ section.settings.column_alignment }}">

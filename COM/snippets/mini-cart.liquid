@@ -22,9 +22,48 @@
 
 <form class="mini-cart{% if cart == empty %} is-empty{% endif %}" action="{{ routes.cart_url }}" method="post" id="cart" data-ga4-onsubmit='{{ checkoutStartedEvent }}'>
   <div class="mini-cart__inner">
-    <div class="mini-cart__header visually-hidden">
+    <div class="mini-cart__header">
       <h2 class="title h4">{{ 'sections.cart.title' | t }}</h2>
     </div>
+    {%- if settings.show_free_shipping_message and settings.free_shipping_minimum_amount != blank -%}
+        {%- liquid
+          assign free_shipping_minimum_amounts = settings.free_shipping_minimum_amount | remove: ' ' | split: ','
+          assign show_free_shipping_message = false
+
+          if free_shipping_minimum_amounts.size > 1
+            for minimum_amount in free_shipping_minimum_amounts
+              assign minimum_amount_parts = minimum_amount | split: ':'
+              assign currency_code = minimum_amount_parts | first | upcase
+              if currency_code == cart.currency.iso_code
+                assign free_shipping_minimum_amount = minimum_amount_parts | last
+                assign show_free_shipping_message = true
+                break
+              endif
+            endfor
+          else
+            assign free_shipping_minimum_amount = free_shipping_minimum_amounts | last
+            assign show_free_shipping_message = true
+          endif
+        -%}
+
+        {%- if show_free_shipping_message -%}
+          {%- assign minimum_amount_in_cents = free_shipping_minimum_amount | times: 100 -%}
+
+          <div class="free-shipping{% if cart.total_price >= minimum_amount_in_cents %} free-shipping--success{% endif %}">
+            {%- if cart.total_price >= minimum_amount_in_cents -%}
+              <span class="free-shipping__text free-shipping__text--success">{{ 'general.cart.free_shipping.congratulations_html' | t }}</span>
+            {%- else -%}
+              {%- capture remaining_amount -%}<price-money class="price"><bdi>{{ cart.total_price | minus: minimum_amount_in_cents | abs | money }}</bdi></price-money>{%- endcapture -%}
+              <span class="free-shipping__text">{{ 'general.cart.free_shipping.remaining_html' | t: remaining_amount: remaining_amount }}</span>
+              
+              {%- capture progress_percent -%}{{ cart.total_price | times: 1.0 | divided_by: minimum_amount_in_cents | at_most: 1 | times: 100 | round }}%{%- endcapture -%}
+              <div class="free-shipping__progress" style="--progress: {{ progress_percent }};">
+                <span>{{ progress_percent }}</span>
+              </div>
+            {%- endif -%}
+          </div>
+        {%- endif -%}
+      {%- endif -%}
     <div class="mini-cart__empty" data-animate data-animate-delay-{{ animate_count }}>
       <h3 class="mini-cart__empty-text">{{ 'sections.cart.empty' | t }}</h3>
       <a href="{{ routes.all_products_collection_url }}" class="button button--tertiary">{{ 'general.continue_shopping' | t }}</a>
@@ -337,46 +376,7 @@
           {%- endif -%}
         </div>
       {%- endif -%}
-      
-      {%- if settings.show_free_shipping_message and settings.free_shipping_minimum_amount != blank -%}
-        {%- liquid
-          assign free_shipping_minimum_amounts = settings.free_shipping_minimum_amount | remove: ' ' | split: ','
-          assign show_free_shipping_message = false
-
-          if free_shipping_minimum_amounts.size > 1
-            for minimum_amount in free_shipping_minimum_amounts
-              assign minimum_amount_parts = minimum_amount | split: ':'
-              assign currency_code = minimum_amount_parts | first | upcase
-              if currency_code == cart.currency.iso_code
-                assign free_shipping_minimum_amount = minimum_amount_parts | last
-                assign show_free_shipping_message = true
-                break
-              endif
-            endfor
-          else
-            assign free_shipping_minimum_amount = free_shipping_minimum_amounts | last
-            assign show_free_shipping_message = true
-          endif
-        -%}
-
-        {%- if show_free_shipping_message -%}
-          {%- assign minimum_amount_in_cents = free_shipping_minimum_amount | times: 100 -%}
-
-          <div class="free-shipping{% if cart.total_price >= minimum_amount_in_cents %} free-shipping--success{% endif %}">
-            {%- if cart.total_price >= minimum_amount_in_cents -%}
-              <span class="free-shipping__text free-shipping__text--success">{{ 'general.cart.free_shipping.congratulations_html' | t }}</span>
-            {%- else -%}
-              {%- capture remaining_amount -%}<price-money class="price"><bdi>{{ cart.total_price | minus: minimum_amount_in_cents | abs | money }}</bdi></price-money>{%- endcapture -%}
-              <span class="free-shipping__text">{{ 'general.cart.free_shipping.remaining_html' | t: remaining_amount: remaining_amount }}</span>
-              
-              {%- capture progress_percent -%}{{ cart.total_price | times: 1.0 | divided_by: minimum_amount_in_cents | at_most: 1 | times: 100 | round }}%{%- endcapture -%}
-              <div class="free-shipping__progress" style="--progress: {{ progress_percent }};">
-                <span>{{ progress_percent }}</span>
-              </div>
-            {%- endif -%}
-          </div>
-        {%- endif -%}
-      {%- endif -%}
+            
 
       {%- unless show_free_shipping_message and settings.disable_view_cart -%}
         <div class="subtotal">

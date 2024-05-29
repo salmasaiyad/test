@@ -71,7 +71,7 @@
         "0a5de5a0-bb6a-40e5-a6e5-e5f24998e6e8": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Betalsatt_SE.png",
+            "image": "shopify:\/\/shop_images\/Betalsatt_SE.png",
             "height": 28,
             "link": ""
           }
@@ -85,7 +85,7 @@
           "settings": {
             "icon": "none",
             "heading": "PRODUKTSPECIFIKATION",
-            "content": "<p>-Speciellt utvecklad för menopausal hud</p><p>-Intensivt återfuktande och vårdande</p><p>-Parfym och allergenfri</p><p>-Utvecklad av kvinnliga läkare</p><p>-100% vegan</p><p>-Tillverkad i Sverige</p>",
+            "content": "<p>-Speciellt utvecklad för menopausal hud<\/p><p>-Intensivt återfuktande och vårdande<\/p><p>-Parfym och allergenfri<\/p><p>-Utvecklad av kvinnliga läkare<\/p><p>-100% vegan<\/p><p>-Tillverkad i Sverige<\/p>",
             "page": ""
           }
         },
@@ -94,7 +94,7 @@
           "settings": {
             "icon": "none",
             "heading": "ANVÄNDNING",
-            "content": "<p>Applicera en liten mängd på dina fingrar och smörj försiktigt in den torra vulvahuden (inre blygdläppar samt runt vulvaområdet). Upprepa under dagen efter behov.</p>",
+            "content": "<p>Applicera en liten mängd på dina fingrar och smörj försiktigt in den torra vulvahuden (inre blygdläppar samt runt vulvaområdet). Upprepa under dagen efter behov.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -103,7 +103,7 @@
           "settings": {
             "icon": "none",
             "heading": "INGREDIENSER",
-            "content": "<p>Aqua (Water), Paranum Liquidum, Cetearyl Ethylhexanoate, Isopropyl Myristate, Squalane, Petrolatum, Glycerin, Paran, Propanediol, Cera Microcristallina, Glyceryl Isostearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Levulinate, Ozokerite, Hydrogenated Castor Oil, Sodium Anisate, Polyglyceryl-3 Oleate, Cannabis Sativa Seed Oil, Polysorbate 60, Sorbitan Isostearate, Cannabidiol.</p>",
+            "content": "<p>Aqua (Water), Paranum Liquidum, Cetearyl Ethylhexanoate, Isopropyl Myristate, Squalane, Petrolatum, Glycerin, Paran, Propanediol, Cera Microcristallina, Glyceryl Isostearate, Hydroxyethyl Acrylate\/Sodium Acryloyldimethyl Taurate Copolymer, Sodium Levulinate, Ozokerite, Hydrogenated Castor Oil, Sodium Anisate, Polyglyceryl-3 Oleate, Cannabis Sativa Seed Oil, Polysorbate 60, Sorbitan Isostearate, Cannabidiol.<\/p>",
             "page": ""
           }
         },
@@ -252,7 +252,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Jag har sett ett behov av en skyddande och återfuktande produkt hos mina patienter med torra och sköra slemhinnor i klimakteriet. Som gynekolog har jag inte kunnat rekommendera några bra alternativ som komplement till hormonbehandling och därför bestämde vi oss för att utveckla en produkt som vi skulle kunna rekommendera. Feedbacken från våra patienter har resulterat i detta vårdande balsam med återfuktande och lugnande egenskaper.\"</em><br/><br/><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet</strong></p>",
+            "text": "<p><em>\"Jag har sett ett behov av en skyddande och återfuktande produkt hos mina patienter med torra och sköra slemhinnor i klimakteriet. Som gynekolog har jag inte kunnat rekommendera några bra alternativ som komplement till hormonbehandling och därför bestämde vi oss för att utveckla en produkt som vi skulle kunna rekommendera. Feedbacken från våra patienter har resulterat i detta vårdande balsam med återfuktande och lugnande egenskaper.\"<\/em><br\/><br\/><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -273,7 +273,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_7891.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7891.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -293,7 +293,7 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/7.png",
+            "image": "shopify:\/\/shop_images\/7.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -305,7 +305,7 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/8.png",
+            "image": "shopify:\/\/shop_images\/8.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -317,7 +317,7 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/9.png",
+            "image": "shopify:\/\/shop_images\/9.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -361,7 +361,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -369,7 +369,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -377,7 +377,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -426,28 +426,28 @@
           "type": "question",
           "settings": {
             "title": "Vart ska Meno Care Hydrating Balm appliceras? ",
-            "text": "<p>Meno Care Hydrating Balm ska appliceras på intimområdet, inre och yttre blygläppar samt slemhinnor.</p>"
+            "text": "<p>Meno Care Hydrating Balm ska appliceras på intimområdet, inre och yttre blygläppar samt slemhinnor.<\/p>"
           }
         },
         "template--15541996585116__57c6ce12-8261-4b33-ba78-e2961c42bf9c-1668430408e7fdaeb5-1": {
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER SÄKRA?",
-            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter. <br/><br/>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<br/><br/>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<br/><br/>- Produkterna är även dermatologiskt testade för känslig hud.<br/><br/>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<br/></p>"
+            "text": "<p>- DeoDoc följer EUs lagstiftning för kosmetiska produkter. <br\/><br\/>- Samtliga ingredienser och produkter är säkerhetsbedömda för användningsområdet enligt EUs lagstiftning för kosmetiska produkter.<br\/><br\/>- Produkterna är testade på riktiga kvinnor av oberoende laboratorium, varvid de får kallas för gynekologiskt testade.<br\/><br\/>- Produkterna är även dermatologiskt testade för känslig hud.<br\/><br\/>- Samtliga produkter är utvecklade i samråd med Dr Gunvor Ekman Ordeberg, professor i Obstetrik och Gynekologi på Karolinska Institutet.<br\/><\/p>"
           }
         },
         "021f1ccc-664e-4d87-9dfb-1940d79e09d7": {
           "type": "question",
           "settings": {
             "title": "ÄR DEODOCS PRODUKTER VEGANSKA?",
-            "text": "<p>Ja.</p>"
+            "text": "<p>Ja.<\/p>"
           }
         },
         "514a1252-f2b2-4757-8865-4392e879d32c": {
           "type": "question",
           "settings": {
             "title": "Passar produkterna till känslig hy?",
-            "text": "<p>Ja, DeoDocs Meno Care Hydrating Balm är speciellt framtagen för torra och sköra slemhinnor som kan uppstå i klimakteriet.</p>"
+            "text": "<p>Ja, DeoDocs Meno Care Hydrating Balm är speciellt framtagen för torra och sköra slemhinnor som kan uppstå i klimakteriet.<\/p>"
           }
         }
       },
@@ -469,15 +469,6 @@
     },
     "1663688687f1844af5": {
       "type": "apps",
-      "blocks": {
-        "49c7baa7-f6a2-4499-9d02-12a99591124f": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "49c7baa7-f6a2-4499-9d02-12a99591124f"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

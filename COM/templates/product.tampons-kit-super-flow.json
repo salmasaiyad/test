@@ -51,7 +51,7 @@
           "settings": {}
         },
         "d4b6f17e-c518-4e46-a091-1acc61b33f62": {
-          "type": "shopify://apps/recharge-subscriptions/blocks/subscription-widget/371eed76-0b44-4869-9813-730372ea378e",
+          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
           "settings": {
             "product": "{{product}}"
           }
@@ -82,7 +82,7 @@
           "settings": {
             "icon": "none",
             "heading": "specifications",
-            "content": "<p>-Developed by female doctors</p><p>-Gynecologically and dermatologically tested</p><p>-Free from allergens, alcohol and parabens</p><p>-Made in Sweden</p><p>-100% vegan</p>",
+            "content": "<p>-Developed by female doctors<\/p><p>-Gynecologically and dermatologically tested<\/p><p>-Free from allergens, alcohol and parabens<\/p><p>-Made in Sweden<\/p><p>-100% vegan<\/p>",
             "page": ""
           }
         },
@@ -91,7 +91,7 @@
           "settings": {
             "icon": "none",
             "heading": "How to use",
-            "content": "<p>Place your thumb and your middle finger on the ribbed part of the applicator.The index finger is placed on the base of the applicator. With the other hand,gently open the vaginal opening. Insert the applicator 1-2 centimeters (0.5 - 1 inch)into the vagina while holding the ribbed part firmly. Push the applicator base with your index finger until it stops (works as a syringe). The tampon is now in placeand you can gently remove the applicator.</p>",
+            "content": "<p>Place your thumb and your middle finger on the ribbed part of the applicator.The index finger is placed on the base of the applicator. With the other hand,gently open the vaginal opening. Insert the applicator 1-2 centimeters (0.5 - 1 inch)into the vagina while holding the ribbed part firmly. Push the applicator base with your index finger until it stops (works as a syringe). The tampon is now in placeand you can gently remove the applicator.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -100,7 +100,7 @@
           "settings": {
             "icon": "none",
             "heading": "Ingredients",
-            "content": "<p>100% Organic Cotton</p>",
+            "content": "<p>100% Organic Cotton<\/p>",
             "page": ""
           }
         },
@@ -227,7 +227,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><em>– SUBHEADING</em></p>",
+            "text": "<p><em>– SUBHEADING<\/em><\/p>",
             "text_size": "typeset",
             "secondary_color": true
           }
@@ -260,7 +260,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Studies show that 15% of women’s OB/GYN visits are due to irritation caused by menstruation care products. The primary cause being tampons produced from synthetic fibers and plastic. These fibers can shed, leaving fiber residue inside of your vagina that can cause irritation. As doctors, we recommend 100% organic cotton tampons; however, many organic cotton tampons still shed, so we created our own. DeoDoc’s 100% organic cotton tampons do not shed due to a special 100% cotton netting surrounding the tampon to ensure complete safety for your vagina and an irritation-free period.</p>",
+            "text": "<p>Studies show that 15% of women’s OB\/GYN visits are due to irritation caused by menstruation care products. The primary cause being tampons produced from synthetic fibers and plastic. These fibers can shed, leaving fiber residue inside of your vagina that can cause irritation. As doctors, we recommend 100% organic cotton tampons; however, many organic cotton tampons still shed, so we created our own. DeoDoc’s 100% organic cotton tampons do not shed due to a special 100% cotton netting surrounding the tampon to ensure complete safety for your vagina and an irritation-free period.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -281,7 +281,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Untitled-167.jpg",
+        "image": "shopify:\/\/shop_images\/Untitled-167.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -309,7 +309,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -317,7 +317,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -325,7 +325,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -350,7 +350,7 @@
         "look-0": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/Before_256x256_91d8acae-3c88-49ce-bca1-d347e258c82e.webp",
+            "image": "shopify:\/\/shop_images\/Before_256x256_91d8acae-3c88-49ce-bca1-d347e258c82e.webp",
             "title": "before",
             "title_size": "small",
             "title_position": "start"
@@ -359,7 +359,7 @@
         "look-1": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/After_256x256_546b8fc8-e668-4cf2-bd5e-befac9e3d042.webp",
+            "image": "shopify:\/\/shop_images\/After_256x256_546b8fc8-e668-4cf2-bd5e-befac9e3d042.webp",
             "title": "After",
             "title_size": "small",
             "title_position": "start"
@@ -440,7 +440,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -476,7 +476,7 @@
           "type": "image",
           "settings": {
             "heading": "1. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -486,7 +486,7 @@
           "type": "image",
           "settings": {
             "heading": "2. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -496,7 +496,7 @@
           "type": "image",
           "settings": {
             "heading": "3. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -506,7 +506,7 @@
           "type": "image",
           "settings": {
             "heading": "4. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -546,7 +546,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -554,7 +554,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -562,7 +562,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -570,7 +570,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -578,7 +578,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         }
@@ -609,7 +609,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -620,7 +620,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -631,7 +631,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -660,15 +660,6 @@
     },
     "1662027440c63b16ba": {
       "type": "apps",
-      "blocks": {
-        "e638e9e2-26b5-41eb-9259-b2959b2326b9": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "e638e9e2-26b5-41eb-9259-b2959b2326b9"
-      ],
       "disabled": true,
       "settings": {
         "include_margins": true,
@@ -681,7 +672,7 @@
       "type": "apps",
       "blocks": {
         "7e846e5b-35c4-4972-bf15-0138411af97f": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
             "aggregated": false,

@@ -70,7 +70,7 @@
         "daf9de3b-533a-46e2-977f-714c8205a6da": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Betalsatt_SE.png",
+            "image": "shopify:\/\/shop_images\/Betalsatt_SE.png",
             "height": 28,
             "link": ""
           }
@@ -84,7 +84,7 @@
           "settings": {
             "icon": "none",
             "heading": "PRODUKTSPECIFIKATION",
-            "content": "<p>-Utvecklad av kvinnliga läkare och gynekologer</p><p>-Gynekologiskt och dermatologiskt testad</p><p>-Fri från allergener, alkohol och parabener</p><p>-Tillverkad i Sverige</p><p>-100% vegansk</p>",
+            "content": "<p>-Utvecklad av kvinnliga läkare och gynekologer<\/p><p>-Gynekologiskt och dermatologiskt testad<\/p><p>-Fri från allergener, alkohol och parabener<\/p><p>-Tillverkad i Sverige<\/p><p>-100% vegansk<\/p>",
             "page": ""
           }
         },
@@ -93,7 +93,7 @@
           "settings": {
             "icon": "none",
             "heading": "ANVÄNDNING",
-            "content": "<p>Skaka innan användning och spraya från ca 15 cm avstånd på det yttre delarna av intimområdet. De apokrina svettkörtlarna tömmer sig i hårsäckar, spraya således enbart i ljumskar och hårbeklätt intimområde. Sprayen kan användas på nyrakad hud. Används med fördel på ren hud för bäst effekt.</p><p> <br/>Produkten är endast avsedd att användas på den hårbeklädda delen av vulvan. Produkten ska ej användas på slemhinnor, skadad eller irriterad hud.</p><p> <br/>DeoDoc Deospray Intim kan användas för dagligt bruk.</p>",
+            "content": "<p>Skaka innan användning och spraya från ca 15 cm avstånd på det yttre delarna av intimområdet. De apokrina svettkörtlarna tömmer sig i hårsäckar, spraya således enbart i ljumskar och hårbeklätt intimområde. Sprayen kan användas på nyrakad hud. Används med fördel på ren hud för bäst effekt.<\/p><p> <br\/>Produkten är endast avsedd att användas på den hårbeklädda delen av vulvan. Produkten ska ej användas på slemhinnor, skadad eller irriterad hud.<\/p><p> <br\/>DeoDoc Deospray Intim kan användas för dagligt bruk.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -102,7 +102,7 @@
           "settings": {
             "icon": "none",
             "heading": "INGREDIENSER",
-            "content": "<p>Butane, Isobutane, Dimethicone, Zea Mays (Corn) Starch, Propane, Isopropyl Myristate, Fragrance (Parfum), Disteardimonium Hectorite, Diethylhexyl Carbonate, Disiloxane, Trisiloxane</p>",
+            "content": "<p>Butane, Isobutane, Dimethicone, Zea Mays (Corn) Starch, Propane, Isopropyl Myristate, Fragrance (Parfum), Disteardimonium Hectorite, Diethylhexyl Carbonate, Disiloxane, Trisiloxane<\/p>",
             "page": ""
           }
         },
@@ -111,7 +111,7 @@
           "settings": {
             "icon": "none",
             "heading": "Doft",
-            "content": "<p><strong>Jasmine Pear:</strong> En mjuk doft med lätta inslag av blommiga och fruktiga noter</p><p><strong>Fresh Coconut:</strong> En fräsch & söt blandning av tropisk kokosdoft</p><p><strong>Violet Cotton:</strong> En ren & frisk doft med noter av varm bomull & nytvättade lakan</p><p><strong>Fragrance Free: </strong>Doftfri </p>",
+            "content": "<p><strong>Jasmine Pear:<\/strong> En mjuk doft med lätta inslag av blommiga och fruktiga noter<\/p><p><strong>Fresh Coconut:<\/strong> En fräsch & söt blandning av tropisk kokosdoft<\/p><p><strong>Violet Cotton:<\/strong> En ren & frisk doft med noter av varm bomull & nytvättade lakan<\/p><p><strong>Fragrance Free: <\/strong>Doftfri <\/p>",
             "page": ""
           }
         },
@@ -261,7 +261,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p><em>\"Många vet inte att samma svettkörtlar (apokrina svettkörtlar) som finns i armhålorna också finns vid vulvan. Apokrina svettkörtlar är de svettkörtlar som ger den karaktäristiska svettdoften och dessa tömmer sig i hårsäckarna. Vår erfarenhet är att kvinnor på grund av detta tenderar att tvätta intimområdet överdrivet, vilket inte är bra då det kan torka ut den känsla intimhuden och rubba pH-balansen. Då svettning och svettdoft är individuellt så finns det inget rätt eller fel för vad som passar varje individ. Precis som det finns deodoranter för under armarna är frivilligt, har vi utvecklat en säker intimdeodorant för de kvinnor som vill använda en. Dock är det viktigt att påpeka att om en flytning luktar illa eller ändrat karaktär – då ska en vaginal åkomma utredas hos en läkare.\"<br/><br/></em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet</strong></p>",
+            "text": "<p><em>\"Många vet inte att samma svettkörtlar (apokrina svettkörtlar) som finns i armhålorna också finns vid vulvan. Apokrina svettkörtlar är de svettkörtlar som ger den karaktäristiska svettdoften och dessa tömmer sig i hårsäckarna. Vår erfarenhet är att kvinnor på grund av detta tenderar att tvätta intimområdet överdrivet, vilket inte är bra då det kan torka ut den känsla intimhuden och rubba pH-balansen. Då svettning och svettdoft är individuellt så finns det inget rätt eller fel för vad som passar varje individ. Precis som det finns deodoranter för under armarna är frivilligt, har vi utvecklat en säker intimdeodorant för de kvinnor som vill använda en. Dock är det viktigt att påpeka att om en flytning luktar illa eller ändrat karaktär – då ska en vaginal åkomma utredas hos en läkare.\"<br\/><br\/><\/em><strong>- Dr. Gunvor Ekman Ordeberg - gynekolog och professor på Karolinska Institutet<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -282,7 +282,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_7880_0f3d0a66-936e-43fc-ad6a-051d694f2d86.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_7880_0f3d0a66-936e-43fc-ad6a-051d694f2d86.jpg",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -310,7 +310,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -318,7 +318,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -326,7 +326,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -351,7 +351,7 @@
         "column-0": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/2_56128836-dc3e-4e27-9599-ca7096222a56.png",
+            "image": "shopify:\/\/shop_images\/2_56128836-dc3e-4e27-9599-ca7096222a56.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -363,7 +363,7 @@
         "column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/3_2fdab18e-1919-465a-abd3-6a3d241910a5.png",
+            "image": "shopify:\/\/shop_images\/3_2fdab18e-1919-465a-abd3-6a3d241910a5.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -375,7 +375,7 @@
         "column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/4_d5f420b3-3b5b-4873-a528-6c436ca16c85.png",
+            "image": "shopify:\/\/shop_images\/4_d5f420b3-3b5b-4873-a528-6c436ca16c85.png",
             "title": "",
             "title_size": "h2",
             "text": "",
@@ -412,42 +412,42 @@
           "type": "question",
           "settings": {
             "title": "HUR ANVÄNDS DEOSPRAYEN?",
-            "text": "<p>Sprayas enbart på ljumskar och yttre delen av vulva som är hårbeklätt. Där det finns hår, där finns även svettkörtlar (apokrina svettkörtlar tömmer sig i hårsäckar). </p>"
+            "text": "<p>Sprayas enbart på ljumskar och yttre delen av vulva som är hårbeklätt. Där det finns hår, där finns även svettkörtlar (apokrina svettkörtlar tömmer sig i hårsäckar). <\/p>"
           }
         },
         "template--15542005629084__952f061e-21c7-4073-b357-3862bd653fff-166807642765049608-1": {
           "type": "question",
           "settings": {
             "title": "SKA JAG INTE UPPSÖKA LÄKARE VID LUKT FRÅN UNDERLIVET?",
-            "text": "<p>Om du har en flytning som ändrat karaktär eller lukt ska en läkare uppsökas då detta kan vara en indikation på vaginal åkomma. Om flytningen är normal, kan det handla om normal svettlukt och DeoDocs deospray kan provas.</p>"
+            "text": "<p>Om du har en flytning som ändrat karaktär eller lukt ska en läkare uppsökas då detta kan vara en indikation på vaginal åkomma. Om flytningen är normal, kan det handla om normal svettlukt och DeoDocs deospray kan provas.<\/p>"
           }
         },
         "8e5538bc-43ed-4f5e-9bf6-674592f225d3": {
           "type": "question",
           "settings": {
             "title": "SKA JAG ANVÄNDA DEOSPRAY VID ILLALUKTANDE FLYTNINGAR?",
-            "text": "<p>Nej, sprayen ska ej användas vid illaluktande flytningar. Istället ska en läkare konsulteras då detta kan vara en vaginal åkomma. Sprayen är endast avsedd för ljumskar och det hårbeklädda området i vulvan.</p>"
+            "text": "<p>Nej, sprayen ska ej användas vid illaluktande flytningar. Istället ska en läkare konsulteras då detta kan vara en vaginal åkomma. Sprayen är endast avsedd för ljumskar och det hårbeklädda området i vulvan.<\/p>"
           }
         },
         "1bcbc6e3-e29a-471b-bffd-3273e37d9873": {
           "type": "question",
           "settings": {
             "title": "DÖLJER INTE DEOSPRAYEN LUKT SOM ÄR FÖRENLIG MED VAGINAL ÅKOMMA?",
-            "text": "<p>Deosprayen har inte förmågan att dölja vaginal åkomma från vaginan. Sprayen är enbart svetthämmande och avsedd för ljumskar och hårbeklätt område i vulvan.</p>"
+            "text": "<p>Deosprayen har inte förmågan att dölja vaginal åkomma från vaginan. Sprayen är enbart svetthämmande och avsedd för ljumskar och hårbeklätt område i vulvan.<\/p>"
           }
         },
         "a6432150-a973-4242-8d83-be230dc642c5": {
           "type": "question",
           "settings": {
             "title": "VARFÖR HAR NI UTVECKLAT EN INTIMDEODORANT?",
-            "text": "<p>Armhålan och intimområdet har samma typ av svettkörtlar, nämligen apokrina svettkörtlar. Att svettas och lukta från armhålan är naturligt, trots det finns det idag deodoranter för armhålan för de som vill använda det. Samma svettmekanism gäller även intimområdet, vilket betyder att man kan svettas från ljumskar, vulva eller pung. Precis som att deodorant för armhålan är en valfri möjlighet, bör även möjligheten för en gynekolog- och läkarutvecklad intimdeodorant finnas. </p><p><br/>Baserat på vår kliniska erfarenhet har vi sett hur svettning och lukt besvärat våra patienter. Detta har lett till överdriven tvättning och användande av fel produkter. Detta har lett till olika former av besvär och irritation, och av den anledningen valde vi att ta fram en produkt som vi själva kunde rekommendera. </p>"
+            "text": "<p>Armhålan och intimområdet har samma typ av svettkörtlar, nämligen apokrina svettkörtlar. Att svettas och lukta från armhålan är naturligt, trots det finns det idag deodoranter för armhålan för de som vill använda det. Samma svettmekanism gäller även intimområdet, vilket betyder att man kan svettas från ljumskar, vulva eller pung. Precis som att deodorant för armhålan är en valfri möjlighet, bör även möjligheten för en gynekolog- och läkarutvecklad intimdeodorant finnas. <\/p><p><br\/>Baserat på vår kliniska erfarenhet har vi sett hur svettning och lukt besvärat våra patienter. Detta har lett till överdriven tvättning och användande av fel produkter. Detta har lett till olika former av besvär och irritation, och av den anledningen valde vi att ta fram en produkt som vi själva kunde rekommendera. <\/p>"
           }
         },
         "07ce9845-d57e-444d-9e2b-07b5986f311c": {
           "type": "question",
           "settings": {
             "title": "ÄR DET FARLIGA INGREDIENSER I PRODUKTEN?",
-            "text": "<p>Ingredienserna är noggrant säkerhetsbedömda för användningsområdet enligt EU:s lagstiftning för kosmetiska produkter.</p>"
+            "text": "<p>Ingredienserna är noggrant säkerhetsbedömda för användningsområdet enligt EU:s lagstiftning för kosmetiska produkter.<\/p>"
           }
         }
       },
@@ -494,15 +494,6 @@
     },
     "16636902895f5bfa5f": {
       "type": "apps",
-      "blocks": {
-        "53ab650b-69bf-4d4e-9d78-a7a615f29d29": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "53ab650b-69bf-4d4e-9d78-a7a615f29d29"
-      ],
       "settings": {
         "include_margins": true,
         "show_divider": false,

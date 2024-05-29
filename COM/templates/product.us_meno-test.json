@@ -75,7 +75,7 @@
           "settings": {
             "icon": "none",
             "heading": "specifications",
-            "content": "<p>- Easily taken at-home with a urine sample </p><p>- Results within 10-20 minutes</p><p>- Measures the follicle-stimulating hormone (FSH) in urine to detect FSH values above 25 mlU/ml.</p><p>- <strong>Not a replacement for medical consultations</strong></p><p>-<strong> Do not perform the test if you are currently taking any hormonal treatments (i.e. hormonal birth control, HRT, etc.) as this may result in a false negative.</strong></p>",
+            "content": "<p>- Easily taken at-home with a urine sample <\/p><p>- Results within 10-20 minutes<\/p><p>- Measures the follicle-stimulating hormone (FSH) in urine to detect FSH values above 25 mlU\/ml.<\/p><p>- <strong>Not a replacement for medical consultations<\/strong><\/p><p>-<strong> Do not perform the test if you are currently taking any hormonal treatments (i.e. hormonal birth control, HRT, etc.) as this may result in a false negative.<\/strong><\/p>",
             "page": ""
           }
         },
@@ -84,7 +84,7 @@
           "settings": {
             "icon": "none",
             "heading": "How to use",
-            "content": "<p>1. Remove the test stick from the foil pouch. Use test within an hour of removal from the pouch.</p><p>2. Remove Cap to expose the Absorbent Tip. Hold test stick via the thumb grip with the exposed Absorbent Tip pointing downward. Urinate on the Absorbent Tip only until it is thoroughly wet (about 2-3 seconds). </p><p>3. Remove the test from your urine and immediately replace the Cap over the Absorbent Tip. </p><p>4. Lay the test on a flat surface with the results window facing upwards.<br/><br/>5. Read results between 10-20 minutes after use. Test results expire 30 minutes post-use. Do not interpret results after 30 minutes or more.</p>",
+            "content": "<p>1. Remove the test stick from the foil pouch. Use test within an hour of removal from the pouch.<\/p><p>2. Remove Cap to expose the Absorbent Tip. Hold test stick via the thumb grip with the exposed Absorbent Tip pointing downward. Urinate on the Absorbent Tip only until it is thoroughly wet (about 2-3 seconds). <\/p><p>3. Remove the test from your urine and immediately replace the Cap over the Absorbent Tip. <\/p><p>4. Lay the test on a flat surface with the results window facing upwards.<br\/><br\/>5. Read results between 10-20 minutes after use. Test results expire 30 minutes post-use. Do not interpret results after 30 minutes or more.<\/p>",
             "page": "shaving-kit"
           }
         },
@@ -93,7 +93,7 @@
           "settings": {
             "icon": "none",
             "heading": "Includes",
-            "content": "<p>- 2 Test midstreams (FSH 25 mlU/ ml). </p><p>- Instructions for use. </p>",
+            "content": "<p>- 2 Test midstreams (FSH 25 mlU\/ ml). <\/p><p>- Instructions for use. <\/p>",
             "page": ""
           }
         },
@@ -232,7 +232,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p><em>– SUBHEADING</em></p>",
+            "text": "<p><em>– SUBHEADING<\/em><\/p>",
             "text_size": "typeset",
             "secondary_color": true
           }
@@ -265,7 +265,7 @@
         "1658133913405b7b25-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Every woman or person with ovaries will go through menopause. The menopausal transition is a natural phase in a woman's life where changing hormonal levels in the body may cause a myriad of symptoms. <br/><br/>The menopausal transition usually occurs between the ages of 45-55 and the beginning of it is called perimenopause. Typical symptoms during this phase are: <br/></p><ul><li>﻿﻿Hot flashes</li><li>﻿﻿Irregular periods</li><li>Difficulty sleeping</li><li>﻿﻿Anxiety/depression</li><li>﻿﻿Fragile and dry mucous membranes in the intimate area<br/></li></ul><p>\"From my over 50 years of clinical experience as an OB/GYN, I've met countless women that have been misdiagnosed with depression, burnout or other conditions, when in actuality, they were experiencing perimenopause. <br/><br/>To help women figure out the root cause of their common symptoms, we have developed this rapid at-home test. This will allow women to easily discover if symptoms they are experiencing may be associated with rising FSH levels that usually occur in perimenopause. Our aim is for women to use test as a helpful tool to give them a better understanding of what they are going through. This way they can better advocate for themselves and get the help they need at their doctor's offices.\"</p><p><strong>-Dr. Gunvor Ekman-Ordeberg, OB/GYN, MD.,PhD</strong></p>",
+            "text": "<p>Every woman or person with ovaries will go through menopause. The menopausal transition is a natural phase in a woman's life where changing hormonal levels in the body may cause a myriad of symptoms. <br\/><br\/>The menopausal transition usually occurs between the ages of 45-55 and the beginning of it is called perimenopause. Typical symptoms during this phase are: <br\/><\/p><ul><li>﻿﻿Hot flashes<\/li><li>﻿﻿Irregular periods<\/li><li>Difficulty sleeping<\/li><li>﻿﻿Anxiety\/depression<\/li><li>﻿﻿Fragile and dry mucous membranes in the intimate area<br\/><\/li><\/ul><p>\"From my over 50 years of clinical experience as an OB\/GYN, I've met countless women that have been misdiagnosed with depression, burnout or other conditions, when in actuality, they were experiencing perimenopause. <br\/><br\/>To help women figure out the root cause of their common symptoms, we have developed this rapid at-home test. This will allow women to easily discover if symptoms they are experiencing may be associated with rising FSH levels that usually occur in perimenopause. Our aim is for women to use test as a helpful tool to give them a better understanding of what they are going through. This way they can better advocate for themselves and get the help they need at their doctor's offices.\"<\/p><p><strong>-Dr. Gunvor Ekman-Ordeberg, OB\/GYN, MD.,PhD<\/strong><\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -286,7 +286,7 @@
         "1658133913405b7b25-2"
       ],
       "settings": {
-        "image": "shopify://shop_images/Doctor_Gunvor_1.png",
+        "image": "shopify:\/\/shop_images\/Doctor_Gunvor_1.png",
         "image_position": "center center",
         "layout": "image_first",
         "text_box_position": "middle",
@@ -314,7 +314,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "1. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -322,7 +322,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "2. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         },
@@ -330,7 +330,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "3. Collapsible tab",
-            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>",
+            "content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
             "page": ""
           }
         }
@@ -353,7 +353,7 @@
       "type": "apps",
       "blocks": {
         "loox_reviews_loox_dynamic_section_K8FtP8": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "only_photos": false,
             "aggregated": false,
@@ -380,7 +380,7 @@
         "look-0": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/Before_256x256_91d8acae-3c88-49ce-bca1-d347e258c82e.webp",
+            "image": "shopify:\/\/shop_images\/Before_256x256_91d8acae-3c88-49ce-bca1-d347e258c82e.webp",
             "title": "before",
             "title_size": "small",
             "title_position": "start"
@@ -389,7 +389,7 @@
         "look-1": {
           "type": "look",
           "settings": {
-            "image": "shopify://shop_images/After_256x256_546b8fc8-e668-4cf2-bd5e-befac9e3d042.webp",
+            "image": "shopify:\/\/shop_images\/After_256x256_546b8fc8-e668-4cf2-bd5e-befac9e3d042.webp",
             "title": "After",
             "title_size": "small",
             "title_position": "start"
@@ -447,7 +447,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.</p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post.<\/p>",
             "text_size": "typeset2",
             "secondary_color": false
           }
@@ -483,7 +483,7 @@
           "type": "image",
           "settings": {
             "heading": "1. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -493,7 +493,7 @@
           "type": "image",
           "settings": {
             "heading": "2. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -503,7 +503,7 @@
           "type": "image",
           "settings": {
             "heading": "3. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -513,7 +513,7 @@
           "type": "image",
           "settings": {
             "heading": "4. Image heading",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "button_label": "Button label",
             "button_link": "",
             "button_style_secondary": false
@@ -553,7 +553,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -561,7 +561,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -569,7 +569,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -577,7 +577,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         },
@@ -585,7 +585,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author's name"
           }
         }
@@ -616,7 +616,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -627,7 +627,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -638,7 +638,7 @@
           "settings": {
             "title": "Site-wide promotion",
             "title_size": "h2",
-            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.</p>",
+            "text": "<p>Use this section to promote content throughout every page of your site. Add images for further impact.<\/p>",
             "button_label": "Optional button",
             "button_link": "",
             "button_style_secondary": false
@@ -672,7 +672,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -680,7 +680,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -688,7 +688,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -696,7 +696,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         },
@@ -704,7 +704,7 @@
           "type": "testimonial",
           "settings": {
             "icon": "5",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers.<\/p>",
             "author": "Author"
           }
         }
@@ -734,28 +734,28 @@
           "type": "question",
           "settings": {
             "title": "CAN I PERFORM THE TEST IF I HAVE HORMONE THERAPY (ESTROGEN THERAPY) OR TAKE ESTROGEN SUPPLEMENTS?",
-            "text": "<p>No, do not perform the test if you are on hormone therapy as this may give a false negative result.</p>"
+            "text": "<p>No, do not perform the test if you are on hormone therapy as this may give a false negative result.<\/p>"
           }
         },
         "template--15103162777736__e5fa209f-098f-4c65-864c-6cd202d0e791-1685093086011a587d-1": {
           "type": "question",
           "settings": {
-            "title": "CAN CONTRACEPTIVES (EG. BIRTH CONTROL PILLS/ HORMONAL IUDS) AFFECT THE TEST RESULT?",
-            "text": "<p>Oral contraceptives, hormone therapy or estrogen supplements can affect the test result and give false negative results. </p>"
+            "title": "CAN CONTRACEPTIVES (EG. BIRTH CONTROL PILLS\/ HORMONAL IUDS) AFFECT THE TEST RESULT?",
+            "text": "<p>Oral contraceptives, hormone therapy or estrogen supplements can affect the test result and give false negative results. <\/p>"
           }
         },
         "d52d38a5-94dc-4d35-acce-d0ca4f95cb78": {
           "type": "question",
           "settings": {
             "title": "THE TEST SHOWED POSITIVE BUT MY MENSTRUAL CYCLE IS AS USUAL - WHY IS THAT?",
-            "text": "<p>The clinical definition for the menopause (menopause) is the absence of menstruation for 12 consecutive months. The test result can therefore show positive even though your menstrual cycle is going on as usual. In this case, you are in pre-menopause, also called perimenopause.</p>"
+            "text": "<p>The clinical definition for the menopause (menopause) is the absence of menstruation for 12 consecutive months. The test result can therefore show positive even though your menstrual cycle is going on as usual. In this case, you are in pre-menopause, also called perimenopause.<\/p>"
           }
         },
         "0f41baf5-2ec5-4648-8375-582460ec3757": {
           "type": "question",
           "settings": {
             "title": "ISN'T IT DIFFICULT TO MEASURE THIS - FSH DEPENDS ON WHERE IN THE CYCLE YOU ARE?",
-            "text": "<p>This test measures elevated levels of FSH (follicle stimulating hormone) in the urine. It is an immunochromatographic rapid test that detects FSH values above 25mlL/ml. FSH varies during the menstrual cycle and reaches its highest value of 25mlU ml in the middle of the menstrual cycle. When the body produces less and less estrogen, the production of FSH increases to start estrogen production in the ovaries again, and it is this increase that can be measured. It is more difficult to measure FSH in perimenopouse as it is o process. Therefore, the test contains 2 samples. For those who no longer menstruate, it is recommended that the sample be taken I week apart. For those who are still manstruating, the test should be taken during the first week of the menstrual cycle and the second test a week later. Measuring FSH via a blood test gives a more accurate level, but os a screening/indication this test is sufficient.</p>"
+            "text": "<p>This test measures elevated levels of FSH (follicle stimulating hormone) in the urine. It is an immunochromatographic rapid test that detects FSH values above 25mlL\/ml. FSH varies during the menstrual cycle and reaches its highest value of 25mlU ml in the middle of the menstrual cycle. When the body produces less and less estrogen, the production of FSH increases to start estrogen production in the ovaries again, and it is this increase that can be measured. It is more difficult to measure FSH in perimenopouse as it is o process. Therefore, the test contains 2 samples. For those who no longer menstruate, it is recommended that the sample be taken I week apart. For those who are still manstruating, the test should be taken during the first week of the menstrual cycle and the second test a week later. Measuring FSH via a blood test gives a more accurate level, but os a screening\/indication this test is sufficient.<\/p>"
           }
         }
       },
@@ -777,15 +777,6 @@
     },
     "1659359337855b4176": {
       "type": "apps",
-      "blocks": {
-        "afb29d1c-263c-415f-ac89-668e87c1428a": {
-          "type": "shopify://apps/product-reviews/blocks/reviews/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "afb29d1c-263c-415f-ac89-668e87c1428a"
-      ],
       "disabled": true,
       "settings": {
         "include_margins": true,
